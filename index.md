@@ -5,7 +5,11 @@
 
 A repository of game design and development by [Sleeping King Studios](https://www.sleepingkingstudios.com).
 
-## [Game Settings]({{ site.baseurl }}/settings)
+<!-- ## Game Systems -->
+
+<!-- ### Ancients and Arcana -->
+
+## [Game Settings]({{site.baseurl}}/settings)
 
 Settings for roleplaying adventure campaigns.
 
