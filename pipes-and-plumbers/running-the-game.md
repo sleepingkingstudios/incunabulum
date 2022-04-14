@@ -20,7 +20,11 @@ To perform a check, do the following steps:
 3. The sum of the **roll** and the **bonus** is the **check result**.
 4. Finally, compare the **check result** to the **difficulty**. If the result is greater than or equal to the difficulty, then the check is a **success**. If the result was less than the difficulty, then the check is a **failure**.
 
-The game defines a shorthand in the form of a *"value"* check for checks that use a specified calculated value as the check **bonus**. For example, a Magic check uses the character's Magic value as the check bonus.
+Some types of checks may have additional mechanics. For example, when an [attack check](#attack-checks) succeeds by 3 or more, then the attack is a critical hit and inflicts additional damage.
+
+#### Attribute Checks
+
+The most common type of check is an attribute check, which uses one of the character's attribute bonuses as the check bonus. For example, a Power check uses the character's Power bonus, while a Speed check uses the character's Speed bonus.
 
 > **Example**
 >
@@ -29,8 +33,6 @@ The game defines a shorthand in the form of a *"value"* check for checks that us
 > **Example**
 >
 > The party is being chased through the sewers by a giant Goomba. Leonardo spots a lever that will close the sewer grate behind them, but the lever is rusty and stuck. The Narrator decides that this is a Power check with a difficulty of 10. Leonardo rolls two six-sided dice and gets a 2 and a 3, for a **roll** of 5. He also adds the **bonus**, which is his Power value of 4. The **check result** is 9, less than the **difficulty** of 10, so the check is a failure. He heaves heroically at the lever, but it refuses to budge as the giant Goomba barrels into the room...
-
-Some types of checks may have additional mechanics. For example, when an [attack check](#attack-checks) succeeds by 3 or more, then the attack is a critical hit and inflicts additional damage.
 
 #### Making Checks As A Group
 
@@ -44,17 +46,47 @@ Determining who in a party can or needs to perform a check can be difficult. Her
 
 Whether or not other characters can assist in a check is left to the Narrator's discretion. As a general rule, each additional helper adds +1 to the check result. Thus, if Michaelangelo or Rafael had stayed to help Leonardo pull the rusty lever, their combined efforts would (just barely) have succeeded in time.
 
-<!-- ### Combat -->
+### Combat
 
 <!-- #### Combat Rounds -->
 
+<!-- ##### Turn Order -->
+
 <!-- #### Standard Actions -->
 
-<!-- #### Attacking An Enemy -->
+#### Attacking An Enemy
 
-<!-- ##### Attack Checks -->
+##### Attack Checks
+
+To attack an enemy, a character must make a successful Attack check. Unless specified otherwise by the equipped weapon, an Attack check uses the character's Power bonus, and its difficulty is equal to the target's Defense score.
+
+Once you've rolled the attack check, compared the check result to the difficulty.
+
+- If the check result is less than the difficulty, then the attack misses the target. The target takes no damage, and does not suffer any other effects of the attack.
+- If the check result is greater than or equal to the difficulty, then the attack hits the target, and the target takes the amount of damage specified for the weapon (usually 1 point).
+- If the result exceeds the difficulty by 3 or more, then the attack is a critical hit, and inflicts double the amount of damage specified for the weapon.
+
+For example, consider an attack against a difficulty of 10. A result of 9 or below would result in a miss. A result of 10 to 12 would result in a regular hit. And a result of 13 or more would result in a critical hit, inflicting double damage.
+
+##### Attacks And Weapons
+
+Some weapons may use a different attribute bonus, or use a different attribute as the check difficulty. For example, a Wand may use the character's Magic bonus instead of Power, and may attack the target's Speed, rather than the target's Defense.
+
+##### Making Full Attacks
+
+Unless otherwise specified, making a Full Attack with a weapon requires making an attack check against the target with the given bonus and difficulty. For example, to resolve a Hammer's Full Attack, make a single attack check against the target. On a successful hit, inflict +1 point of additional point of damage, or +2 points on a critical hit.
+
+##### Multiple Attacks
+
+Some weapons or techniques allow the character to perform multiple attacks as part of a single action. For each attack, make a separate attack check and resolve the results as normal. For example, the Punch Gloves weapon allows the wielder to attempt a second attack as part of a normal attack action on a successful hit, and the Slingshot weapon's Full Attack action allows the wielder to make two separate attacks against a single target.
+
+##### Unarmed Attacks
+
+If a character does not have a weapon equipped, they can make an Unarmed attack. Unarmed attacks use the character's Power bonus, and their difficulty is equal to the target's Defense score. They inflict 1 point of damage on a successful hit, and do not have a Full Attack option.
 
 <!-- #### Damage -->
+
+<!-- #### Downed Characters -->
 
 <!-- #### Healing -->
 
