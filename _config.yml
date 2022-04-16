@@ -1,8 +1,4 @@
 ---
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - README.md
 defaults:
 - scope:
     path: ''
@@ -11,3 +7,7 @@ defaults:
     encoding: 'utf-8'
     layout: 'page'
     title: 'Incunabulum'
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md

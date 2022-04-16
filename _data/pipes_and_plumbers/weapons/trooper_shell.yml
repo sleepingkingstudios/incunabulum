@@ -1,0 +1,10 @@
+name: Trooper Shell
+type: Trooper Shell
+tags:
+  - Ignore Flying
+  - Ranged
+attack_bonus: "+1"
+full_attack: |
+  "Ricochet" Make one attack check. If the attack hits, you may immediately make a second attack against a different target.
+description: |
+  A red Koopa Troopa shell, with the wings still attached.

@@ -1,0 +1,8 @@
+name: Punch Gloves
+type: Gloves
+attack: |
+  Make one attack check. If the attack hits, you may immediately make a second attack against the same target.
+description: |
+  These padded gloves have knock out power!
+dev_tags:
+  - starter_weapon

@@ -1,0 +1,10 @@
+name: Hammer Bros Hammer
+type: Hammer
+tags:
+  - Ignore Armored
+  - Ranged
+attack_bonus: "+1"
+full_attack: |
+  "Flying Smash!" Make one attack check, inflicting +1 damage on a hit.
+description: |
+  Authentic and autographed, this hammer is perfectly balanced for throwing.

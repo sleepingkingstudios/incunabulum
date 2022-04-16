@@ -1,0 +1,11 @@
+name: Slingshot
+type: Slingshot
+tags:
+  - Ignore Flying
+  - Ranged
+full_attack: |
+  "Rapid Fire" Make two attack checks against the same target.
+description: |
+  This humble slingshot is popular among Shy Guys.
+dev_tags:
+  - starter_weapon

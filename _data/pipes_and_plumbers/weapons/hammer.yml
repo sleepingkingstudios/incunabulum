@@ -1,0 +1,10 @@
+name: Hammer
+type: Hammer
+tags:
+  - Ignore Armored
+full_attack: |
+  "Smash!" Make one attack check, inflicting +1 damage on a hit.
+description: |
+  This wooden hammer packs a wallop!
+dev_tags:
+  - starter_weapon

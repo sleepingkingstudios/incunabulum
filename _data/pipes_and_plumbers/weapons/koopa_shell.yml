@@ -1,0 +1,10 @@
+name: Koopa Shell
+type: Koopa Shell
+tags:
+  - Ranged
+full_attack: |
+  "Ricochet" Make one attack check. If the attack hits, you may immediately make a second attack against a different target.
+description: |
+  A plain, unadorned Green Koopa shell.
+dev_tags:
+  - starter_weapon

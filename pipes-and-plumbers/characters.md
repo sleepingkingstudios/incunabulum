@@ -3,7 +3,7 @@
 
 # [Pipes and Plumbers]({{site.baseurl}}/pipes-and-plumbers)
 
-## Character Basics
+## Characters
 
 Characters in the *Pipes and Plumbers* system do not have individual attributes such as Dexterity or Charisma, nor does the system implement character progression in the form of classes or point buy mechanics. Instead, a character is defined by three things:
 
@@ -23,7 +23,15 @@ Finally, each character has both a current and a maximum value for [Hit Points](
 
 <!-- ### Techniques -->
 
-<!-- ### Equipment -->
+### Equipment
+
+Each character can equip three pieces of equipment: a weapon, an armor, and an accessory.
+
+- **[Weapons]({{site.baseurl}}/pipes-and-plumbers/weapons)** are primarily used to perform [attacks]({{site.baseurl}}/pipes-and-plumbers/running-the-game#attacking-an-enemy) on enemies.
+<!-- - **Armor** -->
+<!-- - **Accessories** -->
+
+<!-- #### Items -->
 
 ### Attributes
 

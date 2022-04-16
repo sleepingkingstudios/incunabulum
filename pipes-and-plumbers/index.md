@@ -12,7 +12,11 @@ This is the first prototype for the Rule of Three system, serving as as proof of
 - **[Characters]({{site.baseurl}}/pipes-and-plumbers/characters)**
 <!-- - **Races** -->
 <!-- - **Techniques** -->
-<!-- - **Equipment** -->
+- **Equipment**
+  - **[Weapons]({{site.baseurl}}/pipes-and-plumbers/weapons)**
+  <!-- - **Armor** -->
+  <!-- - **Accessories** -->
+  <!-- - **Items** -->
 - **[Running The Game]({{site.baseurl}}/pipes-and-plumbers/running-the-game)**
 - **[Glossary of Terms]({{site.baseurl}}/pipes-and-plumbers/glossary)**
 

@@ -1,0 +1,12 @@
+name: Wand
+type: Wand
+attack_attribute: Magic
+tags:
+  - Ignore Flying
+  - Ranged
+full_attack: |
+  "Barrage" Make one attack check each against up to three targets. Costs 1 Flower Point.
+description: |
+  A magic wand suitable for an apprentice.
+dev_tags:
+  - starter_weapon

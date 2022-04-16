@@ -11,6 +11,8 @@
 
 <!-- ### Armor -->
 
+<!-- ### Armored -->
+
 <!-- ### Attack -->
 
 <!-- ### Attack Action -->
@@ -88,6 +90,8 @@ Some creatures and all characters have a **current flower points** value, which 
 
 See [flower points](#flower-points).
 
+<!-- ### Flying -->
+
 <!-- ### Full Attack -->
 
 <!-- ### Healing -->
@@ -103,6 +107,8 @@ Each creature or character has a **current hit points** value, which is a non-ne
 See [hit points](#hit-points).
 
 <!-- ### Item -->
+
+<!-- ### Jumpproof -->
 
 <!-- ### Resting -->
 

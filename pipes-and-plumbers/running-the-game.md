@@ -54,6 +54,10 @@ Whether or not other characters can assist in a check is left to the Narrator's 
 
 <!-- #### Standard Actions -->
 
+<!-- ##### Attack Action -->
+
+<!-- ##### Full Attack Action -->
+
 #### Attacking An Enemy
 
 ##### Attack Checks
@@ -71,6 +75,8 @@ For example, consider an attack against a difficulty of 10. A result of 9 or bel
 ##### Attacks And Weapons
 
 Some weapons may use a different attribute bonus, or use a different attribute as the check difficulty. For example, a Wand may use the character's Magic bonus instead of Power, and may attack the target's Speed, rather than the target's Defense.
+
+If you have more than one weapon equipped, such as a [Koopa Shell]({{site.baseurl}}/pipes-and-plumbers/armor#koopa-shell) used as a weapon, you must choose which weapon you are using for each Attack or Full Attack action. You do not gain any benefits from other weapons, including bonuses to Power or the ability to ignore Armored or Flying.
 
 ##### Making Full Attacks
 
