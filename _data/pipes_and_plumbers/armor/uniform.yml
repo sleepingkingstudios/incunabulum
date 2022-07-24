@@ -1,0 +1,6 @@
+name: Uniform
+bonus: '+1'
+description: |
+  A Koopa Troop uniform, freshly pressed. Looking sharp!
+dev_tags:
+  - starter_armor

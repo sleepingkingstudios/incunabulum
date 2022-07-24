@@ -1,0 +1,8 @@
+name: Robes
+bonus: '+0'
+description: |
+  A mystical bathrobe with stars glued onto it.
+special: |
+  +1 Max Flower Points
+dev_tags:
+  - starter_armor

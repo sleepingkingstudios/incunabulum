@@ -1,0 +1,22 @@
+name: Koopa Shell
+bonus: '+2'
+restrictions:
+  - Koopa only
+tags:
+  - Jumpproof
+description: |
+  A plain, unadorned Green Koopa shell.
+special: |
+  If you would take damage from a Jump attack, you instead take no damage but
+  lose the benefits of the armor until the start of your next turn.
+koopa_shell: |
+  At the start of your turn, you may choose to wield the Koopa Shell as a
+  weapon. Until the start of your next turn, you lose the Defense bonus (and
+  any other benefits of the armor), but you can attack enemies as if you have a
+  Koopa Shell weapon equipped (in addition to any weapon you normally have
+  equipped).
+dev_tags:
+  - starter_armor
+dev_notes: |
+  Put a Koopa Shell (weapon) card over the Koopa Shell (armor) card for the
+  turn?
