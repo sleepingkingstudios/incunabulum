@@ -26,11 +26,11 @@ The Arcane Order comes into occasional conflict with the Watchers of the Stars, 
 
 <!-- ## The City Guard -->
 
+<!-- ##  The Delver's Guild -->
+
 <!-- ## The Harfoot Syndicate -->
 
 <!-- ## The Merchantry Association -->
-
-<!-- ## The Silver Dragons -->
 
 ## The Watchers Of The Stars
 
@@ -57,6 +57,10 @@ The Watchers have a somewhat one-sided rivalry with the Arcane Order, who they s
 The Dragonslayers were once a mercenary company that managed to slay an ancient red dragon which had terrorized a nearby small kingdom. Now they are a regional power, the de facto rulers of that kingdom and soldiers for hire. They are infamous for harvesting the slain dragon's body, wearing armor of dragonhide or dragon scales, wielding weapons forged from dragon's fangs or bone, and using dragon's blood to empower their sorcerers. They are also said to possess several powerful artifacts from the dragon's hoard, in addition to a veritable mountain of treasures.
 
 Their draconic equipment grants them a powerful advantage. Although it is rarely sold to outsiders, it can sometimes be found on the black market, but beware - its bearers will earn the bitter enmity of dragonkind.
+
+<!-- ### The Silver Dragons -->
+
+<!-- ### The Stonewardens -->
 
 [Back to Home]({{site.baseurl}}/)
 |
