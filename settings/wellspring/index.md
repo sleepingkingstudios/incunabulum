@@ -8,17 +8,16 @@ A setting of renaissance urban fantasy adventure, set in a city perched on the e
 
 The Great Chasm of Wellspring is a wonder like no other. Bottomless, filled with dangers beyond imagining and riches beyond the dreams of avarice, the Chasm is an endless fountain of natural mana, saturating the earth below and the air above with raw magic. Wellspring is designed for urban adventure in a late-medieval or Renaissance fantasy style, with plotting guilds of wizards sharing the streets with steam-powered golems and clockwork servitors. It features dungeon crawls and subterranean exploration paired with urban fantasy intrigue.
 
-## Geography
+## Game Mechanics
 
-### The City of Wellspring
+Wellspring is designed to be compatible with Dungeons and Dragons, 5th Edition.
 
-The City of Wellspring is located high in the mountains, in a small natural valley surrounding the Great Chasm.
+- [Peoples Of Wellspring]({{site.baseurl}}/settings/wellspring/peoples)
+- [Character Classes]({{site.baseurl}}/settings/wellspring/classes)
 
-### Wellspring Vale
+## [Geography]({{site.baseurl}}/settings/wellspring/geography)
 
-The Vale is a long valley, gently rising from the foothills to the edge of Wellspring itself, nestled between the peaks. Since the founding of the city is has become densely settled, with forests largely converted to managed timber and the slopes terraced with farmland and vinyards. The once-wild river that courses down the valley's heart is now tamed to feed irrigation and feed the hundreds of locks that carry trade up and down the canal.
-
-<!-- ## The Great Chasm -->
+The region is dominated by the City of Wellspring, located in a small natural valley high in the mountains, with the Great Chasm at its heart. To the northeast is the Vale, a great valley sloping down from the city to the distant foothills.
 
 ## [Organizations]({{site.baseurl}}/settings/wellspring/organizations)
 

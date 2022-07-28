@@ -13,6 +13,11 @@ The Conquerer
 
   *Domains:* Trickery, War.
 
+The Forge Father
+: Traditional patron of blacksmiths. Counts many dwarves among his followers, as well as warriors who rely on heavy armor for protection. Outside of dwarven communities, his worship is in decline, with many turning instead to the Iron Knight or the Mother of Machines.
+
+  *Domains:* Forge (XGE), War.
+
 The Greenmage
 : Patron of nature, living things, and the fey. Their followers are frequently druids, rangers, or hedge mages, but they are also worshipped by farmers and hunters, as well as those in need of healing.
 
@@ -22,6 +27,11 @@ The Knight-Errant
 : Patron of protectors and honorable combat. She is followed by many fighters, monks, and paladins, who have a fierce rivalry with followers of the Conquerer.
 
   *Domains:* Order (TCE), War.
+
+The Horned Warden
+: Patron of nature, weather, and the cycle of seasons. Druids and rangers with a more religious bent often worship him, and hunters, farmers, and travelers give prayers and offerings.
+
+  *Domains:* Nature, Tempest.
 
 The Iron Knight
 : Patron of warriors and martial prowess. His followers are fighters, paladins, and warriors, as well as many craftsmen, especially those who work with iron.
@@ -37,6 +47,16 @@ The Maiden of Stars
 : Patroness of magic for the sake of magic. She is also said to influence matters of fate and prophesy. Her followers are usually mystically inclined.
 
   *Domains:* Arcana (SCAG), Twilight (TCE).
+
+The Masked One
+: Patron of theater, secrets, and deception. He, she, or they are worshipped openly by bards, scholars, and seekers after hidden things, and secretly by thieves and assassins.
+
+  *Domains:* Trickery, Twilight (TCE).
+
+The Mother of Machines
+: Patroness of engineering, machinery, and discovery. A relatively new faith that includes artificers and scholars, as well as many smiths and ironworkers.
+
+  *Domains:* Forge (XGE), Knowledge.
 
 The Silent Watcher
 : Patron of death, dying, and the dead. Few follow him directly, but it is said that all come to his arms in time. He is also said to hold sway over secrets and lost things.
