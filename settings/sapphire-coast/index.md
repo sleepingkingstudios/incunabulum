@@ -14,7 +14,8 @@ The Duchy of the Sapphire Coast is a remote region, far from the heart of the ki
 
 ## Reference
 
-- Characters
+- [Calendar]({{site.baseurl}}/settings/sapphire-coast/calendar)
+<!-- - Characters -->
 - [Locations]({{site.baseurl}}/settings/sapphire-coast/locations)
 
 ## Geography
