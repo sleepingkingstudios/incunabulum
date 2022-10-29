@@ -6,7 +6,13 @@ title: Campaigns \| Lutes Are Nothing But Trouble
 
 The epic adventures of Aoife and Lily as they quest for lute, battle endless waves of trees, and discover the dark secrets of [the Sapphire Coast]({{site.baseurl}}/settings/sapphire-coast).
 
-<!-- ## Characters -->
+## Characters
+
+<!-- [Aoife the Bard]({{site.baseurl}}/campaigns/lutes/characters/aoife)
+: Bright, curious, and afraid of nothing but trees, Aoife nurtures a powerful talent for magic while balancing her skills of joyful music and stealthy mayhem. -->
+
+[Lilith "Lily" the Warlock]({{site.baseurl}}/campaigns/lutes/characters/lily)
+: A skilled mistress of the arcane arts and a master of investigation, Lily is as talented at hiding her own nature as she is at ferreting out the secrets of others.
 
 <!-- ### Side Characters -->
 
