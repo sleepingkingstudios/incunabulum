@@ -14,7 +14,8 @@ The Duchy of the Sapphire Coast is a remote region, far from the heart of the ki
 
 ## Reference
 
-- Characters
+- [Calendar]({{site.baseurl}}/settings/sapphire-coast/calendar)
+<!-- - Characters -->
 - [Locations]({{site.baseurl}}/settings/sapphire-coast/locations)
 
 ## Geography
@@ -39,7 +40,7 @@ Travelers who stray too far from the trade road have reported goblins, monsters,
 
 ### The Eastern Shores
 
-The eastern shore of the Sapphire Coast borders on the aptly-named [Sea of Storms](#). Although the coast stretches for many miles to the north and south, most of the population of the east is concentrated along the Lapis river as it flows east from Jewel. The [port town of Opal](#) lies at the river's mouth, where the nearby reefs and the island of [Land's End](#) provide some shelter from the yearly storms.
+The eastern shore of the Sapphire Coast borders on the aptly-named [Sea of Storms](#). Although the coast stretches for many miles to the north and south, most of the population of the east is concentrated along the Lapis river as it flows east from Jewel. The [port town of Facet](#) lies at the river's mouth, where the nearby reefs and the island of [Land's End](#) provide some shelter from the yearly storms.
 
 Towns and villages on the banks of the Lapis are much like those in the Vale of Jewel, with a decidedly independent spirit and built to resist the storm winds. On the coast, the Sea of Storms provides rich fisheries, as well as beds of shellfish and abalone. The occasional trading ship will weigh anchor in Opal as well, usually with a cargo of spices from the south.
 

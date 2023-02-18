@@ -5,6 +5,11 @@
 
 A repository of game design and development by [Sleeping King Studios](https://www.sleepingkingstudios.com).
 
+## [Campaigns]({{site.baseurl}}/campaigns)
+
+- **[Lutes Are Nothing But Trouble]({{site.baseurl}}/campaigns/lutes)**<br>
+  The epic adventures of Aoife and Lily as they quest for lute, battle endless waves of trees, and discover the dark secrets of [the Sapphire Coast]({{site.baseurl}}/settings/sapphire-coast).
+
 <!-- ## Game Systems -->
 
 <!-- ### Ancients and Arcana -->
