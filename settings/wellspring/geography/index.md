@@ -8,11 +8,31 @@ The region is dominated by the City of Wellspring, located in a small natural va
 
 ## The City of Wellspring
 
-<!-- ### The Upper City -->
+### The Upper City
 
-<!-- #### The Noble Houses -->
+The highest part of the city is referred to as the Upper City, where the rich, powerful, and influential of Wellspring live, work, and play.
 
-<!-- ### The Lower City -->
+#### Locations
+
+##### House Savindar
+
+One of the newest of the "noble" houses of the city, House Savindar was founded by a retired adventurer, Dame Dahlia Savindar, who leveraged her fortune and connections to become a fixture in the city's social and political scene. Dame Savindar is a founder and major patron of the [Delver's Guild]({{site.baseurl}}/settings/wellspring/organizations#the-delvers-guild), and is frequently found in the broadsheets, usually under "Scandals".
+
+##### The Tower Of Knowledge
+
+The headquarters of the [Arcane Order]({{site.baseurl}}/settings/wellspring/organizations#the-arcane-order) is a grand edifice of marble, with a fortified tower jutting out over the edge of the Great Chasm. In addition to the great library, it holds the offices of the guild’s leadership, laboratories of the arcane arts, and (it is claimed) vaults filled with powerful enchanted artifacts.
+
+The Tower has some spaces open to the public, where petititoners can hire members for spellcasting, research, or to commission or identify a magical item. Access to the Tower proper (and its library) is usually restricted to members, or rarely by a pass from a more senior mage. These passes are almost never granted for mere money, and usually represent the repayment of a favor or the reward of a minor task or quest.
+
+### The Lower City
+
+The districts known as the Lower City is where most of the people of Wellspring live and work.
+
+#### Locations
+
+##### The Delver's Guild
+
+The headquarters of the [Delver's Guild]({{site.baseurl}}/settings/wellspring/organizations#the-delvers-guild) is located in the lower city. Originally just an inn bought out by a group of retired adventurers, it has grown into a sprawling complex of offices, warehouses, markets, and training grounds, but the heart of the guild remains the old taproom of the *Last Stop*.
 
 ### The Undercity
 
@@ -32,11 +52,13 @@ A marvel of engineering, the sewers carry the city's wastes deep into the mounta
 
 Despite the merchantry's howls about extortionate taxation, the sewers are actively maintained and repaired by an army of city workers, and occasionally patrolled by whatever City Guard have managed to thoroughly annoy their superiors. Occasional outbreaks of magical fungus, gatherings of ravenous rat-men, or particularly disgusting cults can be driven out by adventurers.
 
-<!-- ## The Great Chasm
+## The Great Chasm
 
-#### Locations
+The Great Chasm is both the reason for the City of Wellspring's existence and its single greatest threat. A vast rift in the earth of unknown depth, the Great Chasm is a powerful source of natural magic. As such, it draws creatures and monsters of all descriptions, some of which are drawn to the city above (or driven there by even more terrifying beasts from the depths).
 
-##### The Lost Tower
+In particular, the mana from the Chasm ebbs and flows, and can rarely and unexpectedly surge, driving hostile creatures up into the city in great numbers. These events are referred to as Outbreaks. At least twice in the city's past, a Great Outbreak has seen fighting as far as in the Upper City, but even the "average" outbreak is dangerous and can cause significant damage to the lower districts.
+
+<!-- #### Locations
 
 ### The Crystal Caverns
 

@@ -6,14 +6,17 @@ title: Wellspring, City of Adventure
 
 A setting of renaissance urban fantasy adventure, set in a city perched on the edge of a fantastical chasm.
 
-The Great Chasm of Wellspring is a wonder like no other. Bottomless, filled with dangers beyond imagining and riches beyond the dreams of avarice, the Chasm is an endless fountain of natural mana, saturating the earth below and the air above with raw magic. Wellspring is designed for urban adventure in a late-medieval or Renaissance fantasy style, with plotting guilds of wizards sharing the streets with steam-powered golems and clockwork servitors. It features dungeon crawls and subterranean exploration paired with urban fantasy intrigue.
+The Great Chasm of Wellspring is a natural wonder like no other. Bottomless, filled with dangers beyond imagining and riches beyond the dreams of avarice, the Chasm is an endless fountain of natural mana, saturating the earth below and the air above with raw magic. Wellspring is designed for urban adventure in a late-medieval or Renaissance fantasy style, with guilds of wizards sharing the streets with plotting merchants and clockwork servitors. It features dungeon crawls and subterranean exploration paired with urban fantasy intrigue.
+
+Wellspring uses the same [calendar]({{site.baseurl}}/settings/sapphire-coast/calendar) as the Sapphire Coast.
 
 ## Game Mechanics
 
 Wellspring is designed to be compatible with Dungeons and Dragons, 5th Edition.
 
-- [Peoples Of Wellspring]({{site.baseurl}}/settings/wellspring/peoples)
-- [Character Classes]({{site.baseurl}}/settings/wellspring/classes)
+- [Character Creation]({{site.baseurl}}/settings/wellspring/character-creation)
+<!-- - [Peoples Of Wellspring]({{site.baseurl}}/settings/wellspring/peoples) -->
+<!-- - [Character Classes]({{site.baseurl}}/settings/wellspring/classes) -->
 
 ## [Geography]({{site.baseurl}}/settings/wellspring/geography)
 
