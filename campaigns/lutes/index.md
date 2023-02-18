@@ -40,8 +40,11 @@ The Hideous Hunting Lodge
 The Annex
 : Aoife and Lily are approached by a team from the University of Amaranth, who seek to uncover the Lost Library of the Druids. Swayed by the unbearable cuteness of scholar Taliesin, they now search for a way into the library. The quest takes them to a ruined Annex of the library, where they discover a token of Druid Friendship. Before traveling to the library itself, they resolve to ask the druids directly.
 
+Breaker of Chains
+: Aoife and Lily are asked to assist the crew of the fallen Sherem skyship *Sky Dancer* with a delicate problem. The ship's enchanter, Tethost, had attempted to commune with the enraged spirits, but was instead possessed by a powerful demonic entity. The dynamic duo took part in a ritual to draw out and defeat the possessing spirit, a dangerous Hell Hound Alpha. As as reward, Tethost promised to fashion magical armor for the two heroes.
+
 A Detour To Druids
-: To be continued
+: Far to the south of the Sapphire Coast, Aoife and Lily reunited with Biren the ranger to uncover a festering corruption growing in the forest. Along with a hidden elven village and Ironhide the gnomish Druid, they battled and destroyed a tainted treant in an old druidic grove. Afterward, Ironhide told them some of the history of the Sapphire Coast, and of the four Elemental Temples said to contain the region's awesome power.
 
 ### Omake
 
