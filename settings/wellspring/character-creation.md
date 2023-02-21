@@ -1,5 +1,5 @@
 ---
-title: Character Creation
+title: Wellspring | Character Creation
 ---
 
 # Character Creation
@@ -30,6 +30,8 @@ Instead of applying the ability score bonus listed for your lineage (see [Lineag
 ## Lineages
 
 The word *Lineage* is used over the historical "Race" as a more neutral option for referring to a character's ancestry. When selecting a lineage, players gain all of the specified benefits of that lineage **except** for the Ability Score Increase, if any. See [Backgrounds And Ability Scores](#backgrounds-and-ability-scores), above.
+
+For a list of recommended lineages, see [Peoples of Wellspring](./peoples). This is not an exhaustive list; if you wish to play a character with a different origin, feel free to ask the DM.
 
 ### Bloodlines
 
