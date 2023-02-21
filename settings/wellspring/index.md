@@ -15,7 +15,7 @@ Wellspring uses the same [calendar]({{site.baseurl}}/settings/sapphire-coast/cal
 Wellspring is designed to be compatible with Dungeons and Dragons, 5th Edition.
 
 - [Character Creation]({{site.baseurl}}/settings/wellspring/character-creation)
-<!-- - [Peoples Of Wellspring]({{site.baseurl}}/settings/wellspring/peoples) -->
+- [Peoples Of Wellspring]({{site.baseurl}}/settings/wellspring/peoples)
 <!-- - [Character Classes]({{site.baseurl}}/settings/wellspring/classes) -->
 
 ## [Geography]({{site.baseurl}}/settings/wellspring/geography)
