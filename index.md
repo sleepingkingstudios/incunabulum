@@ -17,6 +17,8 @@ Dungeons And Dragons: Fifth Edition
 
   - [Feats]({{site.baseurl}}/systems/5e/feats)<br>
     New and improved feats, including Talents and Bloodlines.
+  - [Spells]({{site.baseurl}}/systems/5e/spells)<br>
+    New spells and mechanics for casting spells.
 
 ## [Game Settings]({{site.baseurl}}/settings)
 
