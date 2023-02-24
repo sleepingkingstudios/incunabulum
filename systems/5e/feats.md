@@ -39,8 +39,8 @@ The power of the winds flows through your veins. Increase your Dexterity, Consti
 Additionally, choose one of the following benefits:
 
 - *Gusty Step:* You can take the Dash action as a bonus action on your turn.
-- *Wind's Guidance:* When making a ranged weapon attack, you can ignore Disadvantage (if the check has disadvantage) or make the attack with Advantage (if the check does not have disadvantage). You can use this feature a number of times equal to your proficiency bonus. You regain any expended uses when you finish a long rest.
-- *Blessing of Air:* You learn the *invisibility* and *feather fall* spells. You can cast each of these spells without expending a spell slot. Once you cast either of these spells in this way,you can't cast that spell in this way again until you finish a long rest. You can also cast these spells using spell slots you have of the appropriate level.
+- *Wind's Guidance:* When making a weapon attack with a finesse weapon or a ranged weapon, you can ignore Disadvantage (if the check has disadvantage) or make the attack with Advantage (if the check does not have disadvantage). You can use this feature a number of times equal to your proficiency bonus. You regain any expended uses when you finish a long rest.
+- *Blessing of Air:* You learn the *invisibility* and *feather fall* spells. You can cast each of these spells without expending a spell slot. Once you cast either of these spells in this way, you can't cast that spell in this way again until you finish a long rest. You can also cast these spells using spell slots you have of the appropriate level.
 
 <!-- ### Celestial Bloodline -->
 

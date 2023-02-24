@@ -6,6 +6,21 @@ name: Religion
 
 The most common religion in Wellspring is polytheistic, and there are many shrines, temples, and churches to different deities. Whether or not an individual is drawn to a specific deity, they will frequently give prayers or make offerings to others in the pantheon. For example, a farmer might give his devotion to the Greenmage, but make offerings to the Storm King for good weather and to the Knight-Errant for the safety of his son, a guardsman.
 
+<!-- List of Domains:
+
+- Death (DMG)
+- Forge (XGE)
+- Grave (XGE)
+- Knowledge (PHB)
+- Life (PHB)
+- Light (PHB)
+- Nature (PHB)
+- Order (TCE)
+- Peach (TCE)
+- Tempest (PHB)
+- Trickery (PHB)
+- Twilight (TCE) -->
+
 ## Deities Of The Pantheon
 
 The Conquerer
@@ -58,10 +73,20 @@ The Mother of Machines
 
   *Domains:* Forge (XGE), Knowledge.
 
+The Shaper of Flesh
+: Patron of necromancy and the study of death. Has few clerics, and the faith is often banned or looked upon with deep suspicion. Necromancers and artificers who work with living tissue often follow him in secret.
+
+  *Domains:* Grave (XGE), Knowledge.
+
 The Silent Watcher
 : Patron of death, dying, and the dead. Few follow him directly, but it is said that all come to his arms in time. He is also said to hold sway over secrets and lost things.
 
   *Domains:* Grave (XGE), Knowledge.
+
+The Sorrowful Maiden
+: Conforter of the dead and the dying. Her priests and priestesses offer healing magic at cost to those in need, as well as assisting in funeral rites.
+
+  *Domains:* Grave (XGE), Life.
 
 The Storm King
 : Patron of thieves, pirates, and the weather. Those who follow the Storm King are fiercely individualistic but frequently selfish and cruel. Farmers, sailors, and travelers make offerings to avoid his wrath.

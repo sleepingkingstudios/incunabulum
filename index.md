@@ -15,6 +15,8 @@ A repository of game design and development by [Sleeping King Studios](https://w
 Dungeons And Dragons: Fifth Edition
 : The rules-heavy standard bearer.
 
+  - [Lineages]({{site.baseurl}}/systems/5e/lineages)<br>
+    Character ancestry options, such as Giants and Naga.
   - [Feats]({{site.baseurl}}/systems/5e/feats)<br>
     New and improved feats, including Talents and Bloodlines.
   - [Spells]({{site.baseurl}}/systems/5e/spells)<br>

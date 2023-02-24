@@ -102,7 +102,7 @@ As *ice knife*, but inflicts 1d10 necrotic damage on a successful attack, and 2d
 **Components:** V, S<br>
 **Duration:** Instantaneous
 
-You create three darts of magical force, and launch them at creatures of your choice that you can see within range. You can direct the darts to hit one creature or several. Each targeted creature must make a Dexterity saving throw or take 1d10+1 force damage per dart targeting that creature, or half damage on a successful save.
+You create three darts of magical force, and launch them at creatures of your choice that you can see within range. You can direct the darts to hit one creature or several. Each targeted creature must make a Dexterity saving throw or take 1d10 force damage per dart targeting that creature, or half damage on a successful save.
 
 This spell counts as *magic missile* for effects that protect against or trigger on the *magic missile* spell, such as the *shield* spell or a *Brooch of Shielding*.
 

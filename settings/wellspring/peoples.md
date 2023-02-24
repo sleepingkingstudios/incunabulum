@@ -70,6 +70,8 @@ Wood-element halflings are rare, and tend to shun larger settlements in favor of
 
 A lineage of halflings without an elemental heritage lives in a distant land across the sea. Known as tallfolk, it is said they rule a wide empire, although they come to Wellspring as traders and diplomats. They bring strange trinkets to trade, and seem to have a fascination with magic.
 
+For game statistics, see [Halfling Traits]({{site.baseurl}}/systems/5e/lineages#halfling-traits).
+
 ### Dwarves
 
 Dwarves are a common sight in Wellspring. Despite their industry and wealth, most dwarves live in the Lower City, preferring a closeness to the earth over the towers and spires above. Below the city proper is Dwarfhome, a largely (but not exclusively) Dwarven community that sits at the terminus of an underground road to Silverhold, a Dwarven city that lies somewhere under the mountains.
@@ -96,27 +98,7 @@ Once the undisputed masters of the world, the old giants created great wonders o
 
 Virtually all giants bear an elemental bloodline, and tend to form communities with the like-blooded. Of these, fire and frost giants tend to keep to themselves, while stone and storm giants are more likely to visit or settle with other races. Of the giants that visit or settle with other peoples, the average height is around 7-8 feet. It is believed that giants possess a ritual to grant them their famed stature.
 
-#### Giant Traits
-
-As a giant, you have the following traits from your lineage:
-
-Creature Type
-: You are a Humanoid.
-
-Size
-: You are Medium.
-
-Speed
-: Your walking speed is 30 feet.
-
-Little Giant
-: You have profiency in the Athletics skill, and you count as one size larger when determining your carrying capacity and the weight you can push , drag, or lift.
-
-Darkvision
-: You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray.
-
-Bloodline of Giants
-: You gain one Elemental Bloodline feat of your choice.
+For game statistics, see [Giant Traits]({{site.baseurl}}/systems/5e/lineages#giant-traits).
 
 ### Peoples of the Dragon
 
@@ -140,11 +122,17 @@ Where dragonborn and kobolds bear gifts of draconic heritage, mojh seek to usurp
 
 Mojh are very rare, even in a city like Wellspring, and tend to be solitary or to gather in communities of their own kind to study arcane mysteries.
 
-### Peoples of the Serpent
+### Peoples of the Deep
 
 #### Naga
 
 The serpentine naga are an unusual sight in Wellspring, the high mountain peaks being far from the hot deserts or shallow waters they prefer to call home. They are more commonly found in the jungle rivers of Sherem, or in the inland sea of the Free Cities, but naga traders or scholars are an occasional sight in Wellspring. More rarely seen are their Salamander kindred, a lineage of Naga with fire elemental bloodlines who inhabit a realm of lava and flame.
+
+For game statistics, see [Naga Traits]({{site.baseurl}}/systems/5e/lineages#naga-traits).
+
+#### Tortles
+
+These good-natured travelers are surprisingly common in Wellspring despite their small numbers. Some visit to see the Great Chasm with their own eyes, others to share knowledge or learn from the Watchers of the Skies or the Arcane Order. There are even rumors of an entire Tortle colony somewhere in the depths beneath the city, although few scholars give such stories any credence.
 
 ### Peoples of Iron
 
