@@ -150,6 +150,8 @@ It is said that the ancestors of goblinkind came to this world from the same pla
 
 Once, the minotaurs held empires to rival the giants. In the Wars of Stone between giants, minotaurs and dwarves, only the latter emerged victorious, and the minotaurs left scattered in smaller communities deep in the mountains or in deep and hidden halls of stone. In a cosmopolitan city like Wellspring, they are rare but hardly unheard of, and a minotaur guard or runesmith would be a curiousity at most.
 
+---
+
 [Back to Home]({{site.baseurl}}/)
 |
 [Back to Game Settings]({{site.baseurl}}/settings)

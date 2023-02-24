@@ -108,4 +108,10 @@ This spell counts as *magic missile* for effects that protect against or trigger
 
 **At Higher Levels:** The spell creates one more dart for each slot level above 1st.
 
+---
+
 [Back to Home]({{site.baseurl}}/)
+|
+[Back to Game Systems]({{site.baseurl}}/systems)
+|
+[Back to D&D 5E]({{site.baseurl}}/systems/5e)

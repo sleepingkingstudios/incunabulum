@@ -34,6 +34,8 @@ The City of Wellspring is ruled by a council of five. Three of the seats are per
 
 The people of Wellspring follow many faiths, and the city holds numerous shrines, churches, and temples. In addition, the abundance of magic draws cults and cabals, building blasphemous altars in the undercity to perform their forbidden rites.
 
+---
+
 [Back to Home]({{site.baseurl}}/)
 |
 [Back to Game Settings]({{site.baseurl}}/settings)

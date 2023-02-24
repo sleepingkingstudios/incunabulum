@@ -92,4 +92,10 @@ You can shape the manifestations of your spells at will. You gain the following 
 - You can attempt to make your spells invisible or inaudible; this requires a successful Performance check using your spellcasting ability for that spell, opposed by the target's Wisdom (Perception) check.
 - Any creature attempting to identify the spell or effect must succeed at an Intelligence (Arcana) check opposed by your Performance check using your spellcasting ability for that spell.
 
+---
+
 [Back to Home]({{site.baseurl}}/)
+|
+[Back to Game Systems]({{site.baseurl}}/systems)
+|
+[Back to D&D 5E]({{site.baseurl}}/systems/5e)

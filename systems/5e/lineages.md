@@ -151,4 +151,10 @@ Bloodline of Fire
   - You *do not* gain an Ability Score Increase from the bloodline.
   - The bloodline does not prevent you from selecting a Talent feat. You still cannot select a second Bloodline feat without DM approval.
 
+---
+
 [Back to Home]({{site.baseurl}}/)
+|
+[Back to Game Systems]({{site.baseurl}}/systems)
+|
+[Back to D&D 5E]({{site.baseurl}}/systems/5e)

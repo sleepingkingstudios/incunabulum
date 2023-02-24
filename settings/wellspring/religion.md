@@ -104,6 +104,8 @@ The Parliament of Light
 
 <!-- ## Cults And Cabals -->
 
+---
+
 [Back to Home]({{site.baseurl}}/)
 |
 [Back to Game Settings]({{site.baseurl}}/settings)

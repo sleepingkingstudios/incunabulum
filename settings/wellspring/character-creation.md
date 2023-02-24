@@ -66,6 +66,8 @@ Bloodlines and Talents are special feats that provide additional bonuses compare
 - Each character can have at most one Bloodline or Talent, even if they can select more than one feat at 1st level.
   - The one exception to the above rule is that characters with a Bloodline *granted by their Lineage*, such as Giants, may also have a Talent.
 
+---
+
 [Back to Home]({{site.baseurl}}/)
 |
 [Back to Game Settings]({{site.baseurl}}/settings)
