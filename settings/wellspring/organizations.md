@@ -88,6 +88,8 @@ Their draconic equipment grants them a powerful advantage. Although it is rarely
 
 <!-- ### The Stonewardens -->
 
+---
+
 [Back to Home]({{site.baseurl}}/)
 |
 [Back to Game Settings]({{site.baseurl}}/settings)

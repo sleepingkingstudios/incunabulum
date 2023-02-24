@@ -43,6 +43,8 @@ Oakhurst
 Pumpkin Hill
 : A farming community in the north, known for its annual Pumpkin Festival.
 
+---
+
 [Back to Home]({{site.baseurl}}/)
 |
 [Back to Game Settings]({{site.baseurl}}/settings)

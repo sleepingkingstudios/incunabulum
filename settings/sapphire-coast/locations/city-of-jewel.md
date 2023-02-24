@@ -146,6 +146,8 @@ A small but wealthy district, with the houses of rich aristocrats, local nobilit
   **The House of the Dawn**<br>
   A small chapterhouse of the [Order of the Dawn](#organizations-order-of-the-dawn), sponsored by the Duchess. Usually has one older, retired paladin, a couple of acolytes, a priest, and a few servants.
 
+---
+
 [Back to Home]({{site.baseurl}}/)
 |
 [Back to Game Settings]({{site.baseurl}}/settings)

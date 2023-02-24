@@ -7,16 +7,13 @@ A repository of game design and development by [Sleeping King Studios](https://w
 
 ## [Campaigns]({{site.baseurl}}/campaigns)
 
-- **[Lutes Are Nothing But Trouble]({{site.baseurl}}/campaigns/lutes)**<br>
-  The epic adventures of Aoife and Lily as they quest for lute, battle endless waves of trees, and discover the dark secrets of [the Sapphire Coast]({{site.baseurl}}/settings/sapphire-coast).
+[Lutes Are Nothing But Trouble]({{site.baseurl}}/campaigns/lutes)
+: The epic adventures of Aoife and Lily as they quest for lute, battle endless waves of trees, and discover the dark secrets of [the Sapphire Coast]({{site.baseurl}}/settings/sapphire-coast).
 
-## Game Systems
+## [Game Systems]({{site.baseurl}}/systems)
 
-Dungeons And Dragons: Fifth Edition
+[Dungeons And Dragons: Fifth Edition]({{site.baseurl}}/systems/5e)
 : The rules-heavy standard bearer.
-
-  - [Feats]({{site.baseurl}}/systems/5e/feats)<br>
-    New and improved feats, including Talents and Bloodlines.
 
 ## [Game Settings]({{site.baseurl}}/settings)
 

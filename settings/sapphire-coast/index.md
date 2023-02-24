@@ -64,6 +64,8 @@ The Sapphire Coast was once populated by wild elementals, although they have not
 
 The Sapphire Coast was settled a hundred years ago, but there are ruins from much older civilizations scattered around. The current Duchess is Grace Harrington, a retired paladin and adventurer.
 
+---
+
 [Back to Home]({{site.baseurl}}/)
 |
 [Back to Game Settings]({{site.baseurl}}/settings)

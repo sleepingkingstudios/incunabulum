@@ -84,6 +84,8 @@ A narrow valley leading off from the Vale proper, filled with virgin woods. The 
 
 Those few who venture deep into the Bronzewood uninvited have claimed the woods are far larger than the valley should allow, and inhabited by fey and creatures far stranger. Rarely a denizen of the deep woods will wander out into the Vale proper.
 
+---
+
 [Back to Home]({{site.baseurl}}/)
 |
 [Back to Game Settings]({{site.baseurl}}/settings)

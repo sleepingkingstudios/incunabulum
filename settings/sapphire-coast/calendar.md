@@ -44,6 +44,8 @@ Traditionally, the solstice and equinox celebrations are held on the rest day of
 
 In addition, there are hundreds of holy days and festivals dedicated to different deities, which are celebrated to varying degrees. The truly devout may spend the days in fasting or prayer, while others may give an offering to a shrine or stop to offer a quick invocation.
 
+---
+
 [Back to Home]({{site.baseurl}}/)
 |
 [Back to Game Settings]({{site.baseurl}}/settings)

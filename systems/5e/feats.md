@@ -26,6 +26,10 @@ Talents represent a particular gift the character has for an area of cunning, mi
 
 ## List of Feats
 
+| Name | Description |
+| [Signature Spell](#signature-spell) | You have mastered a single spell. |
+| [Spell Artist](#spell-artist) | You can shape the manifestations of your spells at will. |
+
 ### Bloodline of Air
 
 *Bloodline*
@@ -35,8 +39,8 @@ The power of the winds flows through your veins. Increase your Dexterity, Consti
 Additionally, choose one of the following benefits:
 
 - *Gusty Step:* You can take the Dash action as a bonus action on your turn.
-- *Wind's Guidance:* When making a ranged weapon attack, you can ignore Disadvantage (if the check has disadvantage) or make the attack with Advantage (if the check does not have disadvantage). You can use this feature a number of times equal to your proficiency bonus. You regain any expended uses when you finish a long rest.
-- *Blessing of Air:* You learn the *invisibility* and *feather fall* spells. You can cast each of these spells without expending a spell slot. Once you cast either of these spells in this way,you can't cast that spell in this way again until you finish a long rest. You can also cast these spells using spell slots you have of the appropriate level.
+- *Wind's Guidance:* When making a weapon attack with a finesse weapon or a ranged weapon, you can ignore Disadvantage (if the check has disadvantage) or make the attack with Advantage (if the check does not have disadvantage). You can use this feature a number of times equal to your proficiency bonus. You regain any expended uses when you finish a long rest.
+- *Blessing of Air:* You learn the *invisibility* and *feather fall* spells. You can cast each of these spells without expending a spell slot. Once you cast either of these spells in this way, you can't cast that spell in this way again until you finish a long rest. You can also cast these spells using spell slots you have of the appropriate level.
 
 <!-- ### Celestial Bloodline -->
 
@@ -70,4 +74,28 @@ You have a natural talent for studying the arcane arts. You gain the following b
 - You can prepare a number of spells from your spellbook equal to your proficiency bonus. The spells must be of a spell level for which you have spell slots. You can change your list of prepared spells when you finish a long rest. You can cast these prepared spells using any spell slots you have.
 - Intelligence is your spellcasting ability for spells you have prepared using this feat.
 
+### Signature Spell
+
+You have mastered a single spell. Choose one spell you know or can prepare, and is of a level that you can cast. You gain the following benefits:
+
+- The chosen spell is always prepared for you, and does not count against your number of prepared spells.
+- You can cast the chosen spell without expending a spell slot. Once you cast the spell in this way, you can't cast the spell in this way again until you finish a long rest.
+- When you cast the chosen spell, treat the spell as cast using a spell slot of one level higher than normal. If the spell has an "At Higher Levels" clause, you gain the benefits of casting the spell at that higher level.
+
+Whenever you gain a level, you can select a new signature spell. The signature spell must be a spell you know or can prepare, and of a level you can cast.
+
+### Spell Artist
+
+You can shape the manifestations of your spells at will. You gain the following benefits:
+
+- You do not have stick to a particular theme for your spells (see [Customizing Spells](./spells#customizing-spells)), and can choose different effects for each spell cast.
+- You can attempt to make your spells invisible or inaudible; this requires a successful Performance check using your spellcasting ability for that spell, opposed by the target's Wisdom (Perception) check.
+- Any creature attempting to identify the spell or effect must succeed at an Intelligence (Arcana) check opposed by your Performance check using your spellcasting ability for that spell.
+
+---
+
 [Back to Home]({{site.baseurl}}/)
+|
+[Back to Game Systems]({{site.baseurl}}/systems)
+|
+[Back to D&D 5E]({{site.baseurl}}/systems/5e)

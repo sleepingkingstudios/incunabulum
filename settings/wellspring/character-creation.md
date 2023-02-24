@@ -64,6 +64,9 @@ Bloodlines and Talents are special feats that provide additional bonuses compare
 
 - Bloodlines and Talents can only be selected at 1st level without DM approval.
 - Each character can have at most one Bloodline or Talent, even if they can select more than one feat at 1st level.
+  - The one exception to the above rule is that characters with a Bloodline *granted by their Lineage*, such as Giants, may also have a Talent.
+
+---
 
 [Back to Home]({{site.baseurl}}/)
 |
