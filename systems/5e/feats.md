@@ -15,6 +15,7 @@ A Bloodline is a special feat that is (usually) only available at 1st level. Des
 
 | Name | Description |
 | [Bloodline of Air](#bloodline-of-air) | The power of the winds flows through your veins. |
+| [Celestial Bloodline](#celestial-bloodline) | You are blessed with the heritage of the heavens. |
 
 ## Talents
 
@@ -34,7 +35,10 @@ Talents represent a particular gift the character has for an area of cunning, mi
 
 *Bloodline*
 
-The power of the winds flows through your veins. Increase your Dexterity, Constitution, or Intelligence score by +2, to a maximum of 20, **or** increase two of those scores by +1 each, to a maximum of 20.
+The power of the winds flows through your veins. You gain the following benefits:
+
+- Increase your Dexterity, Constitution, or Intelligence score by +2, to a maximum of 20, **or** increase two of those scores by +1 each, to a maximum of 20.
+- You learn the TBD cantrip.
 
 Additionally, choose one of the following benefits:
 
@@ -42,11 +46,35 @@ Additionally, choose one of the following benefits:
 - *Wind's Guidance:* When making a weapon attack with a finesse weapon or a ranged weapon, you can ignore Disadvantage (if the check has disadvantage) or make the attack with Advantage (if the check does not have disadvantage). You can use this feature a number of times equal to your proficiency bonus. You regain any expended uses when you finish a long rest.
 - *Blessing of Air:* You learn the *invisibility* and *feather fall* spells. You can cast each of these spells without expending a spell slot. Once you cast either of these spells in this way, you can't cast that spell in this way again until you finish a long rest. You can also cast these spells using spell slots you have of the appropriate level.
 
-<!-- ### Celestial Bloodline -->
+### Celestial Bloodline
+
+*Bloodline*
+
+You are blessed with the heritage of the heavens. You gain the following benefits:
+
+- Increase your Constitution, Wisdom, or Charisma score by +2, to a maximum of 20, **or** increase two of those scores by +1 each, to a maximum of 20.
+- You learn the *light* cantrip.
+
+Additionally, choose one of the following benefits:
+
+- *Choir of Mercy:* Whenever you use a spell of 1st level or higher to restore hit points to a creature, the creature regains additional hit points equal to 2 + the spell’s level.
+- *Choir of Wrath:* As a bonus action, you can unleash the celestial energy within yourself. Your transformation lasts for 1 minute or until you end it as a bonus action. For the duration, you shed bright light in a 10-foot radius and dim light for an additional 10 feet, and once per turn you can deal an extra 1d6 radiant damage to one creature you hit with an attack.
+- *Choir of Judgment:* You learn the *flame blade* and *shield of faith* spells. You can cast each of these spells without expending a spell slot. Once you cast either of these spells in this way, you can't cast that spell in this way again until you finish a long rest. You can also cast these spells using spell slots you have of the appropriate level.
+
+<!-- ### Celestial Resistance -->
 
 <!-- ### Draconic Bloodline -->
 
 <!-- ### Infernal Bloodline -->
+
+<!-- ### Manifest Wings -->
+
+### Open The Third Eye
+
+You have a talent for divination magic. You gain the following benefits:
+
+- Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
+- You learn the *augury* spell and one 1st-level spell of your choice. The 1st-level spell must be from the divination school of magic. You can cast each of these spells without expending a spell slot. Once you cast either of these spells in this way, you can't cast that spell in this way again until you finish a long rest. You can also cast these spells using spell slots you have of the appropriate level. The spells' spellcasting ability is the ability increased by this feat.
 
 ### Gift of the Magister
 
