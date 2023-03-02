@@ -31,7 +31,15 @@ The Arcane Order comes into occasional conflict with the Watchers of the Stars, 
 
 <!-- ## The City Guard -->
 
-<!-- ## The Harfoot Syndicate -->
+## The Harfoot Syndicate
+
+Originally a mutual aid society for halfling immigrants to the city, Harfoot Syndicate has become the largest criminal enterprise in Wellspring. Syndicate "houses" are responsible for everything from petty street crime such as pickpockets and flimflam artists to grand theft and running establishments selling companionship or minor narcotics.
+
+The Syndicate is organized into cells known as "houses", each of which is self-organized and tends to focus on a few areas of criminal or quasi-legitimate enterprise. Few operate in the Upper City, although a connection is rumored between the Syndicate and the gilded Rabbit's Food Casino. In the Lower City, "Syndicate goon" is a curse word, although most houses avoid preying directly on the working classes. In contrast, parts of the Undercity are run by the Syndicate more or less openly, and they provide protection to places where the City Guard will not go.
+
+### Relationships
+
+The Syndicate's relationship with the City Guard and Merchantry Association is necessarily antagonistic, although endemic corruption provides some openings for criminal activity. Likewise, the relationship with the Stonewardens is frosty, although the two groups will work together during incursions from below.
 
 ## The Delvers' Guild
 
