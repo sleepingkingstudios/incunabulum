@@ -41,7 +41,7 @@ Despite the stereotype of the outlander from the wilderness, Barbarians can be e
 #### Character Roles
 
 - **Brute:** A character who hits hard and holds territory. Other classes for this role: Druid (in Wild Shape), Fighter, Paladin.
-- **Skirmisher:** A fast-moving character who controls the battlefield. Other classes for this role: Ranger, Rogue.
+- **Skirmisher:** A fast-moving character who controls the battlefield. Other classes for this role: Monk, Ranger, Rogue.
 
 ### Bard
 
@@ -71,7 +71,7 @@ Clerics in Wellspring can select the [Cloistered Cleric]({{site.baseurl}}/system
 
 ### Druid
 
-At first glance, Druids may be an odd choice for an urban adventure campaign, but druids can also have a strong role even in Wellspring. Druids with the traditional connection to nature have a place in Wellspring, whether as part of the druidic circles in the Bronzewood outside the city or by connecting with the diverse and magically distinct ecosystems beneath the city. Other druids are more scholarly, studying nature magic and its connections. Rather than nature, some druids attribute their powers to elemental spirits.
+At first glance, Druids may be an odd choice for an urban adventure campaign, but druids can have a strong role even in Wellspring. Druids with the traditional connection to nature have a place in Wellspring, whether as part of the druidic circles in the Bronzewood outside the city or by connecting with the diverse and magically distinct ecosystems beneath the city. Other druids are more scholarly, studying nature magic and its connections. Rather than nature, some druids attribute their powers to elemental spirits.
 
 Druids in Wellspring may join the [Watchers of the Stars](./organizations#the-watchers-of-the-stars), particularly those who study or venerate the stars. Those of a more scholarly bent may join the [Arcane Order](./organizations#the-arcane-order).
 
@@ -80,7 +80,16 @@ Druids in Wellspring may join the [Watchers of the Stars](./organizations#the-wa
 - **Brute:** A character who hits hard and holds territory. Other classes for this role: Barbarian, Fighter, Paladin.
 - **Support:** A character who enhances the rest of the group. Other classes for this role: Bard, Druid, Wizard.
 
-<!-- ### Fighter -->
+### Fighter
+
+One of the most versatile classes, Fighters rely first and foremost on their martial prowess. In Wellspring, that prowess is particularly valued, both in expeditions beneath the city and when mana surges drive monsters into Wellspring itself. Fighters run the gamut from spell duelists and noble guards in the Upper City to pit brawlers and criminal enforcers in the Undercity.
+
+In Wellspring the [City Guard](./organizations#the-city-guard) and [Stonewardens](./organizations#the-stonewardens) actively recruit fighters, as does the [Harfoot Syndicate](./organizations#the-harfoot-syndicate). Eldritch Knights will sometimes join the [Arcane Order](./organizations#the-arcane-order), while Psi Warriors are sometimes drawn to the elusive [Society of the Third Eye](./organizations#the-society-of-the-third-eye).
+
+#### Character Roles
+
+- **Armored:** A strong character relying on heavy armor and defenses for protection. Other classes for this role: Artificer, Cleric, Paladin.
+- **Brute:** A character who hits hard and holds territory. Other classes for this role: Barbarian, Druid, Paladin.
 
 <!-- ### Monk -->
 

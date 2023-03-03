@@ -30,8 +30,6 @@ The headquarters of the Arcane Order is a grand edifice of marble, with a fortif
 
 The Arcane Order comes into occasional conflict with the Watchers of the Stars, seeking to bring the more mystically-inclined Watchers under the aegis (and membership dues) of the guild.
 
-<!-- ## The City Guard -->
-
 ## The Harfoot Syndicate
 
 Originally a mutual aid society for halfling immigrants to the city, Harfoot Syndicate has become the largest criminal enterprise in Wellspring. Syndicate "houses" are responsible for everything from petty street crime such as pickpockets and flimflam artists to grand theft and running establishments selling companionship or minor narcotics.
@@ -106,6 +104,10 @@ The Watchers have a somewhat one-sided rivalry with the Arcane Order, who they s
 
 ## Other Organizations
 
+### The City Guard
+
+The City Guard is responsible for protecting the city from disorder, invasion, insurrection, and the constant threat of monsters from the Great Chasm. The guard patrols the Upper City and maintains a regular presence in most of the Lower City, but rarely venture in the Undercity (and then only in force). Although the City Guard is responsible for crime and maintains the city's gaol and prison (known as The Pits), the guard is not an investigative service, and those trying to track down missing people or stolen property are advised to find a private investigator.
+
 ### The Dragonslayers
 
 The Dragonslayers were once a mercenary company that managed to slay an ancient red dragon which had terrorized a nearby small kingdom. Now they are a regional power, the de facto rulers of that kingdom and soldiers for hire. They are infamous for harvesting the slain dragon's body, wearing armor of dragonhide or dragon scales, wielding weapons forged from dragon's fangs or bone, and using dragon's blood to empower their sorcerers. They are also said to possess several powerful artifacts from the dragon's hoard, in addition to a veritable mountain of treasures.
@@ -114,7 +116,13 @@ Their draconic equipment grants them a powerful advantage. Although it is rarely
 
 <!-- ### The Silver Dragons -->
 
-<!-- ### The Stonewardens -->
+### The Society of the Third Eye
+
+A secretive order based in Wellspring, devoted to the study of mentalism, psionics, and mind magic. Their headquarters is a converted row house in the Lower City. Membership is by invitation only.
+
+### The Stonewardens
+
+The Stonewardens are the protectors of [Dwarfhome](./geography#dwarfhome), a fortified community in the Undercity populated largely by dwarves. They are rarely seen in other parts of the city, and have a sometimes-contentious relationship with the City Guard.
 
 ---
 
