@@ -6,6 +6,7 @@ title: Organizations
 
 - [The Arcane Order](#the-arcane-order)
 - [The Delver's Guild](#the-delvers-guild)
+- [The Harfoot Syndicate](#the-harfoot-syndicate)
 - [The Merchantry Association](#the-merchantry-association)
 - [The Watchers of the Stars](#the-watchers-of-the-stars)
 

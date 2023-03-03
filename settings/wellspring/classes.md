@@ -4,12 +4,19 @@ title: Wellspring | Character Classes
 
 # Character Classes
 
+The character classes in the *Player's Handbook* (and the Artificer class in *Tasha's Cauldron of Everything*) are each presented as having a role or place in the game world. A cleric is a holy warrior with powerful divine magic, a barbarian is an outlander with battle rage, and so on. These roles are absolutely valid, and if they match your character concept, please feel free to embrace them. But these roles are only a starting point - they are not the only way a character of these classes can be played.
+
+Want to play a cleric who is a scholarly mystic who studies the divine? Go for it. Want to play a barbarian who is an alchemist with a serum out of Jekyll and Hyde? No problem. You should probably come prepared with *some* reason why your character's abilities match the concept, but beyond that the sky is the limit.
+
+You can also use the rules for [Customizing Class Proficiencies]({{site.baseurl}}/systems/5e/classes#proficiencies).
+
 ## List of Character Classes
 
 - [Artificer](#artificer)
 - [Barbarian](#barbarian)
 - [Bard](#bard)
 - [Cleric](#cleric)
+- [Druid](#druid)
 
 ### Artificer
 
@@ -33,14 +40,14 @@ Despite the stereotype of the outlander from the wilderness, Barbarians can be e
 
 #### Character Roles
 
-- **Brute:** A character who hits hard and holds territory. Other classes for this role: Fighter, Paladin.
+- **Brute:** A character who hits hard and holds territory. Other classes for this role: Druid (in Wild Shape), Fighter, Paladin.
 - **Skirmisher:** A fast-moving character who controls the battlefield. Other classes for this role: Ranger, Rogue.
 
 ### Bard
 
 The Bard as a practice mixing music and magic originated with Halflings, and their people have a rich tradition of music and storytelling. Among humans, the folk tradition has grown to encompass everything from common gleemen to formal court bards. The giants have a parallel tradition of war skalds, keeping an oral tradition of great heroes and greater battles. The dwarves employ war chanters, who keep the long lineages of their clans and cities.
 
-In Wellspring, bards can be found among street performers as much as in the halls of the rich and powerful. A few join the [Arcane Order](./organizations#the-arcane-order), but most find their study and regimentation stifling.
+In Wellspring, bards can be found among street performers as much as in the halls of the rich and powerful. A few join the [Arcane Order](./organizations#the-arcane-order), but most find their study and regimentation stifling. Bards are also common among the [Harfoot Syndicate](./organizations#the-harfoot-syndicate)
 
 #### Character Roles
 
@@ -62,11 +69,22 @@ Clerics in Wellspring can select the [Cloistered Cleric]({{site.baseurl}}/system
 - **Crafter:** A character focused on creating and using equipment to become stronger. Other classes for this role: Artificer.
 - **Utility:** A character with a range of abilities rather than focusing on one. Other classes for this role: Bard, Rogue, Wizard.
 
-<!-- ### Druid -->
+### Druid
+
+At first glance, Druids may be an odd choice for an urban adventure campaign, but druids can also have a strong role even in Wellspring. Druids with the traditional connection to nature have a place in Wellspring, whether as part of the druidic circles in the Bronzewood outside the city or by connecting with the diverse and magically distinct ecosystems beneath the city. Other druids are more scholarly, studying nature magic and its connections. Rather than nature, some druids attribute their powers to elemental spirits.
+
+Druids in Wellspring may join the [Watchers of the Stars](./organizations#the-watchers-of-the-stars), particularly those who study or venerate the stars. Those of a more scholarly bent may join the [Arcane Order](./organizations#the-arcane-order).
+
+#### Character Roles
+
+- **Brute:** A character who hits hard and holds territory. Other classes for this role: Barbarian, Fighter, Paladin.
+- **Support:** A character who enhances the rest of the group. Other classes for this role: Bard, Druid, Wizard.
 
 <!-- ### Fighter -->
 
 <!-- ### Monk -->
+
+<!-- ### Paladin -->
 
 <!-- ### Ranger -->
 
