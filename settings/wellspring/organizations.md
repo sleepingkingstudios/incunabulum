@@ -100,7 +100,7 @@ The headquarters of the Watchers is the Astral Observatory, built into a peak hi
 
 ### Relationships
 
-The Watchers have a somewhat one-sided rivalry with the Arcane Order, who they see as narrow-minded and focused on commerce and influence over the mysteries of magic. That said, a few Watchers are also guild members in good standing, including several high-ranking Astrologians.
+The Watchers have a somewhat one-sided rivalry with the Arcane Order, who they see as narrow-minded and focused on commerce and influence over the mysteries of magic. That said, a few Watchers are also guild members in good standing, including several high-ranking Astrologians. The Watchers of the Stars also have a dedicated monastic order, the [Falling Stars](#the-falling-stars), responsible for protection of the Astral Observatory and (rarely) individual members.
 
 ## Other Organizations
 
@@ -113,6 +113,10 @@ The City Guard is responsible for protecting the city from disorder, invasion, i
 The Dragonslayers were once a mercenary company that managed to slay an ancient red dragon which had terrorized a nearby small kingdom. Now they are a regional power, the de facto rulers of that kingdom and soldiers for hire. They are infamous for harvesting the slain dragon's body, wearing armor of dragonhide or dragon scales, wielding weapons forged from dragon's fangs or bone, and using dragon's blood to empower their sorcerers. They are also said to possess several powerful artifacts from the dragon's hoard, in addition to a veritable mountain of treasures.
 
 Their draconic equipment grants them a powerful advantage. Although it is rarely sold to outsiders, it can sometimes be found on the black market, but beware - its bearers will earn the bitter enmity of dragonkind.
+
+### The Falling Stars
+
+A monastic order based in the Astral Observatory and dedicated to the protection of the [Watchers of the Stars](#the-watchers-of-the-stars). Most are disciples of the Way of the Astral Self, but some follow other disciplines, and in rare cases members of other classes will join as well.
 
 <!-- ### The Silver Dragons -->
 

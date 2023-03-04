@@ -91,7 +91,16 @@ In Wellspring the [City Guard](./organizations#the-city-guard) and [Stonewardens
 - **Armored:** A strong character relying on heavy armor and defenses for protection. Other classes for this role: Artificer, Cleric, Paladin.
 - **Brute:** A character who hits hard and holds territory. Other classes for this role: Barbarian, Druid, Paladin.
 
-<!-- ### Monk -->
+### Monk
+
+The Monk class can be taken in a few different directions. Some focus more on martial prowess, in effect being more akin to Fighters with a specialized skill set, and with a similar role in Wellspring society. Others focus more on mysticism, and fill a role similar to Clerics or Druids, depending on their respective belief systems. Still other Monks belong to existing orders or organizations that provide support and guidance.
+
+In Wellspring, the most prominent monastic order is the [Falling Stars](./organizations#the-society-of-the-third-eye), the protectors of the [Watchers of the Stars](./organizations#the-watchers-of-the-stars). Most Falling Stars are Monks with the Way of the TODO subclass. Monks of the Way of the Four Elements may join the [Arcane Order](./organizations#the-arcane-order), while Monks of the Way of Shadow are greatly valued by the [Harfoot Syndicate](./organizations#the-harfoot-syndicate). Elven Monks often choose the Way of the Kensei, while a notable order of Dwarven Monks follows the Way of the Drunken Master.
+
+#### Character Roles
+
+- **Controller:** A character who disrupts enemies and weakens them for their allies. Other classes for this role: Sorcerer, Warlock, Wizard.
+- **Skirmisher:** A fast-moving character who controls the battlefield. Other classes for this role: Barbarian, Ranger, Rogue.
 
 <!-- ### Paladin -->
 
@@ -104,6 +113,10 @@ In Wellspring the [City Guard](./organizations#the-city-guard) and [Stonewardens
 <!-- ### Warlock -->
 
 <!-- ### Wizard -->
+
+<!-- #### Character Roles
+
+- **Blaster:** A character who dishes out the hurt at range and against multiple foes. Other classes for this role: Sorcerer, Warlock. -->
 
 ---
 
