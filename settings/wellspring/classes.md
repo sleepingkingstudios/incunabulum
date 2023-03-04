@@ -17,6 +17,9 @@ You can also use the rules for [Customizing Class Proficiencies]({{site.baseurl}
 - [Bard](#bard)
 - [Cleric](#cleric)
 - [Druid](#druid)
+- [Fighter](#fighter)
+- [Monk](#monk)
+- [Paladin](#paladin)
 
 ### Artificer
 
@@ -52,7 +55,7 @@ In Wellspring, bards can be found among street performers as much as in the hall
 #### Character Roles
 
 - **Diplomat:** A character who uses social skills to stand out. Other classes for this role: Rogue, Sorcerer.
-- **Support:** A character who enhances the rest of the group. Other classes for this role: Cleric, Druid, Wizard.
+- **Support:** A character who enhances the rest of the group. Other classes for this role: Cleric, Druid, Paladin, Wizard.
 - **Utility:** A character with a range of abilities rather than focusing on one. Other classes for this role: Bard, Rogue, Wizard.
 
 ### Cleric
@@ -78,7 +81,7 @@ Druids in Wellspring may join the [Watchers of the Stars](./organizations#the-wa
 #### Character Roles
 
 - **Brute:** A character who hits hard and holds territory. Other classes for this role: Barbarian, Fighter, Paladin.
-- **Support:** A character who enhances the rest of the group. Other classes for this role: Bard, Druid, Wizard.
+- **Support:** A character who enhances the rest of the group. Other classes for this role: Bard, Druid, Paladin, Wizard.
 
 ### Fighter
 
@@ -95,14 +98,24 @@ In Wellspring the [City Guard](./organizations#the-city-guard) and [Stonewardens
 
 The Monk class can be taken in a few different directions. Some focus more on martial prowess, in effect being more akin to Fighters with a specialized skill set, and with a similar role in Wellspring society. Others focus more on mysticism, and fill a role similar to Clerics or Druids, depending on their respective belief systems. Still other Monks belong to existing orders or organizations that provide support and guidance.
 
-In Wellspring, the most prominent monastic order is the [Falling Stars](./organizations#the-society-of-the-third-eye), the protectors of the [Watchers of the Stars](./organizations#the-watchers-of-the-stars). Most Falling Stars are Monks with the Way of the TODO subclass. Monks of the Way of the Four Elements may join the [Arcane Order](./organizations#the-arcane-order), while Monks of the Way of Shadow are greatly valued by the [Harfoot Syndicate](./organizations#the-harfoot-syndicate). Elven Monks often choose the Way of the Kensei, while a notable order of Dwarven Monks follows the Way of the Drunken Master.
+In Wellspring, the most prominent monastic order is the [Falling Stars](./organizations#the-society-of-the-third-eye), the protectors of the [Watchers of the Stars](./organizations#the-watchers-of-the-stars). Most Falling Stars are Monks with the Way of the Astral Self subclass. Monks of the Way of the Four Elements may join the [Arcane Order](./organizations#the-arcane-order), while Monks of the Way of Shadow are greatly valued by the [Harfoot Syndicate](./organizations#the-harfoot-syndicate). Elven Monks often choose the Way of the Kensei, while a notable order of Dwarven Monks follows the Way of the Drunken Master.
 
 #### Character Roles
 
 - **Controller:** A character who disrupts enemies and weakens them for their allies. Other classes for this role: Sorcerer, Warlock, Wizard.
 - **Skirmisher:** A fast-moving character who controls the battlefield. Other classes for this role: Barbarian, Ranger, Rogue.
 
-<!-- ### Paladin -->
+### Paladin
+
+While the name Paladin evokes a holy knight, this is only one role that members of this class can fulfill. A more inclusive name might be Champion, as most Paladins draw their powers from a powerful oath. Accordingly, a Paladin's role in society may depend strongly on their sworn oath and how it shapes their goals and methods.
+
+In Wellspring, Paladins who swore an Oath of Glory are often drawn to the [Delver's Guild](./organizations#the-delvers-guild) and the promise of adventure beneath the city. Those who have sworn the Oath of Devotion often fall into the traditional holy knight role, either championing individual causes or serving a larger martial or religious organization.
+
+#### Character Roles
+
+- **Armored:** A strong character relying on heavy armor and defenses for protection. Other classes for this role: Artificer, Cleric, Fighter.
+- **Brute:** A character who hits hard and holds territory. Other classes for this role: Barbarian, Fighter, Druid (in Wild Shape).
+- **Support:** A character who enhances the rest of the group. Other classes for this role: Bard, Cleric, Druid, Wizard.
 
 <!-- ### Ranger -->
 
