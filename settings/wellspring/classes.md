@@ -22,6 +22,7 @@ You can also use the rules for [Customizing Class Proficiencies]({{site.baseurl}
 - [Paladin](#paladin)
 - [Ranger](#ranger)
 - [Rogue](#rogue)
+- [Sorcerer](#sorcerer)
 
 ### Artificer
 
@@ -142,15 +143,23 @@ In Wellspring, the [Harfoot Syndicate](./organizations#the-harfoot-syndicate) ac
 - **Skirmisher:** A fast-moving character who controls the battlefield. Other classes for this role: Barbarian, Monk, Ranger.
 - **Utility:** A character with a range of abilities rather than focusing on one. Other classes for this role: Artificer, Bard, Wizard.
 
-<!-- ### Sorcerer -->
+### Sorcerer
+
+The city of Wellspring overflows with magic, and that magic can take root in the blood of its people. For many, this manifests as a [Bloodline]({{site.baseurl}}/systems/5e/feats#bloodlines), but in others it grants them a powerful form of magic. Other Sorcerers draw their magic from a connection to an external source of power, while a few gain their abilities through scholarship and study, albeit a very individual process compared to that of a wizard.
+
+In Wellspring, sorcerers are most often drawn to the [Arcane Order](./organizations#the-arcane-order).
+
+#### Character Roles
+
+- **Blaster:** A character who dishes out the hurt at range and against multiple foes. Other classes for this role: Warlock, Wizard.
+- **Controller:** A character who disrupts enemies and weakens them for their allies. Other classes for this role: Monk, Warlock, Wizard.
+- **Diplomat:** A character who uses social skills to stand out. Other classes for this role: Bard, Rogue.
 
 <!-- ### Warlock -->
 
 <!-- ### Wizard -->
 
 <!-- #### Character Roles
-
-- **Blaster:** A character who dishes out the hurt at range and against multiple foes. Other classes for this role: Sorcerer, Warlock. -->
 
 ---
 

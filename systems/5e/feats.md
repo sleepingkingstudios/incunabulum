@@ -15,6 +15,7 @@ A Bloodline is a special feat that is (usually) only available at 1st level. Des
 
 | Name | Description |
 | [Bloodline of Air](#bloodline-of-air) | The power of the winds flows through your veins. |
+| [Bloodline of Fire](#bloodline-of-fire) | The power of the flame flows through your veins. |
 | [Celestial Bloodline](#celestial-bloodline) | You are blessed with the heritage of the heavens. |
 
 ## Talents
@@ -23,6 +24,7 @@ Talents represent a particular gift the character has for an area of cunning, mi
 
 | Name | Description |
 | [Gift of the Magister](#gift-of-the-magister) | You wield a staff as the symbol of your might and magic. |
+| [Gift of the Sorcerer](#gift-of-the-sorcerer) | You have a touch of the sorcerer's arcane talents. |
 | [Gift of the Wizard](#gift-of-the-wizard) | You have a natural talent for studying the arcane arts. |
 
 ## List of Feats
@@ -38,13 +40,28 @@ Talents represent a particular gift the character has for an area of cunning, mi
 The power of the winds flows through your veins. You gain the following benefits:
 
 - Increase your Dexterity, Constitution, or Intelligence score by +2, to a maximum of 20, **or** increase two of those scores by +1 each, to a maximum of 20.
-- You learn the TBD cantrip.
+- You learn the *gust* cantrip, from *Xanathar's Guide to Everything*.
 
 Additionally, choose one of the following benefits:
 
 - *Gusty Step:* You can take the Dash action as a bonus action on your turn.
 - *Wind's Guidance:* When making a weapon attack with a finesse weapon or a ranged weapon, you can ignore Disadvantage (if the check has disadvantage) or make the attack with Advantage (if the check does not have disadvantage). You can use this feature a number of times equal to your proficiency bonus. You regain any expended uses when you finish a long rest.
 - *Blessing of Air:* You learn the *invisibility* and *feather fall* spells. You can cast each of these spells without expending a spell slot. Once you cast either of these spells in this way, you can't cast that spell in this way again until you finish a long rest. You can also cast these spells using spell slots you have of the appropriate level.
+
+### Bloodline of Fire
+
+*Bloodline*
+
+The power of the flame flows through your veins. You gain the following benefits:
+
+- Increase your Dexterity, Constitution, or Intelligence score by +2, to a maximum of 20, **or** increase two of those scores by +1 each, to a maximum of 20.
+- You learn the *fire bolt* cantrip.
+
+Additionally, choose one of the following benefits:
+
+- *Mana Burn:* When you cast a spell that deals fire damage, you can inflict additional fire damage equal to your proficiency bonus. A creature can only take the additional damage once per spell cast.
+- *Burning Blade*: When you successfully hit a creature with a weapon attack, you can add 1d6 fire damage to the attack. You can use this ability a number of times equal to your proficiency bonus, and you regain spent uses when you complete a short rest.
+- *Blessing of Fire:* You learn the *flaming sphere* and *burning hands* spells. You can cast each of these spells without expending a spell slot. Once you cast either of these spells in this way, you can't cast that spell in this way again until you finish a long rest. You can also cast these spells using spell slots you have of the appropriate level.
 
 ### Celestial Bloodline
 
@@ -91,6 +108,14 @@ In addition, you can store spell slots in your Magister's Staff:
 - While wielding your Magister's staff, you can use the stored spell slot to cast a spell as if it was an available spell slot.
 - When you make a melee weapon attack with your Magister's Staff, you can expend the stored spell slot to add +1d10 force damage per level of the spell slot.
 
+### Gift of the Sorcerer
+
+You have a touch of the sorcerer's arcane talents. You gain the following benefits:
+
+- You know two 1st-level spells from the sorcerer spell list. The spells must be of a spell level for which you have spell slots. When you gain a new level, you can replace one of these spells with another spell from the sorcerer spell list which is of a level for which you have spell slots.
+- You gain a number of sorcery points equal to your proficiency bonus. You can transform unexpended sorcery points into one spell slot as a bonus action, per the *Flexible Casting* sorcerer ability. You regain all spent sorcery points when you finish a long rest.
+- Charisma is your spellcasting ability for spells you have prepared using this feat.
+
 ### Gift of the Wizard
 
 *Talent*
@@ -99,7 +124,7 @@ You have a natural talent for studying the arcane arts. You gain the following b
 
 - You have a spellbook containing two 1st-level spells from the wizard spell list.
 - When you find a wizard spell of 1st level or higher, you can add it to your spellbook if it is of a spell level you can prepare, using the rules for adding a spell to a wizard's spellbook.
-- You can prepare a number of spells from your spellbook equal to your proficiency bonus. The spells must be of a spell level for which you have spell slots. You can change your list of prepared spells when you finish a long rest. You can cast these prepared spells using any spell slots you have.
+- You can prepare two spells from your spellbook. The spells must be of a spell level for which you have spell slots. You can change your list of prepared spells when you finish a long rest. You can cast these prepared spells using any spell slots you have.
 - Intelligence is your spellcasting ability for spells you have prepared using this feat.
 
 ### Signature Spell
