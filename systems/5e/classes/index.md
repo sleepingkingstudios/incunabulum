@@ -6,6 +6,19 @@ title: D&D 5E | Classes
 
 - [Clerics](#clerics)
 
+## Customizing Classes
+
+### Proficiencies
+
+With the DM's permission, you can customize your class proficiencies to better suit a character concept. This uses the same rules as customizing lineage proficiencies in *Tasha's Cauldron of Everything*. You can replace each of your class proficiencies with a different one of your choice, following the restrictions on the following table.
+
+| Proficiency | Replacement Proficiency |
+| Skill | Skill |
+| Armor | Simple/martial weapon or tool |
+| Simple weapon | Simple weapon or tool |
+| Martial weapon | Simple/martial weapon or tool |
+| Tool | Tool or simple weapon |
+
 ## Clerics
 
 ### Optional Class Features

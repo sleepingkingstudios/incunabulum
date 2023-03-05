@@ -4,6 +4,12 @@ title: Organizations
 
 # Organizations
 
+- [The Arcane Order](#the-arcane-order)
+- [The Delver's Guild](#the-delvers-guild)
+- [The Harfoot Syndicate](#the-harfoot-syndicate)
+- [The Merchantry Association](#the-merchantry-association)
+- [The Watchers of the Stars](#the-watchers-of-the-stars)
+
 Many organizations and societies, both open and secret, make their home in the City of Wellspring, and many more are drawn to the wealth and the intrigue that flow through the city's streets.
 
 ## The Arcane Order
@@ -24,13 +30,15 @@ The headquarters of the Arcane Order is a grand edifice of marble, with a fortif
 
 The Arcane Order comes into occasional conflict with the Watchers of the Stars, seeking to bring the more mystically-inclined Watchers under the aegis (and membership dues) of the guild.
 
-<!-- ## The City Guard -->
+## The Harfoot Syndicate
 
-<!-- ##  The Delver's Guild -->
+Originally a mutual aid society for halfling immigrants to the city, Harfoot Syndicate has become the largest criminal enterprise in Wellspring. Syndicate "houses" are responsible for everything from petty street crime such as pickpockets and flimflam artists to grand theft and running establishments selling companionship or minor narcotics.
 
-<!-- ## The Harfoot Syndicate -->
+The Syndicate is organized into cells known as "houses", each of which is self-organized and tends to focus on a few areas of criminal or quasi-legitimate enterprise. Few operate in the Upper City, although a connection is rumored between the Syndicate and the gilded Rabbit's Food Casino. In the Lower City, "Syndicate goon" is a curse word, although most houses avoid preying directly on the working classes. In contrast, parts of the Undercity are run by the Syndicate more or less openly, and they provide protection to places where the City Guard will not go.
 
-<!-- ## The Merchantry Association -->
+### Relationships
+
+The Syndicate's relationship with the City Guard and Merchantry Association is necessarily antagonistic, although endemic corruption provides some openings for criminal activity. Likewise, the relationship with the Stonewardens is frosty, although the two groups will work together during incursions from below.
 
 ## The Delvers' Guild
 
@@ -58,6 +66,24 @@ The headquarters of the Delver's Guild is located in the Lower City. Originally 
 
 The Delver's Guild has generally good relationship with most others in the city. It has something of a love-hate relationship with the City Guard, who view delvers as disreputable at best but rely on their spells and steel when dangerous creatures emerge from the Chasm.
 
+## The Merchantry Association
+
+The Merchantry Association represents the tradespeople of Wellspring, from an independent craftman in the Lower City to the great trading companies. At least, that is the sales pitch, although there are frequent complaints that the Association is far more representative of (and responsive to) the great companies and constitutent guilds than it is to its individual members.
+
+A number of guilds and trade organizations fall under the umbrella of the Merchantry Association, of which the most prominent is the Banking Guild.
+
+### Membership
+
+Membership in the Association is theoretically voluntary; there is an annual membership fee that is supposed to be offset by tax advantages, although in practice individuals and smaller businesses gain little advantage from the latter arrangement. Particularly in the Lower City, there are occasional claims of threats or thuggery against independents who refuse to join the Merchantry Association, although these claims are rarely substantiated when investigated by the City Guard.
+
+### Relationships
+
+The Merchantry Association has a cozy relationship with the City Guard, and often hires members of the guard for security for itself and the more well-connected of its constituency. Conversely, it has a politely combative relationship with the Arcane Order; the membership resents the sky-high prices charged for magical services, while the Merchantry leadership would love nothing more than to bring the Arcane Order (and its associated fees) under the Association banner.
+
+### Headquarters
+
+The headquarters of the Merchantry Association is an imposing marble edifice in the Upper City. It holds offices and meeting rooms for conducting negotiations of trade and commerce, as well as renting space to some of the smaller constituent organizations and guilds.
+
 ## The Watchers Of The Stars
 
 The Watchers of the Stars are an organization of diviners, scholars and mystics who study the heavens for glimpses of the future. It is said that they master magics unknown to other mages, and that their most powerful adepts can use their knowledge to manipulate the vagaries of fate.
@@ -74,9 +100,13 @@ The headquarters of the Watchers is the Astral Observatory, built into a peak hi
 
 ### Relationships
 
-The Watchers have a somewhat one-sided rivalry with the Arcane Order, who they see as narrow-minded and focused on commerce and influence over the mysteries of magic. That said, a few Watchers are also guild members in good standing, including several high-ranking Astrologians.
+The Watchers have a somewhat one-sided rivalry with the Arcane Order, who they see as narrow-minded and focused on commerce and influence over the mysteries of magic. That said, a few Watchers are also guild members in good standing, including several high-ranking Astrologians. The Watchers of the Stars also have a dedicated monastic order, the [Falling Stars](#the-falling-stars), responsible for protection of the Astral Observatory and (rarely) individual members.
 
 ## Other Organizations
+
+### The City Guard
+
+The City Guard is responsible for protecting the city from disorder, invasion, insurrection, and the constant threat of monsters from the Great Chasm. The guard patrols the Upper City and maintains a regular presence in most of the Lower City, but rarely venture in the Undercity (and then only in force). Although the City Guard is responsible for crime and maintains the city's gaol and prison (known as The Pits), the guard is not an investigative service, and those trying to track down missing people or stolen property are advised to find a private investigator.
 
 ### The Dragonslayers
 
@@ -84,9 +114,23 @@ The Dragonslayers were once a mercenary company that managed to slay an ancient 
 
 Their draconic equipment grants them a powerful advantage. Although it is rarely sold to outsiders, it can sometimes be found on the black market, but beware - its bearers will earn the bitter enmity of dragonkind.
 
+### The Falling Stars
+
+A monastic order based in the Astral Observatory and dedicated to the protection of the [Watchers of the Stars](#the-watchers-of-the-stars). Most are disciples of the Way of the Astral Self, but some follow other disciplines, and in rare cases members of other classes will join as well.
+
+### The Planar Cartographers
+
+Originally an idle venture by gentlemen of leisure, the Brotherhood of Planar Cartographers seeks to explore and chart the manifold planes of existence. They are particularly interested in sightings of extraplanar creatures or of working or unmapped gates. Their headquarters is a former hunting lodge and exclusive house of ill repute in the Upper City.
+
 <!-- ### The Silver Dragons -->
 
-<!-- ### The Stonewardens -->
+### The Society of the Third Eye
+
+A secretive order based in Wellspring, devoted to the study of mentalism, psionics, and mind magic. Their headquarters is a converted row house in the Lower City. Membership is by invitation only.
+
+### The Stonewardens
+
+The Stonewardens are the protectors of [Dwarfhome](./geography#dwarfhome), a fortified community in the Undercity populated largely by dwarves. They are rarely seen in other parts of the city, and have a sometimes-contentious relationship with the City Guard.
 
 ---
 

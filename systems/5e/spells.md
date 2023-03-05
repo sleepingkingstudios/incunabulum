@@ -39,7 +39,7 @@ In rare cases, a variant spell may allow a character to cast a spell not on thei
 | 1 | [Caustic Brew](#caustic-brew) | Conjuration | No | No | No | Artificer, Sorcerer, Wizard |
 | 1 | [Lava Bomb](#lava-bomb) | Conjuration | No | No | No | Druid, Sorcerer, Wizard |
 | 1 | [Screaming Skull](#screaming-skull) | Necromancy | No | No | Yes | Cleric (Death Domain), Sorcerer, Wizard |
-| 1 | [Shooting Star](#shooting-star) | Evocation | No | No | Yes | Sorcerer, Wizard |
+| 1 | [Shooting Star](#shooting-star) | Conjuration | No | No | Yes | Cleric (Light Domain), Sorcerer, Wizard |
 
 ### Burning Armor
 
@@ -95,18 +95,16 @@ As *ice knife*, but inflicts 1d10 necrotic damage on a successful attack, and 2d
 
 ### Shooting Star
 
-*1st-level Evocation* [Exotic]
+*1st-level Conjuration* [Exotic] [Variant]
 
 **Casting Time:** 1 action.<br>
-**Range:** 120 feet.<br>
-**Components:** V, S<br>
+**Range:** 60 feet.<br>
+**Components:** S, M (a fragment of a meteor)<br>
 **Duration:** Instantaneous
 
-You create three darts of magical force, and launch them at creatures of your choice that you can see within range. You can direct the darts to hit one creature or several. Each targeted creature must make a Dexterity saving throw or take 1d10 force damage per dart targeting that creature, or half damage on a successful save.
+As *ice knife*, but inflicts 1d10 bludgeoning damage on a successful attack, and 2d6 radiant damage to the target and creatures within 5 feet (Dex negates).
 
-This spell counts as *magic missile* for effects that protect against or trigger on the *magic missile* spell, such as the *shield* spell or a *Brooch of Shielding*.
-
-**At Higher Levels:** The spell creates one more dart for each slot level above 1st.
+**At Higher Levels:** The radiant damage increases by 1d6 for each slot level above 1st.
 
 ---
 

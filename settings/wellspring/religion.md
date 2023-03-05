@@ -1,8 +1,14 @@
 ---
-name: Religion
+name: Wellspring | Religion
 ---
 
 # Religion
+
+- [The Pantheon](#the-pantheon)
+- [The Dyadic Faiths](#the-dyadic-faiths)
+- [Other Faiths](#other-faiths)
+
+## The Pantheon
 
 The most common religion in Wellspring is polytheistic, and there are many shrines, temples, and churches to different deities. Whether or not an individual is drawn to a specific deity, they will frequently give prayers or make offerings to others in the pantheon. For example, a farmer might give his devotion to the Greenmage, but make offerings to the Storm King for good weather and to the Knight-Errant for the safety of his son, a guardsman.
 
@@ -21,7 +27,9 @@ The most common religion in Wellspring is polytheistic, and there are many shrin
 - Trickery (PHB)
 - Twilight (TCE) -->
 
-## Deities Of The Pantheon
+### Deities Of The Pantheon
+
+The following are only a sample of the deities in the pantheon - there are gods and goddesses from many lands, with many names. Nor is the pantheon constant. New gods emerge, arise to prominence, and then fall to obscurity as their domains and worshippers are usurped by others. No one truly know the fate of forgotten gods, and so even the most obscure sects strive to keep their faiths alive from generation to generation. It is said that in the Free City of Reval, far to the west, there is a Street of 10,000 Gods, where every deity known since the city's founding has an altar.
 
 The Conquerer
 : Patroness of battle, aggressive war, and feats of strength. She is followed by barbarians, fighters, gladiators, and a surprising number of rogues (drawn to her precept that victory is everything, no matter how it was obtained).
@@ -93,16 +101,43 @@ The Storm King
 
   *Domains:* Tempest, Trickery.
 
+## The Dyadic Faiths
+
+These religions are of halfling origin, and are dualistic in nature, balanced between a benevolent protector deity and an opposing destroyer deity. Traditional practice pays reverence to the two gods in equal measure, reflecting less of a good-evil duality and more of a cycle of existence. However, most adherents of these faiths have embraced polytheism, revering their chosen patron as paramount but also paying acknowledgment to other deities at need.
+
+### Life And Death
+
+This faith originates from the local halfling communities, and centers around the duality of life and death. Its twin deities are only semi-personified, and its practice often includes animist veneration of elemental or nature spirits. Many elves and some humans and dwarves also follow this religion.
+
+The Flowering
+: Halfling deity of summer, nature, and the elements, associated with the [Nature arcanum](./magic#the-nature-arcanum).
+
+The Wilting
+: Halfling deity of winter, death, and emptiness, associated with the [Death arcanum](./magic#the-death-arcanum).
+
+### Light And Darkness
+
+This faith originates from a halfling community far across the sea, and centers around the duality of light and darkness. Many humans and some giants have adopted this faith as it spreads from its distant origin.
+
+The Sun Goddess
+: Halfling deity of light, life, and creation, associated with the [Sacred arcanum](./magic#the-sacred-arcanum).
+
+The Lord of Night
+: Halfling deity of darkness and destruction, associated with the [Profane arcanum](./magic#the-profane-arcanum).
+
+A radical offshoot known as the Church of Light is said to have all but absorbed the older faith in its land or origin, and is rapidly gaining followers here despite its intolerance of other religions, which it sees as misguided at best or demon worship at worst.
+
 ## Other Faiths
 
-<!-- The Great Serpent -->
-
-The Parliament of Light
+The Convovation of Radiance
 : A group of powerful beings aligned with "light", worshipped both collectively and individually. Includes some deities, powerful angels and celestials, and even past heroes or spiritual leaders, although the details vary from congregation to congregation.
 
   *Domains:* Life, Light, Peace (TCE).
 
-<!-- ## Cults And Cabals -->
+The Elemental Lords
+: This religion originated with the giants, who revere a pantheon of their own of powerful elemental spirits. At the dawn of creation, each spirit was said to grant their favor to one lineage of giants.
+
+<!-- The Great Serpent -->
 
 ---
 
