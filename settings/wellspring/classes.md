@@ -23,6 +23,7 @@ You can also use the rules for [Customizing Class Proficiencies]({{site.baseurl}
 - [Ranger](#ranger)
 - [Rogue](#rogue)
 - [Sorcerer](#sorcerer)
+- [Warlock](#warlock)
 
 ### Artificer
 
@@ -155,11 +156,28 @@ In Wellspring, sorcerers are most often drawn to the [Arcane Order](./organizati
 - **Controller:** A character who disrupts enemies and weakens them for their allies. Other classes for this role: Monk, Warlock, Wizard.
 - **Diplomat:** A character who uses social skills to stand out. Other classes for this role: Bard, Rogue.
 
-<!-- ### Warlock -->
+### Warlock
 
-<!-- ### Wizard -->
+Enigmatic and powerful, most Warlocks are defined by their connection to a magical patron. For some, their power instead reflects the gifts of their heritage, similar to a sorcerer, or the benefits of intensive study of matters eldritch and strange. Some Warlocks (particularly those with the Pact of the Blade) rely more on their enhanced martial prowess. Others prefer their potent magical abilities.
 
-<!-- #### Character Roles
+In Wellspring, those warlocks that identify more with other users of arcane magic may join the [Arcane Order](./organizations#the-arcane-order), while those of a warrior's bent may join the [City Guard](./organizations#the-city-guard) or another martially-aligned organization.
+
+#### Character Roles
+
+- **Blaster:** A character who dishes out the hurt at range and against multiple foes. Other classes for this role: Sorcerer, Wizard.
+- **Controller:** A character who disrupts enemies and weakens them for their allies. Other classes for this role: Monk, Sorcerer, Wizard.
+
+### Wizard
+
+The archetypal arcanist, Wizards leverage their scholarship and magical talents to reshape the world around them. Some seek to uncover the fundamental truths of magic; others to discover the lost knowledge of the ancients in the depths beneath the city, or to divine hidden or blasphemous secrets of forbidden lore.
+
+In Wellspring, most wizards find the [Arcane Order](./organizations#the-arcane-order) to be a natural fit, while those of a more mystical bent may join the [Watchers of the Stars](./organizations#the-watchers-of-the-stars). Wizards who wish to sell magical equipment such as scrolls, potions, or enchanted items may join the [Merchantry Association](./organizations#the-merchantry-association).
+
+#### Character Roles
+
+- **Blaster:** A character who dishes out the hurt at range and against multiple foes. Other classes for this role: Sorcerer, Warlock.
+- **Controller:** A character who disrupts enemies and weakens them for their allies. Other classes for this role: Monk, Sorcerer, Warlock.
+- **Scholar:** A character who relies on knowledge and study. Other classes for this role: Cleric (Knowledge domain).
 
 ---
 
