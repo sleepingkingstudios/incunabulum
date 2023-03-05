@@ -20,6 +20,8 @@ You can also use the rules for [Customizing Class Proficiencies]({{site.baseurl}
 - [Fighter](#fighter)
 - [Monk](#monk)
 - [Paladin](#paladin)
+- [Ranger](#ranger)
+- [Rogue](#rogue)
 
 ### Artificer
 
@@ -43,14 +45,14 @@ Despite the stereotype of the outlander from the wilderness, Barbarians can be e
 
 #### Character Roles
 
-- **Brute:** A character who hits hard and holds territory. Other classes for this role: Druid (in Wild Shape), Fighter, Paladin.
+- **Brute:** A character who hits hard and holds territory. Other classes for this role: Druid (in Wild Shape), Fighter, Ranger, Paladin.
 - **Skirmisher:** A fast-moving character who controls the battlefield. Other classes for this role: Monk, Ranger, Rogue.
 
 ### Bard
 
 The Bard as a practice mixing music and magic originated with Halflings, and their people have a rich tradition of music and storytelling. Among humans, the folk tradition has grown to encompass everything from common gleemen to formal court bards. The giants have a parallel tradition of war skalds, keeping an oral tradition of great heroes and greater battles. The dwarves employ war chanters, who keep the long lineages of their clans and cities.
 
-In Wellspring, bards can be found among street performers as much as in the halls of the rich and powerful. A few join the [Arcane Order](./organizations#the-arcane-order), but most find their study and regimentation stifling. Bards are also common among the [Harfoot Syndicate](./organizations#the-harfoot-syndicate)
+In Wellspring, bards can be found among street performers as much as in the halls of the rich and powerful. A few join the [Arcane Order](./organizations#the-arcane-order), but most find their study and regimentation stifling. Bards are also common among the [Harfoot Syndicate](./organizations#the-harfoot-syndicate).
 
 #### Character Roles
 
@@ -62,7 +64,7 @@ In Wellspring, bards can be found among street performers as much as in the hall
 
 Not all priests or priestesses are Clerics, and not all Clerics are tied to a religious organization or even to a deity. The core element of a Cleric is *faith*. Usually, a cleric believes so strongly in something that magic itself responds - whether in a religion or a deity, a principle, or even a cause. In some cases, however, the connection is reversed. Such clerics find themselves bound to something they may not entirely understand.
 
-Clerics in Wellspring bring their devotion to all that they do, whether it is as part of an organization or as a lone devotee of a cause only they can see. Those of a more scholarly bent may join the [Arcane Order](./organizations#the-arcane-order), while clerics with a more mystical bent may join the [Watchers of the Stars](./organizations#the-watchers-of-the-stars). Clerics with healing ability are also prized by the [Delver's Guild](./organizations#the-delvers-guild) and the City Guard.
+Clerics in Wellspring bring their devotion to all that they do, whether it is as part of an organization or as a lone devotee of a cause only they can see. Those of a more scholarly bent may join the [Arcane Order](./organizations#the-arcane-order), while clerics with a more mystical bent may join the [Watchers of the Stars](./organizations#the-watchers-of-the-stars). Clerics with healing ability are also prized by the [Delver's Guild](./organizations#the-delvers-guild) and the [City Guard](./organizations#the-city-guard).
 
 Clerics in Wellspring can select the [Cloistered Cleric]({{site.baseurl}}/systems/5e/classes/#cloistered-cleric) class variant.
 
@@ -80,7 +82,7 @@ Druids in Wellspring may join the [Watchers of the Stars](./organizations#the-wa
 
 #### Character Roles
 
-- **Brute:** A character who hits hard and holds territory. Other classes for this role: Barbarian, Fighter, Paladin.
+- **Brute:** A character who hits hard and holds territory. Other classes for this role: Barbarian, Fighter, Ranger, Paladin.
 - **Support:** A character who enhances the rest of the group. Other classes for this role: Bard, Druid, Paladin, Wizard.
 
 ### Fighter
@@ -92,7 +94,7 @@ In Wellspring the [City Guard](./organizations#the-city-guard) and [Stonewardens
 #### Character Roles
 
 - **Armored:** A strong character relying on heavy armor and defenses for protection. Other classes for this role: Artificer, Cleric, Paladin.
-- **Brute:** A character who hits hard and holds territory. Other classes for this role: Barbarian, Druid, Paladin.
+- **Brute:** A character who hits hard and holds territory. Other classes for this role: Barbarian, Druid, Ranger, Paladin.
 
 ### Monk
 
@@ -107,19 +109,38 @@ In Wellspring, the most prominent monastic order is the [Falling Stars](./organi
 
 ### Paladin
 
-While the name Paladin evokes a holy knight, this is only one role that members of this class can fulfill. A more inclusive name might be Champion, as most Paladins draw their powers from a powerful oath. Accordingly, a Paladin's role in society may depend strongly on their sworn oath and how it shapes their goals and methods.
+While the name Paladin evokes a holy knight, this is only one of many roles that members of this class can fulfill. A more inclusive name might be Champion, as most Paladins draw their powers from a powerful oath. Accordingly, a Paladin's role in society may depend strongly on their sworn oath and how it shapes their goals and methods.
 
 In Wellspring, Paladins who swore an Oath of Glory are often drawn to the [Delver's Guild](./organizations#the-delvers-guild) and the promise of adventure beneath the city. Those who have sworn the Oath of Devotion often fall into the traditional holy knight role, either championing individual causes or serving a larger martial or religious organization.
 
 #### Character Roles
 
 - **Armored:** A strong character relying on heavy armor and defenses for protection. Other classes for this role: Artificer, Cleric, Fighter.
-- **Brute:** A character who hits hard and holds territory. Other classes for this role: Barbarian, Fighter, Druid (in Wild Shape).
+- **Brute:** A character who hits hard and holds territory. Other classes for this role: Barbarian, Fighter, Druid (in Wild Shape), Ranger.
 - **Support:** A character who enhances the rest of the group. Other classes for this role: Bard, Cleric, Druid, Wizard.
 
-<!-- ### Ranger -->
+### Ranger
 
-<!-- ### Rogue -->
+As with Druids, Rangers may seem an odd fit for a heavily urban area. However, their skills of monster hunting, tracking, and navigating hostile environments can be of tremendous value in the streets as well as in the wilds, and skilled Rangers with urban experience can find lucrative work as private investigators or bounty hunters. Conversely, Rangers with traditional skills are highly valued for expeditions below the city, where navigating the correct path may mean the difference between a safe return and a gruesome demise.
+
+In Wellspring, Rangers are actively recruited by the [City Guard](./organizations#the-city-guard) and the [Delver's Guild](./organizations#the-delvers-guild), while those of a criminal bent may turn to the [Harfoot Syndicate](./organizations#the-harfoot-syndicate). Horizon Walkers are particularly prized by both the [Arcane Order](./organizations#the-arcane-order) and the [Planar Cartographers](./organizations#the-planar-cartographers).
+
+#### Character Roles
+
+- **Brute:** A character who hits hard and holds territory. Other classes for this role: Barbarian, Druid (in Wild Shape), Fighter, Paladin.
+- **Skirmisher:** A fast-moving character who controls the battlefield. Other classes for this role: Barbarian, Monk, Rogue.
+
+### Rogue
+
+The quintessential class for urban adventure, Rogues combine a wide range of useful skills with versatile combat prowess. From fancy Upper City swashbucklers to Undercity cutpurses, Rogues can be found in every part of Wellspring. Despite the stereotype of Rogues as thieves and cutthroats, Rogues can also be honorable warriors, charming performers, or cunning investigators.
+
+In Wellspring, the [Harfoot Syndicate](./organizations#the-harfoot-syndicate) actively recruits rogues of all types, but Thieves, Masterminds and Assassins are particularly valued. Arcane Tricksters may join the [Arcane Order](./organizations#the-arcane-order). Swashbucklers are welcome in the [City Guard](./organizations#the-city-guard), and can be hired as guards for the noble houses in the Upper City. Scouts are in great demand from the [Delver's Guild](./organizations#the-delvers-guild), and the rare Soulknives are welcomed by the [Society of the Third Eye](./organizations#the-society-of-the-third-eye).
+
+#### Character Roles
+
+- **Diplomat:** A character who uses social skills to stand out. Other classes for this role: Bard, Sorcerer.
+- **Skirmisher:** A fast-moving character who controls the battlefield. Other classes for this role: Barbarian, Monk, Ranger.
+- **Utility:** A character with a range of abilities rather than focusing on one. Other classes for this role: Artificer, Bard, Wizard.
 
 <!-- ### Sorcerer -->
 

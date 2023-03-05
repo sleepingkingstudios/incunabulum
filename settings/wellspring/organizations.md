@@ -118,6 +118,10 @@ Their draconic equipment grants them a powerful advantage. Although it is rarely
 
 A monastic order based in the Astral Observatory and dedicated to the protection of the [Watchers of the Stars](#the-watchers-of-the-stars). Most are disciples of the Way of the Astral Self, but some follow other disciplines, and in rare cases members of other classes will join as well.
 
+### The Planar Cartographers
+
+Originally an idle venture by gentlemen of leisure, the Brotherhood of Planar Cartographers seeks to explore and chart the manifold planes of existence. They are particularly interested in sightings of extraplanar creatures or of working or unmapped gates. Their headquarters is a former hunting lodge and exclusive house of ill repute in the Upper City.
+
 <!-- ### The Silver Dragons -->
 
 ### The Society of the Third Eye
