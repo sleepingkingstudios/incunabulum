@@ -23,6 +23,7 @@ A Bloodline is a special feat that is (usually) only available at 1st level. Des
 Talents represent a particular gift the character has for an area of cunning, might, or magic.
 
 | Name | Description |
+| [Gift of the Bond](#gift-of-the-bond) | You have a natural connection to a familiar or servant. |
 | [Gift of the Magister](#gift-of-the-magister) | You wield a staff as the symbol of your might and magic. |
 | [Gift of the Sorcerer](#gift-of-the-sorcerer) | You have a touch of the sorcerer's arcane talents. |
 | [Gift of the Wizard](#gift-of-the-wizard) | You have a natural talent for studying the arcane arts. |
@@ -30,6 +31,7 @@ Talents represent a particular gift the character has for an area of cunning, mi
 ## List of Feats
 
 | Name | Description |
+| [Open The Third Eye](#open-the-third-eye) | You have a talent for divination magic. |
 | [Signature Spell](#signature-spell) | You have mastered a single spell. |
 | [Spell Artist](#spell-artist) | You can shape the manifestations of your spells at will. |
 
@@ -82,16 +84,19 @@ Additionally, choose one of the following benefits:
 
 <!-- ### Draconic Bloodline -->
 
-<!-- ### Infernal Bloodline -->
+### Gift of the Bond
 
-<!-- ### Manifest Wings -->
+*Talent*
 
-### Open The Third Eye
+You have a natural connection to a familiar or servant. Choose one of the following benefits:
 
-You have a talent for divination magic. You gain the following benefits:
+- You learn the *find familiar* skill, and you can cast this spell without using a spell slot. Once you cast either of these spells in this way, you can't cast that spell in this way again until you finish a long rest. You can also cast this spell using spell slots you have of the appropriate level. The spell's spellcasting ability is your choice of Intelligence, Wisdom, and Charisma.
+- You can choose one of the normal forms for your familiar, animal companion, or homonculus servant, or one of the following special forms: imp, pseudodragon, quasit, or sprite. You may choose additional special forms at the DM's discretion.
+- When creating a *homonculus servant*, you can craft the heart of the servant out of mundane components instead of a gem or crystal. The item does not have a minimum worth in GP.
 
-- Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
-- You learn the *augury* spell and one 1st-level spell of your choice. The 1st-level spell must be from the divination school of magic. You can cast each of these spells without expending a spell slot. Once you cast either of these spells in this way, you can't cast that spell in this way again until you finish a long rest. You can also cast these spells using spell slots you have of the appropriate level. The spells' spellcasting ability is the ability increased by this feat.
+In addition, you gain the following benefits for your familiar, animal companion, homonculus servant, or other companion:
+
+- You can communicate telepathically with your companion and perceive through your companion's senses as long as you are on the same plane of existence. Additionally, while perceiving through your companion's senses, you can also speak through your companion in your own voice, even if your familiar is normally incapable of speech.
 
 ### Gift of the Magister
 
@@ -126,6 +131,17 @@ You have a natural talent for studying the arcane arts. You gain the following b
 - When you find a wizard spell of 1st level or higher, you can add it to your spellbook if it is of a spell level you can prepare, using the rules for adding a spell to a wizard's spellbook.
 - You can prepare two spells from your spellbook. The spells must be of a spell level for which you have spell slots. You can change your list of prepared spells when you finish a long rest. You can cast these prepared spells using any spell slots you have.
 - Intelligence is your spellcasting ability for spells you have prepared using this feat.
+
+<!-- ### Infernal Bloodline -->
+
+<!-- ### Manifest Wings -->
+
+### Open The Third Eye
+
+You have a talent for divination magic. You gain the following benefits:
+
+- Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
+- You learn the *augury* spell and one 1st-level spell of your choice. The 1st-level spell must be from the divination school of magic. You can cast each of these spells without expending a spell slot. Once you cast either of these spells in this way, you can't cast that spell in this way again until you finish a long rest. You can also cast these spells using spell slots you have of the appropriate level. The spells' spellcasting ability is the ability increased by this feat.
 
 ### Signature Spell
 
