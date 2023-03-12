@@ -151,7 +151,7 @@ You have mastered a single spell. Choose one spell you know or can prepare, and 
 - You can cast the chosen spell without expending a spell slot. Once you cast the spell in this way, you can't cast the spell in this way again until you finish a long rest.
 - When you cast the chosen spell, treat the spell as cast using a spell slot of one level higher than normal. If the spell has an "At Higher Levels" clause, you gain the benefits of casting the spell at that higher level.
 
-Whenever you gain a level, you can select a new signature spell. The signature spell must be a spell you know or can prepare, and of a level you can cast.
+Whenever you gain a level, you can select a new signature spell, which replaces the previous spell. The signature spell must be a spell you know or can prepare, and of a level you can cast.
 
 ### Spell Artist
 

@@ -1,5 +1,5 @@
 ---
-title: Wellspring | Character Creation
+title: Wellspring \| Character Creation
 ---
 
 # Character Creation
@@ -16,8 +16,8 @@ Wellspring uses some custom, optional rules for creating characters.
 
 At the beginning of the campaign, characters will begin at 2nd level. To create a new character, perform the following steps:
 
-1. Choose a [Lineage](#lineages). For a list of recommended lineages, see [Peoples of Wellspring](./peoples).
-2. Choose a Class. The [Character Classes](./classes) guide has more information on how different classes may fit into Wellspring.
+1. Choose a [Lineage](#lineages). For a list of recommended lineages, see [Peoples of Wellspring]({{site.baseurl}}/settings/wellspring/peoples).
+2. Choose a Class. The [Character Classes]({{site.baseurl}}/settings/wellspring/classes) guide has more information on how different classes may fit into Wellspring.
 3. Determine [Ability Scores](#ability-scores), using either the standard array or the point buy method. Use the ability score bonuses listed in that link instead of any bonuses from your lineage. Your character may also gain additional ability scores from feats.
 4. Choose a [Background](#backgrounds).
 5. Choose your Feats. All characters gain a feat at 1st level from your Background. You may also gain a feat from your lineage. You can choose feats from the *Player's Handbook*, *Xanathar's Guide to Everything*, *Tasha's Cauldron of Everything*, or other published sources with the DM's approval, or from the [following feats]({{site.baseurl}}/systems/5e/feats), which include [Bloodlines and Talents](#bloodlines-and-talents).
@@ -26,14 +26,14 @@ At the beginning of the campaign, characters will begin at 2nd level. To create 
     2. Your character gains *weapon*, *armor*, and *saving throw* proficiencies from your class.
     3. Your character gains one free *language* proficiency, as well as one additional language from your background, and may gain additional proficiencies from your lineage.
 6. Choose your [equipment](#equipment). Your character gains the listed equipment for your class, plus 50 gp of additional funds from your background.
-    1. In lieu of the background funds, you may choose to instead gain basic membership in one of Wellspring's [organizations](./organizations), such as the Arcane Order or the Delver's Guild.
+    1. In lieu of the background funds, you may choose to instead gain basic membership in one of Wellspring's [organizations]({{site.baseurl}}/settings/wellspring/organizations), such as the Arcane Order or the Delver's Guild.
     2. If you do not wish to use some of the equipment granted by your class, you can instead choose to take half of that item's cost in gold pieces as starting funds.
 
 ## Lineages
 
 The word *Lineage* is used over the historical "Race" as a more neutral option for referring to a character's ancestry. When selecting a lineage, players gain all of the specified benefits of that lineage **except** for the Ability Score Increase, if any. See [Backgrounds And Ability Scores](#backgrounds-and-ability-scores), above.
 
-For a list of recommended lineages, see [Peoples of Wellspring](./peoples). This is not an exhaustive list; if you wish to play a character with a different origin, feel free to ask the DM.
+For a list of recommended lineages, see [Peoples of Wellspring]({{site.baseurl}}/settings/wellspring/peoples). This is not an exhaustive list; if you wish to play a character with a different origin, feel free to ask the DM.
 
 ### Bloodlines
 
@@ -113,6 +113,6 @@ Characters can choose from the standard equipment listed in the *Player's Handbo
 
 [Back to Home]({{site.baseurl}}/)
 |
-[Back to Game Settings]({{site.baseurl}}/settings)
+[Back to Campaigns]({{site.baseurl}}/campaigns)
 |
-[Back to Wellspring, City of Adventure]({{site.baseurl}}/settings/wellspring)
+[Back to Adventures in Wellspring]({{site.baseurl}}/campaigns/wellspring)

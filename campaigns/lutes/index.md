@@ -53,6 +53,8 @@ The Curse of Pumpkin Hill
 
 <!-- ## Game Sessions -->
 
+---
+
 [Back to Home]({{site.baseurl}}/)
 |
 [Back to Campaigns]({{site.baseurl}}/campaigns)

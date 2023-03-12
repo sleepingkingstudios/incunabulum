@@ -34,6 +34,6 @@ In some cases (when cooperation makes a difference), the character may roll with
 
 [Back to Home]({{site.baseurl}}/)
 |
-[Back to Game Settings]({{site.baseurl}}/settings)
+[Back to Campaigns]({{site.baseurl}}/campaigns)
 |
-[Back to Wellspring, City of Adventure]({{site.baseurl}}/settings/wellspring)
+[Back to Adventures in Wellspring]({{site.baseurl}}/campaigns/wellspring)
