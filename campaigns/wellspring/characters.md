@@ -53,4 +53,4 @@ The Cleaner
 |
 [Back to Campaigns]({{site.baseurl}}/campaigns)
 |
-[Back to Wellspring]({{site.baseurl}}/campaigns/wellspring)
+[Back to Adventures in Wellspring]({{site.baseurl}}/campaigns/wellspring)

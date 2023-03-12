@@ -6,8 +6,10 @@ title: Campaigns \| Adventures In Wellspring
 
 ## Resources
 
+- [Character Creation](./character-creation)
 - [Custom Rules for D&D 5E]({{site.baseurl}}/systems/5e)
 - [The City of Wellspring]({{site.baseurl}}/settings/wellspring)
+- [Table Rules](./table-rules)
 
 ## [Characters](./characters)
 
