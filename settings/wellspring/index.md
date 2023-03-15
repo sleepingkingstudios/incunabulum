@@ -31,7 +31,7 @@ The people of Wellspring follow many faiths, and the city holds numerous shrines
 
 ### [Geography]({{site.baseurl}}/settings/wellspring/geography)
 
-The region is dominated by the City of Wellspring, located in a small natural valley high in the mountains, with the Great Chasm at its heart. To the northeast is the Vale, a great valley sloping down from the city to the distant foothills.
+The region is dominated by the City of Wellspring, located in a small natural valley high in the mountains, with the Great Chasm at its heart. To the west is the Vale, a great valley sloping down from the city to the distant foothills.
 
 ### [Life In Wellspring]({{site.baseurl}}/settings/wellspring/life)
 
@@ -43,7 +43,7 @@ Many organizations and societies, both open and secret, make their home in the C
 
 ### Politics
 
-The City of Wellspring is ruled by a council of five. Three of the seats are permanently assigned to the heads of the Arcane Order, the Merchantry Association, and the City Guard, while the remaining two seats are elected. Voters must demonstrate residency in the city in addition to a property requirement, either of land (within the city or certain parts of the Vale) or a writ asserting to wealth in one of the city's banks.
+The City of Wellspring is part of the [Kingdom of Lothian](./geography#the-kingdom-of-lothian), which takes a generally hands-off stance as long as taxes are paid and monsters do not come pouring down the Vale. Internally, Wellspring is ruled by a council of five. Three of the seats are permanently assigned to the heads of the Arcane Order, the Merchantry Association, and the City Guard, while the remaining two seats are elected. Voters must demonstrate residency in the city in addition to a property requirement, either of land (within the city or certain parts of the Vale) or a writ asserting to wealth in one of the city's banks.
 
 ---
 

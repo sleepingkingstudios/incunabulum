@@ -4,36 +4,40 @@ title: Wellspring \| Characters
 
 # Characters
 
-- [Moe the Wizard](#moe)
+- [Mo the Wizard](#moselle-serenity-mo-tristrich)
 - [Py the Artificer](#py-hornraven)
 - [Verity the Bard](#verity)
 - [The Halfling With No Name](#the-halfling-with-no-name)
 
 ## Player Characters
 
-### Moe
+### Moselle Serenity "Mo" Tristrich
 
 **Played By:** J
 
-Female shoal elf wizard (diviner).
+Female shoal elf Diviner.
+
+Mo is uncommonly short for her lineage, around 4'10" or 4'11". Her jet-black hair falls to the base of her shoulder blades, and is loosely wavy (though she usually braids it). Her eyes are a deep brown. Her delicate features and large eyes resemble a porcelain doll's; this, taken together with her short height and slim, almost boyish, build, often leads strangers to assume she is an adolescent. She hates this.
+
+Mo grew up among people very comfortable with the sea, the outdoors, and each other. Possibly due to her resurgent magical bloodline, or possibly just due to her personality, she felt disconnected from her peers, and preferred staying indoors with books over boisterous socializing. Eventually she left for Wellspring to pursue that passion through an apprenticeship with its Arcane Order.
 
 ### Py Hornraven
 
 **Played By:** K
 
-Female half-elf artificer.
+Female half-elf Artificer.
 
 ### Verity
 
 **Played By:** T
 
-Female human bard.
+Female human Bard.
 
 ### The Halfling With No Name
 
 **Played By:** E
 
-Female halfling rogue.
+Female halfling Rogue.
 
 ## Other Characters
 

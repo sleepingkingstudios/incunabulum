@@ -4,6 +4,20 @@ title: Geography
 
 # Geography
 
+- [The City of Wellspring](#the-city-of-wellspring)
+  - [The Upper City](#the-upper-city)
+  - [The Lower City](#the-lower-city)
+  - [The Undercity](#the-undercity)
+- [The Great Chasm](#the-great-chasm)
+- Around Wellspring
+  - [The Giant's Spine Mountains](#the-giants-spine-mountains)
+  - [Wellspring Vale](#wellspring-vale)
+  - [The Bronzewood](#the-bronzewood)
+- The Wider World
+  - [The Free Cities](#the-free-cities)
+  - [The Kingdom of Lothian](#the-kingdom-of-lothian)
+  - [The Sherem Magocracy](#the-sherem-magocracy)
+
 The region is dominated by the City of Wellspring, located in a small natural valley high in the mountains, with the Great Chasm at its heart. To the northeast is the Vale, a great valley sloping down from the city to the distant foothills.
 
 ## The City of Wellspring
@@ -11,8 +25,6 @@ The region is dominated by the City of Wellspring, located in a small natural va
 ### The Upper City
 
 The highest part of the city is referred to as the Upper City, where the rich, powerful, and influential of Wellspring live, work, and play.
-
-#### Locations
 
 ##### House Savindar
 
@@ -68,13 +80,15 @@ In particular, the mana from the Chasm ebbs and flows, and can rarely and unexpe
 
 ### The Depths -->
 
-## The Giant's Spine Mountains
+## Around Wellspring
+
+### The Giant's Spine Mountains
 
 Wellspring lies near the heart of the Giant's Spine Mountains. The lower peaks are craggy, with thick stands of evergreens but rocky soil and unpredictable frosts. Higher peaks are snowcapped year round. Several trails lead away from the city deeper into the mountains, too narrow and treacherous to be proper passes, but navigable by the sufficiently determined.
 
 Several communities of giants are known to live in the nearby mountains, with one - the Moot of Mooncarven Stone - known to have close ties with the Watchers of the Stars. Below the northern peaks lies the Dwarvish city of Silverhold, connected to the city itself by the Underroad.
 
-## Wellspring Vale
+### Wellspring Vale
 
 The Vale is a long valley, gently rising from the foothills to the edge of Wellspring itself, nestled between the peaks. Since the founding of the city is has become densely settled, with forests largely converted to managed timber and the slopes terraced with farmland and vinyards. The once-wild river that courses down the valley's heart is now tamed to feed irrigation and feed the hundreds of locks that carry trade up and down the canal.
 
@@ -84,6 +98,22 @@ A narrow valley leading off from the Vale proper, filled with virgin woods. The 
 
 Those few who venture deep into the Bronzewood uninvited have claimed the woods are far larger than the valley should allow, and inhabited by fey and creatures far stranger. Rarely a denizen of the deep woods will wander out into the Vale proper.
 
+## The Wider World
+
+Wellspring is part of the [Kingdom of Lothian](#the-kingdom-of-lothian). To the east are the [Giant's Spine Mountains](#the-giants-spine-mountains). To the north is the [Sherem Magocracy](#the-sherem-magocracy). To the west is the Sea of Emeralds and the [Free Cities](#the-free-cities). To the south is the Patchwork Kingdoms, a frequently-shifting collection of smaller polities.
+
+### The Free Cities
+
+A collection of independent city-states surrounding the Sea of Emeralds to the west of Lothian. Each of the Free Cities is fiercely independent, and squabbling or outright warfare between them is common, typically conducted by hired mercenaries.
+
+### The Kingdom of Lothian
+
+Wellspring comprises the eastern-most outpost of the Kingdom of Lothian and is the Kingdom's third-largest city. Wellspring and is connected to the capital, the City of Lothian, by river (from the base of the Vale) and by the Eastern Road.
+
+### The Sherem Magocracy
+
+The Sherem Magocracy borders Lothian to the north. Politically and magically it is something of a regional superpower, although riven by internal divisions. The five constituent states (known as Towers) are each ruled by a Magister, and each Tower is known for its mastery of a particular area of magic. The Sherem are relatively insular, and while they trade freely with others (Sherem sky-ships are a common sight in Lothian), few outsiders are welcomed into Sherem territory.
+
 ---
 
 [Back to Home]({{site.baseurl}}/)
@@ -91,4 +121,3 @@ Those few who venture deep into the Bronzewood uninvited have claimed the woods 
 [Back to Game Settings]({{site.baseurl}}/settings)
 |
 [Back to Wellspring, City of Adventure]({{site.baseurl}}/settings/wellspring)
-
