@@ -4,20 +4,45 @@ name: History of Wellspring
 
 # History of Wellspring
 
-<!-- - [The World of Myriad](#the-world-of-myriad) -->
+- [The World of Myriad](#the-world-of-myriad)
+  - [The Age of Stone](#the-age-of-stone)
+  - [The Age of Bronze](#the-age-of-bronze)
+  - [The Age of Iron](#the-age-of-iron)
 - [The City of Wellspring](#the-city-of-wellspring)
   - [The First Sherem War](#the-first-sherem-war)
   - [The Discovery of Magicite](#the-discovery-of-magicite)
   - [The Second Sherem War](#the-second-sherem-war)
   - [Rebuilding And The Present](#rebuilding-and-the-present)
 
-<!-- ## The World of Myriad -->
+## The World of Myriad
 
-<!-- ### The Age of Stone -->
+This world is known as the Land of the Myriadic Gates, or Myriad.
 
-<!-- ### The Age of Bronze -->
+### The Age of Stone
 
-<!-- ### The Age of Iron -->
+*Beginning Ten Thousand Years Ago...*
+
+The first peoples to awaken in the dawn of prehistory were the peoples of stone: the Giants, the Minotaurs, and the Dwarves. Of these, the Giants reached the highest, using their mastery of stonework and runic magic to forge a sprawling empire. Their greatest achievement were the Ten Thousand Gates, a vast network of [Runic Gates]({{site.baseurl}}/settings/wellspring/magic#the-runic-gates) that linked the far-flung reaches of the Giant's empire and even connected it across the planes of existence.
+
+Delving deep into the earth in search of gems and rare stones, the Giants came into conflict with the Dwarves, igniting the Wars of Stone. In their arrogance, the Giants saw their smaller foes as little threat. Were the Giants not rulers of a vast empire, masters of the runes and possessed of legendary skill as warriors? The Dwarves, however, held the master of metalworking to match the enchanted weapons of the Giants, and proved that great warriors are no match for disciplined soldiers. Though at great cost, the empire of the Giants was cast down, the gate network shattered.
+
+Some scholars believe that as a last act of retaliation, the Giants performed a great and terrible rite, awakening some unspeakable evil in the far distant depths. If this is true, the Dwarves do not speak of it, but some brave delvers have spoken of a vast and ancient Dwarven civilization in the deeps, one at an eternal war with an implacable foe. Either way, the great empires of both the Giants and the Dwarves were shattered.
+
+### The Age of Bronze
+
+*Beginning Five Thousand Years Ago...*
+
+Over the millenia, the broken remnants of the Runic Gates began connecting to places never intended by their creators. On at least two occasions, a Great Conjunction linked gates to far-distant realms of existence, bringing forth new peoples to Myriad. In the First Great Conjunction the Elves and their diminutive kin, the Halflings. Fleeing from some great catastrophe in a realm aligned with the Feywild, the Elves used their own magics and weaponry of bronze to build empires of their own over the ruins of the great civilizations of the past. Those Halflings who did not join their taller kindred built smaller communities of their own in the hills and the forests.
+
+In time, these Elvish empires grew proud and arrogant, and began to battle one another for supremacy. The Wars of Bronze saw civilizations rise and fall, the landscape itself rent and remade, powerful artifacts forged and epic spells created and lost. Of the end, nothing is known - only that the great Elvish empires vanished with barely a trace, an event referred to as The Disappearance. The only survivors were those who had fled; the high elves to their mountaintop fastnesses, the shoal elves to the distant waves, and the wild elves to the untouched corners of the world.
+
+### The Age of Iron
+
+*Beginning Two Thousand Years Ago...*
+
+In the midst of the Wars of Bronze came the Second Great Conjunction, which brought the humans, goblins, and hobgoblins to Myriad. The Disappearance of the elves created both challenges and opportunities, with rich lands now unguarded but plagued with ancient magic and war-wrought monsters. From this chaos, new civilizations emerged, rose, and fell. It was the short-lived but numerous Humans who grew to dominance in this new age, sometimes in conflict and sometimes in partnership with the patchworks of Giants, Elves, and Dwarves. The Halflings in particular were quickly welcomed into most Human societies and viewed as lost kindred.
+
+The recent past has seen the near-dissolution of the ancient [Sherem Magocracy]({{site.baseurl}}/settings/wellspring/geography#the-sherem-magocracy), a regional superpower that fell to internal strife in the War of the Towers. The rising power in the region is now the [Kingdom of Lothian]({{site.baseurl}}/settings/wellspring/geography#the-kingdom-of-lothian), whose control of the city of Wellspring grants it a seemingly limitless font of wealth. To the west, the [Free Cities]({{site.baseurl}}/settings/wellspring/geography#the-free-cities) maintain their historical rivalries and experiment with steam, clockwork, and gunpowder. Meanwhile, traders from a distant land across the sea begin to visit for the first time. It is a time of adventure, of intrigue, of danger, and of opportunity, and some say it is the beginning of a new age: the Age of Steel.
 
 ## The City of Wellspring
 
