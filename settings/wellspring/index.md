@@ -17,7 +17,9 @@ Wellspring is designed to be compatible with Dungeons and Dragons, 5th Edition.
 
 ## Setting Details
 
-<!-- ### Geography -->
+### [History]({{site.baseurl}}/settings/wellspring/history)
+
+The City of Wellspring has a tumultuous past, and belongs to a world with a deep history.
 
 ### [Magic]({{site.baseurl}}/settings/wellspring/magic)
 
