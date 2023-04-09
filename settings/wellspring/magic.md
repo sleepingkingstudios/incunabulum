@@ -6,6 +6,7 @@ name: Wellspring | Magic
 
 - [The Four Arcana](#the-four-arcana)
 - [The Runic Gates](#the-runic-gates)
+- [The Well of Divinity](#the-well-of-divinity)
 
 ## The Four Arcana
 
@@ -42,6 +43,16 @@ Gates were created for three purposes. The most common gates were paired, allowi
 Each gate was carved with delicate runes and laid with powerful enchantments, and many gates survive almost intact despite the millenia. Unfortunately, with magic this delicate and powerful, very few gates maintain any sort of function. Explorers are well advised to avoid using newly rediscovered gates, as even those that appear to function may send travellers far afield at random, including to hostile destinations such as high in the sky, at the bottom of the sea, or the heart of a volcano.
 
 The few known surviving gates are planar gates, but here another problem arises - like the stars in the sky, the planes of existence are not fixed over the millenia. Between damage, decay, and planar drift, few gates still connect to a destination at all, and fewer still to their original plane, let alone a location within. Scholars believe that drifting planar gates are how many of the peoples of Myriad came to this world from their now-lost homelands.
+
+## The Well of Divinity
+
+The [Gods of Myriad]({{site.baseurl}}/settings/wellspring/religion) were mortal once. (Or so it is said by some. Others believe this to be base heresy, so tread with caution.) Each was the master of his, her, or their domain. Driven by ambition or necessity to excel in an aspect of philosophy, might, or magic, the would-be deity sought and achieved the pinnacle of mortal ability - and for the most fleeting of instants, gained a glimpse beyond. Sometimes that spark of divinity fades; sometimes, honed by that same driving need that first afforded a glimpse beyond the veil of mortality, the spark is cultured and grows.
+
+Every story is different, but here they converge into one. On the eve of their greatest triumph, their peak of achievement or insight, the mortal comes to a place of decision. It is a liminal place, not truly of this world, and so belongs to no nation or territory, can be found on no true maps. Sometimes a well by the side of the road, or a fountain of crisp, clean water; perhaps it is the taproom of a tavern long since lost, or the gathered blood of a greatest foe, but always the same choice is given - to drink, or to walk away. This is the Well of Divinity.
+
+Those who choose to walk away return to their mortal lives, strangely reluctant to share their experience. In time, the spark of divinity gutters out, though the heights a mortal can achieve without it are towering indeed. But the Well comes only once. Those who choose to drink are uplifted, exalted, the divine spark within them roaring into a mighty flame. But all magic comes at a price, and the cost of divinity is a steep one indeed - the sacrifice of all mortal ambition, the loss of that greatest achievement. To the mortal world, the newborn deity simply vanishes.
+
+Over time, the newborn deity grows in power and potential, a process that can be revealed by various signs and portents visible to diviners and to those sensitive to such energies. Finally, some unknown period of time later, comes the Revelation, a vision of the new god's awakening given to those who are receptive to the deity's domain and philosophy. These become the core of the new faith's priesthood. Depending on the deity's nature, a Revelation may make its mark on the world as well, typically in the form of a general blessing, boon, or bane. The Revelation of a goddess of fire may result in charcoal and firewood burning for far longer than normal, or conversely trigger a crippling drought. Potential signs of a pending Revelation are therefore carefully examined and hotly debated.
 
 ---
 
