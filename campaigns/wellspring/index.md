@@ -50,6 +50,16 @@ On investigation, they discovered a group of thugs sneaking into the basement wi
 
 The characters interrogated the two captured thugs, who gave their names as Lucas and Martin. They did not have any more information on the plot, but were able to cash in a favor with the mysterious Cleaner to dispose of the corpse of the third intruder. Meanwhile, Mo's contacts at the Arcane Order allowed her to sell the body of the Redcap for a small payday.
 
+### ???
+
+> Date: [24 Centaur]({{site.baseurl}}/settings/wellspring/life#calendar)
+
+Regent Silverstone came by the theater with a manager from the First Bank of Lothian with grave news - due to some questionable legal maneuvering, the city was on the verge of repossessing the Silverstone Theater unless the characters can raise money for fees. Specifically, 400 gold pieces, delivered to the Silverstone Trust's offices no later than noon on 29 Centaur.
+
+Fortunately, Lucas and Martin had a lead on an opportunity to make some quick gold - Martin's cousin's hairdresser's product supplier, a halfling alchemist named Lavinia Goldfound, had suffered a recent break-in. The party went to Lavinia's store and laboratory at the edge of the Lower City. The thieves had stolen several cauldron's worth of alchemist's fire through a tunnel dug into the laboratory. Strangely, the tunnel appeared to have been chewed, not carved. With the help of Sophie, Mo's new magpie familiar, the party discovered that the tunnel led down into sewers.
+
+Pursuing the mystery, the party ventured to the nearest entrance of the sewers...
+
 ---
 
 [Back to Home]({{site.baseurl}}/)
