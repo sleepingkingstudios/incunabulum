@@ -13,16 +13,17 @@ Bloodlines and Talents are special feats that provide additional bonuses compare
 
 A Bloodline is a special feat that is (usually) only available at 1st level. Despite the name, a Bloodline does not have to represent a heritable ability; for example, a Bloodline of Fire feat could represent an ancestor's dalliance with a fiery efreeti, a parent who is a famed fire sorcerer, or the result of a laboratory accident involving transmutagenic potions and an unexpected Fire Newt.
 
-| Name | Description |
+| **Name** | **Description** |
 | [Bloodline of Air](#bloodline-of-air) | The power of the winds flows through your veins. |
 | [Bloodline of Fire](#bloodline-of-fire) | The power of the flame flows through your veins. |
 | [Celestial Bloodline](#celestial-bloodline) | You are blessed with the heritage of the heavens. |
+| [Draconic Bloodline](#draconic-bloodline) | The blood of dragons runs through your veins. |
 
 ## Talents
 
 Talents represent a particular gift the character has for an area of cunning, might, or magic.
 
-| Name | Description |
+| **Name** | **Description** |
 | [Gift of the Bond](#gift-of-the-bond) | You have a natural connection to a familiar or servant. |
 | [Gift of the Magister](#gift-of-the-magister) | You wield a staff as the symbol of your might and magic. |
 | [Gift of the Sorcerer](#gift-of-the-sorcerer) | You have a touch of the sorcerer's arcane talents. |
@@ -82,7 +83,23 @@ Additionally, choose one of the following benefits:
 
 <!-- ### Celestial Resistance -->
 
-<!-- ### Draconic Bloodline -->
+### Draconic Bloodline
+
+*Bloodline*
+
+The blood of dragons runs through your veins. You gain the following benefits:
+
+- Increase your Strength, Constitution, or Charisma score by +2, to a maximum of 20, **or** increase two of those scores by +1 each, to a maximum of 20.
+- You learn one cantrip of your choice from the sorcerer spell list. Charisma is your spellcasting ability for that cantrip.
+
+Additionally, choose one of the following benefits:
+
+- *Natural Armor:* You have tough, scaly skin. When you aren't wearing armor, your base AC is 13 + your Dexterity modifier. You can use your natural armor to determine your AC if the armor you wear would leave you with a lower AC. A shield's benefits apply as normal while you use your natural armor.
+- *Natural Weapons:* You have sharp teeth or claws that you can use to make unarmed strikes. When you hit with them, the strike deals 1d6 + your Strength modifier slashing damage, instead of the bludgeoning damage normal for an unarmed strike.
+- *Draconic Magic:* Choose one of the following sets of spells, based on the type of dragon you are related or linked to. You can cast each of these spells without expending a spell slot. Once you cast either of these spells in this way, you can't cast that spell in this way again until you finish a long rest. You can also cast these spells using spell slots you have of the appropriate level.
+
+  | **Dragon Type** | **Spells** |
+  | Red Dragon | *burning hands*, *Aganazzar's scorcher* |
 
 ### Gift of the Bond
 
@@ -109,11 +126,13 @@ You wield a staff as the symbol of your might and magic. You gain the following 
 
 In addition, you can store spell slots in your Magister's Staff:
 
-- As part of a short or long rest, you can store spell slots up to 5th level in your Magister's Staff. You can store a number of spell slots equal to your proficiency bonus. Storing a spell slot in this fashion expends the spell slot as if you had cast a spell of that level.
+- As part of a short or long rest, you can store one spell slot in your Magister's Staff. You can only have one spell slot stored at a time, and the spell slot can be of a level up to your proficiency bonus. Storing a spell slot in this fashion expends the spell slot as if you had cast a spell of that level.
 - While wielding your Magister's staff, you can use the stored spell slot to cast a spell as if it was an available spell slot.
-- When you make a melee weapon attack with your Magister's Staff, you can expend the stored spell slot to add +1d10 force damage per level of the spell slot.
+- When you make a successful melee weapon attack with your Magister's Staff, as a bonus action you can expend the stored spell slot to add +2d10 force damage per level of the spell slot.
 
 ### Gift of the Sorcerer
+
+*Talent*
 
 You have a touch of the sorcerer's arcane talents. You gain the following benefits:
 
