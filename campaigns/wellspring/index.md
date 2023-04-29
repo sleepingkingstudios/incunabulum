@@ -10,10 +10,10 @@ title: Campaigns \| Adventures In Wellspring
 
 ## [Characters](./characters)
 
-- [Mo the Wizard](./characters#moselle-serenity-mo-tristrich)
-- [Py the Artificer](./characters#py-hornraven)
-- [Verity the Bard](./characters#verity)
-- [The Halfling With No Name](./characters#the-halfling-with-no-name)
+- [Annaroya "Roya" Downdraft](./characters#annaroya-roya-downdraft)
+- [Moselle Serenity “Mo” Tristrich](./characters#moselle-serenity-mo-tristrich)
+- [Py Hornraven](./characters#py-hornraven)
+- [Verity Gray](./characters#verity-gray)
 
 [Other Characters](./characters#other-characters)
 
@@ -50,7 +50,7 @@ On investigation, they discovered a group of thugs sneaking into the basement wi
 
 The characters interrogated the two captured thugs, who gave their names as Lucas and Martin. They did not have any more information on the plot, but were able to cash in a favor with the mysterious Cleaner to dispose of the corpse of the third intruder. Meanwhile, Mo's contacts at the Arcane Order allowed her to sell the body of the Redcap for a small payday.
 
-### ???
+### A Volatile Tail
 
 > Date: [24 Centaur]({{site.baseurl}}/settings/wellspring/life#calendar)
 
@@ -58,7 +58,13 @@ Regent Silverstone came by the theater with a manager from the First Bank of Lot
 
 Fortunately, Lucas and Martin had a lead on an opportunity to make some quick gold - Martin's cousin's hairdresser's product supplier, a halfling alchemist named Lavinia Goldfound, had suffered a recent break-in. The party went to Lavinia's store and laboratory at the edge of the Lower City. The thieves had stolen several cauldron's worth of alchemist's fire through a tunnel dug into the laboratory. Strangely, the tunnel appeared to have been chewed, not carved. With the help of Sophie, Mo's new magpie familiar, the party discovered that the tunnel led down into sewers.
 
-Pursuing the mystery, the party ventured to the nearest entrance of the sewers...
+> Date [25 Centaur]({{site.baseurl}}/settings/wellspring/life#calendar)
+
+Pursuing the mystery, the party ventured into the sewers and battled a pair of vicious giant spiders, using Py's homonculus servant as distraction and bait. Fortunately, Roya was able to handily dispatch the eight-legged menaces, with an occasional assist from the rest of the party. In the spiders' web, they discovered a quartet of deceased Ratlings, one still clutching broken glassware - some of the apparent culprits of the theft.
+
+Following the trail of broken glass and scorched stone, the party continued deeper to discover a trio of slimes somehow infused with alchemist's fire. Here Mo and Verity's magic took center stage, dissolving the gelatinous terrors with an ironic infusion of caustic acid. As the party had feared, these volatile foes exploded on death, and Py narrowly avoided several such explosions as the combat continued, but in the end the adventurers proved victorious, though not unscathed.
+
+To be continued...
 
 ---
 

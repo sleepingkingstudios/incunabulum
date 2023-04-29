@@ -6,10 +6,10 @@ title: Wellspring \| Characters
 
 **Player Characters**
 
-- [Mo the Wizard](#moselle-serenity-mo-tristrich)
-- [Py the Artificer](#py-hornraven)
-- [Verity the Bard](#verity)
-- [The Halfling With No Name](#the-halfling-with-no-name)
+- [Annaroya "Roya" Downdraft](#annaroya-roya-downdraft)
+- [Moselle Serenity “Mo” Tristrich](#moselle-serenity-mo-tristrich)
+- [Py Hornraven](#py-hornraven)
+- [Verity Gray](#verity-gray)
 
 **Other Characters**
 
@@ -18,6 +18,12 @@ title: Wellspring \| Characters
 - ["The Cleaner"](#the-cleaner)
 
 ## Player Characters
+
+### Annaroya "Roya" Downdraft
+
+**Played By:** E
+
+Female halfling Rogue.
 
 ### Moselle Serenity "Mo" Tristrich
 
@@ -41,17 +47,15 @@ Py grew up in a wandering troup of players, the daughter of an Elf who was the c
 
 The stranger stayed with the caravan for a year, and Py spent every waking moment practicing her skills under their tutelage. After they parted company with the troupe, Py left the wandering theater to forge out on her own, eventually attracted to Wellspring's magic and cosmopolitan (to her) population. She quickly developed a customer base with her skilled repairs to almost anything, and supports herself (and her theater/home's prop closet) with her repair work. Py lives in the theater building in a room that is 90% workbench and parts. She believes in using technology to even the playing field, and will go out of her way to gain (borrow? steal?) interesting parts for her experiments, mostly believing that everything should be shared as it was in her caravan. She also has a habit of building and giving away assistance devices to those who can't pay.
 
-### Verity
+### Verity Gray
 
 **Played By:** T
 
 Female human Bard.
 
-### The Halfling With No Name
+Verity Gray is a female human Bard in her early 30s. She was born and raised in the Lower City of Wellspring. Her parents were political organizers and sometime adventurers who loved helping others, hated idleness, and instilled in their children values like solidarity, courage, and persistence in the face of hardship. Verity's older brother, Honor, embodied all that their parents believed: optimism, kindness, and an endless reservoir of empathy, especially for Verity, who shared none of that idealism. Verity has always been the skeptic and the cynic of the family, to the amusement (rather than chagrin) of her parents. Honor always used to say, "She'll come around some day." He was probably right, up until one day when she was 17: her parents took an adventuring contract and never came back. Honor, 20 at the time, tried to scrounge enough money and goodwill to commission a rescue party after them, but no one would take the job. Despite Verity's desperate pleas, he went after them himself. He never returned either. It's been more than 15 years, but Verity still hasn't found him or her parents, and has devoted much of her adult life trying to unravel what happened to her family and why.
 
-**Played By:** E
-
-Female halfling Rogue.
+Pretty much everyone in the Lower City knows her and loved her family, whose disappearance was among the motivations for the creation of the Delvers' Guild and its insurance program. There was a time when she was pitied; that time has passed. Verity weaponized her underlying curiosity and grief to uncover the city's dark secrets. She now works for the various broadsheets (whoever pays the best this month) and is reputed to never print a lie, no matter how ugly the truth. This makes her both well-trusted and not particularly well-liked. Her typical beat is politics, corruption, murder, and the occasional advice column. In her free time she writes plays. They're all comedies.
 
 ## Other Characters
 
