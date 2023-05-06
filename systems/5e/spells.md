@@ -47,7 +47,7 @@ In rare cases, a variant spell may allow a character to cast a spell not on thei
 
 **Casting Time:** 1 action.<br>
 **Range:** Touch<br>
-**Components:** V, S, M (a piece of charred leather)
+**Components:** V, S, M (a piece of charred leather)<br>
 **Duration:** 8 hours
 
 As *mage armor*, but when a creature makes a successful melee attack against the target, the target can use its reaction to emit a retaliatory burst of flame. The attacker must make a Dexterity saving throw or take 1d6 fire damage.

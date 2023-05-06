@@ -65,6 +65,12 @@ Female human Cleric/Wizard.
 
 Cyrene is an acolyte of the Watchers of the Stars with a rather sheltered upbringing, who feels rather out of her depth in the city, let alone in the wilderness or the caverns and catacombs beneath Wellspring. She refers to herself as an Astrologian, and uses a mixture of divine and arcane magic. She is physically and socially unassuming, roughly 5'7" or 170cm in height, with the soft build of a scholar, grey eyes, and striking silver hair despite her youth. She typically wears an unadorned grey cloak over a scholar's garb, and carries a staff of dark wood that is inlaid with silver constellations.
 
+### Lavinia Goldfound
+
+Female halfling alchemist, earth-blooded.
+
+Lavinia owns and operates a shop in the Lower City's trades district, with a workshop in back where she brews alchemist's fire in concerning quantities.
+
 ### Lucas and Martin
 
 Male human toughs.

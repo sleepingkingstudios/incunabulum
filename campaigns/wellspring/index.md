@@ -4,6 +4,8 @@ title: Campaigns \| Adventures In Wellspring
 
 # Adventures In Wellspring
 
+The adventures of Moe, Py, Roya, and Verity, in and beneath the [City of Wellspring]({{site.baseurl}}/settings/wellspring).
+
 - [Characters](#characters)
 - [Resources](#resources)
 - [Adventures](#adventures)
@@ -58,7 +60,7 @@ Regent Silverstone came by the theater with a manager from the First Bank of Lot
 
 Fortunately, Lucas and Martin had a lead on an opportunity to make some quick gold - Martin's cousin's hairdresser's product supplier, a halfling alchemist named Lavinia Goldfound, had suffered a recent break-in. The party went to Lavinia's store and laboratory at the edge of the Lower City. The thieves had stolen several cauldron's worth of alchemist's fire through a tunnel dug into the laboratory. Strangely, the tunnel appeared to have been chewed, not carved. With the help of Sophie, Mo's new magpie familiar, the party discovered that the tunnel led down into sewers.
 
-> Date [25 Centaur]({{site.baseurl}}/settings/wellspring/life#calendar)
+> Date: [25 Centaur]({{site.baseurl}}/settings/wellspring/life#calendar)
 
 Pursuing the mystery, the party ventured into the sewers and battled a pair of vicious giant spiders, using Py's homonculus servant as distraction and bait. Fortunately, Roya was able to handily dispatch the eight-legged menaces, with an occasional assist from the rest of the party. In the spiders' web, they discovered a quartet of deceased Ratlings, one still clutching broken glassware - some of the apparent culprits of the theft.
 
