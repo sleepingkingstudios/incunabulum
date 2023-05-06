@@ -22,13 +22,45 @@ The region is dominated by the City of Wellspring, located in a small natural va
 
 ## The City of Wellspring
 
+The City of Wellspring proper is laid out in six districts; three in the Upper City, three in the Lower City.
+
 ### The Upper City
 
-The highest part of the city is referred to as the Upper City, where the rich, powerful, and influential of Wellspring live, work, and play.
+The highest part of the city is referred to as the Upper City, where the rich, powerful, and influential of Wellspring live, work, and play. Although most of the city was rebuilt after the Sherem Wars, the Upper City is entirely new, carved into terraces from the raw stone of the surrounding mountains.
 
-##### House Savindar
+- [The Civic District](#the-civic-district)
+  - [The Cathedral of Radiance](#the-cathedral-of-radiance)
+  - [The First Bank of Lothian](#the-first-bank-of-lothian)
+  - [City Guard Headquarters](#city-guard-headquarters)
+  - [Merchantry Association Headquarters](#merchantry-association-headquarters)
+- [The Garden District](#the-garden-district)
+  - [The Tower of Knowledge](#the-tower-of-knowledge)
+- [The Noble Quarter](#the-noble-quarter)
+  - [House Savindar](#house-savindar)
 
-One of the newest of the "noble" houses of the city, House Savindar was founded by a retired adventurer, Dame Dahlia Savindar, who leveraged her fortune and connections to become a fixture in the city's social and political scene. Dame Savindar is a founder and major patron of the [Delver's Guild]({{site.baseurl}}/settings/wellspring/organizations#the-delvers-guild), and is frequently found in the broadsheets, usually under "Scandals".
+#### The Civic District
+
+The Civic District is the commercial and administrative seat of Wellspring.
+
+##### The Cathedral of Radiance
+
+When completed, the Cathedral of Radiance will be a towering symbol of the [Church of Light]({{site.baseurl}}/settings/wellspring/religion#light-and-darkness) and its growing power in Lothian. For now, the cathedral is little more than a foundation, although extensive work has been done in building out the catacombs beneath. Also under construction (and nearly completed) on the cathedral grounds is a chapterhouse of the Knights of the Dawn, an order of paladins closely associated with the Church of Light.
+
+##### The First Bank of Lothian
+
+The First Bank of Lothian is by far the largest single commercial institution with an interest in Wellspring. It provides services for changing and lending money, albeit almost exclusively to the well-to-do of the city. The bank has invested large sums into the rebuilding and expansion of Wellspring, and is said to own large portions of the Upper City.
+
+##### City Guard Headquarters
+
+The headquarters of the [City Guard]({{site.baseurl}}/settings/wellspring/organizations#the-city-guard) is located in the Civic District, although most of the guards barracks and armories are located in the Lower City, closer to the Great Chasm. The sprawling complex also serves as the city's administrative hub and the meeting place of the city's ruling council, although there are talks of building a dedicated hall for that purpose.
+
+##### Merchantry Association Headquarters
+
+The headquarters of the [Merchantry Association]({{site.baseurl}}/settings/wellspring/organizations#the-merchantry-association) lies at the heart of the Civic District. While the formal headquarters is a large building of vaulted stone, much of the business is conducted in the surrounding offices. Having a dedicated space within the Association building itself is a mark of considerable wealth and prestige.
+
+#### The Garden District
+
+The Garden District is the home of Wellspring's well-to-do though not wealthy, with rows of townhouses, tree-lined avenues and parks, and shops and restaurants for fine dining and luxuries. Many of the city's houses of worship can be found in the Garden District as well.
 
 ##### The Tower Of Knowledge
 
@@ -36,15 +68,48 @@ The headquarters of the [Arcane Order]({{site.baseurl}}/settings/wellspring/orga
 
 The Tower has some spaces open to the public, where petititoners can hire members for spellcasting, research, or to commission or identify a magical item. Access to the Tower proper (and its library) is usually restricted to members, or rarely by a pass from a more senior mage. These passes are almost never granted for mere money, and usually represent the repayment of a favor or the reward of a minor task or quest.
 
+#### The Noble Quarter
+
+The Noble Quarter is the highest point in Wellspring proper, and is the home of the truly wealthy or those few granted a title of nobility by the Kingdom of Lothian. The City Guard are quick to question those who look like they might not belong here, and the private guard forces of some manors or estates are even less welcoming of outsiders.
+
+##### House Savindar
+
+One of the newest of the "noble" houses of the city, House Savindar was founded by a retired adventurer, Dame Dahlia Savindar, who leveraged her fortune and connections to become a fixture in the city's social and political scene. Dame Savindar is a founder and major patron of the [Delver's Guild]({{site.baseurl}}/settings/wellspring/organizations#the-delvers-guild), and is frequently found in the broadsheets, usually under "Scandals".
+
 ### The Lower City
 
 The districts known as the Lower City is where most of the people of Wellspring live and work.
 
-#### Locations
+- [The Market District](#the-market-district)
+  - [The Fortress Ruins](#the-fortress-ruins)
+- [The Trades District](#the-trade-district)
+  - [The Delver's Guild](#the-delvers-guild)
+- [The Old City](#the-old-city)
+  - [The Silverstone Theater](#the-silverstone-theater)
+
+#### The Market District
+
+The Market District is closest to the road and canal to Lothian, and most trade to and from the city passes through its streets. The majority of the city's inns, taverns, and way houses can be found here, along with large warehouses for storage and trade.
+
+##### The Fortress Ruins
+
+The Market District is built over the ruins of the old fortress that once protected the Vale and kingdom beyond from the threat of the Great Chasm. Although ruined during the Sherem Wars, parts of the fortress walls can be found in various places around the markets. Some of the surviving outbuildings have been converted into barracks for the City Guard.
+
+#### The Trades District
+
+The Trades District is where the common folk of Wellspring live, work, and play.
 
 ##### The Delver's Guild
 
 The headquarters of the [Delver's Guild]({{site.baseurl}}/settings/wellspring/organizations#the-delvers-guild) is located in the lower city. Originally just an inn bought out by a group of retired adventurers, it has grown into a sprawling complex of offices, warehouses, markets, and training grounds, but the heart of the guild remains the old taproom of the *Last Stop*.
+
+#### The Old City
+
+The Old City is a warren of narrow, winding streets that largely predates the city of Wellspring proper, having sprung up to service the military camp and fortress built to protect the Vale. Badly damaged during the Sherem Wars, the Old City faces the loss of its more well-to-do residents to new homes farther from the Great Chasm. At the same time, the parts of the Old City near the Garden District are at constant risk of being bought out and leveled, and some fear that the Old City and its unique architecture and culture are at risk of vanishing.
+
+##### The Silverstone Theater
+
+A space set aside for the community and the arts, the Silverstone Theater was endowed by a retired adventurer. It currently houses a plucky but struggling community theater program, but its location at the edge of the Old City (and near the expanding Garden District) makes its future uncertain.
 
 ### The Undercity
 
