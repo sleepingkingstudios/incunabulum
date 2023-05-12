@@ -1,5 +1,5 @@
 ---
-title: D&D 5E | Lineages
+title: D&D 5E \| Lineages
 ---
 
 # Lineages

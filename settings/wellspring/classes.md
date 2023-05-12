@@ -35,6 +35,10 @@ A few artificers rely less on magical enhancement for their creations and more o
 
 Magically-inclined artificers often join the [Arcane Order](./organizations#the-arcane-order), while those more focused on commerce are members of the [Merchantry Association](./organizations#the-merchantry-association).
 
+#### Runethanes
+
+A unique option for the Wellspring campaign is the [Runethane]({{site.baseurl}}/systems/5e/classes/#runethane) class. Rather than combining magic and technology, runethanes create their effects by inscribing or carving runes.
+
 #### Character Roles
 
 - **Armored:** A strong character relying on heavy armor and defenses for protection. Other classes for this role: Cleric, Fighter, Paladin.

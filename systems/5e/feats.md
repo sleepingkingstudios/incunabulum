@@ -1,5 +1,5 @@
 ---
-title: D&D 5E | Feats
+title: D&D 5E \| Feats
 ---
 
 # Feats
@@ -24,6 +24,7 @@ A Bloodline is a special feat that is (usually) only available at 1st level. Des
 Talents represent a particular gift the character has for an area of cunning, might, or magic.
 
 | **Name** | **Description** |
+| [Gift of the Artificer](#gift-of-the-artificer) | You have a natural talent for magical crafting. |
 | [Gift of the Bond](#gift-of-the-bond) | You have a natural connection to a familiar or servant. |
 | [Gift of the Magister](#gift-of-the-magister) | You wield a staff as the symbol of your might and magic. |
 | [Gift of the Sorcerer](#gift-of-the-sorcerer) | You have a touch of the sorcerer's arcane talents. |
@@ -32,6 +33,8 @@ Talents represent a particular gift the character has for an area of cunning, mi
 ## List of Feats
 
 | Name | Description |
+| [Extra Infusion](#extra-infusion) | You have deepened your studies as an artificer. |
+| [Improved Spellcasting](#improved-spellcasting) | You have expanded your spellcasting ability. |
 | [Open The Third Eye](#open-the-third-eye) | You have a talent for divination magic. |
 | [Signature Spell](#signature-spell) | You have mastered a single spell. |
 | [Spell Artist](#spell-artist) | You can shape the manifestations of your spells at will. |
@@ -101,6 +104,24 @@ Additionally, choose one of the following benefits:
   | **Dragon Type** | **Spells** |
   | Red Dragon | *burning hands*, *Aganazzar's scorcher* |
 
+### Extra Infusion
+
+*Prerequisite: Infuse Item feature or ability to use artificer infusions*
+
+You have deepened your studies as an artificer. You learn one artificer infusion. Whenever you gain a level, you can replace the artificer infusion you learned with a new one.
+
+You can select this feat multiple times. Each time you do so, you learn one additional artificer infusion. In addition, every second time you take this feat, your maximum number of infused items increases by 1.
+
+### Gift of the Artificer
+
+*Talent*
+
+You have a natural talent for magical crafting, either as an Artificer or as a [Runethane]({{site.baseurl}}/systems/5e/classes#runethane). You gain the following benefits:
+
+- You learn two artificer infusions. Whenever you gain a level, you an replace one of the artificer infusions you learned with a new one.
+- You can infuse non-magical items with your artificer infusions, as per the Infuse Item ability. You can infuse one item at a time, or one additional item at a time if you have another ability that allows you to infuse artificer infusions.
+- You can attune one more magic item than normal.
+
 ### Gift of the Bond
 
 *Talent*
@@ -150,6 +171,24 @@ You have a natural talent for studying the arcane arts. You gain the following b
 - When you find a wizard spell of 1st level or higher, you can add it to your spellbook if it is of a spell level you can prepare, using the rules for adding a spell to a wizard's spellbook.
 - You can prepare two spells from your spellbook. The spells must be of a spell level for which you have spell slots. You can change your list of prepared spells when you finish a long rest. You can cast these prepared spells using any spell slots you have.
 - Intelligence is your spellcasting ability for spells you have prepared using this feat.
+
+### Improved Spellcasting
+
+*Prerequisite: Spellcasting feature*
+
+You have expanded your spellcasting ability. You gain the following benefit:
+
+- You have one additional 1st-level spell slot. You regain this spell slot when you finish a long rest.
+
+In addition, choose one of the following benefits:
+
+- You know one additional spell. This spell must be of a level for which you have spell slots, and must be from the spell list of the class that grants the Spellcasting feature. When you gain a level in that class, you can replace this spell with another from the same class list. *You can select this benefit even if your class does not normally grant spells known.*
+- You can prepare one additional spell from your class list. You must be able to prepare spells from your class list to select this option.
+- You add two spells to your spellbook. Each of these spells must be of a level for which you have spell slots, and must be from the spell list of the class that grants the Spellcasting feature. In addition, you can prepare one additional spell from your spellbook.
+
+If you have a Talent that grants you a spellbook or spells known or prepared from a particular class, you can choose to learn, prepare, or add to your spellbook spells from that class's spell list instead.
+
+You can select this feat multiple times. Each time you do so, you gain a spell slot of 1 level higher, up to the highest level of spell slot you have when you take the feat. If this would grant you a spell slot of a higher level than you currently have spell slots, you cannot select this feat.
 
 <!-- ### Infernal Bloodline -->
 

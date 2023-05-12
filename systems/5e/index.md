@@ -1,5 +1,5 @@
 ---
-title: Game Systems | D&D 5E
+title: Game Systems \| D&D 5E
 ---
 
 # Dungeons and Dragons <small>Fifth Edition</small>
@@ -27,6 +27,12 @@ Rules and mechanics for using skills and ability checks.
 ### [Spells]({{site.baseurl}}/systems/5e/spells)
 
 New spells and mechanics for casting spells.
+
+### Variant Rules
+
+Optional rules for changing the 5E mechanics.
+
+- [Secondary Classes]({{site.baseurl}}/systems/5e/variants/secondary-classes)
 
 ---
 

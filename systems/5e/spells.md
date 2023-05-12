@@ -1,5 +1,5 @@
 ---
-title: D&D 5E | Spells
+title: D&D 5E \| Spells
 ---
 
 # Spells
