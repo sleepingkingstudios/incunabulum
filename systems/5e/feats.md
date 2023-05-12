@@ -1,5 +1,5 @@
 ---
-title: D&D 5E | Feats
+title: D&D 5E \| Feats
 ---
 
 # Feats

@@ -1,5 +1,5 @@
 ---
-title: D&D 5E | Classes
+title: D&D 5E \| Classes
 ---
 
 # Classes
@@ -8,6 +8,7 @@ title: D&D 5E | Classes
   - [Runethane](#runethane)
 - [Clerics](#clerics)
   - [Cloistered Cleric](#cloistered-cleric)
+- [Rangers](#rangers)
 
 ## Customizing Classes
 
@@ -24,11 +25,7 @@ With the DM's permission, you can customize your class proficiencies to better s
 
 ## Artificers
 
-### Optional Class Features
-
-#### Runethane
-
-*1st-level artificer feature*
+### Runethane
 
 Rather than combining magic and technology, runethanes create their effects by inscribing or carving runes.
 
@@ -36,11 +33,7 @@ A runethane is an heir to an ancient magical tradition that stretches back to th
 
 ## Clerics
 
-### Optional Class Features
-
-#### Cloistered Cleric
-
-*1st-level cleric feature*
+### Cloistered Cleric
 
 Your studies and religious practices are of quiet contemplation, not martial might.
 
@@ -58,6 +51,16 @@ Proficiencies
 
 Versatile
   : Gain one Feat.
+
+## Rangers
+
+### Optional Class Features
+
+#### Favored Enemy
+
+*1st-level ranger feature*
+
+You are adept at focusing your ire on a single foe. You always have the *hunter’s mark* Spell prepared, and it doesn’t count against the number of Spells you can prepare. Moreover, you don’t have to concentrate on the Spell once you cast it; it lasts for its full duration, until you end it as a Bonus Action, or until you are Incapacitated.
 
 ---
 

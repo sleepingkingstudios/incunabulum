@@ -1,5 +1,5 @@
 ---
-title: D&D 5E | Skills
+title: D&D 5E \| Skills
 ---
 
 # Skills
