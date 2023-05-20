@@ -62,9 +62,17 @@ Fortunately, Lucas and Martin had a lead on an opportunity to make some quick go
 
 > Date: [25 Centaur]({{site.baseurl}}/settings/wellspring/life#calendar)
 
-Pursuing the mystery, the party ventured into the sewers and battled a pair of vicious giant spiders, using Py's homonculus servant as distraction and bait. Fortunately, Roya was able to handily dispatch the eight-legged menaces, with an occasional assist from the rest of the party. In the spiders' web, they discovered a quartet of deceased Ratlings, one still clutching broken glassware - some of the apparent culprits of the theft.
+Pursuing the mystery, the party ventured into the sewers and battled a pair of vicious giant spiders, using Py's homonculus servant as distraction and bait. Fortunately, Roya was able to handily dispatch the eight-legged menaces, with an occasional assist from the rest of the party. In the spiders' web, they discovered a quartet of deceased ratlings, one still clutching broken glassware - some of the apparent culprits of the theft.
 
 Following the trail of broken glass and scorched stone, the party continued deeper to discover a trio of slimes somehow infused with alchemist's fire. Here Mo and Verity's magic took center stage, dissolving the gelatinous terrors with an ironic infusion of caustic acid. As the party had feared, these volatile foes exploded on death, and Py narrowly avoided several such explosions as the combat continued, but in the end the adventurers proved victorious, though not unscathed.
+
+Delving deeper into the lower sewers, the party encountered a helpful patrol of the City Guard, and traded some of Roya's healing expertise for a set of antitoxin - sure to come in handy in these parts. Their good luck continued as they managed to sneak up on a small band of ratlings "guarding" a side tunnel, tossing their precious alchemist's fire onto the ground and cackling about the "Red Dancies". With a combination of clever tactics and deft spellwork, the group killed three of the rat guards and managed to capture the fourth alive.
+
+Here, alas, the party's luck ran dry. Despite insistent coaxing and outright bribery, the ever-hungry creature could not cooperate with demands for the location of its nest, while the party wisely refused a comically obvious trap when the ratling offered to serve as a guide. Instead, the party freed the creature, while setting Moe's familiar Sophia to give chase and report back. Low on supplies and magic, the party elected to return to the surface for a rest; sadly, Sophia failed to return and could not be recalled, suggesting a dire fate in the depths.
+
+> Date: [26 Centaur]({{site.baseurl}}/settings/wellspring/life#calendar)
+
+Refreshed and rejuvenated, the party returned to the sewer entrance not long after the clock struck midnight.
 
 To be continued...
 
