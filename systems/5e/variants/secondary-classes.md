@@ -117,8 +117,8 @@ You determine what spells you know and can prepare for each class individually, 
 You determine your available spell slots from your secondary classes by adding all of your levels in secondary classes or class specializations that grant the Spellcasting feature. For class specializations, count the full number of levels (divided and rounded down appropriately), not just the levels since gaining the specialization.
 
 - Add your full levels in classes that grant spell slots of up to 9th level (Bards, Clerics, Druids, Sorcerers, and Wizards).
-- Add half your total levels in classes (rounded down) that grant spell slots of up to 5th level (Artificer, Paladin, Ranger).
-- Add a third of your total levels (rounded down) in that grant spell slots of up to 4th level (Eldritch Knight, Arcane Trickster).
+- Add half your total levels (rounded down) in classes that grant spell slots of up to 5th level (Artificer, Paladin, Ranger).
+- Add a third of your total levels (rounded down) in classes that grant spell slots of up to 4th level (Eldritch Knight, Arcane Trickster).
 
 If a character **does not** have the Spellcasting feature from their primary class, use the relevant class table or the Multiclass Spellcaster: Spell Slots Per Spell Level table in the *Player's Handbook*, page 165.
 
@@ -153,7 +153,7 @@ Spell Slots Per Spell Level
 
 > *Example:*
 >
-> Vadania is a Druid, with a secondary class of a 5th-level Warlock. She receives two 1st-level spell slots, two 2nd-level spell slots, and one 3rd-level spell slot.
+> Vadania is a Druid, with a secondary class of a 5th-level Sorcerer. She receives two 1st-level spell slots, two 2nd-level spell slots, and one 3rd-level spell slot.
 
 > *Example:*
 >
