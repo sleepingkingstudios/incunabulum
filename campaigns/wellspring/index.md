@@ -70,11 +70,21 @@ Delving deeper into the lower sewers, the party encountered a helpful patrol of 
 
 Here, alas, the party's luck ran dry. Despite insistent coaxing and outright bribery, the ever-hungry creature could not cooperate with demands for the location of its nest, while the party wisely refused a comically obvious trap when the ratling offered to serve as a guide. Instead, the party freed the creature, while setting Moe's familiar Sophia to give chase and report back. Low on supplies and magic, the party elected to return to the surface for a rest; sadly, Sophia failed to return and could not be recalled, suggesting a dire fate in the depths.
 
+The adventurers returned to the surface in the afternoon, and returned the first installment of recovered alchemist's fire to Lavinia. After, they divided their forces, with Moe separating off to re-summon his beloved Sophia. The rest of the party went to the headquarters of the Delver's Guild to gather information on the ratlings they had encounted in the sewers, learning that the creatures were intelligent but treacherous, and cursed with a never-ending hunger. Despite an early social misstep, Roya was able to soothe ruffled feathers and avoid damaging the group's relationship with the Delver's Guild.
+
+The party reconvened back at the Silverstone Theater and took an early rest.
+
 > Date: [26 Centaur]({{site.baseurl}}/settings/wellspring/life#calendar)
 
-Refreshed and rejuvenated, the party returned to the sewer entrance not long after the clock struck midnight.
+Refreshed and rejuvenated, the party returned to the sewer entrance a few hours before sunrise, and were able to quickly resume following the ratlings' trail. Their pursuit lead them out of the sewers and into a series of natural caves beneath the city. Using their familiars and homonculus servants to scout ahead, Py and Moe discovered the ratling's nest, guarded by several warriors and a ratling sorcerer.
 
-To be continued...
+Py used her tinkering abilities to give her homonculus a delicious scent, luring two of the ratling sentries into an ambush. Sadly, Moe's illusory wall gambit failed, putting the remaining ratlings on alert. The party advanced through the tunnels, wielding crossbow bolts and magic against the ratlings with oversized crossbows and slings of alchemist's fire, while Verity engaged the sorcerer in a duel of cantrips.
+
+Just as the party seemed on the brink of victory, the ratlings awoke an ogre-sized compatriot. After devouring one of its own, the giant ratling strode forward with a club the size of a tree trunk. Py coated the oversized club in caustic fluid and then engaged the brute face to face, while Roya used her stealth skills to strike without warning and Moe cast dark illusions to confuse and confound the giant. Finally, just as Py dodged the dissolving remnants of the club, Roya dove forward and under the giant ratling's grasp to bury her rapier in its head, and Verity finally struck down the ratling sorcerer with a mocking cantrip.
+
+Within the ratling's foul nest, the party found a half-dozen more intact flasks of alchemists fire, as well as several small crystals glowing with an inner light - [Magicite crystals]({{site.baseurl}}/settings/wellspring/magic#magicite-crystals) the ratlings had gathered.
+
+To be concluded...
 
 ---
 
