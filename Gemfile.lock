@@ -248,6 +248,7 @@ GEM
       unf_ext
     unf_ext (0.0.8.2)
     unicode-display_width (1.8.0)
+    webrick (1.8.1)
 
 PLATFORMS
   x86_64-darwin-20
@@ -255,6 +256,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-docs
+  webrick
 
 RUBY VERSION
    ruby 3.2.2p53

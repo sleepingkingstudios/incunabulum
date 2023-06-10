@@ -4,9 +4,18 @@ name: Wellspring | Magic
 
 # Magic
 
+- [Magicite Crystals](#magicite-crystals)
 - [The Four Arcana](#the-four-arcana)
 - [The Runic Gates](#the-runic-gates)
 - [The Well of Divinity](#the-well-of-divinity)
+
+## Magicite Crystals
+
+Magicite crystals are a natural phenomenon that has been observed near and within the Great Chasm of Wellspring. They are believed to be formed when excess mana crystallizes out of the air.
+
+Visually, magicite appears as irregular, translucent crystals which glow with an inner radiance. They can range in size from large grains of sand to entire crystal formations the size of stalagmites. Most magicite discovered is cracked, with broken crystalline structure and an irregular glow. Intact magicite is rare and highly valued, both by adventurers who delve beneath Wellspring in search of it, and by monsters who are often drawn to its beauty or its magical emanations.
+
+Magicite is largely responsible for the modern reniassance Wellspring is currently experiencing, after the destruction of the Sherem Wars. Using a combination of ritual magic and alchemy, scholars at the Arcane Order have discovered how to use intact magicite crystals during the creation and enchantment of magical items and artifacts, allowing them to bypass the sacrifice of personal energies usually required for a permanent creation. The process is closely guarded, and the sale of magical or enchanted items is a source of considerable wealth.
 
 ## The Four Arcana
 
