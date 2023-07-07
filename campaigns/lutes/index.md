@@ -8,8 +8,9 @@ The epic adventures of Aoife and Lily as they quest for lute, battle endless wav
 
 ## Characters
 
-<!-- [Aoife the Bard]({{site.baseurl}}/campaigns/lutes/characters/aoife)
-: Bright, curious, and afraid of nothing but trees, Aoife nurtures a powerful talent for magic while balancing her skills of joyful music and stealthy mayhem. -->
+<!-- [Aoife the Bard]({{site.baseurl}}/campaigns/lutes/characters/aoife) -->
+Aoife the Bard
+: Bright, curious, and afraid of nothing but trees, Aoife nurtures a powerful talent for magic while balancing her skills of joyful music and stealthy mayhem.
 
 [Lilith "Lily" the Warlock]({{site.baseurl}}/campaigns/lutes/characters/lily)
 : A skilled mistress of the arcane arts and a master of investigation, Lily is as talented at hiding her own nature as she is at ferreting out the secrets of others.
@@ -24,7 +25,7 @@ The Lutemaker's Plight
 : Aoife's friend Garrick, a lutemaker of some renown, went missing along with his newly-created masterpiece. Aoife and Jack discovered goblins living in the sewers below Jewel and rescued poor Garrick from the cooking pot; sadly, the masterwork lute had already been sent as tribute to the mysterious King of the Goblins.
 
 The Sunless Citadel
-: Aoife and her new friend Lily descend into the depths of a ruined fortress, inhabited by warring bands of kobolds and goblins. Aoife briefly recovers the lost lute, but loses it again to goblin treachery. Deep beneath the Citadel they battle the mad druid Belak, who warns that the elementals will scour clean the land. But not all is lost - along the way, Aoife adopts a baby white dragon, who she names Aurora.
+: Aoife and her new friend Lily accompany the ranger Biren into the depths of a ruined fortress, inhabited by warring bands of kobolds and goblins. Aoife briefly recovers the lost lute, but loses it again to goblin treachery. Deep beneath the Citadel they battle the mad druid Belak, who warns that the elementals will scour clean the land. But not all is lost - along the way, Aoife adopts a baby white dragon, who she names Aurora.
 
 Tremors In Glitter Gulch
 : Fire Serpent Pass explodes, dividing the Sapphire Coast from the rest of the kingdom and driving hordes of vicious Fire Snakes into the mining town of Glitter Gulch. Aoife and Lily (and Aurora) manage to rescue a trade caravan, earning the gratitude of Madame Torgga.
