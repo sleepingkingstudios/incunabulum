@@ -32,7 +32,6 @@ As the Survival skill, but for navigating caves, caverns, and ruins. The DM migh
 
 As the Survival skill, but for navigating towns, cities, and urban environment. The DM might ask you to make a Wisdom (Street Savvy) check to chase a fleeing suspect down an alleyway, to case a crowded marketplace for pickpockets, to identify the best underground patisserie in the Elven Quarter, or to know who to bribe or shake down for an invitation to the mob boss's party.
 
-
 ---
 
 [Back to Home]({{site.baseurl}}/)

@@ -8,7 +8,7 @@ A successful adventure brings many rewards, including experience, gold, works of
 
 Direct rewards are straightforward - the party discovers an advanced Potion of Healing on a shelf, or a Pearl of Power glimmering in the kuo-toa's spawning pond. Magic items discovered during an adventure are available immediately; they can be allocated to characters based on need, or held onto for safe-keeping and later sale or trade.
 
-In contrast, trading magicite for enchanted items gives the character much more flexibility in finding an item that meets their needs. However, this process takes time. Specifically, exchanging magicite for a magic item is a Downtime activity that takes place between adventures.
+In contrast, trading magicite for enchanted items gives the character much more flexibility in finding an item that meets their needs. However, this process takes time. Specifically, exchanging magicite for a magic item is a [Downtime]({{site.baseurl}}/systems/5e/downtime#trading-magic-items) activity that takes place between adventures.
 
 ## Classifying Magic Items
 

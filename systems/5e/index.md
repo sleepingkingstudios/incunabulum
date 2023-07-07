@@ -6,7 +6,7 @@ title: Game Systems \| D&D 5E
 
 The rules-heavy standard bearer.
 
-## Game Mechanics
+## Character Options
 
 ### [Classes]({{site.baseurl}}/systems/5e/classes)
 
@@ -28,7 +28,13 @@ Rules and mechanics for using skills and ability checks.
 
 New spells and mechanics for casting spells.
 
-### Variant Rules
+## Running The Game
+
+### [Downtime]({{site.baseurl}}/systems/5e/downtime)
+
+Rules for managing downtime between adventures.
+
+## Variant Rules
 
 Optional rules for changing the 5E mechanics.
 

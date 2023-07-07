@@ -25,7 +25,7 @@ The adventures of Moe, Py, Roya, and Verity, in and beneath the [City of Wellspr
 - [Custom Rules for D&D 5E]({{site.baseurl}}/systems/5e)
 - [Table Rules](./table-rules)
 - [Magic Items](./magic-items)
-<!-- - [Downtime] -->
+- [Downtime]({{site.baseurl}}/systems/5e/downtime)
 <!-- - [Organizations, Contacts, And Reputation] -->
 
 ### [The City of Wellspring]({{site.baseurl}}/settings/wellspring)
