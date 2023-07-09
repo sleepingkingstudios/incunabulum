@@ -13,8 +13,11 @@ title: Wellspring \| Characters
 
 **Other Characters**
 
+- [Blossom the Druid](#blossom-the-druid)
 - [Cyrene](#cyrene)
 - [Lucas and Martin](#lucas-and-martin)
+- [Regent Silverstone](#regent-silverstone)
+- [Vistra Silverstone](#vistra-silverstone)
 - ["The Cleaner"](#the-cleaner)
 
 ## Player Characters
@@ -59,6 +62,12 @@ Pretty much everyone in the Lower City knows her and loved her family, whose dis
 
 ## Other Characters
 
+### Blossom the Druid
+
+Female halfling druid, earth-blooded.
+
+The party met Blossom at Lavinia's alchemy shop, where she was trying to purchase fertilizer for her prized tomatoes. She aided the party in defending said shop during an Upwelling, where she battled side by side against elementals and aberrations.
+
 ### Cyrene
 
 Female human Cleric/Wizard.
@@ -69,7 +78,7 @@ Cyrene is an acolyte of the Watchers of the Stars with a rather sheltered upbrin
 
 Female halfling alchemist, earth-blooded.
 
-Lavinia owns and operates a shop in the Lower City's trades district, with a workshop in back where she brews alchemist's fire in concerning quantities.
+Lavinia owns and operates a shop in the Lower City's trades district, with a workshop in back where she brews alchemist's fire in concerning quantities. After ratlings burrowed into her workshop and stole a large quantity of alchemist's fire, she hired the party to find the culprits and retrieve her product.
 
 ### Lucas and Martin
 
@@ -77,7 +86,19 @@ Male human toughs.
 
 A pair of freelance legbreakers. Hired to help shake down the character's community theater troupe, the two are now fans, as well as a connection to the city's criminal underworld.
 
-### The Cleaner
+### Regent Silverstone
+
+Female dwarf.
+
+No relation to Vistra Silverstone, Regent Silverstone is responsible for maintaining the Silverstone Trust. She is the nominal landlord of the theater and responsible for its upkeep.
+
+### Vistra Silverstone
+
+Female dwarf.
+
+Vistra Silverstone is a retired adventurer. After hanging up her staff, she is said to have departed for the Free Cities. Before leaving Wellspring, she endowed the Silverstone Trust to maintain the Silverstone Theater and its arts program.
+
+### "The Cleaner"
 
 A mysterious gentleman of apparent elvish lineage, astonishing strength, and an unquestionably dapper wardrobe. He disposes of awkward cadavers for a reasonable fee, no questions asked.
 
