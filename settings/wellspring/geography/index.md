@@ -133,7 +133,7 @@ Despite the merchantry's howls about extortionate taxation, the sewers are activ
 
 The Great Chasm is both the reason for the City of Wellspring's existence and its single greatest threat. A vast rift in the earth of unknown depth, the Great Chasm is a powerful source of natural magic. As such, it draws creatures and monsters of all descriptions, some of which are drawn to the city above (or driven there by even more terrifying beasts from the depths).
 
-In particular, the mana from the Chasm ebbs and flows, and can rarely and unexpectedly surge, driving hostile creatures up into the city in great numbers. These events are referred to as Outbreaks. At least twice in the city's past, a Great Outbreak has seen fighting as far as in the Upper City, but even the "average" outbreak is dangerous and can cause significant damage to the lower districts.
+In particular, the mana from the Chasm ebbs and flows, and can rarely and unexpectedly surge, driving hostile creatures up into the city in great numbers. These events are referred to as Upwellings. At least twice in the city's past, a Great Upwelling has seen fighting as far as in the Upper City, but even the "average" outbreak is dangerous and can cause significant damage to the lower districts.
 
 <!-- #### Locations
 

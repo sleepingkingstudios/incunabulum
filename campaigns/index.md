@@ -6,7 +6,7 @@ title: Campaigns
 
 ## [Adventures In Wellspring]({{site.baseurl}}/campaigns/wellspring)
 
-The adventures of Moe, Py, Roya, and Verity, in and beneath the [City of Wellspring]({{site.baseurl}}/settings/wellspring).
+The adventures of Mo, Py, Roya, and Verity, in and beneath the [City of Wellspring]({{site.baseurl}}/settings/wellspring).
 
 ## [Lutes Are Nothing But Trouble]({{site.baseurl}}/campaigns/lutes)
 
