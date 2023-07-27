@@ -110,7 +110,7 @@ No relation to Vistra Silverstone, Regent Silverstone is responsible for maintai
 
 Female dwarf.
 
-Vistra Silverstone is a retired adventurer. After hanging up her staff, she is said to have departed for the Free Cities. Before leaving Wellspring, she endowed the Silverstone Trust to maintain the Silverstone Theater and its arts program.
+Vistra Silverstone is a retired adventurer, one of the legendary Four Immortals. After hanging up her staff, she is said to have departed for the Free Cities. Before leaving Wellspring, she endowed the Silverstone Trust to maintain the Silverstone Theater and its arts program.
 
 ### "The Cleaner"
 

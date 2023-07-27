@@ -13,10 +13,12 @@ title: Geography
   - [The Giant's Spine Mountains](#the-giants-spine-mountains)
   - [Wellspring Vale](#wellspring-vale)
   - [The Bronzewood](#the-bronzewood)
-- The Wider World
+- [The Wider World](#the-wider-world)
   - [The Free Cities](#the-free-cities)
   - [The Kingdom of Lothian](#the-kingdom-of-lothian)
+  - [The Patchwork Kingdoms](#the-patchwork-kingdoms)
   - [The Sherem Magocracy](#the-sherem-magocracy)
+- [Across The Seas](#across-the-seas)
 
 The region is dominated by the City of Wellspring, located in a small natural valley high in the mountains, with the Great Chasm at its heart. To the northeast is the Vale, a great valley sloping down from the city to the distant foothills.
 
@@ -34,9 +36,11 @@ The highest part of the city is referred to as the Upper City, where the rich, p
   - [City Guard Headquarters](#city-guard-headquarters)
   - [Merchantry Association Headquarters](#merchantry-association-headquarters)
 - [The Garden District](#the-garden-district)
+  - [The Pointed Cap](#the-pointed-cap)
   - [The Tower of Knowledge](#the-tower-of-knowledge)
 - [The Noble Quarter](#the-noble-quarter)
   - [House Savindar](#house-savindar)
+  - [The Rabbit's Foot Casino](#the-rabbits-foot-casino)
 
 #### The Civic District
 
@@ -62,6 +66,10 @@ The headquarters of the [Merchantry Association]({{site.baseurl}}/settings/wells
 
 The Garden District is the home of Wellspring's well-to-do though not wealthy, with rows of townhouses, tree-lined avenues and parks, and shops and restaurants for fine dining and luxuries. Many of the city's houses of worship can be found in the Garden District as well.
 
+##### The Pointed Cap
+
+The unofficial apprentice hangout for the Arcane Order, the Pointed Cap was originally a working class bar called the Bent Horseshoe. After it was gutted in the Sherem Wars, it was rebuilt by its current proprietor, a tiefling who goes by the name Pierre. The Pointed Cap is infamous for its varied cocktail menu, featuring spirits Pierre claims are actually infernal in origin. The building is also strongly warded to suppress spellcasting, officially to prevent student shenanigans, which makes it a useful neutral ground for some otherwise-hostile parties.
+
 ##### The Tower Of Knowledge
 
 The headquarters of the [Arcane Order]({{site.baseurl}}/settings/wellspring/organizations#the-arcane-order) is a grand edifice of marble, with a fortified tower jutting out over the edge of the Great Chasm. In addition to the great library, it holds the offices of the guild’s leadership, laboratories of the arcane arts, and (it is claimed) vaults filled with powerful enchanted artifacts.
@@ -76,14 +84,19 @@ The Noble Quarter is the highest point in Wellspring proper, and is the home of 
 
 One of the newest of the "noble" houses of the city, House Savindar was founded by a retired adventurer, Dame Dahlia Savindar, who leveraged her fortune and connections to become a fixture in the city's social and political scene. Dame Savindar is a founder and major patron of the [Delver's Guild]({{site.baseurl}}/settings/wellspring/organizations#the-delvers-guild), and is frequently found in the broadsheets, usually under "Scandals".
 
+##### The Rabbit's Foot Casino
+
+An ostentatious (some would say gaudy) complex at the edge of the Noble's Quarter, the Rabbit's Foot Casino is *the* place for the wealthy and powerful of Wellspring to see and be seen, or so claim the well-funded gossip mill. Despite (or perhaps because of) persistent rumors of ties to the Harfoot Syndicate, the Rabbit's Foot makes a point of distinguishing itself from the somewhat sleazy dens of gambling and vice found in the lower districts. The casino proudly boasts the finest imported spirits, games of chance and excitement, and an army of attractive staff of all forms and persuasions to keep the party (and the money) flowing.
+
 ### The Lower City
 
 The districts known as the Lower City is where most of the people of Wellspring live and work.
 
 - [The Market District](#the-market-district)
   - [The Fortress Ruins](#the-fortress-ruins)
-- [The Trades District](#the-trade-district)
+- [The Trades District](#the-trades-district)
   - [The Delver's Guild](#the-delvers-guild)
+  - [The Smoke And Mirrors](#the-smoke-and-mirrors)
 - [The Old City](#the-old-city)
   - [The Silverstone Theater](#the-silverstone-theater)
 
@@ -102,6 +115,10 @@ The Trades District is where the common folk of Wellspring live, work, and play.
 ##### The Delver's Guild
 
 The headquarters of the [Delver's Guild]({{site.baseurl}}/settings/wellspring/organizations#the-delvers-guild) is located in the lower city. Originally just an inn bought out by a group of retired adventurers, it has grown into a sprawling complex of offices, warehouses, markets, and training grounds, but the heart of the guild remains the old taproom of the *Last Stop*.
+
+##### The Smoke And Mirrors
+
+A hookah bar in the lower city, with a largely unearned reputation as a den of vice and depravity. The Smoke and Mirrors is also notable for its many halfling-sized tables and rooms, a courtesy that is surprisingly uncommon in a city of Wellspring's diverse populace.
 
 #### The Old City
 
@@ -155,7 +172,7 @@ Several communities of giants are known to live in the nearby mountains, with on
 
 ### Wellspring Vale
 
-The Vale is a long valley, gently rising from the foothills to the edge of Wellspring itself, nestled between the peaks. Since the founding of the city is has become densely settled, with forests largely converted to managed timber and the slopes terraced with farmland and vinyards. The once-wild river that courses down the valley's heart is now tamed to feed irrigation and feed the hundreds of locks that carry trade up and down the canal.
+The Vale is a long valley, gently rising from the foothills to the edge of Wellspring itself, nestled between the peaks. Since the founding of the city is has become densely settled, with forests largely converted to managed timber and the slopes terraced with farmland and vinyards. The once-wild Lion river that courses down the valley's heart is now tamed to feed irrigation and feed the hundreds of locks that carry trade up and down the canal.
 
 ### The Bronzewood
 
@@ -165,7 +182,14 @@ Those few who venture deep into the Bronzewood uninvited have claimed the woods 
 
 ## The Wider World
 
-Wellspring is part of the [Kingdom of Lothian](#the-kingdom-of-lothian). To the east are the [Giant's Spine Mountains](#the-giants-spine-mountains). To the north is the [Sherem Magocracy](#the-sherem-magocracy). To the west is the Sea of Emeralds and the [Free Cities](#the-free-cities). To the south is the Patchwork Kingdoms, a frequently-shifting collection of smaller polities.
+- [The Free Cities](#the-free-cities)
+- [The Kingdom of Lothian](#the-kingdom-of-lothian)
+- [The Patchwork Kingdoms](#the-patchwork-kingdoms)
+  - [Dragon's Fall](#dragons-fall)
+  - [The Queendom of Palmyra](#the-queendom-of-palmyra)
+- [The Sherem Magocracy](#the-sherem-magocracy)
+
+Wellspring is part of the [Kingdom of Lothian](#the-kingdom-of-lothian). To the east are the [Giant's Spine Mountains](#the-giants-spine-mountains). To the north is the [Sherem Magocracy](#the-sherem-magocracy). To the west is the Sea of Emeralds and the [Free Cities](#the-free-cities). To the south is the [Patchwork Kingdoms](#the-patchwork-kingdoms), a frequently-shifting collection of smaller polities.
 
 ### The Free Cities
 
@@ -173,11 +197,35 @@ A collection of independent city-states surrounding the Sea of Emeralds to the w
 
 ### The Kingdom of Lothian
 
-Wellspring comprises the eastern-most outpost of the Kingdom of Lothian and is the Kingdom's third-largest city. Wellspring and is connected to the capital, the City of Lothian, by river (from the base of the Vale) and by the Eastern Road.
+The land now comprising the Kingdom of Lothian was a lightly settled backwater beset by banditry and monster attacks. An informal cabal of robbers and cutthroats banded together in an attempt to monopolize trade along the Southern Caravan Road, making outrageous demands in the process to the small towns and freeholders of the Lion river valley.
+
+In response, the locals organized together, forging simple weapons in secret and drilling town militias under cover of darkness. Their informal leader was a blacksmith named Arielle, whose forge had been burned down by a bandit lord when she refused to craft him a sword. Over the course of a twenty year campaign, the bandits hold was weakened and finally broken. The people acclaimed Queen Arielle the Lion-hearted as the ruler of a new nation, ruling from a captured keep overlooking the river ford.
+
+The city of Lion's Ford is still the heart of Lothian, although the river had been bridged and the ford itself dredged to allow barge traffic upriver to Wellspring Vale. The kingdom is currently jointly ruled by King Durant and Queen Margot, who are siblings and descendants of Arielle the Lion-hearted. Each has several children by their respective consorts, and while the arrangement is stable for now some worry about a crisis of succession in the future.
+
+To the east, the threat of a tide of monsters boiling down Wellspring Vale has been pacified by the foundation of Wellspring itself. To the north, the neighboring Sherem Magocracy remains Lothian's primary threat, with several wars fought over the magical potential of the Great Chasm. To the south lies the Patchwork Kingdoms, an endless source of banditry and border raids, as well as considerable wealth carried along the Southern Caravan Road. To the west are the Free Cities, which trade up and down the Lion river and carry cargoes from the distant south around the borders of the reclusive Sherem.
+
+### The Patchwork Kingdoms
+
+South of the Kingdom of Lothian are the Patchwork Kingdoms, an ever-shifting frontier of disputed claims and brush wars. Much of the territory is uninhabited badlands or wild frontier, of importance only due to the South Caravan Road which carries exotic luxuries to Lothian, Sherem and the Free Cities.
+
+#### Dragon's Fall
+
+The newest nation in the Patchwork Kingdoms styles itself Dragon's Fall. Formerly a minor principality in the foothills of the Giant's Spine Mountains, it was reknowned for the quality of its wines and the competence of its pike guards. Unfortunately, the discovery of precious metals in the mines drew the attention of an ancient dragon, Razzavinax the Red. He burned the vineyards, slaughtered the guards, and installed himself as tyrant of the vale. A mercenary company out of the Free Cities fought and slew Razzavinax, restyling themselves the Dragonslayers and forging powerful weapons and armor from the dragon's remains. The mercenaries now rule Dragon's Fall as a private fiefdom.
+
+#### The Queendom of Palmyra
+
+The southern terminus of the caravan road is the Queendom of Palmyra, said to contain wealth beyond imagination. Virtually all trade between Lothian, Sherem, and places farther north to the rest of the world passes via caravan to or from Palmyra, to be exchanged for exotic luxuries from lands far across the sea.
 
 ### The Sherem Magocracy
 
 The Sherem Magocracy borders Lothian to the north. Politically and magically it is something of a regional superpower, although riven by internal divisions. The five constituent states (known as Towers) are each ruled by a Magister, and each Tower is known for its mastery of a particular area of magic. The Sherem are relatively insular, and while they trade freely with others (Sherem sky-ships are a common sight in Lothian), few outsiders are welcomed into Sherem territory.
+
+## Across The Seas
+
+Somewhere in the vast ocean are the Elven Isles, the homeland of the shoal elves, where few outsiders are ever permitted landfall. Elvish caravels are said to sail every sea in the world, and are of the very few who dare the storms, dragon turtles and uncharted passages beyond the mouth of the Sea of Emeralds to reach the open ocean. All other trade from the southern ports must travel by caravan.
+
+Far beyond the seas, other lands are known to exist. One continent is said to be ruled by halflings, who trade cargoes of tea and cotton in the southern ports. Those traders speak of lands still more distant, where silk and spices flow like water and strange wonders are built of enchanted jade. Other sailors speak of a land ruled by giants, who fought a terrible war against a race of wicked dragons, and of people mixed with wolves and lions and creatures stranger still.
 
 ---
 
