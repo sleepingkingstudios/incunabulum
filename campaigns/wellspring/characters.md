@@ -26,7 +26,21 @@ title: Wellspring \| Characters
 
 **Played By:** E
 
-Female halfling Rogue.
+Female halfling Rogue, air-blooded.
+
+Roya to her friends; Anna to her family; Little Annie to her adoring public, once.
+
+> Height: 3'2", with immaculate posture
+>
+> Hair: Auburn (...it's brown)
+>
+> Eyes: Brown
+
+The Downdrafts are honest halfling folk, and they've lived in Wellspring since its earliest days as a military town. Although they are of sylph heritage, only a few members of the family are able to control air. The family business, Whirlwind Tours, has been running in some form for generations, and it's growing exponentially now due to Wellspring's recent magicite boom. Grammy and Pappa Downdraft, once skilled guides themselves, now handle paperwork, payroll, and the family's tenuous relationship with the Delvers' Guild. Almost every Downdraft works for the family in some way: leading tours, booking groups, renting and maintaining equipment, scouting for new routes and confirming that the standard ones are clear for guests. And Little Annie Downdraft, the youngest of her cousins, has been the face of Whirlwind Tours since infancy. The image of Little Annie's rosy cheeks, bright eyes, and glossy braids promise both a safe and wondrous experience to Wellspring's tourists hoping to taste adventure without risking their necks.
+
+Annie grew up in Wellspring's public squares, doing tumbling tricks, passing out leaflets, and leading folks to the booking office. She was supervised as a child, of course -- Wellspring is a rough town -- but as she grew she began to make a game of eluding whichever sibling or cousin was stuck watching her. Annaroya thrives on attention, but she takes a special pleasure in her ability to disappear.
+
+Annaroya is, of course, a name she gave herself -- not quite a secret identity, but one that isn't associated with her childhood promotional work. The character of Little Annie evolved from angel-faced toddler to spunky kid to dreamy-eyed teen, but Roya is an artist. Over the years, she's received a fair amount of formal training in the performing arts: dance, acrobatics, singing, stage combat (an investment, her folks said), and her work with the Silverstone is a foray into, perhaps, going professional. But her primary work is still with Whirlwind Tours. She's a confident first-aid practitioner (a company-wide requirement), and she's graduated into leading tours regularly. She wonders whether she'll eventually discover a connection to the air-based magic for which her family is named.
 
 ### Moselle Serenity "Mo" Tristrich
 
@@ -96,7 +110,7 @@ No relation to Vistra Silverstone, Regent Silverstone is responsible for maintai
 
 Female dwarf.
 
-Vistra Silverstone is a retired adventurer. After hanging up her staff, she is said to have departed for the Free Cities. Before leaving Wellspring, she endowed the Silverstone Trust to maintain the Silverstone Theater and its arts program.
+Vistra Silverstone is a retired adventurer, one of the legendary Four Immortals. After hanging up her staff, she is said to have departed for the Free Cities. Before leaving Wellspring, she endowed the Silverstone Trust to maintain the Silverstone Theater and its arts program.
 
 ### "The Cleaner"
 

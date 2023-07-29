@@ -10,6 +10,9 @@ title: Wellspring \| Adventures
 [A Volatile Tail](./a-volatile-tail)
 : More machinations endanger the theater, forcing the party to quickly raise funds to save it. They are hired by a shady alchemist to recover a stolen batch of alchemist's fire from beneath the city. After traipsing through the sewers and battling a nest of ever-hungry ratlings, they return to the surface in triumph, only to discover themselves mid-Upwelling and fighting off a swarm of deadly beasts.
 
+[The Silverstone Theater Mystery](./the-silverstone-theater-mystery)
+: A strange magical barrier is discovered beneath the theater. Meanwhile, a librarian at the Arcane Order is asking some pointed questions about the theater's history...
+
 ## Timeline
 
 The City of Wellspring, the Kingdom of Lothian, and all of the surrounding nations use the [Sherem Calendar]({{site.baseurl}}/settings/wellspring/life#calendar), which is based on the constellations.
@@ -33,6 +36,14 @@ The City of Wellspring, the Kingdom of Lothian, and all of the surrounding natio
 
 27 Centaur
 : [A Volatile Tail](./a-volatile-tail): The party pays the arrears for the Silverstone Theater, preventing its closure.
+
+### Summer 2258
+
+After the events of [A Volatile Tail](./a-volatile-tail), the party takes a few tendays of well-deserved downtime.
+
+24 Serpent
+: [The Silverstone Theater Mystery](./the-silverstone-theater-mystery): Py discovers a strange magical anomaly in the theater's basement. The party confronts a librarian in the Arcane Order who has been asking odd questions.
+
 
 ---
 
