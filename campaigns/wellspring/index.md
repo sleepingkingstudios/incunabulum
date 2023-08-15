@@ -4,20 +4,22 @@ title: Campaigns \| Adventures In Wellspring
 
 # Adventures In Wellspring
 
-The adventures of Mo, Py, Roya, and Verity, in and beneath the [City of Wellspring]({{site.baseurl}}/settings/wellspring).
+The adventures of the Silverstone Players: Mo, Py, Roya, and Verity, in and beneath the [City of Wellspring]({{site.baseurl}}/settings/wellspring).
 
 - [Characters](#characters)
 - [Resources](#resources)
 - [Adventures](#adventures)
 
-## [Characters](./characters)
+## Characters
+
+### [The Silverstone Players](./characters)
 
 - [Annaroya "Roya" Downdraft](./characters#annaroya-roya-downdraft)
 - [Moselle Serenity “Mo” Tristrich](./characters#moselle-serenity-mo-tristrich)
 - [Py Hornraven](./characters#py-hornraven)
 - [Verity Gray](./characters#verity-gray)
 
-[Other Characters](./characters#other-characters)
+### [Other Characters](./characters#other-characters)
 
 ## Resources
 
@@ -31,7 +33,7 @@ The adventures of Mo, Py, Roya, and Verity, in and beneath the [City of Wellspri
 ### [The City of Wellspring]({{site.baseurl}}/settings/wellspring)
 
 - [Geography]({{site.baseurl}}/settings/wellspring/geography)
-- [Life in Wellspring]({{site.baseurl}}/settings/wellspring/life-in-wellspring)
+- [Life in Wellspring]({{site.baseurl}}/settings/wellspring/life)
 - [Magic]({{site.baseurl}}/settings/wellspring/magic)
 - [Organizations]({{site.baseurl}}/settings/wellspring/organizations)
 - [Religion]({{site.baseurl}}/settings/wellspring/religion)

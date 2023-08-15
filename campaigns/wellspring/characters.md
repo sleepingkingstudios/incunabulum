@@ -15,10 +15,12 @@ title: Wellspring \| Characters
 
 - [Blossom the Druid](#blossom-the-druid)
 - [Cyrene](#cyrene)
+- [Dame Luciana Savindar](#dame-luciana-savindar)
 - [Lucas and Martin](#lucas-and-martin)
 - [Regent Silverstone](#regent-silverstone)
 - [Vistra Silverstone](#vistra-silverstone)
 - ["The Cleaner"](#the-cleaner)
+- [The Four Immortals](#the-four-immortals)
 
 ## Player Characters
 
@@ -88,6 +90,14 @@ Female human Cleric/Wizard.
 
 Cyrene is an acolyte of the Watchers of the Stars with a rather sheltered upbringing, who feels rather out of her depth in the city, let alone in the wilderness or the caverns and catacombs beneath Wellspring. She refers to herself as an Astrologian, and uses a mixture of divine and arcane magic. She is physically and socially unassuming, roughly 5'7" or 170cm in height, with the soft build of a scholar, grey eyes, and striking silver hair despite her youth. She typically wears an unadorned grey cloak over a scholar's garb, and carries a staff of dark wood that is inlaid with silver constellations.
 
+### Dame Luciana Savindar
+
+Female human Paladin.
+
+Luciana Savindar is a former member of the legendary adventuring group [the Four Immortals](#the-four-immortals), and the only one to have stayed in Wellspring after the group's dissolution. She was awarded a minor noble title for her defense of the city during the last Sherem War, and has since retired to a manor in the Noble Quarter.
+
+Dame Savindar is a silver-haired human woman of average height with an impressive physique. She is frequently found in the broadsheets, usually under "Scandals", and is rumored to sneak into the city's underground fighting rings under an alias. Her ideal evening is, in her own words, "a good drink, a good fight, and a good tumble".
+
 ### Lavinia Goldfound
 
 Female halfling alchemist, earth-blooded.
@@ -110,11 +120,20 @@ No relation to Vistra Silverstone, Regent Silverstone is responsible for maintai
 
 Female dwarf.
 
-Vistra Silverstone is a retired adventurer, one of the legendary Four Immortals. After hanging up her staff, she is said to have departed for the Free Cities. Before leaving Wellspring, she endowed the Silverstone Trust to maintain the Silverstone Theater and its arts program.
+Vistra Silverstone is a retired adventurer, one of the legendary [Four Immortals](#the-four-immortals). After hanging up her staff, she is said to have departed for the Free Cities. Before leaving Wellspring, she endowed the Silverstone Trust to maintain the Silverstone Theater and its arts program.
 
 ### "The Cleaner"
 
 A mysterious gentleman of apparent elvish lineage, astonishing strength, and an unquestionably dapper wardrobe. He disposes of awkward cadavers for a reasonable fee, no questions asked.
+
+### The Four Immortals
+
+A legendary party of adventurers, who are said to have delved deeper beneath Wellspring than any others. They disbanded shortly after the Sherem Wars for reasons unknown. Their members included:
+
+- [Luciana Savindar](#dame-luciana-savindar): A female human paladin. Retired in Wellspring.
+- Riardon the Golden Fist: A male elf cleric.
+- [Vistra Silverstone](#vistra-silverstone): A female dwarf wizard. Retired to the Free Cities.
+- Ulmo Appleblossom: A male halfling rogue.
 
 ---
 
