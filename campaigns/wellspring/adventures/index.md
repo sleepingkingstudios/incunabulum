@@ -4,6 +4,8 @@ title: Wellspring \| Adventures
 
 # Adventures
 
+The adventures of the Silverstone Players: Mo, Py, Roya, and Verity, in and beneath the [City of Wellspring]({{site.baseurl}}/settings/wellspring).
+
 [The Curtain Rises Red](./the-curtain-rises-red)
 : In their introductory adventure, a small theater troupe finds trouble come to them. After a mysterious emissary from the Watchers of the Stars brings a warning of danger, the party discovers a sinister force lurking beneath the theater.
 
@@ -43,7 +45,11 @@ After the events of [A Volatile Tail](./a-volatile-tail), the party takes a few 
 
 24 Serpent
 : [The Silverstone Theater Mystery](./the-silverstone-theater-mystery): Py discovers a strange magical anomaly in the theater's basement. The party confronts a librarian in the Arcane Order who has been asking odd questions.
+: ???: Roya discovers a strange rune in the Fortress Ruins beneath the Market District. Mo translates it as a distorted Infernal rune for "the hunt".
 
+25 Serpent
+: [The Silverstone Theater Mystery](./the-silverstone-theater-mystery): Now calling themselves the Silverstone Players, the party joins the Delver's Guild and attends a fundraiser hosted by the scandalous retired adventurer Dame Luciana Savindar.
+: ???: At the fundraiser for the Delver's Guild, one of the patrons mentions a secret gathering for those interested in the "darker" aspects of magic.
 
 ---
 

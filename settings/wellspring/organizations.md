@@ -48,6 +48,16 @@ Founded by a group of retired adventurers, including Dame Savindar, the Delver's
 
 Membership in the Guild requires a nominal fee, mostly to ensure that new adventurers have the resources necessary to survive their first sojourn. Lower-level adventurers benefit the most from the guild's services, while mid-level adventurers often use the guild as brokers to find those with the resources to hire their services or purchase the treasures found in the depths.
 
+Known adventuring groups affiliated with the guild include:
+
+#### The Company of the Black Lantern
+
+A group of eight humans, half-elves and halflings, who wear a signature uniform of black leather. They tend to favor jobs that require investigation, stealth, and subtlety over brute force.
+
+#### The Runewardens
+
+A band of four dwarves, who use heavy weapons and armor inscribed with glowing runes. They largely operate out of Dwarfhome. Skilled diplomats, they are often called upon to smooth disputes regarding the insular dwarven community and the rest of Wellspring, leveraging their powerful magic and martial abilities as the unspoken threat.
+
 #### Services
 
 One of the most important services provided by the guild is a form of insurance. Adventurers can register a delve with the guild, including a planned path and expected date of return. If they fail to return, the guild will send a more experienced party to investigate. This serves two purposes - the promise of rescue can turn an otherwise hopeless situation into a fortified standoff for the lost party, as well as removing a potential danger to other adventurers or even to the city itself. In exchange, a rescued party will often pay a surcharge on guild services for a time, or have a portion of guild contracts garnished, but most adventurers consider this money very well spent indeed.
