@@ -4,11 +4,12 @@ name: History of Wellspring
 
 # History of Wellspring
 
-- [The World of Myriad](#the-world-of-myriad)
+- [Calendars](#calendars)
+- [Timeline](#timeline)
   - [The Age of Stone](#the-age-of-stone)
   - [The Age of Bronze](#the-age-of-bronze)
   - [The Age of Iron](#the-age-of-iron)
-- [The City of Wellspring](#the-city-of-wellspring)
+  - [The City of Wellspring](#the-city-of-wellspring)
   - [The First Sherem War](#the-first-sherem-war)
   - [The Discovery of Magicite](#the-discovery-of-magicite)
   - [The Second Sherem War](#the-second-sherem-war)
@@ -17,6 +18,90 @@ name: History of Wellspring
 ## The World of Myriad
 
 This world is known as the Land of the Myriadic Gates, or Myriad.
+
+### Calendars
+
+Wellspring and its neighboring realms use the [Sherem calendar]({{Site.baseurl/settings/sapphire-coast/calendar}}), which is based on the constellations. Years in the Sherem calendar are relative to the Convocation, in which the Sherem Magocracy was officially founded by the rival Towers. Years before the convocation are denoted BC, while years since are denoted AC when the year is otherwise ambiguous.
+
+Generally speaking, most inhabitants and visitors of human cities use the local calendar. Halflings in particular tend to use whichever calendar is locally favored, whether that is the human, elvish, or dwarvish calendar. There are several alternative calendars in use by other peoples, but they are not suitable for easy conversion.
+
+- The elven calendars use a 120-year cycle, although where that cycle begins is not consistent between shoal, wild, and high elves.
+- The dwarvish calendar uses a simple day ordinal, paying special note to divisions of ten days (the origins of the human tenday), hundred days, and thousand days. For daily use, dwarves tend to omit the thousands place and above - a dwarf might arrange a meeting at the sixth hour on 725, meaning noon on day 3,690,725 of their calendar.
+- The giantish calendars track the seasons and the stars, and it is believed that their study of the constellations was influential in the development of the human calendar. However, in the giantish calendary years are given regnal numbers reflecting the rule or stewardship of a particular leader or influential figure. Interpreting a giantish date requires deep local knowledge of that community's people and history.
+
+### Timeline
+
+~8,000 BC
+: [The Age of Stone](#the-age-of-stone). Giants, Dwarves, and Minotaurs independently begin recording their history, including older oral traditions.
+
+~7,000 BC
+: The Giantish Empire reaches its peak. The crafting of the Ten Thousand Gates.
+
+~6,500 BC
+: Giants and Dwarves come into conflict. The Wars of Stone begin.
+
+~5,000 BC
+: Fall of the last Minotaur civilization.
+
+~4,500 BC
+: The Wars of Stone end, with no victors. The Giantish empire is shattered; the Dwarves retreat underground.
+
+~3,000 BC
+: [The Age of Bronze](#the-age-of-bronze). The first Great Conjunction brings Elves and Halflings to Myriad.
+
+~1,500 BC
+: Height of the Elvish empires. Conflict erupts over magical resources, territory and prestige. The Wars of Bronze begin.
+
+~1,000 BC
+: The second Great Conjunction. Humans and goblin-kin arrive in Myriad.
+
+~500 BC
+: Elvish renunciates flee the Wars of Bronze, settling in the high peaks, the open seas, or the distant wilds. Humans in what will become Sherem develop a unique magical tradition with a blend of Elvish and Giantish influences.
+
+1 BC
+: The Sherem Convocation. The Sherem Magocracy is founded by the formerly independent towers, guaranteeing mutual protection and the sharing of knowledge.
+
+~500 AC
+: [The Age of Iron](#the-age-of-iron). The Great Disappearance of the Elves. Details unknown due to fragmentary records.
+
+~1300 AC
+: Founding of the Watchers of the Stars.
+
+1830 AC
+: Founding of the Kingdom of Lothian.
+
+~2000 AC
+: Settlement begins in Wellspring Vale.
+
+2072 AC
+: [City of Wellspring founded](#the-city-of-wellspring). Permanent military fortification of the Great Chasm. Adventurers drawn to Wellspring from as far as the Free Cities.
+
+2108 AC
+: Lothian invaded; beginning of [the First Sherem War](#the-first-sherem-war).
+
+2130 AC
+: First Sherem War ends. Division grows between the Sherem Towers.
+
+2160 AC
+: The War of the Towers begins in Sherem.
+
+2178 AC
+: The War of the Towers ends. Founding of the Arcane Order.
+
+2205 AC
+: Arcane Order discovers [secret of magicite crafting](#the-discovery-of-magicite).
+
+2208 AC
+: [The Second Sherem War](#the-second-sherem-war). Wellspring largely destroyed in fighting. Monster and refugee crisis.
+
+2210 AC
+: Retirement of the legendary Four Immortals adventurers.
+
+2212 AC
+: Beginning of [massive rebuilding effort in Wellspring](#rebuilding-and-the-present). Founding of the Delver's Guild.
+
+2258 AC
+: Present day. A series of elemental disasters strikes the Sapphire Coast, isolating it from the rest of Amaranth.
 
 ### The Age of Stone
 
@@ -44,7 +129,7 @@ In the midst of the Wars of Bronze came the Second Great Conjunction, which brou
 
 The recent past has seen the near-dissolution of the ancient [Sherem Magocracy]({{site.baseurl}}/settings/wellspring/geography#the-sherem-magocracy), a regional superpower that fell to internal strife in the War of the Towers. The rising power in the region is now the [Kingdom of Lothian]({{site.baseurl}}/settings/wellspring/geography#the-kingdom-of-lothian), whose control of the city of Wellspring grants it a seemingly limitless font of wealth. To the west, the [Free Cities]({{site.baseurl}}/settings/wellspring/geography#the-free-cities) maintain their historical rivalries and experiment with steam, clockwork, and gunpowder. Meanwhile, traders from a distant land across the sea begin to visit for the first time. It is a time of adventure, of intrigue, of danger, and of opportunity, and some say it is the beginning of a new age: the Age of Steel.
 
-## The City of Wellspring
+### The City of Wellspring
 
 The origins of the Great Chasm are shrouded in mystery. There are no surviving Giantish records relating to the chasm, but small Giantish ruins can be found in the depths below Wellspring, suggesting that the Chasm is at least as old as the great empire of the Giants, and may well predate it. Even the highly organized Dwarves have few references, though the nearby Dwarvish city of Silverhold refers to regular attacks by powerful creatures of magic.
 

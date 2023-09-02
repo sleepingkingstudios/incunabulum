@@ -51,6 +51,12 @@ After the events of [A Volatile Tail](./a-volatile-tail), the party takes a few 
 : [The Silverstone Theater Mystery](./the-silverstone-theater-mystery): Now calling themselves the Silverstone Players, the party joins the Delver's Guild and attends a fundraiser hosted by the scandalous retired adventurer Dame Luciana Savindar.
 : ???: At the fundraiser for the Delver's Guild, one of the patrons mentions a secret gathering for those interested in the "darker" aspects of magic.
 
+26 Serpent
+: [The Silverstone Theater Mystery](./the-silverstone-theater-mystery): The party investigates the Smoke and Mirrors, a known front for House Emberbloom. That evening, they meet with a contact from a rival Syndicate house.
+
+27 Serpent
+: [The Silverstone Theater Mystery](./the-silverstone-theater-mystery): With the aid of the Watchers of the Stars, the party divines clues to the secret of the theater.
+
 ---
 
 [Back to Home]({{site.baseurl}}/)
