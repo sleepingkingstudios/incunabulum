@@ -44,7 +44,56 @@ Finally, the Silverstone Players had the opportunity to speak with Dame Savindar
 
 Sadly for the Silverstone Players, Dame Savindar was not a fan of the theater - in her own words, she preferred to spend the time on "a good drink, a good fight, and a good tumble".
 
-To be continued...
+> [26 Serpent]({{site.baseurl}}/campaigns/wellspring/adventures#spring-2258)
+
+The party spent the morning discussing their options. They decided that they had two separate but related problems: first is the mystery in the basement, and second is the ongoing threat from House Emberbloom of the Harfoot Syndicate.
+
+They decided to focus on the latter, and split their forces to try and find more information about their adversaries. Mo and Roya teamed up to check out the Smoke and Mirrors, a known hangout and front for House Emberbloom, using their respective wizardry and inborn elemental magic to invisibly investigate. Py accompanied the pair from the rooftops.
+
+Meanwhile, Verity spoke with Lucas and Martin at their day job, namely moving crates in a warehouse in the Market District. The two were forthcoming but could only give generalities about the Syndicate. They explained that the organization was divided up into independent Houses, each of which tended to focus on one area of criminal or quasi-legitimate activity. They did offer to put Verity in touch with a contact of theirs within the Syndicate itself, an offer Verify accepted for that evening.
+
+At the Smoke and Mirrors, Mo and Roya were successful in approaching unseen, although Py created a minor spectacle in nearly falling from the rooftops. They managed to sneak into the building through the kitchen door, observing a mostly halfling clientele along with some obvious Syndicate goons standing guard.
+
+Daringly, Roya managed to sneak upstairs and used a rolling coin trick to distract another guard long enough to overhear a conversation between Sindri Emberbloom and his chief enforcer, Donalla Shadowcloak. Donella was of the opinion that "the wizard" had failed them, and it was time to consider alternative plans. Sindri wasn't quite ready to write the wizard off, but encouraged a contingency plan and suggested that "fire is always effective for chasing out vermin".
+
+That evening, Verity met with Lucas, Martin, and their contact, a halfling named Marigold with a rare wood elemental bloodline. She talked openly about being part of the Harfoot Syndicate, in her case as part of House Tealeaf, which has an interest in growing things. She also gossiped freely about House Emberbloom - apparently they were new, were universally disliked, and in some financial trouble unless they could repay their loans soon. In fact, the only thing keeping them afloat was a major contract "some wizard" had hired them to perform.
+
+Marigold capped off their meeting by offering Verity a sample of a new import she referred to as "magic beans". Apparently, they required careful preparation of fire and water, but resulted in a potent stimulant...
+
+> [27 Serpent]({{site.baseurl}}/campaigns/wellspring/adventures#spring-2258)
+
+The following morning, Py visited the alchemist Lavinia Goldfound at her shop. They discussed Py's continuing study of the alchemic arts, and Py asked her mentor to investigate the "magic beans" they had received from Marigold.
+
+After Py rejoined the group, the party met Cyrene for lunch at the Pointed Cap. Mo explained their theory that a powerful artifact was protected in the basement of the theater; further, that the Harfoot Syndicate was after it, as was an unknown wizard. Given the party's uncertainty, Cyrene performed an augury to predict the results of the party's next steps:
+
+"If we ask the Watchers for aid with the presumed artifact in the basement" resulted in mixed results of weal and woe, while "If we invite Daragoth to the theater" resulted in a powerful warning from the stars.
+
+Since Cyrene's own divinations were stymied by the magical protections, she offered to ask her mentor at the Watchers of the Stars to help investigate.
+
+That evening, Cyrene visited the theater with her mentor, an astrologian named Ngozi, who performed a powerful divination by casting gemstone dust into the air to form the shape of the constellations. Unfortunately, the protective enchantment was old and powerful, and its contents were sheltered "even from sight of the stars".
+
+However, just as the stars are joined by the constellations, so too are mortal people and events connected. By focusing her divination, Ngozi revealed that there is a key that unlocks the enchantment, and the following clues:
+
+- The key is a physical object.
+- Three people share the same connection to the key:
+  - The one who created the enchantment.
+  - The one who possesses the key.
+  - One among the party.
+- Some among the party have seen the key before with their own eyes.
+- The key is connected to Vistra Silverstone.
+- The key is not a unique object.
+- The key is both earned and stolen.
+- The one who holds the key knows its nature and its purpose.
+
+From these clues, the party deduced that the key is the old Arcane Order emblem of Vistra Silverstone, and that they had seen the key on the wall of Daragoth's office in the Arcane Order.
+
+With that, the party resolved to break into Daragoth's office and steal the key. While investigating, Mo found that the room directly above the office was a humble broom closet. Unfortunately, it was devoid of any convenient pipes or ways to fake a plumbing leak, and Mo recalled that the Arcane Order's library (of which Daragoth's office appeared to be a purloined closet) was magically protected against fires or spills.
+
+Even more unfortunately, Daragoth themself cornered Mo as the latter tried to leave. In his panic, Mo revealed several details to the mojh, including that the party had found a powerful protective enchantment in their basement.
+
+It seemed like the situation was rapidly becoming critical, and the party discussed their options late into the night.
+
+To be concluded...
 
 ### Characters and Organizations
 
@@ -63,8 +112,14 @@ Falkrunn Ruby-Eye
 House Emberbloom
 : A house of the [Harfoot Syndicate]({{site.baseurl}}/settings/wellspring/organizations#the-harfoot-syndicate), responsible for the recent attacks on the theater. Known members include their leader, Sindri Emberbloom, and chief enforcer Donella Shadowcloak.
 
+Marigold
+: A female halfling of wood elemental ancestry. She is a member of House Tealeaf of the Harfoot Syndicate and a contact of Lucas and Martin.
+
 Mialee Sylvaranth
 : An administator at the [Delver's Guild]({{site.baseurl}}/campaigns/wellspring/organizations#the-delvers-guild).
+
+Ngozi
+: Cyrene's mentor in the Watchers of the Stars, and a powerful Sherem diviner. Her visible skin is covered in faintly glowing tattoos.
 
 [Regent Silverstone]({{site.baseurl}}/campaigns/wellspring/characters#regent-silverstone)
 : The landlord for the Silverstone Theater.
@@ -80,6 +135,10 @@ Mialee Sylvaranth
 Rewards
 : - Regent Silverstone returned the loan for the theater, worth 400 gold.
   - The party spent 200 gold to join the Delver's Guild.
+  - Marigold of House Tealeaf gave them a small pouch of "magic beans", which they passed to the alchemist Lavinia Goldfound for investigation.
+
+Contacts
+: - Gained Contact: Marigold of House Tealeaf
 
 To be determined...
 

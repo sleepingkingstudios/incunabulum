@@ -4,7 +4,7 @@ title: The Sapphire Coast \| Calendar
 
 # Calendar
 
-The calendar of the Sapphire Coast is based on the constellations.
+The most common calendar of Wellspring and the Sapphire Coast is the Sherem calendar, which is based on the constellations.
 
 ## Divisions of Time
 
