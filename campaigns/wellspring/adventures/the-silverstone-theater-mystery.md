@@ -89,7 +89,7 @@ From these clues, the party deduced that the key is the old Arcane Order emblem 
 
 With that, the party resolved to break into Daragoth's office and steal the key. While investigating, Mo found that the room directly above the office was a humble broom closet. Unfortunately, it was devoid of any convenient pipes or ways to fake a plumbing leak, and Mo recalled that the Arcane Order's library (of which Daragoth's office appeared to be a purloined closet) was magically protected against fires or spills.
 
-Even more unfortunately, Daragoth themself cornered Mo as the latter tried to leave. In his panic, Mo revealed several details to the mojh, including that the party had found a powerful protective enchantment in their basement.
+Even more unfortunately, Daragoth themself cornered Mo as the latter tried to leave. In her panic, Mo revealed several details to the mojh, including that the party had found a powerful protective enchantment in their basement.
 
 It seemed like the situation was rapidly becoming critical, and the party discussed their options late into the night.
 
