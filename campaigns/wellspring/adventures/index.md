@@ -57,6 +57,9 @@ After the events of [A Volatile Tail](./a-volatile-tail), the party takes a few 
 27 Serpent
 : [The Silverstone Theater Mystery](./the-silverstone-theater-mystery): With the aid of the Watchers of the Stars, the party divines clues to the secret of the theater.
 
+28 Serpent
+: [The Silverstone Theater Mystery](./the-silverstone-theater-mystery): The party parleys with Sindri Emberbloom in the theater, witness a battle in the streets between their adversaries, and confront would-be mastermind Daragoth in a dimensional mansion. They discover Vistra Silverstone's secret laboratory hidden beneath the theater, containing the wrapping of a mysterious broken staff.
+
 ---
 
 [Back to Home]({{site.baseurl}}/)
