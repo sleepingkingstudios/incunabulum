@@ -15,6 +15,11 @@ The adventures of the Silverstone Players: Mo, Py, Roya, and Verity, in and bene
 [The Silverstone Theater Mystery](./the-silverstone-theater-mystery)
 : A strange magical barrier is discovered beneath the theater. Meanwhile, a librarian at the Arcane Order is asking some pointed questions about the theater's history...
 
+{% assign adventures = site.adventures | where: "campaign", "wellspring" %}
+{% for adventure in adventures %}
+{% include adventure-link.md adventure=adventure %}
+{% endfor %}
+
 ## Timeline
 
 The City of Wellspring, the Kingdom of Lothian, and all of the surrounding nations use the [Sherem Calendar]({{site.baseurl}}/settings/wellspring/life#calendar), which is based on the constellations.
@@ -45,11 +50,11 @@ After the events of [A Volatile Tail](./a-volatile-tail), the party takes a few 
 
 24 Serpent
 : [The Silverstone Theater Mystery](./the-silverstone-theater-mystery): Py discovers a strange magical anomaly in the theater's basement. The party confronts a librarian in the Arcane Order who has been asking odd questions.
-: ???: Roya discovers a strange rune in the Fortress Ruins beneath the Market District. Mo translates it as a distorted Infernal rune for "the hunt".
+: [Devils Are The Playthings Of Idle Hands](./devils-playthings): Roya discovers a strange rune in the Fortress Ruins beneath the Market District. Mo translates it as a distorted Infernal rune for "the hunt".
 
 25 Serpent
 : [The Silverstone Theater Mystery](./the-silverstone-theater-mystery): Now calling themselves the Silverstone Players, the party joins the Delver's Guild and attends a fundraiser hosted by the scandalous retired adventurer Dame Luciana Savindar.
-: ???: At the fundraiser for the Delver's Guild, one of the patrons mentions a secret gathering for those interested in the "darker" aspects of magic.
+: [Devils Are The Playthings Of Idle Hands](./devils-playthings): At the fundraiser for the Delver's Guild, one of the patrons mentions a secret gathering for those interested in the "darker" aspects of magic.
 
 26 Serpent
 : [The Silverstone Theater Mystery](./the-silverstone-theater-mystery): The party investigates the Smoke and Mirrors, a known front for House Emberbloom. That evening, they meet with a contact from a rival Syndicate house.
@@ -59,6 +64,9 @@ After the events of [A Volatile Tail](./a-volatile-tail), the party takes a few 
 
 28 Serpent
 : [The Silverstone Theater Mystery](./the-silverstone-theater-mystery): The party parleys with Sindri Emberbloom in the theater, witness a battle in the streets between their adversaries, and confront would-be mastermind Daragoth in a dimensional mansion. They discover Vistra Silverstone's secret laboratory hidden beneath the theater, containing the wrapping of a mysterious broken staff.
+
+10 Dragon
+: [Devils Are The Playthings Of Idle Hands](./devils-playthings): The Market District is thrown into chaos by mysterious vandals. The Silverstone Players investigate, and battle a swarm of malicious imps in the fortress ruins below.
 
 ---
 

@@ -57,6 +57,11 @@ The Silverstone Theater
 [The Silverstone Theater Mystery]({{site.baseurl}}/campaigns/wellspring/adventures/the-silverstone-theater-mystery)
 : A strange magical barrier is discovered beneath the theater. Meanwhile, a librarian at the Arcane Order is asking some pointed questions about the theater's history...
 
+{% assign adventures = site.adventures | where: "campaign", "wellspring" %}
+{% for adventure in adventures %}
+{% include adventure-link.md adventure=adventure %}
+{% endfor %}
+
 ---
 
 [Back to Home]({{site.baseurl}}/)

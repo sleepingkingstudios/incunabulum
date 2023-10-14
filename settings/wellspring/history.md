@@ -21,7 +21,7 @@ This world is known as the Land of the Myriadic Gates, or Myriad.
 
 ### Calendars
 
-Wellspring and its neighboring realms use the [Sherem calendar]({{Site.baseurl/settings/sapphire-coast/calendar}}), which is based on the constellations. Years in the Sherem calendar are relative to the Convocation, in which the Sherem Magocracy was officially founded by the rival Towers. Years before the convocation are denoted BC, while years since are denoted AC when the year is otherwise ambiguous.
+Wellspring and its neighboring realms use the [Sherem calendar]({{site.baseurl}}/settings/sapphire-coast/calendar), which is based on the constellations. Years in the Sherem calendar are relative to the Convocation, in which the Sherem Magocracy was officially founded by the rival Towers. Years before the convocation are denoted BC, while years since are denoted AC when the year is otherwise ambiguous.
 
 Generally speaking, most inhabitants and visitors of human cities use the local calendar. Halflings in particular tend to use whichever calendar is locally favored, whether that is the human, elvish, or dwarvish calendar. There are several alternative calendars in use by other peoples, but they are not suitable for easy conversion.
 
