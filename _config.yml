@@ -1,8 +1,9 @@
 ---
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - README.md
+collections_dir: collections
+collections:
+  adventures:
+    output: false
+    sort_by: campaign_index
 defaults:
 - scope:
     path: ''
@@ -11,3 +12,9 @@ defaults:
     encoding: 'utf-8'
     layout: 'page'
     title: 'Incunabulum'
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - Rakefile
+markdown: kramdown
