@@ -1,7 +1,7 @@
 ---
-title:    Sindri Emberbloom
+title:    Katerine Descoteaux
 campaign: wellspring
-slug:     sindri-emberbloom
+slug:     katerine-descoteaux
 ---
 
 {% assign character = site.characters | where: "campaign", page.campaign | where: "slug", page.slug | first %}

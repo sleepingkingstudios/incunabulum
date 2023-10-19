@@ -82,7 +82,7 @@ The Noble Quarter is the highest point in Wellspring proper, and is the home of 
 
 ##### House Savindar
 
-One of the newest of the "noble" houses of the city, House Savindar was founded by a retired adventurer, Dame Dahlia Savindar, who leveraged her fortune and connections to become a fixture in the city's social and political scene. Dame Savindar is a founder and major patron of the [Delver's Guild]({{site.baseurl}}/settings/wellspring/organizations#the-delvers-guild), and is frequently found in the broadsheets, usually under "Scandals".
+One of the newest of the "noble" houses of the city, House Savindar was founded by a retired adventurer, Dame Luciana Savindar, who leveraged her fortune and connections to become a fixture in the city's social and political scene. Dame Savindar is a founder and major patron of the [Delver's Guild]({{site.baseurl}}/settings/wellspring/organizations#the-delvers-guild), and is frequently found in the broadsheets, usually under "Scandals".
 
 ##### The Rabbit's Foot Casino
 

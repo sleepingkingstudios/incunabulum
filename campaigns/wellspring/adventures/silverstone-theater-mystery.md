@@ -6,17 +6,6 @@ slug:     silverstone-theater-mystery
 
 {% include adventure.md %}
 
-### Organizations
-
-House Emberbloom
-: A house of the [Harfoot Syndicate]({{site.baseurl}}/settings/wellspring/organizations#the-harfoot-syndicate), responsible for the recent attacks on the theater. Known members include their leader, Sindri Emberbloom, and chief enforcer Donella Shadowcloak.
-
-[The Company of the Black Lantern]({{site.baseurl}}/campaigns/wellspring/organizations#the-company-of-the-black-lantern)
-: A band of adventurers affiliated with the [Delver's Guild]({{site.baseurl}}/campaigns/wellspring/organizations#the-delvers-guild).
-
-[The Runewardens]({{site.baseurl}}/campaigns/wellspring/organizations#the-runewardens)
-: A band of adventurers affiliated with the [Delver's Guild]({{site.baseurl}}/campaigns/wellspring/organizations#the-delvers-guild).
-
 ### Outcome
 
 Rewards

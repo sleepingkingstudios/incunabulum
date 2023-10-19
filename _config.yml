@@ -7,6 +7,9 @@ collections:
   characters:
     output: false
     sort_by: name
+  organizations:
+    output: false
+    sort_by: name
 defaults:
 - scope:
     path: ''

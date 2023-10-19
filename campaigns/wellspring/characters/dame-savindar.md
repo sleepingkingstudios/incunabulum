@@ -1,7 +1,7 @@
 ---
-title: Wellspring \| Characters |\ Dame Savindar
+title:    Dame Savindar
 campaign: wellspring
-slug: dame-savindar
+slug:     dame-savindar
 ---
 
 {% assign character = site.characters | where: "campaign", page.campaign | where: "slug", page.slug | first %}

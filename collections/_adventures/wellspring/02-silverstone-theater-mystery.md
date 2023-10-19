@@ -4,7 +4,7 @@ campaign_index: 2
 name: The Silverstone Theater Mystery
 slug: silverstone-theater-mystery
 summary: |
-  A strange magical barrier is discovered beneath the theater. The mysterious threat menacing the theater is revealed to be a house of the Harfoot Syndicate. A draconic librarian at the Arcane Order reveals themself as a sinister sorcerer, trying to steal an ancient relic. The Silverstone Players navigate these treacherous waters, investigate their foes, foil the halfling mob, and finally pursue the mojh Daragoth into a dimensional mansion.
+  A strange magical barrier is discovered beneath the theater, while the mysterious threat menacing the theater is revealed to be a house of the Harfoot Syndicate. A draconic librarian at the Arcane Order reveals themself as a sinister sorcerer, trying to steal an ancient relic. The Silverstone Players navigate these treacherous waters, investigate their foes, foil the halfling mob, and finally pursue the mojh Daragoth into a dimensional mansion.
 characters:
   - name: Cyrene
     slug: cyrene
@@ -26,6 +26,10 @@ characters:
     slug: falkrunn-ruby-eye
     details: |
       A factor for the Deepstone Trading Company, looking to establish trade connections with the underground Dwarven city of Silverhold.
+  - name: Katerine Descoteaux
+    slug: katerine-descoteaux
+    details: |
+      A would-be sorceress that the party met at Dame Savindar's fundraiser.
   - name: Marigold Greentea
     slug: marigold-greentea
     details: |
@@ -46,6 +50,23 @@ characters:
     slug: sindri-emberbloom
     details: |
       The head of House Emberbloom, Sindri was hired by Daragoth to drive the troupe out of the theater. He later attempted to parley with the party in exchange for the treasure he believed was under the theater, and was last seen in a running street battle with Daragoth.
+  - name: Vistra Silverstone
+    slug: vistra-silverstone
+    details: |
+      Vistra Silverstone's hidden laboratory was discovered beneath the theater. In it, the Silverstone Players found the wrapping of a lost Staff of the Magister, along with Vistra's notes on where the remaining pieces may be found.
+organizations:
+  - name: The Arcane Order
+    slug: arcane-order
+    details: |
+      Daragoth used the Arcane Order as cover while trying to steal the secrets of the Silverstone Theater.
+  - name: The Delver's Guild
+    slug: delvers-guild
+    details: |
+      A fundraiser for the Delver's Guild gave the party an opportunity to speak with Dame Savindar about her former companion, Vistra Silverstone. They also met two fellow bands of adventurers - the Company of the Black Lantern, and the Runewardens.
+  - name: House Emberbloom
+    slug: house-emberbloom
+    details: |
+      House Emberbloom was hired by Daragoth to drive the troupe out of the theater.
 ---
 
 > Date: [24 Serpent]({{site.baseurl}}/campaigns/wellspring/adventures#summer-2258)

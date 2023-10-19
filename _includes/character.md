@@ -50,7 +50,7 @@ Description
 {% endif %}
 
 {% if include.character.adventures %}
-### Adventures
+## Adventures
 
 {% for adventure in include.character.adventures %}
 {% if adventure.slug %}

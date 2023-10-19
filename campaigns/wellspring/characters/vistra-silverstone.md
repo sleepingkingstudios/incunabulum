@@ -1,7 +1,7 @@
 ---
-title:    Sindri Emberbloom
+title:    Vistra Silverstone
 campaign: wellspring
-slug:     sindri-emberbloom
+slug:     vistra-silverstone
 ---
 
 {% assign character = site.characters | where: "campaign", page.campaign | where: "slug", page.slug | first %}

@@ -6,6 +6,11 @@ slug: devils-playthings
 summary: |
   Chaos in the market district and demons in the ruins below. The Silverstone
   Players are on the case!
+characters:
+  - name: Katerine Descoteaux
+    slug: katerine-descoteaux
+    details: |
+      She sent Mo a perfumed letter asking the latter to attend a "ladie's salon".
 ---
 
 > Date: [24 Serpent]({{site.baseurl}}/campaigns/wellspring/adventures#summer-2258)

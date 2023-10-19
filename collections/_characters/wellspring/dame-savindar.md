@@ -3,7 +3,7 @@ campaign: wellspring
 name: Dame Savindar
 slug: dame-savindar
 full_name: Luciana Savindar
-lineage: Female human
+lineage: Female human Paladin
 description: |
   Luciana Savindar is a silver-haired human woman of average height with an impressive physique. She carries more than a few scars from her long adventuring career, and prefers trousers and leather to the fancy clothers of her nominal social stratum.
 organizations:

@@ -1,7 +1,7 @@
 ---
-title: Wellspring \| Characters |\ Donella Shadowcloak
+title:    Donella Shadowcloak
 campaign: wellspring
-slug: donella-shadowcloak
+slug:     donella-shadowcloak
 ---
 
 {% assign character = site.characters | where: "campaign", page.campaign | where: "slug", page.slug | first %}
