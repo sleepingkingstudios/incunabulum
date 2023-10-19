@@ -45,3 +45,35 @@
 
 [Back To Top](#)
 {% endif %}
+
+{% if adventure.outcome %}
+## Outcome
+
+{{ adventure.outcome }}
+
+{% if adventure.contacts %}
+### Contacts
+
+{% for contact in adventure.contacts %}
+{% if contact.slug -%}
+- [{{ contact.name | strip }}]({{site.baseurl}}/campaigns/{{page.campaign}}/characters/{{contact.slug}}){% if contact.details %}: {{ contact.details | strip }}{% endif %}
+{%- else -%}
+- {{ contact.name | strip }}{% if contact.details %}: {{ contact.details | strip }}{% endif %}
+{%- endif -%}
+{% endfor %}
+{% endif %}
+
+{% if adventure.discoveries %}
+### Discoveries
+
+{{ adventure.discoveries | markdownify }}
+{% endif %}
+
+{% if adventure.rewards %}
+### Rewards
+
+{{ adventure.rewards | markdownify }}
+{% endif %}
+
+[Back To Top](#)
+{% endif %}
