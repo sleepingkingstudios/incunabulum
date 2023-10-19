@@ -1,5 +1,6 @@
 ---
 title: Wellspring \| Characters
+campaign: wellspring
 ---
 
 # Characters

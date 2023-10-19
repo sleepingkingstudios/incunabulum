@@ -1,6 +1,6 @@
 ---
 campaign: wellspring
-campaign_index: 0
+campaign_index: 3
 name: Devils Are The Playthings Of Idle Hands
 slug: devils-playthings
 summary: |

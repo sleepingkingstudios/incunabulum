@@ -4,6 +4,9 @@ collections:
   adventures:
     output: false
     sort_by: campaign_index
+  characters:
+    output: false
+    sort_by: name
 defaults:
 - scope:
     path: ''

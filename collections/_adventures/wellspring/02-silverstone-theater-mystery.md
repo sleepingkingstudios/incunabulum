@@ -1,12 +1,52 @@
 ---
-title: Wellspring \| The Silverstone Theater Mystery
+campaign: wellspring
+campaign_index: 2
+name: The Silverstone Theater Mystery
+slug: silverstone-theater-mystery
+summary: |
+  A strange magical barrier is discovered beneath the theater. The mysterious threat menacing the theater is revealed to be a house of the Harfoot Syndicate. A draconic librarian at the Arcane Order reveals themself as a sinister sorcerer, trying to steal an ancient relic. The Silverstone Players navigate these treacherous waters, investigate their foes, foil the halfling mob, and finally pursue the mojh Daragoth into a dimensional mansion.
+characters:
+  - name: Cyrene
+    slug: cyrene
+    details: |
+      Cyrene's divinations revealed a hidden enchantment embedded within the theater’s walls. She also cast auguries to help guide the party on who to trust.
+  - name: Dame Savindar
+    slug: dame-savindar
+    details: |
+      The Silverstone Players attended a fundraiser for the Delver's Guild at her manor, and spoke with her about her former companion Vistra Silverstone.
+  - name: Daragoth
+    slug: daragoth
+    details: |
+      Ostensibly a simple librarian for the Arcane Order, Daragoth discovered the location of Vistra Silverstone's laboratory beneath the theater and hired House Emberbloom to evict the troupe by any means necessary. They were unsuccessful in worming their way into the party's trust. Ultimately, the party pursued Daragoth into a stolen pocket dimension and struck them down.
+  - name: Donella Shadowcloak
+    slug: donella-shadowcloak
+    details: |
+      The chief enforcer of House Emberbloom. She and Sindri were overheard plans to burn the troupe out of the theater.
+  - name: Falkrunn Ruby-Eye
+    slug: falkrunn-ruby-eye
+    details: |
+      A factor for the Deepstone Trading Company, looking to establish trade connections with the underground Dwarven city of Silverhold.
+  - name: Marigold Greentea
+    slug: marigold-greentea
+    details: |
+      The party met Marigold when investigating the Harfoot Syndicate.
+  - name: Mialee Sylvaranth
+    slug: mialee-sylvaranth
+    details: |
+      An administrator for the Delver's Guild, Mialee is the party's primary point of contact. She provided the invitations for the party to attend Dame Savindar's fundraiser.
+  - name: Ngozi
+    slug: ngozi
+    details: |
+      At Cyrene's request, Ngozi attempted to break through the protections in the basement of the Silverstone Theater. While unsuccessful, her divinations were able to trace connections between people and places, giving the party the clues they needed to identify the key as Vistra Silverstone's insignia.
+  - name: Regent Silverstone
+    slug: regent-silverstone
+    details: |
+      Regent Silverstone returned the borrowed funds used to save the theater from legal shenanigans. She was unaware of any enchantments or hidden locations within the theater.
+  - name: Sindri Emberbloom
+    slug: sindri-emberbloom
+    details: |
+      The head of House Emberbloom, Sindri was hired by Daragoth to drive the troupe out of the theater. He later attempted to parley with the party in exchange for the treasure he believed was under the theater, and was last seen in a running street battle with Daragoth.
 ---
-
-# The Silverstone Theater Mystery
-
-A strange magical barrier is discovered beneath the theater. Meanwhile, a librarian at the Arcane Order is asking some pointed questions about the theater's history...
-
-## Adventure Summary
 
 > Date: [24 Serpent]({{site.baseurl}}/campaigns/wellspring/adventures#summer-2258)
 
@@ -26,7 +66,7 @@ While under the truth enchantment, Daragoth admitted to prior ties with the Harf
 
 Still, the party distrusted Daragoth. They declined to answer his questions, refused his help in investigation, and absolutely did not offer him sanctuary within the theater. They gave a vague promise of assistance to Daragoth, but planned to pursue other avenues of investigation.
 
-> [25 Serpent]({{site.baseurl}}/campaigns/wellspring/adventures#summer-2258)
+> Date: [25 Serpent]({{site.baseurl}}/campaigns/wellspring/adventures#summer-2258)
 
 The following day, Regent Silverstone came by the theater. The mysterious legal shenanigans threatening the theater had been exposed as fraudulent, and the Regent gave the party a bank draft for 400 gold pieces, returning the loan used to pay the theater's arrears.
 
@@ -44,7 +84,7 @@ Finally, the Silverstone Players had the opportunity to speak with Dame Savindar
 
 Sadly for the Silverstone Players, Dame Savindar was not a fan of the theater - in her own words, she preferred to spend the time on "a good drink, a good fight, and a good tumble".
 
-> [26 Serpent]({{site.baseurl}}/campaigns/wellspring/adventures#summer-2258)
+> Date: [26 Serpent]({{site.baseurl}}/campaigns/wellspring/adventures#summer-2258)
 
 The party spent the morning discussing their options. They decided that they had two separate but related problems: first is the mystery in the basement, and second is the ongoing threat from House Emberbloom of the Harfoot Syndicate.
 
@@ -60,7 +100,7 @@ That evening, Verity met with Lucas, Martin, and their contact, a halfling named
 
 Marigold capped off their meeting by offering Verity a sample of a new import she referred to as "magic beans". Apparently, they required careful preparation of fire and water, but resulted in a potent stimulant...
 
-> [27 Serpent]({{site.baseurl}}/campaigns/wellspring/adventures#summer-2258)
+> Date: [27 Serpent]({{site.baseurl}}/campaigns/wellspring/adventures#summer-2258)
 
 The following morning, Py visited the alchemist Lavinia Goldfound at her shop. They discussed Py's continuing study of the alchemic arts, and Py asked her mentor to investigate the "magic beans" they had received from Marigold.
 
@@ -93,7 +133,7 @@ Even more unfortunately, Daragoth themself cornered Mo as the latter tried to le
 
 It seemed like the situation was rapidly becoming critical, and the party discussed their options late into the night. Mo, Py, and Roya stayed in the theater overnight, while Verity went home for a well-deserved rest.
 
-> [28 Serpent]({{site.baseurl}}/campaigns/wellspring/adventures#summer-2258)
+> Date: [28 Serpent]({{site.baseurl}}/campaigns/wellspring/adventures#summer-2258)
 
 The following morning, as Verity was returning to the theater, Py noticed a large group of ne'er-do-wells converging. Fortunately, a shouted warning allowed Verity to reach the theater without an issue. Sensing a confrontation, the Silverstone Players moved to guard the building, with Py and her steel defender protecting the back entrances while the rest of the party guarded the front. Mo sent Sophie with a note to the city guard, while Roya and Verity shouted threats at the gathering thugs from the windows.
 
@@ -130,79 +170,3 @@ From there, the party discussed the fate of the comatose Daragoth, with suggesti
 From there, the party returns to the theater, where they are drawn by the key down into the basement. They took some time to rest before investigating. Touching the wall reveals a narrow staircase leading downward perhaps fifty feet, revealing Vistra Silverstone's hidden workshop. They find a note from Vistra Silverstone to "Luciana, Riordan and Ulmo", stating that she'd found one of the three items she was looking for.
 
 Inside a chest beside the desk, the party found a long piece of fine cloth, a foot wide by twenty long, covered in Sherem writing. They also found several sketches of a broken staff, suggesting that the cloth was the wrapping for a staff. Roya also discovered another mechanism that closed off a passage deeper beneath the city. The party left the damaged dimensional book in the workshop and resealed the staircase using the key.
-
-### Characters and Organizations
-
-[Cyrene the Astrologian]({{site.baseurl}}/campaigns/wellspring/characters#cyrene)
-: Her divinations revealed a hidden enchantment embedded in the theater's walls.
-
-[Dame Luciana Savindar]({{site.baseurl}}/campaigns/wellspring/characters#dame-luciana-savindar)
-: A former member of [the Four Immortals]({{site.baseurl}}/campaigns/wellspring/characters#the-four-immortals). The Silverstone Players attended a fundraiser for the Delver's Guild at her manor, and spoke with her about her former companion Vistra Silverstone.
-
-Daragoth the Mojh
-: A librarian at the [Arcane Order]({{site.baseurl}}/settings/wellspring/organizations#the-arcane-order), they are somehow tied into the Syndicate's campaign of harassment against the theater.
-
-Falkrunn Ruby-Eye
-: A factor for the Deepstone Trading Company, looking to establish a trade route to the underground Dwarven city of Silverhold.
-
-House Emberbloom
-: A house of the [Harfoot Syndicate]({{site.baseurl}}/settings/wellspring/organizations#the-harfoot-syndicate), responsible for the recent attacks on the theater. Known members include their leader, Sindri Emberbloom, and chief enforcer Donella Shadowcloak.
-
-Marigold
-: A female halfling of wood elemental ancestry. She is a member of House Tealeaf of the Harfoot Syndicate and a contact of Lucas and Martin.
-
-Mialee Sylvaranth
-: An administator at the [Delver's Guild]({{site.baseurl}}/campaigns/wellspring/organizations#the-delvers-guild).
-
-Ngozi
-: Cyrene's mentor in the Watchers of the Stars, and a powerful Sherem diviner. Her visible skin is covered in faintly glowing tattoos.
-
-[Regent Silverstone]({{site.baseurl}}/campaigns/wellspring/characters#regent-silverstone)
-: The landlord for the Silverstone Theater.
-
-[The Company of the Black Lantern]({{site.baseurl}}/campaigns/wellspring/organizations#the-company-of-the-black-lantern)
-: A band of adventurers affiliated with the [Delver's Guild]({{site.baseurl}}/campaigns/wellspring/organizations#the-delvers-guild).
-
-[The Runewardens]({{site.baseurl}}/campaigns/wellspring/organizations#the-runewardens)
-: A band of adventurers affiliated with the [Delver's Guild]({{site.baseurl}}/campaigns/wellspring/organizations#the-delvers-guild).
-
-### Outcome
-
-Rewards
-: - Regent Silverstone returned the loan for the theater, worth 400 gold.
-  - The party spent 200 gold to join the Delver's Guild.
-  - The party recovered a magical tome that contained a mansion in a pocket dimension. Unfortunately, the tome was damaged by Daragoth's tampering...
-  - In pursuing Daragoth, the party found a collection of potions and scrolls:
-    - Two [potions of healing](http://dnd5e.wikidot.com/wondrous-items:potion-of-healing).
-    - One [potion of greater healing](http://dnd5e.wikidot.com/wondrous-items:potion-of-healing).
-    - One [potion of fire breath](http://dnd5e.wikidot.com/wondrous-items:potion-of-fire-breath).
-    - One [potion of hill giant strength](http://dnd5e.wikidot.com/wondrous-items:potion-of-giant-strength).
-    - One scroll of [cure wounds](http://dnd5e.wikidot.com/spell:cure-wounds).
-    - One scroll of [earth tremor](http://dnd5e.wikidot.com/spell:earth-tremor).
-    - One scroll of [faerie fire](http://dnd5e.wikidot.com/spell:faerie-fire).
-    - One scroll of [silvery barbs](http://dnd5e.wikidot.com/spell:silvery-barbs).
-    - One scroll of [arcane lock](http://dnd5e.wikidot.com/spell:arcane-lock).
-    - One scroll of [borrowed knowledge](http://dnd5e.wikidot.com/spell:borrowed-knowledge).
-
-Contacts
-: - Gained Contact: Marigold of House Tealeaf
-
-Discoveries
-: - Vistra Silverstone's laboratory is hidden beneath the theater.
-  - Vistra Silverstone was searching for the pieces of a lost Staff of the Magister, a Sherem artifact.
-    - She believed that she found one of the pieces, a staff wrapping covered in Sherem script. The wrapping was hidden in her lab.
-    - She believed that one piece is hidden "deep below".
-    - She left to search for the third piece, leaving for the Free Cities.
-  - There is a sealed passageway beneath Vistra Silverstone's laboratory.
-  - Marigold gave them a small pouch of "magic beans", which they passed to the alchemist Lavinia Goldfound for investigation.
-
----
-
-[Back to Home]({{site.baseurl}}/)
-|
-[Back to Campaigns]({{site.baseurl}}/campaigns)
-|
-[Back to Adventures in Wellspring]({{site.baseurl}}/campaigns/wellspring)
-|
-[Back to Adventure Timeline]({{site.baseurl}}/campaigns/wellspring/adventures)
-

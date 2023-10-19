@@ -1,5 +1,6 @@
 ---
 title: Wellspring \| Adventures
+campaign: wellspring
 ---
 
 # Adventures
@@ -12,13 +13,7 @@ The adventures of the Silverstone Players: Mo, Py, Roya, and Verity, in and bene
 [A Volatile Tail](./a-volatile-tail)
 : More machinations endanger the theater, forcing the party to quickly raise funds to save it. They are hired by a shady alchemist to recover a stolen batch of alchemist's fire from beneath the city. After traipsing through the sewers and battling a nest of ever-hungry ratlings, they return to the surface in triumph, only to discover themselves mid-Upwelling and fighting off a swarm of deadly beasts.
 
-[The Silverstone Theater Mystery](./the-silverstone-theater-mystery)
-: A strange magical barrier is discovered beneath the theater. Meanwhile, a librarian at the Arcane Order is asking some pointed questions about the theater's history...
-
-{% assign adventures = site.adventures | where: "campaign", "wellspring" %}
-{% for adventure in adventures %}
-{% include adventure-link.md adventure=adventure %}
-{% endfor %}
+{% include campaigns/adventure-list.md %}
 
 ## Timeline
 
