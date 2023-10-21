@@ -17,6 +17,10 @@ organizations:
     details: |
       Regent Silverstone is the landlady for the Silverstone Theater.
 adventures:
+  - name: A Volatile Tail
+    slug: volatile-tail
+    details: |
+      She visited the theater with a banker from the First Bank of Lothian, warning that if the trust could not raise 400 gold by the end of the month, the theater would be sold.
   - name: The Silverstone Theater Mystery
     slug: silverstone-theater-mystery
     details:

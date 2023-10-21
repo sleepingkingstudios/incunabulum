@@ -1,12 +1,39 @@
 ---
-title: Wellspring \| A Volatile Tail
+campaign: wellspring
+campaign_index: 1
+name: A Volatile Tail
+slug: volatile-tail
+summary: |
+  More machinations endanger the theater, forcing the party to quickly raise funds to save it. They are hired by a shady alchemist to recover a stolen batch of alchemist's fire from beneath the city. After traipsing through the sewers and battling a nest of ever-hungry ratlings, they return to the surface in triumph, only to discover themselves mid-Upwelling and fighting off a swarm of deadly beasts.
+characters:
+  - name: Lavinia Goldfound
+    slug: lavinia-goldfound
+    details: |
+      A somewhat eccentric alchemist who is perpetually late on her guild dues, Lavinia hired the party to recover several cauldron's worth of stolen alchemist's fire.
+  - name: Regent Silverstone
+    slug: regent-silverstone
+    details: |
+      She visited the theater with a banker from the First Bank of Lothian, warning that if the trust could not raise 400 gold by the end of the month, the theater would be sold.
+organizations:
+  - name: The Delver's Guild
+    slug: delvers-guild
+    details: |
+      Despite a rocky start, the Delver's Guild offered advice on dealing with a ratling nest, and expressed a desire that the party work with them again in the future.
+outcome: |
+  Between the ratling investigation, battles in the sewers, and the frantic combat of the Upwelling, the party was left with some valuable experience, not to mention a small bounty of gold and valuable magicite. All agreed the time had come to rest, tend to some personal projects, and train their skills in anticipation of the next challenge.
+contacts:
+  - name: Lavinia Goldfound
+    slug: lavinia-goldfound
+    details: |
+      Lavinia was very appreciative of the party's assistance.
+discoveries: |
+  - This is the second attack on the theater in the space of a month, although using very different methods.
+rewards: |
+  - The party was paid 600 gp total for recovering the alchemist's fire.
+    - The party spent 400 gp to resolve the theater's legal woes. Regent Silverstone will repay those funds at a later point.
+    - Total reward was 50 gp each.
+  - The party discovered a small cache of magicite gathered by the ratlings.
 ---
-
-# A Volatile Tail
-
-More machinations endanger the theater, forcing the party to quickly raise funds to save it. They are hired by a shady alchemist to recover a stolen batch of alchemist's fire from beneath the city. After traipsing through the sewers and battling a nest of ever-hungry ratlings, they return to the surface in triumph, only to discover themselves mid-Upwelling and fighting off a swarm of deadly beasts.
-
-## Adventure Summary
 
 > Date: [24 Centaur]({{site.baseurl}}/campaigns/wellspring/adventures#spring-2258)
 
@@ -49,43 +76,3 @@ Grateful for their assistance, Lavinia rewarded the party with 500 gold for the 
 > Date: [27 Centaur]({{site.baseurl}}/campaigns/wellspring/adventures#spring-2258)
 
 With the city still recovering from the Upwelling, the party waited until the following day to visit Regent Silverstone and lend her the 400 gold needed for the Silverstone Theater. The regent was deeply grateful for the assistance, and promised to return the gold once the legal manueverings were completed. However, the party remained in the dark as to who had targeted the theater in the first place, and why.
-
-Between the ratling investigation, battles in the sewers, and the frantic combat of the Upwelling, the party was left with some valuable experience, not to mention a small bounty of gold and valuable magicite. All agreed the time had come to rest, tend to some personal projects, and train their skills in anticipation of the next challenge.
-
-### Characters and Organizations
-
-[Regent Silverstone]({{site.baseurl}}/campaigns/wellspring/characters#regent-silverstone)
-: She visited the theater with a banker from the First Bank of Lothian, warning that if the trust could not raise 400 gold by the end of the month, the theater would be sold.
-
-[Lavinia Goldfound]({{site.baseurl}}/campaigns/wellspring/characters#lavinia-goldfound)
-: A somewhat eccentric alchemist who is perpetually late on her guild dues, Lavinia hired the party to recover several cauldron's worth of stolen alchemist's fire.
-
-[The Delver's Guild]({{site.baseurl}}/settings/wellspring/organizations#the-delvers-guild)
-: Despite a rocky start, the Delver's Guild offered advice on dealing with a ratling nest, and expressed a desire that the party work with them again in the future.
-
-### Outcome
-
-Rewards
-: - The party was paid 600 gp total for recovering the alchemist's fire.
-    - The party spent 400 gp to resolve the theater's legal woes. Regent Silverstone will repay those funds at a later point.
-    - Total reward was 50 gp each.
-  - The party discovered a small cache of magicite gathered by the ratlings.
-
-Contacts
-: - Gained Contact: Regent Silverstone
-  - Gained Contact: Lavinia Goldfound, alchemist
-    - Earned Favor from Lavinia
-  - Gained Reputation with the Delver's Guild
-
-Discoveries
-: - This is the second attack on the theater in the space of a month, although using very different methods.
-
----
-
-[Back to Home]({{site.baseurl}}/)
-|
-[Back to Campaigns]({{site.baseurl}}/campaigns)
-|
-[Back to Adventures in Wellspring]({{site.baseurl}}/campaigns/wellspring)
-|
-[Back to Adventure Timeline]({{site.baseurl}}/campaigns/wellspring/adventures)

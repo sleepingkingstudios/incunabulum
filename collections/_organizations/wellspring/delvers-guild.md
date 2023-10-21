@@ -41,6 +41,10 @@ members:
     details: |
       Mialee is an administrator at the Delver's Guild. She frequently takes on the role of mentor for new delvers.
 adventures:
+  - name: A Volatile Tail
+    slug: volatile-tail
+    details: |
+      Despite a rocky start, the Delver's Guild offered advice on dealing with a ratling nest, and expressed a desire that the party work with them again in the future.
   - name: The Silverstone Theater Mystery
     slug: silverstone-theater-mystery
     details:

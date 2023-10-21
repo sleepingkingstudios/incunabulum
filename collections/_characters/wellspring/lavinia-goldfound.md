@@ -11,6 +11,11 @@ characters:
     slug: py-hornraven
     details: |
       Lavinia has recently been tutoring Py in alchemy.
+adventures:
+  - name: A Volatile Tail
+    slug: volatile-tail
+    details: |
+      Lavinia hired the party to recover several cauldron's worth of stolen alchemist's fire.
 ---
 
 Lavinia owns and operates a shop in the Lower City’s Trades District, with a workshop in back where she brews alchemist’s fire in concerning quantities. After ratlings burrowed into her workshop and stole a large quantity of alchemist’s fire, she hired the party to find the culprits and retrieve her product. Recently, Lavinia has been investigating the "magic beans" the party was gifted by House Greentea, and tutoring Py in alchemy.
