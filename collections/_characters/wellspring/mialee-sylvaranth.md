@@ -2,7 +2,7 @@
 campaign: wellspring
 name: Mialee Sylvaranth
 slug: mialee-sylvaranth
-type: contact
+category: contact
 lineage: Female wood elf
 description: |
   Mialee is a wood elf of average stature. When working at the Delver's Guild, she favors a snappy suit accented with traces of her sylvan ancestry, such as bronze earrings in the shape of leaves or cuff links shaped like acorns.
@@ -17,3 +17,5 @@ adventures:
     details:
       Mialee welcomed the Silverstone Players to the Delver's Guild, and provided an invitation to Dame Savindar's fundraiser.
 ---
+
+Mialee is an administrator at the Delver's Guild, and the Silverstone Players' primary point of contact with the same.

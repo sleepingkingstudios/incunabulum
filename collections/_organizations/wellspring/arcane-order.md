@@ -15,6 +15,10 @@ members:
     details: |
       A member of the Arcane Order and employed within its library, a fact they abused to steal a rare dimensional pocket mansion for their own use.
     former: true
+  - name: Moselle Serenity "Mo" Tristrich
+    slug: mo-tristrich
+    details: |
+      Mo is a student at the Arcane Order.
 adventures:
   - name: The Silverstone Theater Mystery
     slug: silverstone-theater-mystery

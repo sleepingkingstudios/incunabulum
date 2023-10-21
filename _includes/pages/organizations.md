@@ -11,7 +11,7 @@
 # Organizations
 
 <!-- Table Of Contents -->
-{% include pages/organizations/table_of_contents.md organizations=organizations %}
+{% include pages/organizations/table-of-contents.md organizations=organizations %}
 
 {% if setting.blurbs.organizations %}
 {{ setting.blurbs.organizations }}

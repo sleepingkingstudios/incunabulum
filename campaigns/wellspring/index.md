@@ -11,16 +11,12 @@ The adventures of the Silverstone Players: Mo, Py, Roya, and Verity, in and bene
 - [Resources](#resources)
 - [Adventures](#adventures)
 
-## Characters
+## [Characters]({{site.baseurl}}/campaigns/wellspring/characters)
 
-### [The Silverstone Players](./characters)
-
-- [Annaroya "Roya" Downdraft](./characters#annaroya-roya-downdraft)
-- [Moselle Serenity “Mo” Tristrich](./characters#moselle-serenity-mo-tristrich)
-- [Py Hornraven](./characters#py-hornraven)
-- [Verity Gray](./characters#verity-gray)
-
-### [Other Characters](./characters#other-characters)
+- [Annaroya "Roya" Downdraft]({{site.baseurl}}/campaigns/wellspring/characters/roya-downdraft)
+- [Moselle Serenity “Mo” Tristrich]({{site.baseurl}}/campaigns/wellspring/characters/mo-tristrich)
+- [Py Hornraven]({{site.baseurl}}/campaigns/wellspring/characters/py-hornraven)
+- [Verity Gray]({{site.baseurl}}/campaigns/wellspring/characters/verity-gray)
 
 ## Resources
 

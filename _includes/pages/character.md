@@ -4,6 +4,11 @@
 
 # {{ character.name }}
 
+{% if character.played_by %}
+Played By
+: {{ character.played_by }}
+{% endif %}
+
 {% if character.full_name %}
 Full Name
 : {{ character.full_name }}

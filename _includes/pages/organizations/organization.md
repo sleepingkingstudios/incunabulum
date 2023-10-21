@@ -41,7 +41,7 @@ Relationships
 ### {{ organization.child_organizations_label | default: "Child Organizations" }}
 
 {% for child in organization.child_organizations %}
-{% include pages/organizations/child_organization.md child=child %}
+{% include pages/organizations/child-organization.md child=child %}
 {% endfor %}
 {% endif %}
 

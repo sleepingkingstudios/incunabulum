@@ -1,9 +1,9 @@
 ---
 campaign: wellspring
-name:     Lavinia Goldfound
-slug:     lavinia-goldfound
+name: Lavinia Goldfound
+slug: lavinia-goldfound
+category: contact
 lineage:  Female halfling alchemist (earth bloodline)
-type:     contact
 description: |
   Lavinia is a halfling with a rounded figure in earth tones, and typically features more scorch marks than eyebrows. She typically wears practical leather protective gear and a full-face mask, which she frequently leaves perched atop her head while experimenting.
 characters:

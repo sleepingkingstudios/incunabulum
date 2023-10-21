@@ -1,7 +1,8 @@
 ---
 campaign: wellspring
-name:     Lucas and Martin
-slug:     lucas-and-martin
+name: Lucas and Martin
+slug: lucas-and-martin
+category: contact
 lineage:  Male human toughs
 characters:
   - name: Marigold Greentea
