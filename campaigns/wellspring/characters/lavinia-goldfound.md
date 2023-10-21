@@ -1,7 +1,7 @@
 ---
-title:    Dame Savindar
+title:    Lavinia Goldfound
 campaign: wellspring
-slug:     dame-savindar
+slug:     lavinia-goldfound
 ---
 
 {% include pages/character.md %}

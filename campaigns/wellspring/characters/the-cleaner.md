@@ -1,7 +1,7 @@
 ---
-title:    Dame Savindar
+title:    The Cleaner
 campaign: wellspring
-slug:     dame-savindar
+slug:     the-cleaner
 ---
 
 {% include pages/character.md %}

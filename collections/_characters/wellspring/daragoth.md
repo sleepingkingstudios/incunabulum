@@ -3,6 +3,7 @@ campaign: wellspring
 name: Daragoth
 slug: daragoth
 category: adversary
+status: Deceased
 lineage: Genderless mojh wizard
 description: |
   Daragoth used questionable alchemy to shift their body into a partially draconic form, giving them mottled blue-green scales, clawed hands and feet, and slitted eyes in a hairless head.

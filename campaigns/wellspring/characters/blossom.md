@@ -1,7 +1,7 @@
 ---
-title:    Dame Savindar
+title:    Blossom
 campaign: wellspring
-slug:     dame-savindar
+slug:     blossom
 ---
 
 {% include pages/character.md %}

@@ -1,7 +1,7 @@
 ---
-title:    Dame Savindar
+title:    Lucas and Martin
 campaign: wellspring
-slug:     dame-savindar
+slug:     lucas-and-martin
 ---
 
 {% include pages/character.md %}
