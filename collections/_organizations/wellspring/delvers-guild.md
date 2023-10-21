@@ -2,6 +2,7 @@
 campaign: wellspring
 name: The Delver's Guild
 slug: delvers-guild
+heading: the-delvers-guild
 headquarters: |
   The headquarters of the Delver’s Guild is located in the Trades District of the Lower City. Originally just an inn bought out by a group of retired adventurers, it has grown into a sprawling complex of offices, warehouses, markets, and training grounds, but the heart of the guild remains the old taproom of the Last Stop.
 membership: |

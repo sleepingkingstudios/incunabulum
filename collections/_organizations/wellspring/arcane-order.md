@@ -2,6 +2,7 @@
 campaign: wellspring
 name: The Arcane Order
 slug: arcane-order
+heading: the-arcane-order
 headquarters: |
   The headquarters of the Arcane Order is a grand edifice of marble in the Garden District of the Upper City, with a fortified tower jutting out over the edge of the Great Chasm. In addition to the great library, it holds the offices of the guild’s leadership, laboratories of the arcane arts, and (it is claimed) vaults filled with powerful enchanted artifacts.
 membership: |

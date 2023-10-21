@@ -2,6 +2,7 @@
 campaign: wellspring
 name: The Harfoot Syndicate
 slug: harfoot-syndicate
+heading: the-harfoot-syndicate
 relationships: |
   The Syndicate’s relationship with the City Guard and Merchantry Association is necessarily antagonistic, although endemic corruption provides some openings for criminal activity. Likewise, the relationship with the Stonewardens is frosty, although the two groups will work together during incursions from below.
 child_organizations:

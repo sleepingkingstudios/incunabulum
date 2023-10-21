@@ -6,10 +6,10 @@ collections:
     sort_by: campaign_index
   characters:
     output: false
-    sort_by: name
+    sort_by: slug
   organizations:
     output: false
-    sort_by: name
+    sort_by: slug
 defaults:
 - scope:
     path: ''

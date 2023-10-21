@@ -2,6 +2,7 @@
 campaign: wellspring
 name: The Silverstone Players
 slug: silverstone-players
+heading: the-silverstone-players
 parent_organization:
   name: The Delver's Guild
   slug: delvers-guild

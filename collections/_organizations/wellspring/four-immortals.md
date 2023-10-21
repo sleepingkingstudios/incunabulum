@@ -2,6 +2,7 @@
 campaign: wellspring
 name: The Four Immortals
 slug: four-immortals
+heading: the-four-immortals
 members:
   - name: Luciana Savindar
     slug: dame-savindar
