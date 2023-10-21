@@ -4,12 +4,18 @@ collections:
   adventures:
     output: false
     sort_by: campaign_index
+  campaigns:
+    output: false
+    sort_by: slug
   characters:
     output: false
     sort_by: slug
   organizations:
     output: false
     sort_by: slug
+  settings:
+    output: false
+    sort_by: name
 defaults:
 - scope:
     path: ''

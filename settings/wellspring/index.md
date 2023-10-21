@@ -39,10 +39,6 @@ The region is dominated by the City of Wellspring, located in a small natural va
 
 Wellspring is a vibrant city with a diverse population, who live, work, and play under a constant threat of attack by monsters from the Great Chasm.
 
-### [Organizations]({{site.baseurl}}/settings/wellspring/organizations)
-
-Many organizations and societies, both open and secret, make their home in the City of Wellspring, and many more are drawn to the wealth and the intrigue that flow through the city's streets.
-
 ### Politics
 
 The City of Wellspring is part of the [Kingdom of Lothian](./geography#the-kingdom-of-lothian), which takes a generally hands-off stance as long as taxes are paid and monsters do not come pouring down the Vale. Internally, Wellspring is ruled by a council of five. Three of the seats are permanently assigned to the heads of the Arcane Order, the Merchantry Association, and the City Guard, while the remaining two seats are elected. Voters must demonstrate residency in the city in addition to a property requirement, either of land (within the city or certain parts of the Vale) or a writ asserting to wealth in one of the city's banks.

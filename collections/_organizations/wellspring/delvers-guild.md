@@ -19,9 +19,11 @@ services: |
   Finally, the guild provides training and mentorship for a fee. Members can learn how to use new weapons or to fight in heavier armor, or to develop proficiency in new skills, tools, or languages. More advanced abilities can also be trained, but this often requires a task or favor rather than gold.
 child_organizations:
   - name: The Company of the Black Lantern
+    heading: the-company-of-the-black-lantern
     details: |
       A group of eight humans, half-elves and halflings, who wear a signature uniform of black leather. They tend to favor jobs that require investigation, stealth, and subtlety over brute force.
   - name: The Runewardens
+    heading: the-runewardens
     details: |
       A band of four dwarves, who use heavy weapons and armor inscribed with glowing runes. They largely operate out of Dwarfhome. Skilled diplomats, they are often called upon to smooth disputes regarding the insular dwarven community and the rest of Wellspring, leveraging their powerful magic and martial abilities as the unspoken threat.
   - name: The Silverstone Players

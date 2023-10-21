@@ -37,7 +37,7 @@ The adventures of the Silverstone Players: Mo, Py, Roya, and Verity, in and bene
 - [Geography]({{site.baseurl}}/settings/wellspring/geography)
 - [Life in Wellspring]({{site.baseurl}}/settings/wellspring/life)
 - [Magic]({{site.baseurl}}/settings/wellspring/magic)
-- [Organizations]({{site.baseurl}}/settings/wellspring/organizations)
+- [Organizations]({{site.baseurl}}/campaigns/wellspring/organizations)
 - [Religion]({{site.baseurl}}/settings/wellspring/religion)
 
 ## Locations

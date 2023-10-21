@@ -12,6 +12,7 @@ relationships: |
 child_organizations:
   - name: The Falling Stars
     slug: falling-stars
+    heading: the-falling-stars
     details: |
       A monastic order based in the Astral Observatory and dedicated to the protection of the Watchers of the Stars.
 members:
