@@ -10,6 +10,9 @@ collections:
   characters:
     output: false
     sort_by: slug
+  locations:
+    output: false
+    sort_by: slug
   organizations:
     output: false
     sort_by: slug
