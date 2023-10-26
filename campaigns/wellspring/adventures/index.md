@@ -7,7 +7,7 @@ campaign: wellspring
 
 The adventures of the Silverstone Players: Mo, Py, Roya, and Verity, in and beneath the [City of Wellspring]({{site.baseurl}}/settings/wellspring).
 
-{% include campaigns/adventure-list.md %}
+{% include pages/campaign/adventures-list.md %}
 
 ## Timeline
 
