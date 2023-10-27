@@ -27,7 +27,7 @@ At the beginning of the campaign, characters will begin at 2nd level. To create 
     2. Your character gains *weapon*, *armor*, and *saving throw* proficiencies from your class.
     3. Your character gains one free *language* proficiency, as well as one additional language from your background, and may gain additional proficiencies from your lineage.
 6. Choose your [equipment](#equipment). Your character gains the listed equipment for your class, plus 50 gp of additional funds from your background.
-    1. In lieu of the background funds, you may choose to instead gain basic membership in one of Wellspring's [organizations]({{site.baseurl}}/settings/wellspring/organizations), such as the Arcane Order or the Delver's Guild.
+    1. In lieu of the background funds, you may choose to instead gain basic membership in one of Wellspring's [organizations]({{site.baseurl}}/campaigns/wellspring/organizations), such as the Arcane Order or the Delver's Guild.
     2. If you do not wish to use some of the equipment granted by your class, you can instead choose to take half of that item's cost in gold pieces as starting funds.
 
 ## Lineages

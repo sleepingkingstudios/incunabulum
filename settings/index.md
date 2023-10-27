@@ -20,7 +20,7 @@ Corsairs of the Star Ocean combines sword and sorcery fantasy, the age of sail, 
 
 An original fantasy world with a deep history, a dynamic present and endless opportunities for adventure.
 
-### [Wellspring, City of Adventure]({{site.baseurl}}/settings/wellspring)
+### [Wellspring, City of Adventure]({{site.baseurl}}/campaigns/wellspring/setting)
 
 **Genres:** Dungeon Crawling, Renaissance Fantasy, Urban Fantasy
 

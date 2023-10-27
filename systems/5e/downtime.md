@@ -12,7 +12,7 @@ Downtime mechanics detail some of the ways that characters can spend their time 
 
 ## Using Downtime
 
-Downtime is tracked by the [tenday](http://localhost:4000/settings/wellspring/life#calendar). Smaller time periods are too short to make progress on downtime activities, while larger time periods can be tracked as a series of tendays. For example, a full month (30 days) of downtime is represented as three tendays.
+Downtime is tracked by the [tenday](http://localhost:4000/campaigns/wellspring/setting/life#calendar). Smaller time periods are too short to make progress on downtime activities, while larger time periods can be tracked as a series of tendays. For example, a full month (30 days) of downtime is represented as three tendays.
 
 Each tenday of downtime, a character can choose one activity to spend time on. If the downtime lasts for multiple tendays, the character may choose to divide them between different activities. For example, over a month of downtime, a character with a crafting ability might choose to spend one tenday forging new equipment, and the remaining two tendays earning additional spending money by selling their services.
 

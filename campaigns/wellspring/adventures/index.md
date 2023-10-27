@@ -5,13 +5,13 @@ campaign: wellspring
 
 # Adventures
 
-The adventures of the Silverstone Players: Mo, Py, Roya, and Verity, in and beneath the [City of Wellspring]({{site.baseurl}}/settings/wellspring).
+The adventures of the Silverstone Players: Mo, Py, Roya, and Verity, in and beneath the [City of Wellspring]({{site.baseurl}}/campaigns/wellspring/setting).
 
 {% include pages/campaign/adventures-list.md %}
 
 ## Timeline
 
-The City of Wellspring, the Kingdom of Lothian, and all of the surrounding nations use the [Sherem Calendar]({{site.baseurl}}/settings/wellspring/life#calendar), which is based on the constellations.
+The City of Wellspring, the Kingdom of Lothian, and all of the surrounding nations use the [Sherem Calendar]({{site.baseurl}}/campaigns/wellspring/setting/life#calendar), which is based on the constellations.
 
 ### Spring 2258
 
