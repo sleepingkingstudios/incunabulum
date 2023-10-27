@@ -1,28 +1,17 @@
 ---
 title: Wellspring \| Adventures
+campaign: wellspring
 ---
 
 # Adventures
 
-The adventures of the Silverstone Players: Mo, Py, Roya, and Verity, in and beneath the [City of Wellspring]({{site.baseurl}}/settings/wellspring).
+The adventures of the Silverstone Players: Mo, Py, Roya, and Verity, in and beneath the [City of Wellspring]({{site.baseurl}}/campaigns/wellspring/setting).
 
-[The Curtain Rises Red](./the-curtain-rises-red)
-: In their introductory adventure, a small theater troupe finds trouble come to them. After a mysterious emissary from the Watchers of the Stars brings a warning of danger, the party discovers a sinister force lurking beneath the theater.
-
-[A Volatile Tail](./a-volatile-tail)
-: More machinations endanger the theater, forcing the party to quickly raise funds to save it. They are hired by a shady alchemist to recover a stolen batch of alchemist's fire from beneath the city. After traipsing through the sewers and battling a nest of ever-hungry ratlings, they return to the surface in triumph, only to discover themselves mid-Upwelling and fighting off a swarm of deadly beasts.
-
-[The Silverstone Theater Mystery](./the-silverstone-theater-mystery)
-: A strange magical barrier is discovered beneath the theater. Meanwhile, a librarian at the Arcane Order is asking some pointed questions about the theater's history...
-
-{% assign adventures = site.adventures | where: "campaign", "wellspring" %}
-{% for adventure in adventures %}
-{% include adventure-link.md adventure=adventure %}
-{% endfor %}
+{% include pages/campaign/adventures-list.md %}
 
 ## Timeline
 
-The City of Wellspring, the Kingdom of Lothian, and all of the surrounding nations use the [Sherem Calendar]({{site.baseurl}}/settings/wellspring/life#calendar), which is based on the constellations.
+The City of Wellspring, the Kingdom of Lothian, and all of the surrounding nations use the [Sherem Calendar]({{site.baseurl}}/campaigns/wellspring/setting/life#calendar), which is based on the constellations.
 
 ### Spring 2258
 
