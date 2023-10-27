@@ -1,10 +1,13 @@
 ---
-name: Wellspring | Magic Items
+name: Magic Items
 ---
+
+{% assign campaign = site.campaigns | where: "slug", page.campaign | first %}
+{% assign setting = site.settings | where: "slug", page.setting | first %}
 
 # Magic Items
 
-A successful adventure brings many rewards, including experience, gold, works of art, reputation and social contacts. And, most importantly, magic items. In Wellspring, there are two main ways that characters can earn magic items: as direct rewards from an adventure, and by exchanging [Magicite crystals]({{site.baseurl}}/settings/wellspring/magic#magicite-crystals).
+A successful adventure brings many rewards, including experience, gold, works of art, reputation and social contacts. And, most importantly, magic items. In Wellspring, there are two main ways that characters can earn magic items: as direct rewards from an adventure, and by exchanging [Magicite crystals]({{site.baseurl}}/campaigns/wellspring/setting/magic#magicite-crystals).
 
 Direct rewards are straightforward - the party discovers an advanced Potion of Healing on a shelf, or a Pearl of Power glimmering in the kuo-toa's spawning pond. Magic items discovered during an adventure are available immediately; they can be allocated to characters based on need, or held onto for safe-keeping and later sale or trade.
 
@@ -39,11 +42,11 @@ In *Tasha's Cauldon of Everything*, all of the magic tattoos and the Prosthetic 
 
 In Wellspring, recovered magicite can be exchanged for magic items, either by trading for an existing item or commissioning a new or custom item for the character. Both of these options take time to complete, and take place during a Downtime.
 
-Nearly all trades of magicite are done through one of Wellspring's major [organizations]({{site.baseurl}}/settings/wellspring/organizations), who have the resources and clout to organize and broker such exchanges.
+Nearly all trades of magicite are done through one of Wellspring's major [organizations]({{site.baseurl}}/campaigns/wellspring/organizations), who have the resources and clout to organize and broker such exchanges.
 
-- The [Delver's Guild]({{site.baseurl}}/settings/wellspring/organizations#the-delvers-guild) offers a number of services to its members, including appraisal of magicite and serving as a broker for buying, selling, and trading magic items. The guild's social clout (not to mention its veritable army of affiliated adventurers) makes it a trusted partner that few in Wellspring are willing to cross.
-- The crafting of enchanted items with magicite is a secret closely held by the [Arcane Order]({{site.baseurl}}/settings/wellspring/organizations#the-arcane-order), and most trades not affiliated with the Delver's Guild are handled there.
-- Items that are illegal, distasteful, or particularly rare may be found on the black market, which is for the most part run by the [Harfoot Syndicate]({{site.baseurl}}/settings/wellspring/organizations#the-harfoot-syndicate).
+- The [Delver's Guild]({{site.baseurl}}/campaigns/wellspring/organizations#the-delvers-guild) offers a number of services to its members, including appraisal of magicite and serving as a broker for buying, selling, and trading magic items. The guild's social clout (not to mention its veritable army of affiliated adventurers) makes it a trusted partner that few in Wellspring are willing to cross.
+- The crafting of enchanted items with magicite is a secret closely held by the [Arcane Order]({{site.baseurl}}/campaigns/wellspring/organizations#the-arcane-order), and most trades not affiliated with the Delver's Guild are handled there.
+- Items that are illegal, distasteful, or particularly rare may be found on the black market, which is for the most part run by the [Harfoot Syndicate]({{site.baseurl}}/campaigns/wellspring/organizations#the-harfoot-syndicate).
 - Certain specialty items may be found at some of the other or smaller organizations. For example, items related to astrology or divination may be found through the Watchers of the Stars, while those related to planar travel might be brokered through the Brotherhood of Planar Cartographers.
 
 <!-- ## Buying And Selling With Gold -->
@@ -56,5 +59,6 @@ Nearly all trades of magicite are done through one of Wellspring's major [organi
 |
 [Back to Campaigns]({{site.baseurl}}/campaigns)
 |
-[Back to Adventures in Wellspring]({{site.baseurl}}/campaigns/wellspring)
-
+[Back to {{ campaign.name }}]({{site.baseurl}}/campaigns/{{campaign.slug}})
+|
+[Back to Mechanics]({{site.baseurl}}/campaigns/{{campaign.slug}}/mechanics)

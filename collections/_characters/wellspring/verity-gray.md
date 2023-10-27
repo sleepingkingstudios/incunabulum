@@ -5,6 +5,7 @@ slug: verity-gray
 category: player_character
 played_by: T
 lineage: Female human Bard
+preview: Human bard and muckraking journalist
 organizations:
   - name: The Silverstone Players
     slug: silverstone-players

@@ -6,6 +6,7 @@ category: player_character
 full_name: Annaroya "Roya" Downdraft
 played_by: E
 lineage: Female halfling Rogue (air bloodline)
+preview: Halfling rogue actress and mistress of winds
 description: |
   Roya is 3'2" in height, with immaculate posture. She has brown eyes and auburn (also brown) hair.
 organizations:

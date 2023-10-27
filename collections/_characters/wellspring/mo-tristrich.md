@@ -6,6 +6,8 @@ category: player_character
 full_name: Moselle Serenity “Mo” Tristrich
 played_by: J
 lineage: Female shoal elf Diviner
+preview: |
+  Shoal elf diviner and student of the arcane arts
 description: |
   Mo is uncommonly short for her lineage, around 4’10” or 4’11”. Her jet-black hair falls to the base of her shoulder blades, and is loosely wavy (though she usually braids it). Her eyes are a deep brown. Her delicate features and large eyes resemble a porcelain doll’s; this, taken together with her short height and slim, almost boyish, build, often leads strangers to assume she is an adolescent. She hates this.
 organizations:

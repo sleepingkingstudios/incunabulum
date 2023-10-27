@@ -1,6 +1,10 @@
 ---
-title: Wellspring \| Character Creation
+title: Character Creation
+campaign: wellspring
 ---
+
+{% assign campaign = site.campaigns | where: "slug", page.campaign | first %}
+{% assign setting = site.settings | where: "slug", page.setting | first %}
 
 # Character Creation
 
@@ -16,8 +20,8 @@ Wellspring uses some custom, optional rules for creating characters.
 
 At the beginning of the campaign, characters will begin at 2nd level. To create a new character, perform the following steps:
 
-1. Choose a [Lineage](#lineages). For a list of recommended lineages, see [Peoples of Wellspring]({{site.baseurl}}/settings/wellspring/peoples).
-2. Choose a Class. The [Character Classes]({{site.baseurl}}/settings/wellspring/classes) guide has more information on how different classes may fit into Wellspring.
+1. Choose a [Lineage](#lineages). For a list of recommended lineages, see [Peoples of Wellspring]({{site.baseurl}}/campaigns/wellspring/setting/peoples).
+2. Choose a Class. The [Character Classes]({{site.baseurl}}/campaigns/wellspring/mechanics/character-classes) guide has more information on how different classes may fit into Wellspring.
 3. Determine [Ability Scores](#ability-scores), using either the standard array or the point buy method. Use the ability score bonuses listed in that link instead of any bonuses from your lineage. Your character may also gain additional ability scores from feats.
 4. Choose a [Background](#backgrounds).
 5. Choose your Feats. All characters gain a feat at 1st level from your Background. You may also gain a feat from your lineage. You can choose feats from the *Player's Handbook*, *Xanathar's Guide to Everything*, *Tasha's Cauldron of Everything*, or other published sources with the DM's approval, or from the [following feats]({{site.baseurl}}/systems/5e/feats), which include [Bloodlines and Talents](#bloodlines-and-talents).
@@ -33,7 +37,7 @@ At the beginning of the campaign, characters will begin at 2nd level. To create 
 
 The word *Lineage* is used over the historical "Race" as a more neutral option for referring to a character's ancestry. When selecting a lineage, players gain all of the specified benefits of that lineage **except** for the Ability Score Increase, if any. See [Backgrounds And Ability Scores](#backgrounds-and-ability-scores), above.
 
-For a list of recommended lineages, see [Peoples of Wellspring]({{site.baseurl}}/settings/wellspring/peoples). This is not an exhaustive list; if you wish to play a character with a different origin, feel free to ask the DM.
+For a list of recommended lineages, see [Peoples of Wellspring]({{site.baseurl}}/campaigns/wellspring/setting/peoples). This is not an exhaustive list; if you wish to play a character with a different origin, feel free to ask the DM.
 
 ### Bloodlines
 
@@ -115,4 +119,6 @@ Characters can choose from the standard equipment listed in the *Player's Handbo
 |
 [Back to Campaigns]({{site.baseurl}}/campaigns)
 |
-[Back to Adventures in Wellspring]({{site.baseurl}}/campaigns/wellspring)
+[Back to {{ campaign.name }}]({{site.baseurl}}/campaigns/{{campaign.slug}})
+|
+[Back to Mechanics]({{site.baseurl}}/campaigns/{{campaign.slug}}/mechanics)

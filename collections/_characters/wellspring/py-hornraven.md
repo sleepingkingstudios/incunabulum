@@ -5,6 +5,8 @@ slug: py-hornraven
 category: player_character
 played_by: K
 lineage: Female half-elf Artificer
+preview: |
+  Half-elf artificer and dragon fancier
 characters:
   - name: Lavinia Goldfound
     slug: lavinia-goldfound
