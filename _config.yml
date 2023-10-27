@@ -16,9 +16,6 @@ collections:
   organizations:
     output: false
     sort_by: slug
-  settings:
-    output: false
-    sort_by: name
 defaults:
 - scope:
     path: ''

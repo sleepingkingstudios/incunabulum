@@ -1,5 +1,3 @@
-{% assign campaign = site.campaigns | where: "slug", page.campaign | first %}
-{% assign setting = site.settings | where: "slug", page.setting | first %}
 {% assign character = site.characters | where: "campaign", page.campaign | where: "slug", page.slug | first %}
 
 # {{ character.name }}
@@ -77,4 +75,4 @@ Description
 {% endfor %}
 {% endif %}
 
-{% include pages/character/breadcrumbs.md campaign=campaign setting=setting %}
+{% include pages/character/breadcrumbs.md %}

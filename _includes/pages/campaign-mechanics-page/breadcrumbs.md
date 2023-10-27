@@ -8,4 +8,4 @@
 |
 [Back to {{campaign.name}}]({{site.baseurl}}/campaigns/{{campaign.slug}})
 |
-[Back to Adventures]({{site.baseurl}}/campaigns/{{campaign.slug}}/adventures)
+[Back to Mechanics]({{site.baseurl}}/campaigns/{{campaign.slug}}/mechanics)

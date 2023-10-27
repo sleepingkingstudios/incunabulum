@@ -3,9 +3,6 @@ title: Religion
 campaign: wellspring
 ---
 
-{% assign campaign = site.campaigns | where: "slug", page.campaign | first %}
-{% assign setting = site.settings | where: "slug", page.setting | first %}
-
 # Religion
 
 - [The Pantheon](#the-pantheon)
@@ -129,12 +126,4 @@ The Elemental Lords
 The Great Serpent
 : This faith originates with the Naga, who believe in a powerful, sleeping deity known variously as the Great Serpent, the Great Devourer, or the World Serpent. Its awakening is said to herald the end of the world. Most who revere the Great Serpent seek to prolong its slumber, offering ritual chants and offerings of food to keep it satiated, while apocalyptic cults offer dreadful sacrifices to help it wake.
 
----
-
-[Back to Home]({{site.baseurl}}/)
-|
-[Back to Campaigns]({{site.baseurl}}/campaigns)
-|
-[Back to {{ campaign.name }}]({{site.baseurl}}/campaigns/{{campaign.slug}})
-|
-[Back to Setting]({{site.baseurl}}/campaigns/{{campaign.slug}}/setting)
+{% include pages/campaign-setting-page/breadcrumbs.md %}

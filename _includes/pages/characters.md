@@ -1,5 +1,3 @@
-{% assign campaign = site.campaigns | where: "slug", page.campaign | first %}
-{% assign setting = site.settings | where: "slug", page.setting | first %}
 {% assign characters = site.characters | where: "campaign", page.campaign | group_by: "category" %}
 
 # Characters
@@ -66,4 +64,4 @@
 {% endfor %}
 {% endif %}
 
-{% include pages/organizations/breadcrumbs.md campaign=campaign setting=setting %}
+{% include pages/organizations/breadcrumbs.md %}

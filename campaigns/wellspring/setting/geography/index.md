@@ -3,9 +3,6 @@ title: Geography
 campaign: wellspring
 ---
 
-{% assign campaign = site.campaigns | where: "slug", page.campaign | first %}
-{% assign setting = site.settings | where: "slug", page.setting | first %}
-
 # Geography
 
 - [The City Of Wellspring](#the-city-of-wellspring)
@@ -131,12 +128,4 @@ Far beyond the seas, other lands are known to exist. One continent is said to be
 
 [Back To Top](#)
 
----
-
-[Back to Home]({{site.baseurl}}/)
-|
-[Back to Campaigns]({{site.baseurl}}/campaigns)
-|
-[Back to {{ campaign.name }}]({{site.baseurl}}/campaigns/{{campaign.slug}})
-|
-[Back to Setting]({{site.baseurl}}/campaigns/{{campaign.slug}}/setting)
+{% include pages/campaign-setting-page/breadcrumbs.md %}

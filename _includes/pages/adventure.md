@@ -1,5 +1,3 @@
-{% assign campaign = site.campaigns | where: "slug", page.campaign | first %}
-{% assign setting = site.settings | where: "slug", page.setting | first %}
 {% assign adventure = site.adventures | where: "campaign", page.campaign | where: "slug", page.slug | first %}
 
 # {{ adventure.name | strip }}
@@ -81,4 +79,4 @@
 [Back To Top](#)
 {% endif %}
 
-{% include pages/adventure/breadcrumbs.md campaign=campaign %}
+{% include pages/adventure/breadcrumbs.md %}

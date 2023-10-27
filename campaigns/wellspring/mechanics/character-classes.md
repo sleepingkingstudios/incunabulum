@@ -3,9 +3,6 @@ title: Character Classes
 campaign: wellspring
 ---
 
-{% assign campaign = site.campaigns | where: "slug", page.campaign | first %}
-{% assign setting = site.settings | where: "slug", page.setting | first %}
-
 # Character Classes
 
 The character classes in the *Player's Handbook* (and the Artificer class in *Tasha's Cauldron of Everything*) are each presented as having a role or place in the game world. A cleric is a holy warrior with powerful divine magic, a barbarian is an outlander with battle rage, and so on. These roles are absolutely valid, and if they match your character concept, please feel free to embrace them. But these roles are only a starting point - they are not the only way a character of these classes can be played.
@@ -187,13 +184,4 @@ In Wellspring, most wizards find the [Arcane Order]({{site.baseurl}}/campaigns/w
 - **Controller:** A character who disrupts enemies and weakens them for their allies. Other classes for this role: Monk, Sorcerer, Warlock.
 - **Scholar:** A character who relies on knowledge and study. Other classes for this role: Cleric (Knowledge domain).
 
----
-
-[Back to Home]({{site.baseurl}}/)
-|
-[Back to Campaigns]({{site.baseurl}}/campaigns)
-|
-[Back to {{ campaign.name }}]({{site.baseurl}}/campaigns/{{campaign.slug}})
-|
-[Back to Mechanics]({{site.baseurl}}/campaigns/{{campaign.slug}}/mechanics)
-
+{% include pages/campaign-setting-page/breadcrumbs.md %}

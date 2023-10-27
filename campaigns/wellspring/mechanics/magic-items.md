@@ -2,9 +2,6 @@
 name: Magic Items
 ---
 
-{% assign campaign = site.campaigns | where: "slug", page.campaign | first %}
-{% assign setting = site.settings | where: "slug", page.setting | first %}
-
 # Magic Items
 
 A successful adventure brings many rewards, including experience, gold, works of art, reputation and social contacts. And, most importantly, magic items. In Wellspring, there are two main ways that characters can earn magic items: as direct rewards from an adventure, and by exchanging [Magicite crystals]({{site.baseurl}}/campaigns/wellspring/setting/magic#magicite-crystals).
@@ -53,12 +50,4 @@ Nearly all trades of magicite are done through one of Wellspring's major [organi
 
 <!-- ## Crafting Magic Items -->
 
----
-
-[Back to Home]({{site.baseurl}}/)
-|
-[Back to Campaigns]({{site.baseurl}}/campaigns)
-|
-[Back to {{ campaign.name }}]({{site.baseurl}}/campaigns/{{campaign.slug}})
-|
-[Back to Mechanics]({{site.baseurl}}/campaigns/{{campaign.slug}}/mechanics)
+{% include pages/campaign-setting-page/breadcrumbs.md %}

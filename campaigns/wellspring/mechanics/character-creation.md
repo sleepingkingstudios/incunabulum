@@ -3,9 +3,6 @@ title: Character Creation
 campaign: wellspring
 ---
 
-{% assign campaign = site.campaigns | where: "slug", page.campaign | first %}
-{% assign setting = site.settings | where: "slug", page.setting | first %}
-
 # Character Creation
 
 Wellspring uses some custom, optional rules for creating characters.
@@ -113,12 +110,4 @@ Characters can choose from the standard equipment listed in the *Player's Handbo
 | 1st | 75 gp |
 | 2nd | 150 gp |
 
----
-
-[Back to Home]({{site.baseurl}}/)
-|
-[Back to Campaigns]({{site.baseurl}}/campaigns)
-|
-[Back to {{ campaign.name }}]({{site.baseurl}}/campaigns/{{campaign.slug}})
-|
-[Back to Mechanics]({{site.baseurl}}/campaigns/{{campaign.slug}}/mechanics)
+{% include pages/campaign-setting-page/breadcrumbs.md %}

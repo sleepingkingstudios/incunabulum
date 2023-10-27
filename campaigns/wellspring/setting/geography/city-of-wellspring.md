@@ -3,9 +3,6 @@ title: The City Of Wellspring
 campaign: wellspring
 ---
 
-{% assign campaign = site.campaigns | where: "slug", page.campaign | first %}
-{% assign setting = site.settings | where: "slug", page.setting | first %}
-
 # The City Of Wellspring
 
 The City of Wellspring is laid out in six districts; three in [the Upper City](#the-upper-city), three in [the Lower City](#the-lower-city). Beneath the city proper is [the Undercity](#the-undercity), a tangled warren of slums, sewers, and ruins beyond the reach of the law.
@@ -158,6 +155,8 @@ The [Giant's Spine Mountains]({{site.baseurl}}/campaigns/wellspring/setting/geog
 
 [Back To Top](#)
 {% endfor %}
+
+{% assign campaign = site.campaigns | where: "slug", page.campaign | first %}
 
 ---
 

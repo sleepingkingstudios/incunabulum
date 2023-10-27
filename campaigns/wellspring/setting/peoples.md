@@ -3,9 +3,6 @@ title: Peoples Of Wellspring
 campaign: wellspring
 ---
 
-{% assign campaign = site.campaigns | where: "slug", page.campaign | first %}
-{% assign setting = site.settings | where: "slug", page.setting | first %}
-
 # Peoples Of Wellspring
 
 Wellspring is a nexus for the arcane, and draws people from not just the region but from distant lands and even other planes of existence. Demographically, Wellspring is plurality human (of various cultures and bloodlines), followed by halflings, dwarves, shoal elves, giants, and a melange of other peoples and lineages. There is also a substantial unofficial population in the Undercity.
@@ -280,12 +277,4 @@ The serpentine naga are an unusual sight in Wellspring, the high mountain peaks 
 
 [Back To Top](#)
 
----
-
-[Back to Home]({{site.baseurl}}/)
-|
-[Back to Campaigns]({{site.baseurl}}/campaigns)
-|
-[Back to {{ campaign.name }}]({{site.baseurl}}/campaigns/{{campaign.slug}})
-|
-[Back to Setting]({{site.baseurl}}/campaigns/{{campaign.slug}}/setting)
+{% include pages/campaign-setting-page/breadcrumbs.md %}

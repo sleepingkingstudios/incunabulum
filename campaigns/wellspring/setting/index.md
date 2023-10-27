@@ -3,9 +3,6 @@ title: Campaign Setting
 campaign: wellspring
 ---
 
-{% assign campaign = site.campaigns | where: "slug", page.campaign | first %}
-{% assign setting = site.settings | where: "slug", page.setting | first %}
-
 # Campaign Setting
 
 A setting of renaissance urban fantasy adventure, set in a city perched on the edge of a fantastical chasm.
@@ -42,6 +39,8 @@ Wellspring is a nexus for the arcane, and draws people from not just the region 
 ## [Religion]({{site.baseurl}}/campaigns/wellspring/setting/religion)
 
 The people of Wellspring follow many faiths, and the city holds numerous shrines, churches, and temples. In addition, the abundance of magic draws cults and cabals, building blasphemous altars in the undercity to perform their forbidden rites.
+
+{% assign campaign = site.campaigns | where: "slug", page.campaign | first %}
 
 ---
 

@@ -3,9 +3,6 @@ title: Magic
 campaign: wellspring
 ---
 
-{% assign campaign = site.campaigns | where: "slug", page.campaign | first %}
-{% assign setting = site.settings | where: "slug", page.setting | first %}
-
 # Magic
 
 - [Magicite Crystals](#magicite-crystals)
@@ -67,12 +64,4 @@ Those who choose to walk away return to their mortal lives, strangely reluctant 
 
 Over time, the newborn deity grows in power and potential, a process that can be revealed by various signs and portents visible to diviners and to those sensitive to such energies. Finally, some unknown period of time later, comes the Revelation, a vision of the new god's awakening given to those who are receptive to the deity's domain and philosophy. These become the core of the new faith's priesthood. Depending on the deity's nature, a Revelation may make its mark on the world as well, typically in the form of a general blessing, boon, or bane. The Revelation of a goddess of fire may result in charcoal and firewood burning for far longer than normal, or conversely trigger a crippling drought. Potential signs of a pending Revelation are therefore carefully examined and hotly debated.
 
----
-
-[Back to Home]({{site.baseurl}}/)
-|
-[Back to Campaigns]({{site.baseurl}}/campaigns)
-|
-[Back to {{ campaign.name }}]({{site.baseurl}}/campaigns/{{campaign.slug}})
-|
-[Back to Setting]({{site.baseurl}}/campaigns/{{campaign.slug}}/setting)
+{% include pages/campaign-setting-page/breadcrumbs.md %}

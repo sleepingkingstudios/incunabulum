@@ -1,5 +1,3 @@
-{% assign campaign = site.campaigns | where: "slug", page.campaign | first %}
-{% assign setting = site.settings | where: "slug", page.setting | first %}
 {% assign organization = site.organizations | where: "campaign", page.campaign | where: "slug", page.slug | first %}
 
 # {{ organization.name }}
@@ -81,4 +79,4 @@ Relationships
 {% endfor %}
 {% endif %}
 
-{% include pages/organization/breadcrumbs.md campaign=campaign setting=setting %}
+{% include pages/organization/breadcrumbs.md %}

@@ -3,9 +3,6 @@ title: History
 campaign: wellspring
 ---
 
-{% assign campaign = site.campaigns | where: "slug", page.campaign | first %}
-{% assign setting = site.settings | where: "slug", page.setting | first %}
-
 # History
 
 - [Calendars](#calendars)
@@ -157,12 +154,4 @@ Unfortunately for the Sherem, the scale of magic wielded in the invasion brought
 
 In the aftermath of the Second Sherem War, the Kingdom of Lothian invested considerable sums in rebuilding the City of Wellspring. Over the past fifty years, it has transformed from a glorified military camp to a city of brick and now of marble, lead by institutions such as the Arcane Order, the Merchantry Association and the First Bank of Lothian. These changes are not without cost - many of the long-term residents of Wellspring have been driven into the Lower City or even the Undercity as the wealthy build parks and mansions above. This literal stratification is a source of social tension, and an opportunity for those such as the Harfoot Syndicate.
 
----
-
-[Back to Home]({{site.baseurl}}/)
-|
-[Back to Campaigns]({{site.baseurl}}/campaigns)
-|
-[Back to {{ campaign.name }}]({{site.baseurl}}/campaigns/{{campaign.slug}})
-|
-[Back to Setting]({{site.baseurl}}/campaigns/{{campaign.slug}}/setting)
+{% include pages/campaign-setting-page/breadcrumbs.md %}
