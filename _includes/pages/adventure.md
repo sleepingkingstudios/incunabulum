@@ -9,6 +9,11 @@
 
 {{ adventure.summary }}
 
+{% if adventure.omake %}
+Omake
+: The events of this adventure may not be canonical.
+{% endif %}
+
 ## Adventure Log
 
 {{ adventure.content }}

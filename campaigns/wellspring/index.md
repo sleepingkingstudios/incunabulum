@@ -36,9 +36,13 @@ See Also: [Characters In Wellspring]({{site.baseurl}}/campaigns/wellspring/chara
 
 ### Adventures
 
-See Also: [Adventure Timeline]({{site.baseurl}}/campaigns/wellspring/characters)
+See Also: [Adventure Timeline]({{site.baseurl}}/campaigns/wellspring/adventures)
 
-{% include pages/campaign/adventures-list.md %}
+{% include pages/campaign/adventures-list.md omake=false %}
+
+#### Omake
+
+{% include pages/campaign/adventures-list.md omake=true %}
 
 [Back To Top](#)
 

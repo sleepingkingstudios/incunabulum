@@ -1,6 +1,7 @@
 ---
 campaign: wellspring
 campaign_index: 3
+omake: false
 name: Devils Are The Playthings Of Idle Hands
 slug: devils-playthings
 summary: |

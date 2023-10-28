@@ -16,4 +16,4 @@ adventures:
       She sent Mo a perfumed letter asking the latter to attend a "ladie's salon".
 ---
 
-A young noblewoman who fancies her self a budding sorceress. At a fundraiser hosted by Dame Savindar, Katerine hinted at mysterious meetings for those interested in the "darker" aspects of magic.
+A young noblewoman who fancies herself a budding sorceress. At a fundraiser hosted by Dame Savindar, Katerine hinted at mysterious meetings for those interested in the "darker" aspects of magic.
