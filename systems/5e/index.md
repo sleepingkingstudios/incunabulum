@@ -38,6 +38,7 @@ Rules for managing downtime between adventures.
 
 Optional rules for changing the 5E mechanics.
 
+- [Character Boons]({{site.baseurl}}/systems/5e/variants/character-boons)
 - [Secondary Classes]({{site.baseurl}}/systems/5e/variants/secondary-classes)
 
 ---

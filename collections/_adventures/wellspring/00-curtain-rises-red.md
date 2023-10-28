@@ -1,6 +1,7 @@
 ---
 campaign: wellspring
 campaign_index: 0
+omake: false
 name: The Curtain Rises Red
 slug: curtain-rises-red
 summary: |
@@ -10,6 +11,10 @@ characters:
     slug: cyrene
     details: |
       Cyrene delivered a warning from the stars. She seems a little too naïve for adventuring, though...
+  - name: Donella Shadowcloak
+    slug: donella-shadowcloak
+    details: |
+      The party later learned the intruders were lead by Donella Shadowcloak.
   - name: Lucas and Martin
     slug: lucas-and-martin
     details: |

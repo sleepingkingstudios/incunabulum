@@ -1,6 +1,7 @@
 ---
 campaign: wellspring
 campaign_index: 1
+omake: false
 name: A Volatile Tail
 slug: volatile-tail
 summary: |

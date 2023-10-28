@@ -1,6 +1,7 @@
 ---
 campaign: wellspring
 campaign_index: 2
+omake: false
 name: The Silverstone Theater Mystery
 slug: silverstone-theater-mystery
 summary: |

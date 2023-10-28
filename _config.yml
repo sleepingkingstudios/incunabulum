@@ -1,6 +1,9 @@
 ---
 collections_dir: collections
 collections:
+  dnd5e_boons:
+    output: false
+    sort_by: slug
   adventures:
     output: false
     sort_by: campaign_index
