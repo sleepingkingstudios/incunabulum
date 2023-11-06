@@ -3,6 +3,8 @@ title: Wellspring \| Adventures
 campaign: wellspring
 ---
 
+{% assign campaign = site.campaigns | where: "slug", page.campaign | first %}
+
 # Adventures
 
 - [Adventures](#adventures)
@@ -10,7 +12,7 @@ campaign: wellspring
 - [Mysteries](#mysteries)
 - [Timeline](#timeline)
 
-The adventures of the Silverstone Players: Mo, Py, Roya, and Verity, in and beneath the [City of Wellspring]({{site.baseurl}}/campaigns/wellspring/setting).
+{{ campaign.content }}
 
 {% include pages/campaign/adventures-list.md omake=false %}
 
@@ -112,4 +114,4 @@ After the events of [A Volatile Tail](./a-volatile-tail), the party takes a few 
 |
 [Back to Campaigns]({{site.baseurl}}/campaigns)
 |
-[Back to Adventures in Wellspring]({{site.baseurl}}/campaigns/wellspring)
+[Back to {{campaign.name}}]({{site.baseurl}}/campaigns/{{campaign.slug}})
