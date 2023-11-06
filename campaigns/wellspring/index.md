@@ -3,9 +3,11 @@ title: Wellspring, City Of Adventure
 campaign: wellspring
 ---
 
-# Wellspring, City Of Adventure
+{% assign campaign = site.campaigns | where: "slug", page.campaign | first %}
 
-The adventures of the Silverstone Players: Mo, Py, Roya, and Verity, in and beneath the city of Wellspring.
+# {{ campaign.name }}
+
+{{ campaign.content }}
 
 - [Campaign Log](#campaign-log)
   - [Adventures](#adventures)
