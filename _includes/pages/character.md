@@ -29,6 +29,13 @@ Description
 
 {{ character.content }}
 
+{% for callout in character.callouts %}
+> *{{ callout.label }}*
+>
+> {{ callout.details }}
+
+{% endfor %}
+
 {% if character.characters or character.organizations %}
 ## Affiliations
 {% endif %}

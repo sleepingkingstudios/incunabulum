@@ -1,7 +1,7 @@
 ---
 campaign: lutes
-title:    Lily
-slug:     lily
+title:    Sir Bradford
+slug:     sir-bradford
 ---
 
 {% include pages/character.md %}

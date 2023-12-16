@@ -29,4 +29,11 @@ Description
 
 {{ character.content }}
 
+{% for callout in character.callouts %}
+> *{{ callout.label }}*
+>
+> {{ callout.details }}
+
+{% endfor %}
+
 [Back To Top](#)
