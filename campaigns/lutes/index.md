@@ -17,12 +17,9 @@ campaign: lutes
 
 ### Characters
 
-<!-- [Aoife the Bard]({{site.baseurl}}/campaigns/lutes/characters/aoife) -->
-Aoife the Bard
-: Bright, curious, and afraid of nothing but trees, Aoife nurtures a powerful talent for magic while balancing her skills of joyful music and stealthy mayhem.
+See Also: [Characters In The Sapphire Coast]({{site.baseurl}}/campaigns/lutes/characters)
 
-[Lilith "Lily" the Warlock]({{site.baseurl}}/campaigns/lutes/characters/lily)
-: A skilled mistress of the arcane arts and a master of investigation, Lily is as talented at hiding her own nature as she is at ferreting out the secrets of others.
+{% include pages/campaign/characters-list.md %}
 
 [Back To Top](#)
 

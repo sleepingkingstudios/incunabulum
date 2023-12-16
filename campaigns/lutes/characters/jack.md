@@ -1,7 +1,7 @@
 ---
 campaign: lutes
-title:    Lily
-slug:     lily
+title:    Jack
+slug:     jack
 ---
 
 {% include pages/character.md %}
