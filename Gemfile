@@ -6,4 +6,4 @@ gem 'github-pages', group: :jekyll_plugins
 gem 'jekyll-docs'
 gem 'webrick'
 
-ruby '3.2.2'
+ruby '2.7.4'
