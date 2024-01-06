@@ -5,6 +5,11 @@ slug: katerine-descoteaux
 lineage: Female human
 description: |
   Katerine has creamy skin, long brunette hair in careful curls, and an impressive décolletage she dresses to emphasize.
+organizations:
+  - name: The Black Sepulchre
+    slug: black-sepulchre
+    details: |
+      Katerine attends meetings of the Black Sepulchre under the alias Sister Midnight.
 adventures:
   - name: The Silverstone Theater Mystery
     slug: silverstone-theater-mystery
@@ -13,7 +18,7 @@ adventures:
   - name: Devils Are The Playthings Of Idle Hands
     slug: devils-playthings
     details: |
-      She sent Mo a perfumed letter asking the latter to attend a "ladie's salon".
+      Katerine met Mo for tea, inviting her to a meeting of the Black Sepulchre.
 ---
 
-A young noblewoman who fancies herself a budding sorceress. At a fundraiser hosted by Dame Savindar, Katerine hinted at mysterious meetings for those interested in the "darker" aspects of magic.
+A young noblewoman who fancies herself a budding sorceress. At a fundraiser hosted by Dame Savindar, Katerine hinted at mysterious meetings for those interested in the "darker" aspects of magic. She later revealed to Mo her membership in the Black Sepulchre.

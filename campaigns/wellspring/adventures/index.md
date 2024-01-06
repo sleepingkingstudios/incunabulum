@@ -15,7 +15,7 @@ The adventures of the Silverstone Players: Mo, Py, Roya, and Verity, in and bene
 
 ## Timeline
 
-The City of Wellspring, the Kingdom of Lothian, and all of the surrounding nations use the [Sherem Calendar]({{site.baseurl}}/campaigns/wellspring/setting/life#calendar), which is based on the constellations.
+The City of Wellspring, the Kingdom of Lothian, and all of the surrounding nations use the [Sherem Calendar]({{site.baseurl}}/campaigns/wellspring/setting/daily-life#calendar), which is based on the constellations.
 
 ### Spring 2258
 
@@ -60,6 +60,9 @@ After the events of [A Volatile Tail](./a-volatile-tail), the party takes a few 
 
 10 Dragon
 : [Devils Are The Playthings Of Idle Hands](./devils-playthings): The Market District is thrown into chaos by mysterious vandals. The Silverstone Players investigate, and battle a swarm of malicious imps in the fortress ruins below.
+
+11 Dragon
+: [Devils Are The Playthings Of Idle Hands](./devils-playthings): The Silverstone Players flee from carrion crawlers beneath the city. After, Mo attends a tea date with the loose-lipped Katerine, who spills the details on a sinister group of demon summoners calling themselves the Black Sepulchre.
 
 ---
 

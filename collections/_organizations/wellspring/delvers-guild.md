@@ -40,6 +40,10 @@ members:
     slug: mialee-sylvaranth
     details: |
       Mialee is an administrator at the Delver's Guild. She frequently takes on the role of mentor for new delvers.
+  - name: Morana Durthane
+    slug: morana-durthane
+    details: |
+      Morana is an archivist at the Delver's Guild.
 adventures:
   - name: A Volatile Tail
     slug: volatile-tail
