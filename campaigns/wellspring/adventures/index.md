@@ -60,9 +60,13 @@ After the events of [A Volatile Tail](./a-volatile-tail), the party takes a few 
 
 10 Dragon
 : [Devils Are The Playthings Of Idle Hands](./devils-playthings): The Market District is thrown into chaos by mysterious vandals. The Silverstone Players investigate, and battle a swarm of malicious imps in the fortress ruins below.
+: ???: Verity receives a lost journal from her long-missing brother Honor, hinting at some connection between his disappearance and the fey.
 
 11 Dragon
 : [Devils Are The Playthings Of Idle Hands](./devils-playthings): The Silverstone Players flee from carrion crawlers beneath the city. After, Mo attends a tea date with the loose-lipped Katerine, who spills the details on a sinister group of demon summoners calling themselves the Black Sepulchre.
+
+12 Dragon
+: [Devils Are The Playthings Of Idle Hands](./devils-playthings): The Silverstone Players (and guest ally Cyrene) return to the fortress ruins and battle a nest of carrion crawlers.
 
 ---
 

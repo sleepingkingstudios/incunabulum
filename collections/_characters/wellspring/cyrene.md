@@ -24,12 +24,16 @@ organizations:
 adventures:
   - name: The Curtain Rises Red
     slug: curtain-rises-red
-    details:
+    details: |
       Cyrene brought a warning from the stars that danger and death lurked within the theater.
   - name: The Silverstone Theater Mystery
     slug: silverstone-theater-mystery
-    details:
+    details: |
       Cyrene's divinations revealed a hidden enchantment embedded within the theater’s walls. She also cast auguries to help guide the party on who to trust.
+  - name: Devils Are The Playthings Of Idle Hands
+    slug: devils-playthings
+    details: |
+      Cyrene accompanied the Silverstone Players to hunt down carrion crawlers beneath the market.
 ---
 
 Cyrene is an acolyte of the Watchers of the Stars with a rather sheltered upbringing, who feels rather out of her depth in the city, let alone in the wilderness or the caverns and catacombs beneath Wellspring. She refers to herself as an Astrologian, and uses a mixture of divine and arcane magic.
