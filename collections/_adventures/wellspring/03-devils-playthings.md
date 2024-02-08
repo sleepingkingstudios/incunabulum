@@ -23,6 +23,10 @@ characters:
     slug: morana-durthane
     details: |
       An archivist at the Delver's Guild, she discovered a leather-bound journal belonging to Verity's long lost brother Honor.
+  - name: Richart Montaigne
+    slug: richart-montaigne
+    details: |
+      Richart was a fellow attendant of the Dark Revel, and bonded with Py over alchemy and brassware.
 organizations:
   - name: The Black Sepulchre
     slug: black-sepulchre
@@ -86,12 +90,32 @@ While Roya and Mo were away, Verity called Py aside to talk about the discovery 
 
 > Date: [12 Dragon]({{site.baseurl}}/campaigns/wellspring/adventures#summer-2258)
 
-The Silverstone Players reconvene at the theater, and the rest of the group are filled in on Roya and Mo's errands. After some debate, the party decides to venture down into the Fortress Ruins once more. At the prompting of Mo's familiar, the party invites Cyrene to join them, and around noon return to the Market District to descend into the depths. Roya's family has set up a makeshift barricade around the ruins entrance, and are engaged in a heating argument with a human and a dwarf in the uniform of the City Guard. After a brief argument, the dwarf guardsman threatens to have the barricade forcibly torn down if it's not removed by sundown, but allows the party to pass through.
+The Silverstone Players reconvene at the theater, and the rest of the group are filled in on Roya and Mo's errands. After some debate, the party decides to venture down into the Fortress Ruins once more. At the prompting of Mo's familiar, the party invites Cyrene to join them, and around noon return to the Market District to descend into the depths. Roya's family has set up a makeshift barricade around the ruins entrance, and are engaged in a heated argument with a human and a dwarf in the uniform of the City Guard. After a brief argument, the dwarf guardsman threatens to have the barricade forcibly torn down if it's not removed by sundown, but allows the party to pass through.
 
-Down within the fortress ruins, the party descends into a warren of storerooms and quickly come across a small nest of carrion crawlers. Verity gives an inspiring speech before the party closed. Verity, Roya, and Py engage it with bow and crossbow without success, although Mo manages to wound the monstrousity with a mental attack. The party manages to wound it with bolt and arrow as a second approaches at the edge of their light, while Mo scorches it with a fiery ray. Mo follows up by trapping the second crawler in lava illusion, while Roya strikes down the first with a carefully placed arrow.
+Down within the fortress ruins, the party descends into a warren of storerooms and quickly come across a small nest of carrion crawlers. Verity gives an inspiring speech before the party closed. Verity, Roya, and Py engage it with bow and crossbow without success, although Mo manages to wound the monstrosity with a mental attack. The party manages to wound it with bolt and arrow as a second approaches at the edge of their light, while Mo scorches it with a fiery ray. Mo follows up by trapping the second crawler in lava illusion, while Roya strikes down the first with a carefully placed arrow.
 
 While the second crawler retreats from the illusory lava, a third is charging the party from behind. Roya meets the third carrion crawler with rapier in hand, while Verity lands a curse slowing its reactions. Cyrene finally manages to cast her spell successfully, firing a barrage of magic missiles at the second carrion crawler. The crawler engaged with Roya attempted to ensnare her with its tentacles, but she shakes off its paralytic venom in time to evade its mandibles. Meanwhile, the second crawler attempts to flee, but Mo fires a sleep enchantment blindly into the darkness. Roya dodges away from the third crawler and returns to the rest of the party before it was brought down by another barrage of magic missiles. Py and Roya collaborate on another spell-lit arrow to reveal the last sleeping crawler, and Py steps forward with her giant wrench to deliver the final blow.
 
 The party investigates the warren of storerooms, discovering the nest of the carrion crawlers along with the remains of a couple of victims - apparently a couple of footpads with chipped daggers and 20 gold worth of currency in their coin pouches. Venturing further, Roya finds several more of the infernal runes marking a pathway through the labyrinth, along with tracks from the carrion crawlers (leading away from the rune-marked path) and human footprints (heading both directions). Both the tracks and the runic marks terminated at what seemed to be the external wall of the once-fortress; however, it was inexplicably warm to the touch, and a divination revealed the presence of conjuration magic. Likewise, Mo calculated that the party was actually near the center of the ruins; thus, the fortress wall was very much out of place.
 
-To be continued...
+<!-- Session Break -->
+
+Roya recalls that beyond the conjured wall is a ruined chapel, where the dead were once prepared for interment. While Mo and Roya debate magical theory on conjuration and banishment, Py pulls out a giant hammer and smashes it into the out-of-place wall. There was a loud, dissonant whine at the impact, and the cracks quickly filled in with an orange light and a lingering scent of sulphur.
+
+The Silverstone Players attempt to bypass the wall, with Roya painting the infernal rune on the wall first in black chalk and then in the blood of the dead carrion crawlers. The wall was strangely resistant to markings; the chalk flaked off at the slightest breeze, while the blood dripped off in a deeply unsettling manner. Unfortunately, the wall was otherwise unaffected. Stymied for now, the party returned to the surface, but not before Mo sets a magical alarm to keep an eye on the area.
+
+Back at the surface, Roya confronts the guards with the severed head of one of the carrion crawlers. The guards begrudgingly agreed that the ruins were unsafe, and declared them closed until further notice. From there, the party debated strategy; they considered but rejected involving Dame Savindar; reaching out to Lucas and Martin or their contacts in the Harfood Syndicate; or asking the Delver's Guild to help investigating the conjured wall beneath the marketplace. They decide the best path forward is to infiltrate the planned Dark Revel, using the dress code of masks and black cloaks to bring the entire group. Py would take on the name of Sister Nightshade, Mo as Sister Hellebore, Roya as Sister Ouibliette, and Verity as Sister Sable.
+
+Mo will also use the remaining time studying at the library of the Arcane Order. Unfortunately, most of the references to a connection between the planes and the skies refer to a tome titled *As Above, So Below: A Treatise On The Skies And The Four Arcana*, which Mo was unable to find. She also reached out to Cyrene, who shared some basic knowledge; unfortunately her studies focused on the area of divination, rather than conjuration or banishment.
+
+> Date: [15 Dragon]({{site.baseurl}}/campaigns/wellspring/adventures#summer-2258)
+
+At noon, Mo receives a couriered communique from Katerine, instructing her to meet at "the entrance to the old ruins in the market" an hour before midnight. The party has a last-minute huddle regarding their strategy - are they planning to disrupt the ceremony, or merely observe and gather information? They decided to take a wait and see approach. Ahead of the scheduled time, Roya checked the ruins entrance and found it barricaded by a pair of very bored City Guards.
+
+At the appointed hour, Mo and the rest of the Silverstone Players approach the entrance to the ruins. A number of other figures in masks and black cloaks are filtering into the district, with others brazenly stepping off of carriages directly in front of the ruins. Mo met with Katerine in her guise as "Sister Midnight" at the entrance, and was ushered inside; the missing guards were found hidden behind the barricades, snoring.
+
+The Silverstone Players then descended into the ruins amongst the gaggle of black cloaks. Mo kept company with Katerine, although she did not share the latter's enthusiasm for an introduction to the sinister Brother Nocturne. Meanwhile, Roya tried to avoid notice, and Py and Verity singled out a lone watcher at the edge of the group. He admitted he was also attending a Dark Revel for the first time, and had trouble choosing a name; Verity suggested the name "Vespers", which he gratefully adopted. Py attempted to put Vespers off with alchemy talk and instead managed to forge a connection by talking about brassware; he reintroduced himself as Richart, the nephew of the biggest importer of brass into Wellspring, and boasted about his uncle's new partnership with a merchant in the Free Cities for high-quality copper.
+
+At the heart of the ruins, the party came across the same conjured wall as before, with the would-be cultists gathered before it in apparent anticipation. Abruptly, the wall vanished in a burst of fire, revealing Brother Nocturne standing behind. "Welcome, brothers and sisters!" he intoned. "The Dark Revel begins!"
+
+To be concluded...

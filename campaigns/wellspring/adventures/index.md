@@ -66,7 +66,10 @@ After the events of [A Volatile Tail](./a-volatile-tail), the party takes a few 
 : [Devils Are The Playthings Of Idle Hands](./devils-playthings): The Silverstone Players flee from carrion crawlers beneath the city. After, Mo attends a tea date with the loose-lipped Katerine, who spills the details on a sinister group of demon summoners calling themselves the Black Sepulchre.
 
 12 Dragon
-: [Devils Are The Playthings Of Idle Hands](./devils-playthings): The Silverstone Players (and guest ally Cyrene) return to the fortress ruins and battle a nest of carrion crawlers.
+: [Devils Are The Playthings Of Idle Hands](./devils-playthings): The Silverstone Players (and guest ally Cyrene) return to the fortress ruins, argue with bigoted guards, and battle a nest of carrion crawlers.
+
+15 Dragon
+: [Devils Are The Playthings Of Idle Hands](./devils-playthings): The Dark Revel is here, and the Silverstone Players prepare to confront the Black Sepulchre and their leader, the sinister Brother Nocturne.
 
 ---
 
