@@ -20,4 +20,4 @@ adventures:
       Jack assisted Aoife in navigating the sewers of Jewel and battling the goblins that had abducted the luthier Garrick.
 ---
 
-Jack is a member of the [Thieves’ Guild]({{site.baseurl}}/campaigns/lutes/organizations/thieves-guild), acting as a liaison with trusted outsiders and acting on behalf of the “guild”. Not much is known about Jack, aside from a slight build and agile athleticism. They wear a mask at all times and have a preference for tight leather under a concealing cloak.
+Jack is a member of the Thieves’ Guild acting as a liaison with trusted outsiders and acting on behalf of the "guild". Not much is known about Jack, aside from a slight build and agile athleticism. They wear a mask at all times and have a preference for tight leather under a concealing cloak.

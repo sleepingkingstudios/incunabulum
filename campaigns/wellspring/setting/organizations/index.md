@@ -3,4 +3,4 @@ title:    Organizations
 campaign: wellspring
 ---
 
-{% include pages/organizations.md %}
+{% include pages/campaign-organizations-page.md %}

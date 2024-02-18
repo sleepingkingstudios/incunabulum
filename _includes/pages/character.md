@@ -67,7 +67,7 @@ Description
 
 {% for organization in character.organizations %}
 {% if organization.slug %}
-[{{ organization.name }}]({{site.baseurl}}/campaigns/{{page.campaign}}/organizations/{{organization.slug}})
+[{{ organization.name }}]({{site.baseurl}}/campaigns/{{page.campaign}}/setting/organizations/{{organization.slug}})
 : {{ organization.details }}
 {% else %}
 {{ organization.name }}
