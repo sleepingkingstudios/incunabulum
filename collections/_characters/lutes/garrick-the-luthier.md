@@ -4,6 +4,10 @@ name: Garrick the Luthier
 slug: garrick-the-luthier
 full_name: Thea Garrick
 lineage: Female halfling luthier (earth bloodline)
+location: jewel-merchants-quarter
+location_link:
+  name: The City of Jewel - Merchant's Quarter
+  path: /city-of-jewel#the-merchants-quarter
 characters:
   - name: Aoife
     slug: aoife
