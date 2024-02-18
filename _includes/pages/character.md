@@ -22,6 +22,14 @@ Lineage
 : {{ character.lineage }}
 {% endif %}
 
+{% if character.location_link %}
+Location
+: [{{ character.location_link.name }}]({{site.baseurl}}/campaigns/{{character.campaign}}/setting/geography{{character.location_link.path}})
+{% elsif character.location %}
+Location
+: {{ character.location }}
+{% endif %}
+
 {% if character.description %}
 Description
 : {{ character.description }}

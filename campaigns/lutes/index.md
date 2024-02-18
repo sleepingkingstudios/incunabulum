@@ -12,6 +12,8 @@ campaign: lutes
 - [Campaign Log](#campaign-log)
   - [Characters](#characters)
   - [Adventures](#adventures)
+- [Setting](#setting)
+  - [Geography](#geography)
 
 ## Campaign Log
 
@@ -34,6 +36,10 @@ See Also: [Adventure Timeline]({{site.baseurl}}/campaigns/wellspring/adventures)
 {% include pages/campaign/adventures-list.md omake=true %}
 
 [Back To Top](#)
+
+## [Setting]({{site.baseurl}}/campaigns/lutes/setting)
+
+The campaign is set in the [Sapphire Coast]({{site.baseurl}}/campaigns/lutes/setting).
 
 ---
 

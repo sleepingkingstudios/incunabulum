@@ -38,6 +38,15 @@ The Sapphire Coast, the Kingdom of Amaranth, and all of the surrounding nations 
 
 ### Summer 2258
 
+7 Dragon
+: Aoife leaves Jewel for the town of Oakhurst, renowned for its midsummer music festival. Along the way, she meets the mysterious investigator Lily, who accompanies her on her journey.
+
+9 Dragon
+: Aoife and Lily arrive in Oakhurst.
+
+14 Dragon
+: Aoife and Lily leave Oakhurst to return to Jewel.
+
 15 Dragon
 : The Summer Solstice.
 : [Fire Serpent Pass]({{site.baseurl}}/campaigns/lutes/setting/geography#fire-serpent-pass) erupts, isolating the Sapphire Coast from the rest of the kingdom of Amaranth.
