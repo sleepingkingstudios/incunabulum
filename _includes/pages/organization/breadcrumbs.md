@@ -8,4 +8,6 @@
 |
 [Back to {{campaign.name}}]({{site.baseurl}}/campaigns/{{campaign.slug}})
 |
-[Back to Organizations]({{site.baseurl}}/campaigns/{{campaign.slug}}/organizations)
+[Back to Settings]({{site.baseurl}}/campaigns/{{campaign.slug}}/setting)
+|
+[Back to Organizations]({{site.baseurl}}/campaigns/{{campaign.slug}}/setting/organizations)

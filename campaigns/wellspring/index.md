@@ -17,6 +17,7 @@ campaign: wellspring
   - [History](#history)
   - [Geography](#geography)
   - [Magic](#magic)
+  - [Organizations](#organizations)
   - [Peoples](#peoples)
   - [Religion](#religion)
 - [Mechanics](#mechanics)
@@ -60,7 +61,7 @@ Information on the day to day life in Wellspring, including [calendars]({{site.b
 
 ### [Geography]({{site.baseurl}}/campaigns/wellspring/setting/geography)
 
-Locations in the [city of Wellspring](#city-of-wellspring) and surrounding regions.
+Locations in the [city of Wellspring]({{site.baseurl}}/campaigns/wellspring/setting/geography/city-of-wellspring) and surrounding regions.
 
 [Back To Top](#)
 
@@ -73,6 +74,12 @@ The history of Wellspring, the Kingdom of Lothian, and the world of Myriad.
 ### [Magic]({{site.baseurl}}/campaigns/wellspring/setting/magic)
 
 As a city built atop a raw mana font of immense power, magic is central to Wellspring and its people, its history and its future.
+
+[Back To Top](#)
+
+### [Organizations]({{site.baseurl}}/campaigns/wellspring/setting/organizations)
+
+Wellspring is host to numerous organizations, from warrior societies to criminal houses to secretive magical brotherhoods.
 
 [Back To Top](#)
 

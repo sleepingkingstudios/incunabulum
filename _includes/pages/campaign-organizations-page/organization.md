@@ -1,8 +1,15 @@
 {% assign organization = include.organization %}
 
-## [{{ organization.name }}]({{site.baseurl}}/campaigns/{{page.campaign}}/organizations/{{organization.slug}})
+## [{{ organization.name }}]({{site.baseurl}}/campaigns/{{page.campaign}}/setting/organizations/{{organization.slug}})
 
 {{ organization.content }}
+
+{% for callout in organization.callouts %}
+> *{{ callout.label }}*
+>
+> {{ callout.details }}
+
+{% endfor %}
 
 {% if organization.headquarters %}
 Headquarters
@@ -41,7 +48,7 @@ Relationships
 ### {{ organization.child_organizations_label | default: "Child Organizations" }}
 
 {% for child in organization.child_organizations %}
-{% include pages/organizations/child-organization.md child=child %}
+{% include pages/campaign-organizations-page/child-organization.md child=child %}
 {% endfor %}
 {% endif %}
 

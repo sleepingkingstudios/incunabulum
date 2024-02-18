@@ -1,5 +1,5 @@
 {% if child.slug %}
-#### [{{ child.name }}]({{site.baseurl}}/campaigns/{{page.campaign}}/organizations/{{child.slug}})
+#### [{{ child.name }}]({{site.baseurl}}/campaigns/{{page.campaign}}/setting/organizations/{{child.slug}})
 
 {{ child.details }}
 {% else %}

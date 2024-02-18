@@ -9,14 +9,14 @@
 # Organizations
 
 <!-- Table Of Contents -->
-{% include pages/organizations/table-of-contents.md organizations=organizations %}
+{% include pages/campaign-organizations-page/table-of-contents.md organizations=organizations %}
 
 {% if setting.blurbs.organizations %}
 {{ setting.blurbs.organizations }}
 {% endif %}
 
 {% for organization in organizations %}
-{% include pages/organizations/organization.md organization=organization %}
+{% include pages/campaign-organizations-page/organization.md organization=organization %}
 {% endfor %}
 
-{% include pages/organizations/breadcrumbs.md %}
+{% include pages/campaign-organizations-page/breadcrumbs.md %}

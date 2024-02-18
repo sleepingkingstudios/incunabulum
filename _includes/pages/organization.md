@@ -4,10 +4,17 @@
 
 {{ organization.content }}
 
+{% for callout in organization.callouts %}
+> *{{ callout.label }}*
+>
+> {{ callout.details }}
+
+{% endfor %}
+
 {% if organization.parent_organization %}
 {% if organization.parent_organization.slug %}
 Parent Organization
-: [{{ organization.parent_organization.name }}]({{site.baseurl}}/campaigns/{{page.campaign}}/organizations/{{organization.parent_organization.slug}})
+: [{{ organization.parent_organization.name }}]({{site.baseurl}}/campaigns/{{page.campaign}}/setting/organizations/{{organization.parent_organization.slug}})
 {% else %}
 Parent Organization
 : {{ organization.parent_organization.name }}
@@ -44,7 +51,7 @@ Relationships
 
 {% for child in organization.child_organizations %}
 {% if child.slug %}
-[{{ child.name }}]({{site.baseurl}}/campaigns/{{page.campaign}}/organizations/{{child.slug}})
+[{{ child.name }}]({{site.baseurl}}/campaigns/{{page.campaign}}/setting/organizations/{{child.slug}})
 : {{ child.details }}
 {% else %}
 {{ child.name }}

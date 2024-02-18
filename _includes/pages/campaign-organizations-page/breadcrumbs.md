@@ -7,3 +7,5 @@
 [Back to Campaigns]({{site.baseurl}}/campaigns)
 |
 [Back to {{campaign.name}}]({{site.baseurl}}/campaigns/{{campaign.slug}})
+|
+[Back to Setting]({{site.baseurl}}/campaigns/{{campaign.slug}}/setting)

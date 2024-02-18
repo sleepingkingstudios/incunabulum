@@ -14,6 +14,7 @@ campaign: lutes
   - [Adventures](#adventures)
 - [Setting](#setting)
   - [Geography](#geography)
+  - [Organizations](#organizations)
 
 ## Campaign Log
 
@@ -40,6 +41,18 @@ See Also: [Adventure Timeline]({{site.baseurl}}/campaigns/wellspring/adventures)
 ## [Setting]({{site.baseurl}}/campaigns/lutes/setting)
 
 The campaign is set in the [Sapphire Coast]({{site.baseurl}}/campaigns/lutes/setting).
+
+### [Geography]({{site.baseurl}}/campaigns/lutes/setting/geography)
+
+Locations in the [city of Jewel]({{site.baseurl}}/campaigns/lutes/setting/geography/city-of-jewel) and surrounding regions.
+
+[Back To Top](#)
+
+### [Organizations]({{site.baseurl}}/campaigns/lutes/setting/organizations)
+
+Organizations in Wellspring and the Sapphire Coast.
+
+[Back To Top](#)
 
 ---
 
