@@ -11,6 +11,8 @@ From the foothills of the Giant's Wall mountains to the shores of the Sea of Sto
   - [The Docks](#the-docks)
   - [The Merchant's Quarter](#the-merchants-quarter)
   - [The Upper City](#the-upper-city)
+- [The Lapis Valley](#the-lapis-valley)
+  - [Oakhurst](#oakhurst)
 
 ## [The City of Jewel]({{site.baseurl}}/campaigns/lutes/setting/geography/city-of-jewel)
 
@@ -35,6 +37,22 @@ The central district of Jewel is known as the Merchant's Quarter. Built from a m
 ### [The Upper City]({{site.baseurl}}/campaigns/lutes/setting/geography/city-of-jewel#the-upper-city)
 
 The Upper City of Jewel is a small but wealthy district, with the houses of rich aristocrats, local nobility, and the most successful merchants and traders. Jewel's municipal buildings are located here, as well as the headquarters of the City Watch. At the highest point in the city, the Duchess's keep overlooks the river. The Upper City is prosperous but exclusive, and those who look like they do not belong are moved along (not gently) by the Watch.
+
+[Back To Top](#)
+
+## The Lapis Valley
+
+The fertile Lapis river valley is the heart of the Sapphire Coast. Centered on the [The City of Jewel]({{site.baseurl}}/campaigns/lutes/setting/geography/city-of-jewel) at the junction of the Lesser and Greater Lapis, the valley and its surroundings contain most of the burgeoning Duchy's population and wealth.
+
+- [Oakhurst](#oakhurst)
+
+### Oakhurst
+
+The town of Oakhurst lies on the western trade road to the rest of the Kingdom of Amaranth, approximately two days' ride west of Jewel. It sits roughly on the boundary between the Lapis river plain and the rough country leading up to the Giant's Wall mountains.
+
+Notable locals include Mayor Vurnor Leng, the half-elven constable Felosial, dwarf blacksmith Rurik Lutgehr, and Garon, the proprietor of the Ol' Boar Inn.
+
+{% include pages/campaign-geography-page/district.md label="Oakhurst" location="oakhurst" %}
 
 [Back To Top](#)
 

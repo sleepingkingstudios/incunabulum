@@ -4,6 +4,23 @@ name: Sir Bradford
 slug: sir-bradford
 status: Deceased
 lineage: Male human paladin
+location: oakhurst
+location_link:
+  name: Oakhurst
+  path: '#oakhurst'
+characters:
+  - name: Karakas
+    slug: karakas
+    details: |
+      Sir Bradford recruited the ranger Karakas to explore the Sunless Citadel.
+  - name: Sharwyn Hucrele
+    slug: sharwyn-hucrele
+    details: |
+      Sir Bradford recruited the wizard Sharwyn to explore the Sunless Citadel.
+  - name: Talgen Hucrele
+    slug: talgen-hucrele
+    details: |
+      Sir Bradford recruited the fighter Talgen to explore the Sunless Citadel.
 organizations:
   - name: The Knights Of The Dawn
     slug: knights-of-the-dawn
