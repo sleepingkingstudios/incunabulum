@@ -13,6 +13,7 @@ From the foothills of the Giant's Wall mountains to the shores of the Sea of Sto
   - [The Upper City](#the-upper-city)
 - [The Lapis Valley](#the-lapis-valley)
   - [Oakhurst](#oakhurst)
+  - [The Sunless Citadel](#the-sunless-citadel)
 
 ## [The City of Jewel]({{site.baseurl}}/campaigns/lutes/setting/geography/city-of-jewel)
 
@@ -45,15 +46,20 @@ The Upper City of Jewel is a small but wealthy district, with the houses of rich
 The fertile Lapis river valley is the heart of the Sapphire Coast. Centered on the [The City of Jewel]({{site.baseurl}}/campaigns/lutes/setting/geography/city-of-jewel) at the junction of the Lesser and Greater Lapis, the valley and its surroundings contain most of the burgeoning Duchy's population and wealth.
 
 - [Oakhurst](#oakhurst)
+- [The Sunless Citadel](#the-sunless-citadel)
 
 ### Oakhurst
 
-The town of Oakhurst lies on the western trade road to the rest of the Kingdom of Amaranth, approximately two days' ride west of Jewel. It sits roughly on the boundary between the Lapis river plain and the rough country leading up to the Giant's Wall mountains.
+The town of Oakhurst lies on the western trade road to the rest of the Kingdom of Amaranth, approximately two days' ride west of Jewel. It sits roughly on the boundary between the Lapis river plain and the rough country leading up to the Giant's Wall mountains. [The Sunless Citadel](#the-sunless-citadel) lies roughly a half day's travel southwest through rough country.
 
 Notable locals include Mayor Vurnor Leng, the half-elven constable Felosial, dwarf blacksmith Rurik Lutgehr, and Garon, the proprietor of the Ol' Boar Inn.
 
 {% include pages/campaign-geography-page/district.md label="Oakhurst" location="oakhurst" %}
 
-[Back To Top](#)
+### The Sunless Citadel
+
+A great sunken ruin at the bottom of a deep ravine, the Sunless Citadel was once a fortress maintained by the serpentine Forgotten in the distant past. During the invasion by Amaranth, it was briefly held by the defending druids before its destruction sent the fortress into the depths. Now, it serves as a home for those who reject or are rejected by civilization, including warring groups of goblins and kobolds.
+
+{% include pages/campaign-geography-page/district.md label="Sunless Citadel" location="sunless-citadel" %}
 
 {% include pages/campaign-setting-page/breadcrumbs.md %}

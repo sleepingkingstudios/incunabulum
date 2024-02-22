@@ -5,6 +5,10 @@ slug: belak
 category: adversary
 status: Deceased
 lineage: Mad human? druid
+location: sunless-citadel
+location_link:
+  name: The Sunless Citadel
+  path: '#the-sunless-citadel'
 callouts:
   - label: Lily's Notes
     details: |
