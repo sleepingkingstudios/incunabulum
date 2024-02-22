@@ -14,9 +14,25 @@ characters:
   - name: Belak
     slug: belak
     details: |
-      Belak discovered the corrupted tree beneath the Sunless Citadel and sought to use its power, in the process releasing the twig blight onto the Sapphire Coast. He also co-opted the goblins, and slew and reanimated the adventurers from Oakhurst as wooden guardians.
+      Belak discovered the corrupted tree beneath the Sunless Citadel and sought to use its power, in the process releasing the twig blights onto the Sapphire Coast. He also co-opted the goblins, and slew and reanimated the adventurers from Oakhurst as wooden guardians.
+  - name: Karakas
+    slug: karakas
+    details: |
+      Karakas was part of the missing adventuring party in the Sunless Citadel.
+  - name: Madame Hucrele
+    slug: madame-hucrele
+    details: |
+      Madame Hucrele hired Aoife and Lily to find her son and daughter in the Sunless Citadel, or to return their signet rings.
+  - name: Sharwyn Hucrele
+    slug: sharwyn-hucrele
+    details: |
+      Sharwyn was part of the missing adventuring party in the Sunless Citadel. Like Sir Bradford, she was one of the wooden guardians at the heart of the Citadel.
   - name: Sir Bradford
     slug: sir-bradford
     details: |
-      Sir Bradford was one of the wooden guardians at the heart of the Sunless Citadel.
+      Sir Bradford was the leader of the missing adventuring party in the Sunless Citadel. He was discovered as one of the wooden guardians at the heart of the Citadel, guarding the Gulthias Tree for Belak.
+  - name: Talgen Hucrele
+    slug: talgen-hucrele
+    details: |
+      Talgen was part of the missing adventuring party in the Sunless Citadel. He was slain by the hobgoblin chief.
 ---

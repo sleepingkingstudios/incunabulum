@@ -64,4 +64,4 @@
 {% endfor %}
 {% endif %}
 
-{% include pages/campaign-organizations-page/breadcrumbs.md %}
+{% include pages/characters/breadcrumbs.md %}

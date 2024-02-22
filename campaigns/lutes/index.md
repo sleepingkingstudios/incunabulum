@@ -28,7 +28,7 @@ See Also: [Characters In The Sapphire Coast]({{site.baseurl}}/campaigns/lutes/ch
 
 ### Adventures
 
-See Also: [Adventure Timeline]({{site.baseurl}}/campaigns/wellspring/adventures)
+See Also: [Adventure Timeline]({{site.baseurl}}/campaigns/lutes/adventures)
 
 {% include pages/campaign/adventures-list.md omake=false %}
 
