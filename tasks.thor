@@ -64,9 +64,10 @@ module Incunabulum
       def generate_slug(string)
         return if string.nil?
 
-        tools
-          .string_tools
-          .underscore(string)
+        string
+          .sub(/\AThe /, '')
+          .gsub(/[^A-Za-z _-]/, '')
+          .then { |str| tools.string_tools.underscore(str) }
           .tr(' ', '_')
           .tr('_', '-')
       end
@@ -152,6 +153,59 @@ module Incunabulum
           'campaigns',
           campaign,
           'characters',
+          "#{slug}.md"
+        ]
+          .then { |ary| File.join(*ary) }
+      end
+    end
+
+    class GenerateLocation < Task
+      include Generate
+
+      namespace 'generate'
+
+      desc 'location NAME', 'Generates a location for a campaign'
+      option 'campaign', required: !ENV.key?('CAMPAIGN')
+      option 'dry_run',  type: :boolean
+      option 'location', required: true
+      def location(name)
+        campaign = options.fetch(:campaign, ENV['CAMPAIGN'])
+        location = options.fetch(:location)
+        slug     = generate_slug(name)
+
+        generate_item(
+          campaign: campaign,
+          location: location,
+          name:     name,
+          slug:     slug
+        )
+      end
+
+      private
+
+      def generate_item(campaign:, location:, name:, slug:)
+        filepath = item_path(campaign: campaign, location: location, slug: slug)
+        data     = {
+          campaign: campaign,
+          name:     name,
+          slug:     slug
+        }
+
+        if name.start_with?('The ')
+          data = data.merge(heading: "the-#{slug}")
+        end
+
+        data = data.merge(location: location)
+
+        generate_file(filepath, **data)
+      end
+
+      def item_path(campaign:, slug:, location: nil)
+        [
+          'collections',
+          '_locations',
+          campaign,
+          generate_slug(location),
           "#{slug}.md"
         ]
           .then { |ary| File.join(*ary) }

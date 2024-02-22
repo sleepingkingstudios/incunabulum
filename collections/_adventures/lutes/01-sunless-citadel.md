@@ -35,4 +35,8 @@ characters:
     slug: talgen-hucrele
     details: |
       Talgen was part of the missing adventuring party in the Sunless Citadel. He was slain by the hobgoblin chief.
+  - name: Yusdrayl
+    slug: yusdrayl
+    details: |
+      Yusdrayl was the chief of the kobolds in the Sunless Citadel. She negotiated with Aoife and Lily to allow passage in return for driving out the goblins deeper in the ruins, and if possible the return of the clan's "secret weapon", the baby dragon Calcryx. Aoife adopted the dragon instead, naming her Aurora.
 ---
