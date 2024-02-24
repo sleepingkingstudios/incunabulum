@@ -39,10 +39,16 @@ The Sapphire Coast, the Kingdom of Amaranth, and all of the surrounding nations 
 ### Summer 2258
 
 7 Dragon
-: Aoife leaves Jewel for the town of Oakhurst, renowned for its midsummer music festival. Along the way, she meets the mysterious investigator Lily, who accompanies her on her journey.
+: [The Sunless Citadel]({{site.baseurl}}/campaigns/lutes/adventures/sunless-citadel): Aoife leaves Jewel for the town of Oakhurst, renowned for its midsummer music festival. Along the way, she meets the mysterious investigator Lily, who accompanies her on her journey.
 
 9 Dragon
-: Aoife and Lily arrive in Oakhurst.
+: [The Sunless Citadel]({{site.baseurl}}/campaigns/lutes/adventures/sunless-citadel): Aoife and Lily arrive in Oakhurst and meet the ranger Biren.
+
+10 Dragon
+: [The Sunless Citadel]({{site.baseurl}}/campaigns/lutes/adventures/sunless-citadel): The party is recruited to find the missing adventurers Sharwen and Talgen Hucrele, and depart for the Sunless Citadel. Their camp is attacked by twig and needle blights.
+
+11-13 Dragon
+: [The Sunless Citadel]({{site.baseurl}}/campaigns/lutes/adventures/sunless-citadel): The party venture into the Sunless Citadel. They battle spiders, skeletons and blights, negotiate with kobolds and goblins, and discover the twisted experiments of Belak the mad druid in the depths below before battling Belak and his wooden thralls.
 
 14 Dragon
 : Aoife and Lily leave Oakhurst to return to Jewel.

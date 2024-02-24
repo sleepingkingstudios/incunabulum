@@ -52,7 +52,7 @@ The fertile Lapis river valley is the heart of the Sapphire Coast. Centered on t
 
 The town of Oakhurst lies on the western trade road to the rest of the Kingdom of Amaranth, approximately two days' ride west of Jewel. It sits roughly on the boundary between the Lapis river plain and the rough country leading up to the Giant's Wall mountains. [The Sunless Citadel](#the-sunless-citadel) lies roughly a half day's travel southwest through rough country.
 
-Notable locals include Mayor Vurnor Leng, the half-elven constable Felosial, dwarf blacksmith Rurik Lutgehr, and Garon, the proprietor of the Ol' Boar Inn.
+Oakhurst is best known for its midsummer music festival, which brings bards and performers from across the Sapphire Coast and even from distant Amaranth. Notable locals include Mayor Vurnor Leng, the half-elven constable Felosial, dwarf blacksmith Rurik Lutgehr, and Garon, the proprietor of the Ol' Boar Inn.
 
 {% include pages/campaign-geography-page/district.md label="Oakhurst" location="oakhurst" %}
 
