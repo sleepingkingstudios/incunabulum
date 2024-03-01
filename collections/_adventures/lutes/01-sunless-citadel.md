@@ -58,23 +58,23 @@ characters:
       Yusdrayl was the chief of the kobolds in the Sunless Citadel. She negotiated with Aoife and Lily to allow passage in return for driving out the goblins deeper in the ruins, and if possible the return of the clan's "secret weapon", the baby dragon Calcryx. Aoife adopted the dragon instead, naming her Aurora.
 ---
 
-> Date: [7 Dragon]({{site.baseurl}}/campaigns/lutes/adventures#summer-2258)
+> Date: [7 Phoenix]({{site.baseurl}}/campaigns/lutes/adventures#spring-2258)
 
 Aoife leaves Jewel for the town of Oakhurst, famed for its music festival celebrating the summer solstice. At a tavern midway through the journey, she hears a storyteller recite the tale of the Sunless Citadel, a ruined fortress ruled by the cruel Goblin King and the home of mysterious dark creatures.
 
 Aoife also encounters Lily, a private investigator with flame-red hair who is searching for the source of the mysterious tree creatures that have previously attacked Aoife outside of Jewel. The two agree to combine forces, and Aoife joins Lily in her rented carriage for the remainder of the journey.
 
-> Date: [9 Dragon]({{site.baseurl}}/campaigns/lutes/adventures#summer-2258)
+> Date: [9 Phoenix]({{site.baseurl}}/campaigns/lutes/adventures#spring-2258)
 
 Aoife and Lily arrive in Oakhurst, with many visitors already gathered for the festival. Rumors tell of goblin raids and auctions of strange magical fruit, as well as complaints of stolen cattle vanished into the brush. The pair also made the acquaintance of Biren, a half-elven ranger with a wolf companion and limited patience for civilization; he makes the trip every year to the music festical.
 
-> Date: [10 Dragon]({{site.baseurl}}/campaigns/lutes/adventures#summer-2258)
+> Date: [10 Phoenix]({{site.baseurl}}/campaigns/lutes/adventures#spring-2258)
 
 Aoife and Lily ask questions around town regarding the Sunless Citadel. Garon, the barkeep of the Ol' Boar Inn, has heard stories of the place, but believes most of them to be wild exaggerations. He recalls that a paladin was asking questions about the Citadel about a month ago; before that, the last person to take much interest was a very odd man with a giant frog, some twelve years back.
 
 Meanwhile, the proprietor of the general store, one Madame Hucrele, asks Aoife and Lily to find her missing adult son and daughter Talgen and Sharwyn, who formed an adventuring party with a ranger and a visiting paladin and left for the Sunless Citadel a month prior. Aoife, Lily, and Biren agree to investigate the citadel together, and set out for it that afternoon. Making camp in the hills, they are attacked by a swarm of blights, including several that fire razor-sharp needles.
 
-> Date: [11 Dragon]({{site.baseurl}}/campaigns/lutes/adventures#summer-2258)
+> Date: [11 Phoenix]({{site.baseurl}}/campaigns/lutes/adventures#spring-2258)
 
 Aoife, Lily, and Biren arrive at the edge of a great chasm in the hills, lined with old fire pits and leaning or fallen pillars. A rope still hanging from one pillar gave access to the chasm, terminating at a crumbling staircase that lead down into the depths. While descending, they were attacked by giant wolf spiders, but managed to drive them off.
 
@@ -88,7 +88,7 @@ At the conclusion of negotiations, Meepo escorted the party to the edge of kobol
 
 Wounded and wearied, Aoife, Lily and Biren found and fortified an empty chamber to make camp for the night.
 
-> Date: [12 Dragon]({{site.baseurl}}/campaigns/lutes/adventures#summer-2258)
+> Date: [12 Phoenix]({{site.baseurl}}/campaigns/lutes/adventures#spring-2258)
 
 As dawn rose on the surface, Aoife, Lily and Biren continued their expedition, striking for the first time into goblin territory. They freed a small stockade of prisoners, including three kobolds and the gnome Irky Timbers, who offered the party healing in gratitude for the rescue. Irky had also picked up some secrets from the goblins during her captivity. Apparently, the goblins were led by a human named Belak, a druid with a frog companion. Belak forced the goblins to cultivate the twig blights and to sell magical apples to the townsfolk, further spreading the blight via their seeds.
 
@@ -104,7 +104,7 @@ Venturing deeper into the caverns, the party found twisted laboratories where Be
 
 After another battle with a fiery serpent, the party elected to fall back and lick their wounds.
 
-> Date: [13 Dragon]({{site.baseurl}}/campaigns/lutes/adventures#summer-2258)
+> Date: [13 Phoenix]({{site.baseurl}}/campaigns/lutes/adventures#spring-2258)
 
 As promised, the goblins had departed the Citadel overnight - but treacherously, stole both Garrick's lost lute and Aoife's own, after the bard left both for safekeeping in the goblins' own strongbox. Torn between pursuing the thieves and continuing their task, the party elected to finish their exploration and confront the mad druid Belak.
 
@@ -118,6 +118,6 @@ Before exiting the citadel, however, Aoife had one more piece of business. Retur
 
 With Belak's mad plan foiled and the missing adventurers found, the party returned to town to catch the tail end of the midsummer festival. In Oakhurst, Biren parted ways with Aoife and Lily, preferring a more solitary (and dragon-free life in the wilds) of the Sapphire Coast. Aoife and Lily spend some of their collected treasure on adventuring gear. To Aoife's fury, she was forced to purchase back her own lute. She did receive a clue as to the fate of Garrick's materwork - it had already been purchased by a very rude merchant from Jewel, apparently as a gift for his daughter.
 
-> Date: [14 Dragon]({{site.baseurl}}/campaigns/lutes/adventures#summer-2258)
+> Date: [14 Phoenix]({{site.baseurl}}/campaigns/lutes/adventures#spring-2258)
 
 Aoife and Lily are awakened at dawn to a clamor outside, as the town's militia hastily attempts to drive off an "attacking" white dragon. Aoife is able to calm the dragon, but is very politely asked to leave Oakhurst and not return with the magical flying apex predator. Having avoided attention, Lily purchases a wagon large enough to hide Aurora, and the new trio set off east toward Jewel, on the trail of the stolen lute once more.
