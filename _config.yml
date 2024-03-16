@@ -28,8 +28,12 @@ defaults:
     layout: 'page'
     title: 'Incunabulum'
 exclude:
+  - .git
   - Gemfile
   - Gemfile.lock
   - README.md
   - Rakefile
+  - /vendor
 markdown: kramdown
+repository: sleepingkingstudios/incunabulum
+theme: jekyll-theme-primer

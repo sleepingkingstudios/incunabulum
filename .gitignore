@@ -1,4 +1,5 @@
 # Ignore generated site files.
+.sass-cache
 /_site
 
 # Ignore local configuration files.
