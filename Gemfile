@@ -2,8 +2,15 @@
 
 source 'https://rubygems.org'
 
-gem 'github-pages', group: :jekyll_plugins
-gem 'jekyll-docs'
-gem 'webrick'
+gem 'jekyll', '~> 3.9'
 
-ruby '2.7.4'
+# See https://github.com/pages-themes/primer
+gem 'jekyll-theme-primer', '~> 0.6'
+
+# Use Kramdown to parse GFM-dialect Markdown.
+gem 'kramdown-parser-gfm', '~> 1.1'
+
+# Use Webrick as local content server.
+gem 'webrick', '~> 1.8'
+
+ruby '2.7.8'

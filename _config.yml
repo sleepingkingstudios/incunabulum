@@ -33,3 +33,4 @@ exclude:
   - README.md
   - Rakefile
 markdown: kramdown
+theme: jekyll-theme-primer
