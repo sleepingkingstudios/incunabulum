@@ -13,3 +13,5 @@ adventures:
     details: |
       Brother Nocturne is the leader of the mysterious Black Sepulchre.
 ---
+
+"Brother Nocturne" was revealed to be a Sherem warlock, or someone posing as one. He identified himself as an agent of the Sixth Tower, preparing for an event called the Great Conjunction.

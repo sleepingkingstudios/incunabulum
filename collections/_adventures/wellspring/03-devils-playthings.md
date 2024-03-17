@@ -5,12 +5,12 @@ omake: false
 name: Devils Are The Playthings Of Idle Hands
 slug: devils-playthings
 summary: |
-  The Silverstone Players uncover a sinister cult of demon summoners gathering beneath Wellspring, causing chaos in the markets and unleashing monsters below.
+  A charismatic warlock has gathered the idle sons and daughters of Wellspring's elite into a demon-summoning cult, causing chaos in the marketplace and unleashing monsters in the ruins below. The Silverstone Players battle imps and carrion crawlers, investigate and hob-nob with some of the city's aristocracy, and infiltrate one of the cult's Dark Revels on the night of the summer solstice. While the Black Sepulchre is dissolved, their leader (a Sherem warlock) escapes via treachery.
 characters:
   - name: Brother Nocturne
     slug: brother-nocturne
     details: |
-      The leader of the mysterious Black Sepulchre.
+      The leader of the mysterious Black Sepulchre, revealed to be a Sherem warlock.
   - name: Cyrene
     slug: cyrene
     details: |
@@ -18,20 +18,27 @@ characters:
   - name: Katerine Descoteaux
     slug: katerine-descoteaux
     details: |
-      Katerine met Mo for tea, inviting her to a meeting of the Black Sepulchre.
+      Katerine met Mo for tea, inviting her to a meeting of the Black Sepulchre. Following the cult's dissolution, she "took a long holiday in the countryside" to "convalesce from an illness".
   - name: Morana Durthane
     slug: morana-durthane
     details: |
       An archivist at the Delver's Guild, she discovered a leather-bound journal belonging to Verity's long lost brother Honor.
-  - name: Richart Montaigne
-    slug: richart-montaigne
-    details: |
-      Richart was a fellow attendant of the Dark Revel, and bonded with Py over alchemy and brassware.
 organizations:
   - name: The Black Sepulchre
     slug: black-sepulchre
     details: |
-      A shadowy group of demon summoners gathering beneath Wellspring.
+      A shadowy group of demon summoners gathering beneath Wellspring, revealed to be the idle sons and daughters of Wellspring's elite lead by a Sherem warlock.
+outcome: |
+  The Black Sepulchre was exposed and disbanded, although the Sherem warlock responsible escaped after an ominous warning.
+contacts:
+  - name: Richart Montaigne
+    slug: richart-montaigne
+    details: |
+      Richart was a fellow attendant of the Dark Revel, and bonded with Py over alchemy and brassware.
+discoveries: |
+  - The Black Sepulchre was lead by a Sherem mage who identified himself as an agent of the Sixth Tower.
+  - He was preparing in Wellspring for an event he referred to as the Great Conjunction.
+  - Behind the chapel in the fortress ruins was a staircase leading downward - a mystery, since both Whirlwind Tours and the Delver's Guild believed there to be nothing of import beneath the fortress.
 ---
 
 > Date: [24 Serpent]({{site.baseurl}}/campaigns/wellspring/adventures#summer-2258)
@@ -118,4 +125,30 @@ The Silverstone Players then descended into the ruins amongst the gaggle of blac
 
 At the heart of the ruins, the party came across the same conjured wall as before, with the would-be cultists gathered before it in apparent anticipation. Abruptly, the wall vanished in a burst of fire, revealing Brother Nocturne standing behind. "Welcome, brothers and sisters!" he intoned. "The Dark Revel begins!"
 
-To be concluded...
+<!-- Session Break -->
+
+The ruins chapel was in surprisingly good shape, with a vaulted ceiling over chipped and battered pews and a bare stone altar. At the back of the chapel, a partially collapse was patched with another conjured wall, while candles decorated the pews or floated in the air of their own accord. At the center of the chapel a circle was inscribed on the floor in glowing runes.
+
+Brother Nocturne opened the revel with an invocation of the solstice. He then pointedly invited any new members to introduce themselves, conjuring a fireball above Roya's head when no one stepped forward. Thinking quickly, the party said they had been invited by a "Sister Raven", while Mo truthfully stated she was invited by Katerine as "Sister Midnight".
+
+With the Silverstone Players not taking the bait, Brother Nocturne then asked the members of the Black Sepulchre to gather around the summoning circle. While Mo attempted to analyze the circle, Py looked around for other magical implements and Verity focused on Brother Nocturne himself. She heard traces of a hidden Sherem accent and caught a glimpse of glowing tattoos, but it was clear that the man was putting on a performance for the rest of the Sepulchre. She attempted to read his thoughts, catching a brief sense of amusement before her spell was interrupted by a vision of an infernal visage. As she was evicted from his mind, he clearly heard the words "so precocious, little interloper". The redirected magic also caught the hem of her cloak aflame.
+
+As the ritual continued, the circle began to whirl with sulfurous smoke filled with glowing embers, and a hulking, winged figure began to take shape. Trying to interrupt the summoning, Mo cast a suggestion on one of Katerine's friends, making her believe that Brother Nocturne would be overwhelmed by the demon. Terrified, she attempted to rush across and beg him to end the ritual, but stumbled across the edge of the circle and was burned on her leg. Roya attempted to cast off her cloak and turn invisible, but botched the timing, drawing more attention. Undeterred, she sneaked around behind Brother Nocturne while Mo conjured an image of her own demon in the circle.
+
+Unfortunately, as an invisible Roya tried to club Brother Nocturne with the butt of her dagger, a glowing shield of hellfire appeared in front of her and intercepted the attack, burning and revealing her. Mo stepped forward and accused Brother Nocturne of being a charlatan, to which the latter responded with amusement: "Shall we have a duel, then? Your 'demon' against mine?" As he spoke, the summoning ritual completed, and a hulking spined demon stood in the center of the circle. Fearing a battle between warlocks, most of the Black Sepulchre fled, with only a handful standing behind their leader.
+
+As the Silverstone Players hesitated, still hoping for a peaceful resolution, Brother Nocturne took advantage of their indecision and sealed off the entrance with another conjured wall, before dissolving the summoning circle with a snap of his fingers and freeing the demon trapped inside. As he did so, Mo noticed that Brother Nocturne shimmered for a moment, as if under an illusion, while the four remaining cultists drew long daggers from their robes.
+
+Fearing they were trapped with a superior foe, Roya took the initiative and loosed an arrow at the cult leader. Mo launched a volley of magical bolts at Brother Nocturne, while Verity laid a curse of ill fortune on leader and cultists alike. No disc of hellfire protected the cult leader this time, and he stumbled as the attacks hit home. He quickly recovered, however, and retaliated with a ravening beam of infernal energy that nearly struck Mo down with a single blow. The cultists advanced and struck at Verity with their long daggers, wounding her, while the demon fired its spikes at Roya. Py managed to catch both Brother Nocturne and several of the cultists in a spray of a caustic concoction.
+
+From here the battle devolved into a wild melee, with Py and Roya engaging the demon in close combat with wrench and rapier while Verity fought the cultists. Mo retreated into invisibility, and Brother Nocturne quickly did likewise before lulling both Verity and the remaining cultists into an enchanted sleep. In response, Mo struck down the cult leader with a ray of fire that burned clear through him. Badly wounded, the demon tried to disengage but Roya ran it through with her blade, and it vanished in a cloud of sulfurous smoke.
+
+To the group's horror, the real Brother Nocturne then revealed himself with mocking applause. He cast off his cult leader guide, revealing himself as a Sherem warlock, and claimed affiliation with the Sixth Tower. The entire cult had been a way to pass the time while preparing for an event called the Great Conjunction, and he thanked the Silverstone Players for tying off the loose ends. In return for that "favor", he warned the Silverstone Players not to be found standing over the corpse of his double, who was the son of the deputy captain of the City Guard. With a final promise that he'd keep an eye on them, "Brother Nocturne" vanished in a burst of flame, as did the walls sealing the chapel both from the rest of the ruins and whatever lies below.
+
+At this final revelation, the Silverstone Players fled, escaping the ruined fortress just as the City Guard began to arrive in force. They split up and returned to the theater by different routes, discarding their cloaks and masks. Before bunkering down for the night, Mo sends his familiar to Cyrene with a message asking for a meeting with her and her mentor.
+
+> Date: [16 Dragon]({{site.baseurl}}/campaigns/wellspring/adventures#summer-2258)
+
+The following morning, the Silverstone Players were awoken by Cyrene's arrival. Unfortunately, her mentor Ngozi was on a contemplative retreat, and she had little information to share. She was unaware of an event called the Great Conjunction, although "lesser" conjunctions happened semi-frequently, both between the moons in the sky and between the planes of existence. Likewise, she was confused by the claim of a sixth Tower - Cyrene was quite sure from Ngozi's stories that there were only five Towers in Sherem, each a great city in its own right.
+
+Mo also sent a note to Katerine, asking after her following the dissolution of the Black Sepulchre. Unfortunately, she received a response from Katerine's household, saying that the young lady "took a long holiday in the countryside" to "convalesce from an illness".
