@@ -18,7 +18,7 @@ adventures:
   - name: Devils Are The Playthings Of Idle Hands
     slug: devils-playthings
     details: |
-      Katerine met Mo for tea, inviting her to a meeting of the Black Sepulchre.
+      Katerine met Mo for tea, inviting her to a meeting of the Black Sepulchre. Following the cult's dissolution, she "took a long holiday in the countryside" to "convalesce from an illness".
 ---
 
 A young noblewoman who fancies herself a budding sorceress. At a fundraiser hosted by Dame Savindar, Katerine hinted at mysterious meetings for those interested in the "darker" aspects of magic. She later revealed to Mo her membership in the Black Sepulchre.
