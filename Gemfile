@@ -2,7 +2,7 @@
 
 source 'https://rubygems.org'
 
-gem 'jekyll', '~> 3.9'
+gem 'jekyll', '~> 4.3'
 
 # See https://github.com/pages-themes/primer
 gem 'jekyll-theme-primer', '~> 0.6'

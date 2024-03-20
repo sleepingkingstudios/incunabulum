@@ -1,4 +1,5 @@
 # Ignore generated site files.
+.jekyll-cache
 .sass-cache
 /_site
 
