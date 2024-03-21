@@ -16,6 +16,11 @@ campaign: wellspring
   - [The Feywild](#the-feywild)
   - [The Shadowfell](#the-shadowfell)
   - [The Celestial Realms](#the-celestial-realms)
+  - [The Infernal Realms](#the-infernal-realms)
+  - [The Astral Plane](#the-astral-plane)
+  - [Material Planes](#material-planes)
+  - [Minor Planes](#minor-planes)
+  - [Pockets And Demiplanes](#pockets-and-demiplanes)
 - [The Runic Gates](#the-runic-gates)
 - [The Well of Divinity](#the-well-of-divinity)
 
@@ -83,6 +88,11 @@ The Watchers of the Stars in particular claim a deep connection between the plan
 - [The Feywild](#the-feywild)
 - [The Shadowfell](#the-shadowfell)
 - [The Celestial Realms](#the-celestial-realms)
+- [The Infernal Realms](#the-infernal-realms)
+- [The Astral Plane](#the-astral-plane)
+- [Material Planes](#material-planes)
+- [Minor Planes](#minor-planes)
+- [Pockets And Demiplanes](#pockets-and-demiplanes)
 
 [Back to Top](#)
 
