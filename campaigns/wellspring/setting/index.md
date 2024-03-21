@@ -32,6 +32,12 @@ The history of Wellspring, the Kingdom of Lothian, and the world of Myriad.
 
 As a city built atop a raw mana font of immense power, magic is central to Wellspring and its people, its history and its future.
 
+- [Magicite Crystals]({{site.baseurl}}/campaigns/wellspring/setting/magic#magicite-crystals)
+- [The Four Arcana]({{site.baseurl}}/campaigns/wellspring/setting/magic#the-four-arcana)
+- [The Planes of Existence]({{site.baseurl}}/campaigns/wellspring/setting/magic#the-planes-of-existence)
+- [The Runic Gates]({{site.baseurl}}/campaigns/wellspring/setting/magic#the-runic-gates)
+- [The Well of Divinity]({{site.baseurl}}/campaigns/wellspring/setting/magic#the-well-of-divinity)
+
 ## [Peoples]({{site.baseurl}}/campaigns/wellspring/setting/peoples)
 
 Wellspring is a nexus for the arcane, and draws people from not just the region but from distant lands and even other planes of existence.

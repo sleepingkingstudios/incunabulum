@@ -7,6 +7,7 @@ campaign: wellspring
 
 - [Calendar](#calendar)
 - [Celestial Bodies](#celestial-bodies)
+  - [Conjunctions](#conjunctions)
 
 ## Calendar
 
@@ -67,6 +68,12 @@ Mortis
 
 Primus
 : A small orb of mottled green, brown, blue, and white that is said to be connected to the [Nature arcanum](./magic#the-nature-arcanum) and to the Feywild. Primus has a chaotic and unpredictable cycle, and can speed across the sky or linger in place. It can also be close or distant, and can pass either in front of or behind Virtus and Malus, but it is never both distant and close in the sky to Mortis.
+
+[Back To Top](#)
+
+### Conjunctions
+
+A celestial conjunction occurs when two of the moons near one another in the sky. Virtus and Malus are always in opposition, so conjunctions are governed by the motion of the moons Mortis and Primus. Steady, inevitable Mortis approaches either Virtus or Malus alternately once every three tendays, although the different orbital planes mean an actual eclipse is rare. In contrast, the moon Primus flits about the sky unpredictably, sometimes close and swift, sometimes slow and distant (but never slow and distant in proximity to Malus). Conjunctions between Primus and another moon are difficult to predict more than a few tendays in advance.
 
 [Back To Top](#)
 

@@ -37,3 +37,4 @@ exclude:
 markdown: kramdown
 repository: sleepingkingstudios/incunabulum
 theme: jekyll-theme-primer
+title: Incunabulum
