@@ -38,3 +38,4 @@ markdown: kramdown
 repository: sleepingkingstudios/incunabulum
 theme: jekyll-theme-primer
 title: Incunabulum
+description: A repository of game design and development for Sleeping King Studios.
