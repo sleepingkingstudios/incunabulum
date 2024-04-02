@@ -72,7 +72,7 @@ After the events of [A Volatile Tail](./a-volatile-tail), the party takes a few 
 : [Devils Are The Playthings Of Idle Hands](./devils-playthings): The Dark Revel is here, and the Silverstone Players confront the Black Sepulchre and their leader, the Sherem agent Brother Nocturne. While most of the cultists flee, they battle Brother Nocturne, a handful of his disciples, and a summoned demon. While the Black Sepulchre is no more, the Sherem warlock escapes via deception and treachery.
 
 16 Dragon
-: [Devils Are The Playthings Of Idle Hands](./devils-playthings): After the Dark Revel, the Silverstone Players lie low and ask their contacts for more information on what they had discovered.
+: [Chaos In The Catacombs](./chaos-catacombs): The battle against the Black Sepulchre breached a forgotten catacomb beneath Wellspring, and the hungry dead now rise. At the prompting of the Delver's Guild, the Silverstone Players are hired to delve into the old tombs and stem the tide of the dead.
 
 ---
 
