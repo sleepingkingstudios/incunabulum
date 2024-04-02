@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/sleepingkingstudios/jekyll-theme-primer
-  revision: 7459f4d2e94f92e098d3d888046182e046549ed9
+  revision: 75ee02fbc36b7d3455934142e949a99c5728d040
   branch: main
   specs:
     jekyll-theme-primer (0.6.0)
