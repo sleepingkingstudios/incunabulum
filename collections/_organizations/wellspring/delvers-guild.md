@@ -18,10 +18,16 @@ services: |
 
   Finally, the guild provides training and mentorship for a fee. Members can learn how to use new weapons or to fight in heavier armor, or to develop proficiency in new skills, tools, or languages. More advanced abilities can also be trained, but this often requires a task or favor rather than gold.
 child_organizations:
+  - name: The Bright Band
+    slug: bright-band
+    heading: the-bright-band
+    details: |
+      An inexperienced group of delvers who volunteered to fight the undead in the catacombs beneath the market.
   - name: The Company of the Black Lantern
+    slug: company-black-lantern
     heading: the-company-of-the-black-lantern
     details: |
-      A group of eight humans, half-elves and halflings, who wear a signature uniform of black leather. They tend to favor jobs that require investigation, stealth, and subtlety over brute force.
+      A group of six humans, half-elves and halflings, who wear a signature uniform of black leather. They tend to favor jobs that require investigation, stealth, and subtlety over brute force.
   - name: The Runewardens
     heading: the-runewardens
     details: |
@@ -53,6 +59,10 @@ adventures:
     slug: silverstone-theater-mystery
     details:
       A fundraiser for the Delver's Guild gave the party an opportunity to speak with Dame Savindar about her former companion, Vistra Silverstone. They also met two fellow bands of adventurers - the Company of the Black Lantern, and the Runewardens.
+  - name: Chaos In The Catacombs
+    slug: chaos-catacombs
+    details: |
+      The Delver's Guild recruits the Silverstone Players to battle against the ghouls in the catacombs.
 ---
 
 Founded by a group of retired adventurers, including Dame Savindar, the Delver’s Guild is a cross between a trade union and a mutual aid society for those who take on the dangers of the deeps beneath the city. The Guild provides a single point of contact between the notoriously unpredictable adventurers and the institutions of Wellspring.
