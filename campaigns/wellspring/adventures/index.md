@@ -5,6 +5,11 @@ campaign: wellspring
 
 # Adventures
 
+- [Adventures](#adventures)
+- [Omake](#omake)
+- [Mysteries](#mysteries)
+- [Timeline](#timeline)
+
 The adventures of the Silverstone Players: Mo, Py, Roya, and Verity, in and beneath the [City of Wellspring]({{site.baseurl}}/campaigns/wellspring/setting).
 
 {% include pages/campaign/adventures-list.md omake=false %}
@@ -12,6 +17,30 @@ The adventures of the Silverstone Players: Mo, Py, Roya, and Verity, in and bene
 ## Omake
 
 {% include pages/campaign/adventures-list.md omake=true %}
+
+## Mysteries
+
+Ongoing or future events, investigations, and recurring adversaries.
+
+### Memory Magic
+
+The catacombs beneath Wellspring were somehow forgotten for fifty years. Even written records vanished, as if the eyes would simply skip over the page.
+
+### The Great Conjunction
+
+A mysterious event awaited by the Sixth Tower. As the moons, the planes and the arcana of magic are all linked, a conjunction could be the source of tremendous power.
+
+### The Missing Brother
+
+Verity's parents, both adventurers, went missing when she was young, and her brother disappeared shortly after as he searched for them. Verity recently was gifted a book that appears to be her lost brother's journal.
+
+### The Staff Of The Magister
+
+Vistra Silverstone's workshop beneath the theater held her notes on a lost Sherem artifact, one of the Staffs of the Magister. One piece was hidden in the workshop, one was said to be somewhere "below" Wellspring, and the third in the Free Cities, where Vistra herself is said to have disappeared.
+
+### The Sixth Tower
+
+A secretive group of Sherem diabolists who survived a failed plot to conquer the other Sherem Towers. One of their number formed the Black Sepulchre in Wellspring, and said he was awaiting an event called the Great Conjunction.
 
 ## Timeline
 
@@ -72,7 +101,10 @@ After the events of [A Volatile Tail](./a-volatile-tail), the party takes a few 
 : [Devils Are The Playthings Of Idle Hands](./devils-playthings): The Dark Revel is here, and the Silverstone Players confront the Black Sepulchre and their leader, the Sherem agent Brother Nocturne. While most of the cultists flee, they battle Brother Nocturne, a handful of his disciples, and a summoned demon. While the Black Sepulchre is no more, the Sherem warlock escapes via deception and treachery.
 
 16 Dragon
-: [Chaos In The Catacombs](./chaos-catacombs): The battle against the Black Sepulchre breached a forgotten catacomb beneath Wellspring, and the hungry dead now rise. At the prompting of the Delver's Guild, the Silverstone Players are hired to delve into the old tombs and stem the tide of the dead.
+: [Chaos In The Catacombs](./chaos-catacombs): The battle against the Black Sepulchre breached a forgotten catacomb beneath Wellspring, and the hungry dead now rise. At the prompting of the Delver's Guild, the Silverstone Players are hired to delve into the old tombs and stem the tide of the dead. After a brutal battle against ghouls, ghasts, and a Sherem war golem, they clear some of the catacombs and rescue another group of delvers, the Bright Blades.
+
+25 Dragon
+: [Devils Are The Playthings Of Idle Hands](./devils-playthings): Cyrene's Sherem mentor, the astrologian Ngozi, asks to speak with the Silverstone Players and shares with them some of Sherem's dark history.
 
 ---
 

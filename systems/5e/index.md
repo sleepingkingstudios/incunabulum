@@ -28,6 +28,10 @@ Rules and mechanics for using skills and ability checks.
 
 New spells and mechanics for casting spells.
 
+### [Equipment]({{site.baseurl}}/systems/5e/equipment)
+
+Armor, weapons, tools, and adventuring staples.
+
 ## Running The Game
 
 ### [Downtime]({{site.baseurl}}/systems/5e/downtime)

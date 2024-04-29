@@ -60,15 +60,15 @@ Relationships
 {% if member.slug -%}
 - [{{ member.name | strip }}]({{site.baseurl}}/campaigns/{{page.campaign}}/characters/{{member.slug}}){% if member.former %} (Former){% endif %}{% if member.details %}: {{ member.details | strip }}{% endif %}
 {%- else -%}
-- {{ member.name | strip }}{% if member.former %} (Former){% endif %}{% if member.details %}: {{ member.details | strip }}{% endif %}
+- **{{ member.name | strip }}**{% if member.former %} (Former){% endif %}{% if member.details %}: {{ member.details | strip }}{% endif %}
 {%- endif -%}
 {% endfor %}
 {% endif %}
 
-{% if include.organization.adventures %}
+{% if organization.adventures %}
 ## Adventures
 
-{% for adventure in include.organization.adventures %}
+{% for adventure in organization.adventures %}
 {% if adventure.slug %}
 [{{ adventure.name }}]({{site.baseurl}}/campaigns/{{page.campaign}}/adventures/{{adventure.slug}})
 : {{ adventure.details }}

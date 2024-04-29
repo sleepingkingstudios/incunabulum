@@ -93,7 +93,7 @@ Simple magic items such as scrolls and potions can also be crafted in this manne
 
 True enchanted items are rare, expensive, and require time and effort to find and obtain.
 
-The time required for finding a buyer or a seller for a magic item depends on the tier of the magic item and whether it is a minor or a major item (see [Classifying Magic Items]({{site.baseurl}}/campaigns/wellspring/magic-items#classifying-magic-items)). As a shorthand, use the following table, based on which Magic Item Table the item appears at in the *Dungeon Master's Guide*.
+The time required for finding a buyer or a seller for a magic item depends on the tier of the magic item and whether it is a minor or a major item (see [Classifying Magic Items]({{site.baseurl}}/campaigns/wellspring/mechanics/magic-items#classifying-magic-items)). As a shorthand, use the following table, based on which Magic Item Table the item appears at in the *Dungeon Master's Guide*.
 
 | **Magic Item Table** | **Tier** | **Type** | **Time Required** |
 | A | 1 | Minor | 1 Tenday |

@@ -33,7 +33,7 @@ rewards: |
   - The party was paid 600 gp total for recovering the alchemist's fire.
     - The party spent 400 gp to resolve the theater's legal woes. Regent Silverstone will repay those funds at a later point.
     - Total reward was 50 gp each.
-  - The party discovered a small cache of magicite gathered by the ratlings.
+  - The party discovered a small cache of magicite gathered by the ratlings, with four small magicite crystals apiece.
 ---
 
 > Date: [24 Centaur]({{site.baseurl}}/campaigns/wellspring/adventures#spring-2258)

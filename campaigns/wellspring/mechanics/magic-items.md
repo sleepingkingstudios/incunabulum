@@ -1,5 +1,6 @@
 ---
 name: Magic Items
+campaign: wellspring
 ---
 
 # Magic Items
