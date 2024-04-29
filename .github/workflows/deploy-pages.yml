@@ -44,7 +44,7 @@ jobs:
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
 
-        if: github.ref == 'refs/heads/master'
+        if: ${{ github.ref == 'refs/heads/main' }}
 
   deploy:
     environment:
@@ -55,7 +55,7 @@ jobs:
 
     needs: build
 
-    if: github.ref == 'refs/heads/master'
+    if: ${{ github.ref == 'refs/heads/main' }}
 
     steps:
       - name: Deploy to GitHub Pages
