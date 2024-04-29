@@ -5,6 +5,11 @@ campaign: wellspring
 
 # Adventures
 
+- [Adventures](#adventures)
+- [Omake](#omake)
+- [Mysteries](#mysteries)
+- [Timeline](#timeline)
+
 The adventures of the Silverstone Players: Mo, Py, Roya, and Verity, in and beneath the [City of Wellspring]({{site.baseurl}}/campaigns/wellspring/setting).
 
 {% include pages/campaign/adventures-list.md omake=false %}
@@ -12,6 +17,30 @@ The adventures of the Silverstone Players: Mo, Py, Roya, and Verity, in and bene
 ## Omake
 
 {% include pages/campaign/adventures-list.md omake=true %}
+
+## Mysteries
+
+Ongoing or future events, investigations, and recurring adversaries.
+
+### Memory Magic
+
+The catacombs beneath Wellspring were somehow forgotten for fifty years. Even written records vanished, as if the eyes would simply skip over the page.
+
+### The Great Conjunction
+
+A mysterious event awaited by the Sixth Tower. As the moons, the planes and the arcana of magic are all linked, a conjunction could be the source of tremendous power.
+
+### The Missing Brother
+
+Verity's parents, both adventurers, went missing when she was young, and her brother disappeared shortly after as he searched for them. Verity recently was gifted a book that appears to be her lost brother's journal.
+
+### The Staff Of The Magister
+
+Vistra Silverstone's workshop beneath the theater held her notes on a lost Sherem artifact, one of the Staffs of the Magister. One piece was hidden in the workshop, one was said to be somewhere "below" Wellspring, and the third in the Free Cities, where Vistra herself is said to have disappeared.
+
+### The Sixth Tower
+
+A secretive group of Sherem diabolists who survived a failed plot to conquer the other Sherem Towers. One of their number formed the Black Sepulchre in Wellspring, and said he was awaiting an event called the Great Conjunction.
 
 ## Timeline
 
