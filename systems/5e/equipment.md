@@ -160,7 +160,7 @@ The following tables and descriptions replace the "Armor" table on page 145 of t
       <td>Str 13</td>
       <td>--</td>
       <td>1d6 bludgeoning</td>
-      <td>Finesse, light</td>
+      <td>--</td>
     </tr>
     <tr>
       <td><a href="#tower-shield">Tower Shield</a></td>

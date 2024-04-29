@@ -75,13 +75,15 @@ Here are some sample downtime activities for earning gold and their correspondin
 
 A character with a proficiency in artisan's tools can craft mundane items during their downtime.
 
-Calculate the character's crafting progress using the above formula for calculating gold earned during downtime. The player can spend up to that amount of gold in tools and materials in order to craft items worth twice the amount invested. The character can craft multiple items in a downtime period, up to the calculated total value. If the desired item costs more than the value crafting progress for that period, the progress is banked and the character can continue working on it in a future downtime.
+Calculate the character's crafting progress using the above formula for calculating gold earned during downtime, and then doubling the result. The character can craft multiple items in a downtime period, up to the calculated total value. If the desired item costs more than the value crafting progress for that period, the progress is banked and the character can continue working on it in a future downtime.
+
+The doubling applies *only* for items crafted for personal or group use; use the Earning Gold rules for crafting items for sale, representing the additional overhead of finding and dealing with customers.
 
 > *Example*
 >
-> Aunhild is a Dwarven forge cleric with a +3 proficiency bonus and a total +10 bonus to crafting checks. She rolls a 10, for a base result of 20 gold, multiplied by 2 for her proficiency bonus, giving a final value of 40 gold. She can spend up to 40 gold in order to craft items worth up to 80 gold total. She could craft any of the following:
+> Aunhild is a Dwarven forge cleric with a +3 proficiency bonus and a total +10 bonus to crafting checks. She rolls a 10, for a base result of 20 gold, multiplied by 2 for her proficiency bonus, giving a final value of 40 gold. She can craft items worth up to 80 gold total. She could craft any of the following:
 >
-> - A suit of scale mail (75 gp) and a mace (5 gp)
+> - A mail shirt (50 gp) and a greataxe (30 gp)
 > - Eight shortswords (10 gp each)
 > - 40 daggers (2 gp each)
 >
