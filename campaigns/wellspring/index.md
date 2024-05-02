@@ -8,13 +8,15 @@ campaign: wellspring
 The adventures of the Silverstone Players: Mo, Py, Roya, and Verity, in and beneath the city of Wellspring.
 
 - [Campaign Log](#campaign-log)
-  - [Characters](#characters)
   - [Adventures](#adventures)
+  - [Characters](#characters)
+  - [Organizations](#organizations)
 - [Setting](#setting)
   - [Daily Life](#daily-life)
   - [History](#history)
   - [Geography](#geography)
   - [Magic](#magic)
+  - [Organizations](#organizations)
   - [Peoples](#peoples)
   - [Religion](#religion)
 - [Mechanics](#mechanics)
@@ -26,19 +28,23 @@ The adventures of the Silverstone Players: Mo, Py, Roya, and Verity, in and bene
 
 ## Campaign Log
 
-### Characters
+### Adventures
 
-See Also: [Characters In Wellspring]({{site.baseurl}}/campaigns/wellspring/characters)
+See Also: [Mysteries]({{site.baseurl}}/campaigns/wellspring/adventures#mysteries), [Timeline]({{site.baseurl}}/campaigns/wellspring/adventures#timeline)
+
+{% include pages/campaign/adventures-list.md omake=false %}
+
+### [Characters]({{site.baseurl}}/campaigns/wellspring/characters)
 
 {% include pages/campaign/characters-list.md %}
 
 [Back To Top](#)
 
-### Adventures
+### [Organizations]({{site.baseurl}}/campaigns/wellspring/organizations)
 
-See Also: [Adventure Timeline]({{site.baseurl}}/campaigns/wellspring/adventures)
+Wellspring is home to a number of organizations, both open and illicit.
 
-{% include pages/campaign/adventures-list.md omake=false %}
+[Back To Top](#)
 
 #### Omake
 
@@ -77,6 +83,12 @@ As a city built atop a raw mana font of immense power, magic is central to Wells
 - [The Planes of Existence]({{site.baseurl}}/campaigns/wellspring/setting/magic#the-planes-of-existence)
 - [The Runic Gates]({{site.baseurl}}/campaigns/wellspring/setting/magic#the-runic-gates)
 - [The Well of Divinity]({{site.baseurl}}/campaigns/wellspring/setting/magic#the-well-of-divinity)
+
+[Back To Top](#)
+
+### [Organizations]({{site.baseurl}}/campaigns/wellspring/setting/organizations)
+
+Wellspring is home to a number of organizations, both open and illicit.
 
 [Back To Top](#)
 
