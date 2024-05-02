@@ -133,7 +133,7 @@ Training a proficiency in this way requires a month or three tendays. These do n
 
 #### Training Feats
 
-At the DM's discretion, a character may attempt to train a feat during downtime. Typically, training a feat requires three to six months, or nine to eighteen tendays.
+At the DM's discretion, a character may attempt to train a feat during downtime. Typically, training a feat requires two to four months, or six to twelve tendays.
 
 ### Socializing
 
