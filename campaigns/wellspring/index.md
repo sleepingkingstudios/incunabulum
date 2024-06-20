@@ -3,9 +3,11 @@ title: Wellspring, City Of Adventure
 campaign: wellspring
 ---
 
-# Wellspring, City Of Adventure
+{% assign campaign = site.campaigns | where: "slug", page.campaign | first %}
 
-The adventures of the Silverstone Players: Mo, Py, Roya, and Verity, in and beneath the city of Wellspring.
+# {{ campaign.name }}
+
+{{ campaign.content }}
 
 - [Campaign Log](#campaign-log)
   - [Adventures](#adventures)
@@ -64,7 +66,7 @@ Information on the day to day life in Wellspring, including [calendars]({{site.b
 
 ### [Geography]({{site.baseurl}}/campaigns/wellspring/setting/geography)
 
-Locations in the [city of Wellspring](#city-of-wellspring) and surrounding regions.
+Locations in the [city of Wellspring]({{site.baseurl}}/campaigns/wellspring/setting/geography/city-of-wellspring) and surrounding regions.
 
 [Back To Top](#)
 
@@ -89,6 +91,12 @@ As a city built atop a raw mana font of immense power, magic is central to Wells
 ### [Organizations]({{site.baseurl}}/campaigns/wellspring/setting/organizations)
 
 Wellspring is home to a number of organizations, both open and illicit.
+
+[Back To Top](#)
+
+### [Organizations]({{site.baseurl}}/campaigns/wellspring/setting/organizations)
+
+Wellspring is host to numerous organizations, from warrior societies to criminal houses to secretive magical brotherhoods.
 
 [Back To Top](#)
 

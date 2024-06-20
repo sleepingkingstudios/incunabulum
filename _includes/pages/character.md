@@ -22,12 +22,27 @@ Lineage
 : {{ character.lineage }}
 {% endif %}
 
+{% if character.location_link %}
+Location
+: [{{ character.location_link.name }}]({{site.baseurl}}/campaigns/{{character.campaign}}/setting/geography{{character.location_link.path}})
+{% elsif character.location %}
+Location
+: {{ character.location }}
+{% endif %}
+
 {% if character.description %}
 Description
 : {{ character.description }}
 {% endif %}
 
 {{ character.content }}
+
+{% for callout in character.callouts %}
+> *{{ callout.label }}*
+>
+> {{ callout.details }}
+
+{% endfor %}
 
 {% if character.characters or character.organizations %}
 ## Affiliations
@@ -52,7 +67,7 @@ Description
 
 {% for organization in character.organizations %}
 {% if organization.slug %}
-[{{ organization.name }}]({{site.baseurl}}/campaigns/{{page.campaign}}/organizations/{{organization.slug}})
+[{{ organization.name }}]({{site.baseurl}}/campaigns/{{page.campaign}}/setting/organizations/{{organization.slug}})
 : {{ organization.details }}
 {% else %}
 {{ organization.name }}

@@ -64,4 +64,4 @@
 {% endfor %}
 {% endif %}
 
-{% include pages/organizations/breadcrumbs.md %}
+{% include pages/characters/breadcrumbs.md %}
