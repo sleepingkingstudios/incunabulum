@@ -29,13 +29,12 @@ module Incunabulum
       def ensure_directory(filepath)
         dirname = File.dirname(filepath)
 
-        return if File.exists?(dirname)
+        return if File.exist?(dirname)
 
         say "Generating directory #{dirname}"
 
         FileUtils.mkdir(dirname) unless dry_run?
       end
-
 
       def generate_file(filepath, text = nil, **data)
         ensure_directory(filepath)
@@ -45,6 +44,16 @@ module Incunabulum
         say_file(filepath, contents)
 
         File.write(filepath, contents) unless dry_run?
+      end
+
+      def generate_item(campaign:, name:, slug:, **)
+        filepath = File.join(
+          item_dir(campaign:, name:, slug:, **),
+          item_filename(campaign:, name:, slug:, **)
+        )
+        data     = item_data(campaign:, name:, slug:, **)
+
+        generate_file(filepath, **data)
       end
 
       def generate_markdown(text = nil, **data)
@@ -61,6 +70,17 @@ module Incunabulum
         markdown
       end
 
+      def generate_page(campaign:, name:, slug:, **)
+        filepath = File.join(
+          page_dir(campaign:, name:, slug:, **),
+          page_filename(campaign:, name:, slug:, **)
+        )
+        data     = page_data(campaign:, name:, slug:, **)
+        text     = page_text(campaign:, name:, slug:, **)
+
+        generate_file(filepath, text, **data)
+      end
+
       def generate_slug(string)
         return if string.nil?
 
@@ -72,6 +92,52 @@ module Incunabulum
           .tr('_', '-')
       end
 
+      def item_data(campaign:, name:, slug:, **)
+        {
+          campaign: campaign,
+          title:    name,
+          slug:     slug
+        }
+      end
+
+      def item_filename(slug:, **)
+        "#{slug}.md"
+      end
+
+      def item_dir(campaign:, slug:, **)
+        [
+          'collections',
+          "_#{tools.string_tools.pluralize(type)}",
+          campaign
+        ]
+          .then { |ary| File.join(*ary) }
+      end
+
+      def page_data(campaign:, name:, slug:, **)
+        {
+          campaign: campaign,
+          title:    name,
+          slug:     slug
+        }
+      end
+
+      def page_dir(campaign:, slug:, **)
+        [
+          'campaigns',
+          campaign,
+          "#{tools.string_tools.pluralize(type)}"
+        ]
+          .then { |ary| File.join(*ary) }
+      end
+
+      def page_filename(slug:, **)
+        "#{slug}.md"
+      end
+
+      def page_text(**)
+        "{% include pages/#{type}.md %}"
+      end
+
       def say_file(filepath, contents)
         message = +"Generating file #{filepath} with contents:"
         message << "\n"
@@ -79,6 +145,64 @@ module Incunabulum
         message << "\n"
 
         say message
+      end
+    end
+
+    class GenerateAdventure < Task
+      include Generate
+
+      namespace 'generate'
+
+      desc 'adventure NAME', 'Generates an adventure for a campaign'
+      option 'campaign', required: !ENV.key?('CAMPAIGN')
+      option 'dry_run',  type: :boolean
+      option 'index',    type: :numeric, required: true
+      option 'omake',    type: :boolean
+      def adventure(name)
+        campaign = options.fetch(:campaign, ENV['CAMPAIGN'])
+        index    = options.fetch(:index)
+        omake    = options.fetch(:omake, false)
+        slug     = generate_slug(name)
+
+        generate_item(
+          campaign: campaign,
+          index:    index,
+          omake:    omake,
+          name:     name,
+          slug:     slug
+        )
+
+        generate_page(
+          campaign: campaign,
+          index:    index,
+          omake:    omake,
+          name:     name,
+          slug:     slug
+        )
+      end
+
+      private
+
+      def item_data(campaign:, index:, name:, omake:, slug:, **)
+        {
+          campaign:,
+          campaign_index: index,
+          omake:,
+          name:,
+          slug:
+        }
+      end
+
+      def item_filename(index:, omake:, slug:, **)
+        if omake
+          "x#{index}-#{slug}.md"
+        else
+          format('%02i-%s.md', index, slug)
+        end
+      end
+
+      def type
+        'adventure'
       end
     end
 
@@ -112,50 +236,20 @@ module Incunabulum
 
       private
 
-      def generate_item(campaign:, name:, slug:, location: nil)
-        filepath = item_path(campaign: campaign, location: location, slug: slug)
-        data     = {
-          campaign: campaign,
-          name:     name,
-          slug:     slug
-        }
-        data     = data.merge(location: location) if location
+      def item_data(campaign:, name:, slug:, location: nil, **)
+        return super if location.nil?
 
-        generate_file(filepath, **data)
+        super.merge(location: location)
       end
 
-      def generate_page(campaign:, name:, slug:)
-        filepath = page_path(campaign: campaign, slug: slug)
-        data     = {
-          campaign: campaign,
-          title:    name,
-          slug:     slug
-        }
-        text     = '{% include pages/character.md %}'
+      def item_dir(campaign:, slug:, location: nil, **)
+        return super if location.nil?
 
-        generate_file(filepath, text, **data)
+        File.join(super, generate_slug(location))
       end
 
-      def item_path(campaign:, slug:, location: nil)
-        [
-          'collections',
-          '_characters',
-          campaign,
-          generate_slug(location),
-          "#{slug}.md"
-        ]
-          .compact
-          .then { |ary| File.join(*ary) }
-      end
-
-      def page_path(campaign:, slug:)
-        [
-          'campaigns',
-          campaign,
-          'characters',
-          "#{slug}.md"
-        ]
-          .then { |ary| File.join(*ary) }
+      def type
+        'character'
       end
     end
 
@@ -167,10 +261,10 @@ module Incunabulum
       desc 'location NAME', 'Generates a location for a campaign'
       option 'campaign', required: !ENV.key?('CAMPAIGN')
       option 'dry_run',  type: :boolean
-      option 'location', required: true
+      option 'location'
       def location(name)
         campaign = options.fetch(:campaign, ENV['CAMPAIGN'])
-        location = options.fetch(:location)
+        location = options[:location]
         slug     = generate_slug(name)
 
         generate_item(
@@ -183,32 +277,28 @@ module Incunabulum
 
       private
 
-      def generate_item(campaign:, location:, name:, slug:)
-        filepath = item_path(campaign: campaign, location: location, slug: slug)
-        data     = {
-          campaign: campaign,
-          name:     name,
-          slug:     slug
-        }
+      def item_data(campaign:, name:, slug:, location: nil, **)
+        data = super
+
+        if location
+          data = data.merge(location: location)
+        end
 
         if name.start_with?('The ')
           data = data.merge(heading: "the-#{slug}")
         end
 
-        data = data.merge(location: location)
-
-        generate_file(filepath, **data)
+        data
       end
 
-      def item_path(campaign:, slug:, location: nil)
-        [
-          'collections',
-          '_locations',
-          campaign,
-          generate_slug(location),
-          "#{slug}.md"
-        ]
-          .then { |ary| File.join(*ary) }
+      def item_dir(campaign:, slug:, location: nil, **)
+        return super if location.nil?
+
+        File.join(super, generate_slug(location))
+      end
+
+      def type
+        'location'
       end
     end
   end
