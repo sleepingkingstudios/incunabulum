@@ -36,6 +36,10 @@ See Also: [Mysteries]({{site.baseurl}}/campaigns/wellspring/adventures#mysteries
 
 {% include pages/campaign/adventures-list.md omake=false %}
 
+#### Omake
+
+{% include pages/campaign/adventures-list.md omake=true %}
+
 ### [Characters]({{site.baseurl}}/campaigns/wellspring/characters)
 
 {% include pages/campaign/characters-list.md %}
@@ -47,10 +51,6 @@ See Also: [Mysteries]({{site.baseurl}}/campaigns/wellspring/adventures#mysteries
 Wellspring is home to a number of organizations, both open and illicit.
 
 [Back To Top](#)
-
-#### Omake
-
-{% include pages/campaign/adventures-list.md omake=true %}
 
 [Back To Top](#)
 
