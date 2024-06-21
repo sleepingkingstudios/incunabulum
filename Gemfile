@@ -12,6 +12,12 @@ gem 'jekyll-theme-primer',
 # Use Kramdown to parse GFM-dialect Markdown.
 gem 'kramdown-parser-gfm', '~> 1.1'
 
+# Generic tools library.
+gem 'sleeping_king_studios-tools', '~> 1.1'
+
+# Use Thor for command-line interface.
+gem 'thor'
+
 # Use Webrick as local content server.
 gem 'webrick', '~> 1.8'
 
