@@ -28,10 +28,12 @@ Generally speaking, downtime activities fall into one of the following categorie
 
 - [Earning Gold](#earning-gold)
   - [Crafting Items](#crafting-items)
+  - [Copying Spells Into A Spellbook](#copying-spells-into-a-spellbook)
 - [Trading Magic Items](#trading-magic-items)
 - [Training](#training)
   - [Training Proficiencies](#training-proficiencies)
   - [Training Feats](#training-feats)
+  - [Training Ability Scores](#training-ability-scores)
 - [Socializing](#socializing)
   - [Carousing](#carousing)
   - [With A Contact](#with-a-contact)
@@ -52,6 +54,8 @@ Round the check result down to the nearest 5, then multiply it based on the char
 | +3                    | x2             |
 | +4                    | x5             |
 | +5                    | x50            |
+
+A character can offset the cost of [Training](#training) by spending downtime on earning gold or reducing expenses. Gold earned to offset training expenses is doubled, but cannot exceed the cost of training.
 
 > *Example*
 >
@@ -89,26 +93,38 @@ The doubling applies *only* for items crafted for personal or group use; use the
 >
 > Alternatively, she could make up to 80 gp progress on a breastplate (400 gp). She would need to craft the remaining 320 gp in subsequent downtime.
 
-Simple magic items such as scrolls and potions can also be crafted in this manner.
+Simple magic items such as scrolls and potions can also be crafted in this manner. Crafting a potion requires proficiency in Alchemist's Tools, while crafting a spell scroll requires the ability to cast the spell and proficiency in Calligrapher's Tools.
+
+#### Copying Spells Into A Spellbook
+
+A wizard or character with the Spellbook class feature can spend downtime to offset the cost of copying spells from another spellbook or scroll. Use the rules for crafting items to determine progress in gold pieces for one tenday of downtime. This represents spending the time to find discounted ingredients or trading labor or favors for materials instead of gold.
+
+Spells can be copied outside of downtime for the usual cost in time and gold, per the rules on page 114 of the *Player's Handbook*.
 
 ### Trading Magic Items
 
 True enchanted items are rare, expensive, and require time and effort to find and obtain.
 
-The time required for finding a buyer or a seller for a magic item depends on the tier of the magic item and whether it is a minor or a major item (see [Classifying Magic Items]({{site.baseurl}}/campaigns/wellspring/mechanics/magic-items#classifying-magic-items)). As a shorthand, use the following table, based on which Magic Item Table the item appears at in the *Dungeon Master's Guide*.
+The time required for finding a buyer or a seller for a magic item depends on the tier of the magic item and whether it is a minor or a major item (see [Classifying Magic Items](#classifying-magic-items)). For items listed in the *Dungeon Master's Guide*, use the Table name from the *Dungeon Master's Guide* (Tables A through I). For other items, look up the item by the type and rarity:
 
-| **Magic Item Table** | **Tier** | **Type** | **Time Required** |
-| A | 1 | Minor | 1 Tenday |
-| B | 1 | Minor | 1 Tenday |
-| C | 1 | Minor | 1 Tenday |
-| D | 2 | Minor | 2 Tendays |
-| E | 3 | Minor | 3 Tendays |
-| F | 1 | Major | 2 Tendays |
-| G | 2 | Major | 4 Tendays |
-| H | 3 | Major | 6 Tendays |
-| I | 3 | Major | 8 Tendays |
+| **Table** | **Tier** | **Type** | **Rarity** | **Time Required** | **Treasure Points** |
+| A | 1 | Minor *or* Major | Common    | 1 Tenday  |  4 |
+| B | 1 | Minor            | Uncommon  | 1 Tenday  |  4 |
+| C | 1 | Minor            | Rare      | 1 Tenday  |  4 |
+| D | 2 | Minor            | Very Rare | 2 Tendays |  8 |
+| E | 3 | Minor            | Legendary | 3 Tendays |  8 |
+| F | 1 | Major            | Uncommon  | 2 Tendays |  8 |
+| G | 2 | Major            | Rare      | 4 Tendays | 10 |
+| H | 3 | Major            | Very Rare | 6 Tendays | 10 |
+| I | 3 | Major            | Legendary | 8 Tendays | 12 |
 
 This time can be reduced by having membership and a high reputation with certain organizations, or by having a positive relationship with or spending a favor from a relevant contact.
+
+In order to trade for a magic item, the party must be of the corresponding tier per the table above. In addition, for games using a Treasure Points mechanic (such as the Shared Campaign rules in Appendix A of *Xanathar's Guide to Everything* or the [magicite in Wellspring]({{site.baseurl}}/campaigns/wellspring/mechanics/magic-items)), the cost of a magic item is listed in the table.
+
+#### Classifying Magic Items
+
+{% include contents/5e/classifying-magic-items.md heading_level=5 %}
 
 ### Training
 
@@ -134,6 +150,10 @@ Training a proficiency in this way requires a month or three tendays. These do n
 #### Training Feats
 
 At the DM's discretion, a character may attempt to train a feat during downtime. Typically, training a feat requires two to four months, or six to twelve tendays.
+
+#### Training Ability Scores
+
+At the DM's discretion, a character can spend training time to improve one of their ability scores. Improving an ability score requires two months or six tendays to increase the score by +2, up to a maximum of 12.
 
 ### Socializing
 
