@@ -8,6 +8,10 @@ campaign: wellspring
 - [Calendar](#calendar)
 - [Celestial Bodies](#celestial-bodies)
   - [Conjunctions](#conjunctions)
+- [Education](#education)
+- [Information](#information)
+  - [Broadsheets](#broadsheets)
+  - [Other Publications](#other-publications)
 
 ## Calendar
 
@@ -73,8 +77,64 @@ Primus
 
 ### Conjunctions
 
-A celestial conjunction occurs when two of the moons near one another in the sky. Virtus and Malus are always in opposition, so conjunctions are governed by the motion of the moons Mortis and Primus. Steady, inevitable Mortis approaches either Virtus or Malus alternately once every three tendays, although the different orbital planes mean an actual eclipse is rare. In contrast, the moon Primus flits about the sky unpredictably, sometimes close and swift, sometimes slow and distant (but never slow and distant in proximity to Malus). Conjunctions between Primus and another moon are difficult to predict more than a few tendays in advance.
+A celestial conjunction occurs when two of the moons near one another in the sky. Virtus and Malus are always in opposition, so conjunctions are governed by the motion of the moons Mortis and Primus. Steady, inevitable Mortis approaches either Virtus or Malus alternately once every three tendays, although the different orbital planes mean an actual eclipse is rare. In contrast, the moon Primus flits about the sky unpredictably, sometimes close and swift, sometimes slow and distant (but never slow and distant in proximity to Mortis). Conjunctions between Primus and another moon are difficult to predict more than a few tendays in advance.
 
 [Back To Top](#)
+
+<!-- ## Commerce -->
+
+<!-- ### Currency -->
+
+## Education
+
+As with many things in Wellspring, education is deeply stratified by class. Members of the nobility and rich merchantry hire scholars to tutor their charges in mathematics, literature, and philosophy, while the working class relies on on-the-job learning, apprenticeships, and (for those fortunate enough) formal training from a guild or trade union. That being said, basic literacy and numeracy is nearly universal in Wellspring, thanks to youth education sponsored by the city and the Merchantry Association (since educated workers are more productive). Several religious organizations and societies also run schools or classes, with the most prominent being the followers of The Librarian, patron of knowledge, writing, and learning.
+
+General training for delvers is available through the Delver's Guild, although it tends to focus more on martial talents and practical skills (how to spot an unstable cavern, how to track an opponent underground, how to identify common monsters). Religious education is typically handled by members of that faith. For those wishing to study arcane magic, the Arcane Order offers classes for those with the necessary coin. While the order teaches up to a hundred students at a time, perhaps only a dozen of those will have the required talent and dedication to master more than a few cantrips and perhaps a handful of basic spells. Further studies are done through mentorship and apprenticing.
+
+[Back To Top](#)
+
+<!-- ### Literacy -->
+
+<!-- ## Entertainment -->
+
+<!-- ## Industry -->
+
+## Information
+
+Information in Wellspring travels three ways: through official announcements, through published works, and through informal networks.
+
+Official announcements, such as warnings of a curfew due to an impending Upwelling, are distributed through a mix of publicly-funded criers and printed notices from fliers and posters to reserved space in the major broadsheets. The same criers are also hired for private news, announcements, and advertising; a busy intersection in the Market District might have several rival criers informing passersby about an increased tariff on imported hardwood, touting the latest headline from the *Wellspring Watchman* (read all about it!), and advertising House Greentea's Miracle Botanical Soap (guaranteed to cleanse even the worst stains from a delve).
+
+Conversely, informal networks in Wellspring are surprisingly efficient but disjoint. The gossip networks of the idle rich in the Noble Quarter rarely touch on the same topics as woodworkers in the Trades District gathering over pints of ale. Certain organizations are less prone to informal sharing of knowledge: members of the Arcane Order are somewhat infamously secretive about their research, while the Merchantry Association jealously guards its "trade secrets"; finding information from either often requires a trusted contact and a favor or two. The Delver's Guild, in contrast, is deliberately structured to encourage the free flow of knowledge about the city and the dangers that lie below it.
+
+[Back To Top](#)
+
+### Broadsheets
+
+There are three major broadsheets in Wellspring, each catering to a different segment of the city.
+
+The Wellspring Watchman
+: The *Wellspring Watchman* is the oldest paper in the city, with almost 20 years of publication. The *Watchman* mixes some serious reporting and investigative work with "light-hearted" lifestyle pieces on the city's wealthy and their habits. The Watchman has a decided pro-establishment slant, with close ties to the city government and the Merchantry Association, and persistent rumors that certain inconvenient stories get vetoed by the powers that be.
+: The editor for the *Watchman* is Myria Quill, female tallfolk halfling. Myria has the stern editor act down pat, even when she has to stand on her desk to look you in the eye, and has close connections with all sorts of powerful figures in Wellspring. Writers for the Watchman are something of an elite clique, but the pay is excellent if you tolerate the level of "editorial discretion".
+
+The Tradesman's Chronicle
+: The *Tradesman's Chronicle* is a scrappy alternative to the Watchman, founded a few years back with an emphasis on stories important to the city's lower classes. The *Chronicle* is in a perpetual state of financial struggle, and has had to pause publication a number of times due to lack of funds.
+: The *Chronicle's* editor is Alberich Torunn, male dwarf and long-time Wellspring resident. A crotchety fellow with spectacles and perpetual ink stains from running the printing press, Alberich makes his living printing flyers and the occasional book, with the *Chronicle* being a labor of love. Unfortunately, writing for the *Chronicle* doesn't pay very well.
+
+The Half-Copper Herald
+: The *Half-Copper Herald* is a tabloid paper with a mix of genuine interest stories for the city's underclass, lurid stories about the city's more prominent citizens, and wild sightings of everything from terrifying monsters haunting the Undercity to lost members of the Four Immortals spotted having tea in the Green Grotto. To be taken with an entire shaker of salt, but popular in lower districts and among the Delver's Guild (in Wellspring, some of the monster sightings are real).
+: The editor of the *Herald* is Gustav Carlson, male human and a recent migrant from the Free Cities. No one is quite sure if his manic affect is real or staged, but he pays good money for "tips" and even better for stories (usually on commission, although he will sometimes make a lower offer for unsolicited submissions).
+
+[Back To Top](#)
+
+### Other Publications
+
+The *Wellspring Watchman* has its own printing presses, but other publications rely on a handful of independent printers in the Trades District. In addition to the broadsheets, these presses produce innumerable posters, fliers, and advertisements of all kinds, as well as political and religious pamphlets. Actual bound books are still a relative rarity, but stiched chapbooks are popular across Wellspring society, frequently featuring fanciful and lurid depictions of delvers in implausible romantic entanglements and deeply impractical armor. The most popular such author is the pseudonymous "Silver Vixen", whose depictions of the monsters and Great Chasm suggest some personal familiarity with adventuring.
+
+[Back To Top](#)
+
+<!-- ## Travel -->
+
+<!-- ## Weather -->
 
 {% include pages/campaign-setting-page/breadcrumbs.md %}
