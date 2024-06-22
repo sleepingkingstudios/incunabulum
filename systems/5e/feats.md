@@ -18,6 +18,8 @@ A Bloodline is a special feat that is (usually) only available at 1st level. Des
 | [Bloodline of Fire](#bloodline-of-fire) | The power of the flame flows through your veins. |
 | [Celestial Bloodline](#celestial-bloodline) | You are blessed with the heritage of the heavens. |
 | [Draconic Bloodline](#draconic-bloodline) | The blood of dragons runs through your veins. |
+| [Fey Bloodline](#fey-bloodline) | The magic of the Feywild runs through your veins. |
+| [Manifest Wings](#manifest-wings) | Your empowered bloodline grants you temporary flight. |
 
 ## Talents
 
@@ -38,6 +40,7 @@ Talents represent a particular gift the character has for an area of cunning, mi
 | [Open The Third Eye](#open-the-third-eye) | You have a talent for divination magic. |
 | [Signature Spell](#signature-spell) | You have mastered a single spell. |
 | [Spell Artist](#spell-artist) | You can shape the manifestations of your spells at will. |
+| [Steel Defender: Cannon](#steel-defender-cannon) | You can upgrade your Steel Defender with a cannon attack. |
 
 ### Bloodline of Air
 
@@ -111,6 +114,21 @@ Additionally, choose one of the following benefits:
 You have deepened your studies as an artificer. You learn one artificer infusion. Whenever you gain a level, you can replace the artificer infusion you learned with a new one.
 
 You can select this feat multiple times. Each time you do so, you learn one additional artificer infusion. In addition, every second time you take this feat, your maximum number of infused items increases by 1.
+
+### Fey Bloodline
+
+*Bloodline*
+
+The magic of the Feywild runs through your veins. You gain the following benefits:
+
+- Increase your Dexterity, Wisdom, or Charisma score by +2, to a maximum of 20, **or** increase two o fthose scores by +1 each, to a maximum of 20.
+- You learn one cantrip of your choice from the druid spell list. Wisdom or Charisma is your spellcasting ability for that cantrip.
+
+Additionally, choose one of the following benefits:
+
+- *Bark Skin*: Your skin has a tough, bark-like cover over vital areas. When you aren't wearing armor, your base AC is 13 + your Dexterity modifier. You can use your natural armor to determine your AC if the armor you wear would leave you with a lower AC. A shield's benefits apply as normal while you use your natural armor.
+- *Dance Of Light And Shadow*: You can cast *silent image* at will, without expending a spell slot or material components.
+- *Fey Magic:* You learn the *misty step* spell and one 1st-level spell your your choice. The 1st-level spell must be from the Divination or Enchantment school of magic. You can cast each of these spells without expending a spell slot. Once you cast either of these spells in this way, you can't cast that spell in this way again until you finish a long rest. You can also cast these spells using spell slots you have of the appropriate level.
 
 ### Gift of the Artificer
 
@@ -192,7 +210,16 @@ You can select this feat multiple times. Each time you do so, you gain a spell s
 
 <!-- ### Infernal Bloodline -->
 
-<!-- ### Manifest Wings -->
+### Manifest Wings
+
+*Prerequisites: Bloodline (Air, Celestial, Draconic, or Fey), level 5*
+
+You can call upon the magic inherent in your blood to manifest a set of temporary wings.
+
+- As a reaction when you fall, you can manifest wings to slow your descent to 60 feet per round for up to 1 minute. If you land before the effect ends, you take no falling damage and land on your feet, and the effect ends.
+- As an action, you can form a set of magical wings that grant you a flying speed equal to your movement speed for up to 1 minute. Once you have used the ability in this way, you cannot use the ability in this way again until you finish a short or long rest.
+
+The appearance of the wings depends on your bloodline. Celestial wings may resemble the wings of a dove or an eagle, while Draconic wings will resemble those of a dragon. Fey wings may appear insectile, like the wings of a moth or dragonfly. Air elemental wings might resemble clouds, or your entire body may instead be supported by an ethereal cloud or spinning tornado.
 
 ### Open The Third Eye
 
@@ -218,6 +245,16 @@ You can shape the manifestations of your spells at will. You gain the following 
 - You do not have stick to a particular theme for your spells (see [Customizing Spells](./spells#customizing-spells)), and can choose different effects for each spell cast.
 - You can attempt to make your spells invisible or inaudible; this requires a successful Performance check using your spellcasting ability for that spell, opposed by the target's Wisdom (Perception) check.
 - Any creature attempting to identify the spell or effect must succeed at an Intelligence (Arcana) check opposed by your Performance check using your spellcasting ability for that spell.
+
+### Steel Defender: Cannon
+
+*Prerequisites: Steel Defender feature, level 5*
+
+You have learned to copy the techniques of other artificers to improve your Steel Defender, granting it a potent attack. You gain the Eldritch Cannon feature as if you were a level 3 Artificer (see page 17 of *Tasha's Cauldron of Everything*), with the following changes:
+
+- Instead of creating a magical cannon, your Steel Defender is upgraded instead. The Defender retains its size and other game statistics.
+- Your Steel Defender must be within 5 feet of you to activate the ability, and the effect lasts for up to 1 hour or until the Defender is reduced to 0 hit points. You can dismiss the effect early as an action.
+- While the ability is active, you can spend a bonus action to fire the cannon if you are within 60 feet of the Steel Defender. As part of the same bonus action, you can direct the cannon to move up to half its speed.
 
 ---
 
