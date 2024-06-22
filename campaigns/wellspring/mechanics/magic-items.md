@@ -13,32 +13,11 @@ In contrast, trading magicite for enchanted items gives the character much more 
 
 ## Classifying Magic Items
 
-Magic items can be divided up based on two criteria:
-
-- The magic item's *rarity*, which can range from Common to Legendary.
-- Whether the item is a *minor* or a *major* magic item.
-
-Additionally, many magic items require *attunement*, which limits the number of such items a character can use.
-
-### Item Rarity
-
-Each magic item has a *rarity*. In ascending order, these are Common, Uncommon, Rare, Very Rare, and Legendary. (Artifacts are beyond the scope of these rules). As the item's rarity goes up, so does it's level of power, its gold value, and the difficulty of acquiring it.
-
-In the *Dungeon Master's Guide*, *Xanathar's Guide To Everything*, or *Tasha's Cauldron of Everything*, the rarity of each magic item is listed in the entry for that item.
-
-### Minor And Major Items
-
-Magic items are also divided into *minor* and *major* items. Minor items are often limited-use items such as potions or scrolls, or items with smaller or ancillary effects. Major items tend to have powerful and long-lasting benefits, such as magical weapons or armor. Generally speaking, even for items of the same rarity, minor items will be much easier to find and acquire.
-
-In the *Dungeon Master's Guide*, minor items are listed on Magic Item Tables A through E, while major items are on tables F through I.
-
-All of the Common items listed in *Xanathar's Guide to Everything* are minor items.
-
-In *Tasha's Cauldon of Everything*, all of the magic tattoos and the Prosthetic Limb item are minor items. All of the other non-artifact items listed are major items.
+{% include contents/5e/classifying-magic-items.md heading_level=3 %}
 
 ## Exchanging Magicite
 
-In Wellspring, recovered magicite can be exchanged for magic items, either by trading for an existing item or commissioning a new or custom item for the character. Both of these options take time to complete, and take place during a Downtime.
+In Wellspring, recovered magicite can be exchanged for magic items, either by trading for an existing item or commissioning a new or custom item for the character. Both of these options take time to complete, and take place during downtime. See the [Downtime rules]({{site.baseurl}}/systems/5e/downtime#trading-magic-items) for more information.
 
 Nearly all trades of magicite are done through one of Wellspring's major [organizations]({{site.baseurl}}/campaigns/wellspring/organizations), who have the resources and clout to organize and broker such exchanges.
 
