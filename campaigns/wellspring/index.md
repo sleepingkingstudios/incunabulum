@@ -12,7 +12,6 @@ campaign: wellspring
 - [Campaign Log](#campaign-log)
   - [Adventures](#adventures)
   - [Characters](#characters)
-  - [Organizations](#organizations)
 - [Setting](#setting)
   - [Daily Life](#daily-life)
   - [History](#history)
@@ -43,14 +42,6 @@ See Also: [Mysteries]({{site.baseurl}}/campaigns/wellspring/adventures#mysteries
 ### [Characters]({{site.baseurl}}/campaigns/wellspring/characters)
 
 {% include pages/campaign/characters-list.md %}
-
-[Back To Top](#)
-
-### [Organizations]({{site.baseurl}}/campaigns/wellspring/organizations)
-
-Wellspring is home to a number of organizations, both open and illicit.
-
-[Back To Top](#)
 
 [Back To Top](#)
 
@@ -91,12 +82,6 @@ As a city built atop a raw mana font of immense power, magic is central to Wells
 ### [Organizations]({{site.baseurl}}/campaigns/wellspring/setting/organizations)
 
 Wellspring is home to a number of organizations, both open and illicit.
-
-[Back To Top](#)
-
-### [Organizations]({{site.baseurl}}/campaigns/wellspring/setting/organizations)
-
-Wellspring is host to numerous organizations, from warrior societies to criminal houses to secretive magical brotherhoods.
 
 [Back To Top](#)
 

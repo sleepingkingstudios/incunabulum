@@ -23,4 +23,4 @@ adventures:
       The party met Marigold when investigating the Harfoot Syndicate.
 ---
 
-Marigold is the Silverstone Player's first (non-hostile) contact with the Harfood Syndicate; specifically, with House Greentea.
+Marigold is the Silverstone Player's first (non-hostile) contact with the Harfoot Syndicate; specifically, with House Greentea.
