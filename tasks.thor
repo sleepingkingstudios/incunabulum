@@ -237,9 +237,15 @@ module Incunabulum
       private
 
       def item_data(campaign:, name:, slug:, location: nil, **)
-        return super if location.nil?
+        data = {
+          campaign: campaign,
+          name:     name,
+          slug:     slug
+        }
 
-        super.merge(location: location)
+        return data if location.nil?
+
+        data.merge(location: location)
       end
 
       def item_dir(campaign:, slug:, location: nil, **)

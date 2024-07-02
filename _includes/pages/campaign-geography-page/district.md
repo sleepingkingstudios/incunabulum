@@ -35,5 +35,5 @@
 {% endfor %}
 
 {% if matching_characters.size == 0 and matching_locations.size == 0 %}
-[Back to Top](#)
+[Back To Top](#)
 {% endif %}
