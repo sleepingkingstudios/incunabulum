@@ -10,8 +10,14 @@ preview: |
 characters:
   - name: Lavinia Goldfound
     slug: lavinia-goldfound
+    type: contact
     details: |
       Lavinia has recently been tutoring Py in alchemy.
+  - name: Richart Montaigne
+    slug: richart-montaigne
+    type: contact
+    details: |
+      Richart met Py before the Dark Revel, and struck up an acquaintance based on a shared love of quality copperware.
 organizations:
   - name: The Silverstone Players
     slug: silverstone-players

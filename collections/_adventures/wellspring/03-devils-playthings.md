@@ -23,6 +23,10 @@ characters:
     slug: morana-durthane
     details: |
       An archivist at the Delver's Guild, she discovered a leather-bound journal belonging to Verity's long lost brother Honor.
+  - name: Richart Montaigne
+    slug: richart-montaigne
+    details: |
+      Richart was (briefly) a member of the Black Sepulchre, and met Py shortly before the Dark Revel.
 organizations:
   - name: The Black Sepulchre
     slug: black-sepulchre
