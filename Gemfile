@@ -21,4 +21,4 @@ gem 'thor'
 # Use Webrick as local content server.
 gem 'webrick', '~> 1.8'
 
-ruby '3.3.3'
+ruby '3.3.4'

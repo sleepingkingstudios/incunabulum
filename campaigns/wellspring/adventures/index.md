@@ -108,6 +108,18 @@ After the events of [A Volatile Tail](./a-volatile-tail), the party takes a few 
 25 Dragon
 : [Devils Are The Playthings Of Idle Hands](./devils-playthings): Cyrene's Sherem mentor, the astrologian Ngozi, asks to speak with the Silverstone Players and shares with them some of Sherem's dark history.
 
+### Autumn 2258
+
+10 Unicorn
+: [The Dream Lanterns](./dream-lanterns): Verity is approached to write a puff piece with a merchant's wife about a new magical toy, the Dream Lantern.
+
+11 Unicorn
+: [The Dream Lanterns](./dream-lanterns): The Silverstone Players canvass their contacts to investigate the mysterious Dream Lanterns.
+
+15 Unicorn
+: [The Dream Lanterns](./dream-lanterns): After Verity's article appears in the broadsheets, the Silverstone Players reach out to the Delver's Guild for more information on fairy magic, and are directed to the druidic circles in the Bronzewood.
+: ???: The Silverstone Players agree to escort a giant from a nearby community into the depths below Wellspring.
+
 ---
 
 [Back to Home]({{site.baseurl}}/)
