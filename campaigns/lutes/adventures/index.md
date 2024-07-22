@@ -53,7 +53,22 @@ The Sapphire Coast, the Kingdom of Amaranth, and all of the surrounding nations 
 
 15 Dragon
 : The Summer Solstice.
-: [Fire Serpent Pass]({{site.baseurl}}/campaigns/lutes/setting/geography#fire-serpent-pass) erupts, isolating the Sapphire Coast from the rest of the kingdom of Amaranth.
+: [Tremors In Glitter Gulch]({{site.baseurl}}/campaigns/lutes/adventures/tremors-in-glitter-gulch): [Fire Serpent Pass]({{site.baseurl}}/campaigns/lutes/setting/geography#fire-serpent-pass) erupts, isolating the Sapphire Coast from the rest of the kingdom of Amaranth.
+
+16 Dragon
+: [Tremors In Glitter Gulch]({{site.baseurl}}/campaigns/lutes/adventures/tremors-in-glitter-gulch): While traveling into the mountains, Aoife and Aurora are attacked by a swarm of blights.
+
+17 Dragon
+: [Tremors In Glitter Gulch]({{site.baseurl}}/campaigns/lutes/adventures/tremors-in-glitter-gulch): Aoife and Aurora arrive in Glitter Gulch, which is beseiged by fire snakes.
+
+18 Dragon
+: [Tremors In Glitter Gulch]({{site.baseurl}}/campaigns/lutes/adventures/tremors-in-glitter-gulch): Aoife, Aurora, and new friend "Granny" Audhild venture into the mines to rescue some missing miners, finding them trapped in an old dwarvish tomb. They battle flying elementals, animated armors and awakened dwarvish zombies.
+
+19 Dragon
+: [Tremors In Glitter Gulch]({{site.baseurl}}/campaigns/lutes/adventures/tremors-in-glitter-gulch): Aoife and Aurora help a trapped caravan escape Glitter Gulch, fighting fire snakes and a terrifying salamander. After, they join the caravan as it returns to Jewel.
+
+22 Dragon
+: [Tremors In Glitter Gulch]({{site.baseurl}}/campaigns/lutes/adventures/tremors-in-glitter-gulch): Returning to Jewel, Aoife meets with the head of the Deepstone Trading Company, one Madame Torgga.
 
 ### Autumn 2258
 
