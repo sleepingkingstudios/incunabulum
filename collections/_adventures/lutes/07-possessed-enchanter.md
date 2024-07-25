@@ -1,6 +1,6 @@
 ---
 campaign: lutes
-campaign_index: 6
+campaign_index: 7
 omake: false
 name: The Possessed Enchanter
 slug: possessed-enchanter

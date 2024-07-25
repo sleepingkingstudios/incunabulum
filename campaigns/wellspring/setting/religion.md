@@ -7,6 +7,7 @@ campaign: wellspring
 
 - [The Pantheon](#the-pantheon)
 - [The Dyadic Faiths](#the-dyadic-faiths)
+- [Dwarven Deities](#dwarven-deities)
 - [Other Faiths](#other-faiths)
 
 ## The Pantheon
@@ -112,6 +113,28 @@ The Lord of Night
 : Halfling deity of darkness and destruction, associated with the [Profane arcanum]({{site.baseurl}}/campaigns/wellspring/setting/magic#the-profane-arcanum).
 
 A radical offshoot known as the [Church of Light]({{site.baseurl}}/campaigns/wellspring/organizations/church-of-light) is said to have all but absorbed the older faith in its land or origin, and is rapidly gaining followers here despite its intolerance of other religions, which it sees as misguided at best or demon worship at worst.
+
+## Dwarven Deities
+
+The traditional dwarven faith is ancient, with six chief deities, as well as a host of demigods and divine champions. Most faithful dwarves worship their gods as a whole, but feel a particular personal connection or devotion to one or two deities or demigods.
+
+The Stonecarver
+: The head of the Dwarven pantheon is the Stonecarver, who is said to have shaped the first dwarves out of the primordial earth on the first days. The Stonecarver is variably depicted as male, female, or neither. They are said to hold dominion over the natural world, from the sky to the deep earth and from the sea to the heart of a volcano. Conceptually, the Stonecarver represents the balance in all things that dwarves should strive to emulate.
+
+The Soulkeeper
+: The Soulkeeper is the dwarvish deity of the underworld and keeper of the cycle of reincarnation. He is depicted as a blindfolded dwarf holding a shield and a set of balances. No matter how high or low in society, no matter how heroic of villainous their actions, the Soulkeeper ensures their soul is returned to the Stonecarver to be forged into the next generation of dwarves.
+
+The Greenwarden
+: The Greenwarden is the dwarvish deity of birth, agriculture, and the wild. She is depicted as a dwarf holding a sickle and sheaf of grain, her beard interwoven with flowering vines. Of the dwarvish pantheon, the Greenwarden is said to care most deeply about the dwarven people, as opposed to dwarven society as a whole.
+
+The Forgebearer
+: The Forgebearer is the dwarvish deity of creativity, industry and ambition. She is depicted as a dwarf with flames for hair and beard, holding a smith's hammer. She particularly beloved of dwarves with a fire bloodline, as well as artists and those who seek to better themselves, whether selfishly or to raise up their communities.
+
+The Runecaster
+: The Runecaster is the dwarvish deity of order, magic, and law. He is depicted as a dwarf with rune-enchanted armor holding a chisel and a book. Of the dwarven deities, the Runecaster is most concerned with dwarvish society as a whole rather than the good of individuals, and his priesthood (who often double as the keepers of law) reflect this.
+
+The Lost
+: The Lost is said to be a dwarven deity who was driven mad at the dawn of time. Some tales say he or she was the first dwarf to dig up and witness the sky, while others claim that he or she found some unimaginable horror in the distant deeps. Outright worship of the Lost is forbidden even amongst most Renunciates; their places of worship destroyed and artifacts or holy texts burned. Most dwarves only know of the Lost as a cautionary figure, a warning for those who would reach beyond their grasp. Still, cults to the Lost seem to appear spontaneously.
 
 ## Other Faiths
 

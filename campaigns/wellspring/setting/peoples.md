@@ -106,6 +106,18 @@ Dwarves’ sturdy nature makes strong bloodlines relatively rare among them. Of 
 
 Some adventurers speak of vast underground cities of dwarves, deep beneath the earth where few surface dwellers ever venture. This underground civilization is said to be at eternal war with some great foe in the darkest depths, preventing a great catastophe from befalling the surface realms. The truth of these rumors is a mystery, but the Dwarven city of Silverhold trades for vastly more material and magic than its size would suggest, and those permitted to enter it have told of great caravans setting out for places unknown.
 
+#### Dwarven Society
+
+Dwarven society is very conservative and consensus-driven, and those who step outside of the boundaries are exiled from the community. The precise boundaries of what is allowed is called the Proscriptions, and can vary significantly from community to community. Most communities forbid:
+
+- The practice of necromancy, as the reincarnation cycle of the Dwarves is sacred. Some communities take a lesser form of the Proscription, allowing for magics that rely on the bodies of the dead while eschewing those that touch upon the soul.
+- The practice of infernal magic, and to a lesser extent celestial magic. Dwarven society is fiercely independent and rebukes the perceived "shackles" of both the Heavens and the Hells.
+- The use of technology that poisons the land, or that consumes resources that cannot be recycled for later generations. Dwarven cities are planned to last for centuries, reshaping stone and reforging metal as needed. In particular, while dwarves use great steam engines powered by natural heat (such as volcanism), burning coal or oil is forbidden, as is the use of toxic chemicals that choke the air or seep into the land.
+
+#### Dwarf Renunciates
+
+Those who reject the tenets of dwarven society, or are seen has having violated the Proscriptions, are referred to as Renunciates. The so-called Dark Dwarves (touching on diabolism or necromancy) are one such group of renunciates.
+
 ### Elves
 
 The elves of Wellspring are the descendants of the survivors of a great cataclysm, said to have befallen the elven empires of ancient times. The nature of that disaster remains a mystery to scholars - it is as if the elven empires vanished into thin air, leaving only scattered survivors far from the heart of power.

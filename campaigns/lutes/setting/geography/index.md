@@ -14,6 +14,8 @@ From the foothills of the Giant's Wall mountains to the shores of the Sea of Sto
 - [The Lapis Valley](#the-lapis-valley)
   - [Oakhurst](#oakhurst)
   - [The Sunless Citadel](#the-sunless-citadel)
+- [The Western Highlands](#the-western-highlands)
+  - [Glitter Gulch](#glitter-gulch)
 - [The Northern Wastes](#the-northern-wastes)
   - [The Lost Library](#the-lost-library)
 
@@ -58,6 +60,8 @@ The town of Oakhurst lies on the western trade road to the rest of the Kingdom o
 
 Oakhurst is best known for its midsummer music festival, which brings bards and performers from across the Sapphire Coast and even from distant Amaranth. Notable locals include Mayor Vurnor Leng, the half-elven constable Felosial, dwarf blacksmith Rurik Lutgehr, and Garon, the proprietor of the Ol' Boar Inn.
 
+Oakhurst is located two days up the trade road from Jewel.
+
 {% include pages/campaign-geography-page/district.md label="Oakhurst" location="oakhurst" %}
 
 ### The Sunless Citadel
@@ -65,6 +69,29 @@ Oakhurst is best known for its midsummer music festival, which brings bards and 
 A great sunken ruin at the bottom of a deep ravine, the Sunless Citadel was once a fortress maintained by the serpentine Forgotten in the distant past. During the invasion by Amaranth, it was briefly held by the defending druids before its destruction sent the fortress into the depths. Now, it serves as a home for those who reject or are rejected by civilization, including warring groups of goblins and kobolds.
 
 {% include pages/campaign-geography-page/district.md label="Sunless Citadel" location="sunless-citadel" %}
+
+## The Western Highlands
+
+West of the Lapis Valley, the land rises through rocky hills and broken highlands to the Giant's Wall mountains separating the Sapphire Coast from the rest of Amaranth. Rocky soil makes the region ill-suited to agriculture, and there is a constant risk of monsters wandering down from the mountains. Still, there are a number of mining communities scattered about, digging iron or precious metals and stones from the volcanic earth. It is said that deep below the mountains lies an abandoned dwarven city, its people fled in the face of some great cataclysm.
+
+- [Fire Serpent Pass](#fire-serpent-pass)
+- [Glitter Gulch](#glitter-gulch)
+
+### Fire Serpent Pass
+
+High above the western highlands, Fire Serpent Pass winds through the Giant's Wall mountains, providing the only land route between the Sapphire Coast and the rest of Amaranth. The pass is named because of the volcanic peaks that lie on either side of the pass; at night, their lava flows are said to resemble fiery serpents.
+
+{% include pages/campaign-geography-page/district.md label="Fire Serpent Pass" location="fire-serpent-pass" %}
+
+### Glitter Gulch
+
+At the base of Fire Serpent Pass lies the town of Glitter Gulch, a rough outpost of marginal civilization that serves as both a waypoint on the caravan route and a hub of sorts for the fractious miners and prospectors of the region.
+
+Notable locals include the militia captain Pollux (an earth genasi) and Nackle the gnomish alchemist, who moved to Glitter Gulch so her neighbors would stop complaining about the explosions.
+
+Glitter Gulch is located three days up the trade road from Jewel and one from the town of Oakhurst.
+
+{% include pages/campaign-geography-page/district.md label="Glitter Gulch" location="glitter-gulch" %}
 
 ## The Northern Wastes
 
