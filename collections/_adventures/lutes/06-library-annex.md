@@ -1,6 +1,6 @@
 ---
 campaign: lutes
-campaign_index: 5
+campaign_index: 6
 omake: false
 name: The Library Annex
 slug: library-annex

@@ -13,6 +13,10 @@ adventures:
     slug: tremors-in-glitter-gulch
     details: |
       Audhild accompanied Aoife and Lily to rescue trapped miners.
+  - name: The Forge of Fury
+    slug: forge-of-fury
+    details: |
+      Granny Audhild asked Aoife to help investigate the pollution in the highlands, and accompanied them to the forge.
 ---
 
 "Granny" Audhild was a retired adventurer, a semi-permanent fixture of Glitter Gulch who was equally adept at patching up injuries or metal. After the town was menaced by fire snakes, she took up her hammer again full time, seeking to proactively protect the place she now called home.

@@ -76,7 +76,22 @@ The Sapphire Coast, the Kingdom of Amaranth, and all of the surrounding nations 
 : The Autumn Equinox.
 : The winds rage out of control, causing widespread damage and the crash of the [Sky Dancer]({{site.baseurl}}/campaigns/lutes/setting/geography/city-of-jewel#the-sky-dancer) outside of Jewel.
 
+28 Sphinx
+: [The Forge of Fury]({{site.baseurl}}/campaigns/lutes/adventures/forge-of-fury): Aoife receives a letter from Granny Audhild asking for her help with pollution in the highlands.
+
+29 Sphinx
+: [The Forge of Fury]({{site.baseurl}}/campaigns/lutes/adventures/forge-of-fury): Aoife, Lily, and Aurora set out for Glitter Gulch.
+
 ### Winter 2258
+
+2 Manticore
+: [The Forge of Fury]({{site.baseurl}}/campaigns/lutes/adventures/forge-of-fury): The party arrive in Glitter Gulch and join forces with Granny Audhild.
+
+3 Manticore
+: [The Forge of Fury]({{site.baseurl}}/campaigns/lutes/adventures/forge-of-fury): Aoife negotiates with wild elementals and talks with trappers. The party flee acid rain and battle a cyclops and his pet giant wolves.
+
+4 Manticore
+: [The Forge of Fury]({{site.baseurl}}/campaigns/lutes/adventures/forge-of-fury): The party battle and purify and massive corrupted earth elemental, negotiate with ogres, and hunt down a pair of venom-infused trolls.
 
 15 Tortoise
 : The Winter Solstice.

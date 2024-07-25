@@ -1,6 +1,6 @@
 ---
 campaign: lutes
-campaign_index: 7
+campaign_index: 8
 omake: false
 name: A Detour To Druids
 slug: detour-to-druids

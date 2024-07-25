@@ -1,6 +1,6 @@
 ---
 campaign: lutes
-campaign_index: 8
+campaign_index: 9
 omake: false
 name: The Lost Library
 slug: lost-library
