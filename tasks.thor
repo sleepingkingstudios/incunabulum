@@ -284,7 +284,11 @@ module Incunabulum
       private
 
       def item_data(campaign:, name:, slug:, location: nil, **)
-        data = super
+        data = data = {
+          campaign: campaign,
+          name:     name,
+          slug:     slug
+        }
 
         if location
           data = data.merge(location: location)

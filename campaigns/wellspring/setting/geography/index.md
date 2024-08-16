@@ -11,6 +11,9 @@ campaign: wellspring
   - [The Undercity](#the-undercity)
 - [The Great Chasm](#the-great-chasm)
 - [Around Wellspring](#around-wellspring)
+  - [The Bronzewood](#the-bronzewood)
+  - [Shadepool](#shadepool)
+  - [Wellspring Vale](#wellspring-vale)
 - [The Wider World](#the-wider-world)
   - [The Free Cities](#the-free-cities)
   - [The Kingdom Of Lothian](#the-kingdom-of-lothian)
@@ -56,15 +59,14 @@ In particular, the mana from the Chasm ebbs and flows, and can rarely and unexpe
 
 - [The Bronzewood](#the-bronzewood)
 - [The Giant's Spine Mountains](#the-giants-spine-mountains)
+- [Shadepool](#shadepool)
 - [Wellspring Value](#wellspring-value)
 
 ### The Bronzewood
 
-A narrow valley leading off from Wellspring Value, filled with old-growth woods. The woods are claimed by forest elves, but include several communities of halflings who choose to live in communion with nature. Visitors are discouraged, and hunting or logging forbidden by treaty and enforced by elvish arrows.
+A narrow valley leading off from Wellspring Value, filled with old-growth woods. The forest for a day's travel was ceded to the Kingdom of Lothian by treaty, and are traveled by hunters, trappers, and woodcutters who search for rare and magical trees and plants. A fair number of halfling communities also lie in the Bronzewood, closer to nature than their city cousins. The areas beyond the Treaty Stones are guarded by elvish arrows and home to druidic circles, strange beasts, and pathways to the fey realms.
 
-Those few who venture deep into the Bronzewood uninvited have claimed the woods are far larger than the valley should allow, and inhabited by fey and creatures far stranger. Rarely a denizen of the deep woods will wander out into the Vale proper.
-
-[Back To Top](#)
+{% include pages/campaign-geography-page/district.md label="Bronzewood" location="bronzewood" %}
 
 ### The Giant's Spine Mountains
 
@@ -73,6 +75,14 @@ Wellspring lies near the heart of the Giant’s Spine Mountains. The lower peaks
 Several communities of giants are known to live in the nearby mountains, with one - the Moot of Mooncarven Stone - known to have close ties with the Watchers of the Stars. Below the northern peaks lies the Dwarvish city of Silverhold, connected to the city itself by the Underroad.
 
 [Back To Top](#)
+
+### Shadepool
+
+A village of halflings, mostly gnomes (earth bloodline) and undines (water bloodline). The village is built around a large earthen dam, the reservoir of which provides a comfortable home for the water-breathing residents.
+
+Shadepool is located about a day's travel into the Bronzewood, or two full day's travel from Wellspring.
+
+{% include pages/campaign-geography-page/district.md label="Shadepool" location="shadepool" %}
 
 ### Wellspring Vale
 

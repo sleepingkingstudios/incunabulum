@@ -120,6 +120,12 @@ After the events of [A Volatile Tail](./a-volatile-tail), the party takes a few 
 : [The Dream Lanterns](./dream-lanterns): After Verity's article appears in the broadsheets, the Silverstone Players reach out to the Delver's Guild for more information on fairy magic, and are directed to the druidic circles in the Bronzewood.
 : ???: The Silverstone Players agree to escort a giant from a nearby community into the depths below Wellspring.
 
+16 Unicorn
+: [The Dream Lanterns](./dream-lanterns): The Silverstone Players depart for the Bronzewood.
+
+17 Unicorn
+: [The Dream Lanterns](./dream-lanterns): The party rescue a woodcutters' camp from giant-kin and arrive in Shadepool. The greenmage Euphemia delivers more dire warnings about dream magic.
+
 ---
 
 [Back to Home]({{site.baseurl}}/)
