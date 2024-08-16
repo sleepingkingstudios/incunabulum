@@ -10,6 +10,10 @@ characters:
   - name: Ebard Skolnikos
     details: |
       A fellow student of Mo's at the Arcane Order. Ebard suggested that someone was trying to buy unrefined magicite under the table.
+  - name: Euphemia Underbough
+    slug: euphemia-underbough
+    details: |
+      Euphemia advised the Silverstone Players on faery magic.
   - name: Margritte Gramont
     details: |
       Wife of a local shipping magnate. Verity interviewed Margritte about her new Dream Lantern.
@@ -21,6 +25,13 @@ characters:
     slug: myria-quill
     details: |
       Myria asked Verity to interview a local woman about her Dream Lantern.
+  - name: Pierre
+    details: |
+      A woodcutter in the Bronzewood. The Silverstone Players helped rescue his camp from marauding giant-kin.
+outcome: |
+  To be determined...
+rewards: |
+  - A *potion of treant strength* from the woodcutters.
 ---
 
 > Date: [10 Unicorn]({{site.baseurl}}/campaigns/wellspring/adventures#autumn-2258)
@@ -51,4 +62,44 @@ While at the Delver's Guild, the party also inquired about open contracts. While
 
 > Date: [16 Unicorn]({{site.baseurl}}/campaigns/wellspring/adventures#autumn-2258)
 
-As the sun touched the peaks high above Wellspring, the Silverstone Players set out to the Bronzewood in search of the druids.
+As the sun touched the peaks high above Wellspring, the Silverstone Players set out to the Bronzewood in search of the druids. The morning is spent travelling down Wellspring Vale, the long valley that slopes down from the city to the lowlands. They passed through a patchwork of farms, orchards, small villages, and coppiced trees, and saw work crews digging a canal to link Wellspring with the capital.
+
+Shortly after midday, they turned off the main road and headed north, following the path to the Bronzewood. The ancient forest half-filled a valley of its own, looking deceptively small but growing larger the farther in one travels. They reached the edge of the trees as the sun is going down, and decided to stay at a rustic-looking tavern called the Old Saw Inn.
+
+The inn was fairly busy, and the party split up to speak to different groups. Py approached a group of trappers, who decided to prank the city folk with tales of "Grenchlers", invisible six-legged lizards that are warded off by whistling and putting foot lotion behind the ears. Py also asked them about visiting the druids, but the trappers never ventured that far into the woods. They also mentioned a treaty with the elves.
+
+Mo talked to a pair of wood elves, named Sunlight Through The Leaves and The First Snowflake Of Winter. They warned that finding the druids would be a very difficult journey for city folk; the druids live even deeper into the forest than the elves, close to the boundaries of the fey realms. The two elves strongly recommended that Mo not attempt the journey without an experienced guide. They also expressed surprise that the fey woudl meddle in city affairs, and suggested that a mortal practitioner might be responsible.
+
+Inquiring about the treaty, Mo is told that the druids use nature magic to make the whole valley fertile, and with the elves prevent dangerous creatures from wandering in from the deep woods or the fey realms. In exchange, no tree or animal is to be harmed beyond the Treaty Stones. Mo accepted an offer of berry wine, only to find the wine magically fortified and herself quite intoxicated.
+
+Verity spoke to the two inkeepers, Mika and Michel, who were surprisingly not twins despite their close resemblance. The two aren't sure if the druids are real, but suggest that she could probably find a practitioner of nature magic in any decent-size community in the Bronzewood. Thinking of her missing family, Verity also asked about stories of travellers wandering into (and more importantly, back out of) the deep woods. The two recalled that the old owner user to tell stories of fair folk travelling through long ago, but if those were more than stories the fey have long since stopped coming to visit.
+
+> Date: [17 Unicorn]({{site.baseurl}}/campaigns/wellspring/adventures#autumn-2258)
+
+The following morning, the party reconvened and shared stories. Mo struggled to be patient during her hangover with Py's naivete over the "Grenchlers". Roya in turn was furious, both on behalf of her friend and out of wounded professional pride - as a guide, telling that sort of tall tale to impressionable travellers deeply offended her. She asked Py to fashion her a pair of stilts, while she gathered curved sticks that looked like a supposed "grenchler's" teeth. Waiting for the party of trappers to depart, she used her wind magic to hide herself from sight, then scared the group witless with a masterful impression of the imaginary creatures.
+
+With Py's credulity avenged, the Silverstone Players continued on into the Bronzewood. Around midday, Mo spotted a lone figure with a heavy axe pacing back and forth by the side of the road ahead. Although concerned, the party approached openly, and the man half-ran down the hill to meet them. Seeing that the travellers were well-armed, he introduced himself as Pierre the woodman, and asked them for help fighting a trio of giant-kin that had besieged his logging camp. The other loggers had distracted them long enough for Pierre to run for help, but he did not know how long the palisade would hold.
+
+The Silverstone Players agreed to assist, and asked Pierre some questions as he led the party off the road. Pierre was from Wismar, in the Free Cities; his group of woodcutters made camp in the same place each season, looking for golden oak trees. Golden oak wood appeared to have veins of metallic gold running along the grain of the wood, and was highly prized for furniture making. This year there were six other woodcutters in the group, lead by the half-elf Ameé.
+
+As the group approached the woodcutters' camp, Mo sent her familiar Sophie to scout ahead, finding a low hill ringed by a damaged log palisade. One dead ettin giant-kin had fallen at the foot of the walls, festooned with elvish arrows. Two more stood arguing in broken giantish under the trees nearby; the gist of the dispute seemed to be "wooden hill strong" against "meat inside, must crush". Pierre warned that none of their weapons would pierce the giant-kins' hides; still, the party agreed that the ettins must be killed or driven off.
+
+Thus resolved, Mo and Py advanced to within range of spell and crossbow, while Verity crept close enough to lay a laughing curse on one of the giant-kin. Unfortunately, Roya's attempt to strike the ettins from above ended in disaster, falling from a tree nearly on top of the surprised monsters. With one ettin laughing helplessly on the ground, the party launched a volley of spells and crossbow bolts at the other. Roya used the distraction to land a precise blow with her rapier, while Mo used her divination magic to manipulate probability and keep the trapped giant-kin from breaking the laughing curse. However, the wounded ettin retaliated with mighty swings of its stolen axe, striking Roya several times. Verity attempted to enchant the giant-kin, but failed in the face of its berserker rage. Mo struck it with a barrage of fire magic. Finally having enough, the ettin struck Roya one final time before it turned and lumbered into the forest.
+
+Verity advanced forward to heal Roya, while Py launched another volley of crossbow bolts at the fleeing giant-kin, bringing it down with a bolt to the back of its head. With the other ettin still afflicted by Verity's curse, both Roya and Verity landed telling blows with their rapiers, finally breaking the enchantment. Mo struck the giant-kin with several bolts of flame as it regained its feet. It then stomped its foot hard enough to shake the ground, but both Roya and Verity managed to stay on their feet. Verity took a blow from its clubs but retaliated with a fear curse, prompting the ttin to flee in terror and take blows from both Verity and Roya. A final pair of bolts from Py's crossbow brought the second ettin down for good.
+
+Pierre invited the Silverstone Players inside the palisade. The leader, a half-elf named Ameé, thanked the group for their aid, and introduced them to a pair of wood elves that had also come to the group's assistance, bringing down the first of the three ettins. Mo spoke to the two, named "A Leaf Dances On The Breeze" and "Water In The Bubbling Brook", with the former translating the latter's signing. The two warned that it is difficult to reach the druids in the deep woods without an invitation and a guide; the routes change often. However, most local communities will have a greenmage or spirit speaker, who might be able to help them with their questions about fairy magic. While Py spoke to the foresters, Verity also spoke with the elves, asking about people who vanished into the fey realms. She was warned that those who travel too far unprepared to not return. Finally, the party asked the pair about the Treaty Stones. The elves explained that no two of the stones are alike - some rise about the trees, and others are nestled under tree roots. However, the character of the wood changes unmistakably on the far side of the stones.
+
+The Silverstone Players take advantage of the fortification to rest and recover some of their strength. As they prepare to resume their journey, Ameé thanks them again and gives them a small clay pot holding a *potion of treant strength*. Not too long after returning to the road, they turn off once again to follow a stream toward their destination, the halfling village of Shadepool.
+
+The party arrive at Shadepool that evening. The community is quite a sight, built around a large earthen dam. The local undine (halflings with a water bloodline) live in the reservoir, while the gnomes (halflings with an earth bloodline) and a handful of others live in sturdy cottages or burrows in the surrounding hills. Strangely, there was a large area cleared of trees beside the reservoir, with a few temporary buildings going up beside it.
+
+The Silverstone Players were greeted by Orryn, the shirrif of Shadepool. He told them that if they are there for the carnival, they are a month too early. Confused, they were handed a flyer, beautifully hand-illustrated and bearing the invitation "Mister Witch and Mister Light invite you to their carnival of magic and mystery, whimsy and wonder." The name strike a chord with Py, who recalled from her youth that the Witchlight Carnival is famous (or infamous) among the travelling folk, visiting any part of world only once every eight years. She had a very vague memory of seeing it once as a child, but the recollection is hazy and dreamlike.
+
+While fascinating, the carnival was not the reason for the group's visit, and at Roya's request the group was lead to the house of her great-aunt Verna, who works as the local apothecary. Her house was a crooked multi-level cottage; each of the three floors was tilted a different direction, and the chimney intermittently puffed a purple smoke. Great-Aunt Verna welcomed Roya and the rest of the group inside, although the halfling-sized dwelling was a little uncomfortable for the rest of the Silverstone Players. When asked about the carnival visiting, Verna suggested the party speak to the town's council.
+
+The Silverstone Players were served a dinner of watercress soup and fresh bread, but right before Py took a sip an eyeball floated to the top of her bowl. As she stared at it in shock, the eyeball suddenly burst into a flock of rainbow butterflies that scattered about the room before evaporating. Exasperated, Verna stomped up the stairs to grab her wife Euphemia and drag her into the dining room with a few well-placed whacks with the soup ladle. Euphemia introduced herself as a greenmage, a scholar and practioner of nature and fairy magic. Puffing her pipe (which blew spiraling multi-colored smoke), she asked why the group had come to visit.
+
+The party prevaricated, making vague claims about fairy magic at work in Wellspring and their responsibility as members of the Delver's Guild to keep the city safe. When they gave a few details, Euphemia was deeply alarmed by the reference to dream magic at work. She warned that magic involving dreams can be insidiously dangerous, but any number of things can cause nightmares - curses, possession, even indigestion. The greenmage shared a story about a local who was possessed by an astral parasite that caused terrible nightmares; fortunately, a circle of druids was able to drive it out. Regarding the dream lanterns specifically, she asked an intriguing question: "Where are the dreams going?" However, magical artifacts were not her area of study, and perhaps more answers could be found in the city.
+
+Knowing that Verity had questions of her own, Py grabbed Mo and asked Roya to show them around the gardens. Now alone with the greenmage and apothecary, Verity asked her own questions about people disappearing into the fey realms and shared some of the story of her brother Honor and his journal. Euphemia warned that the Feywild had many dangers; if Honor had indeed made a bargain with some denizen, it could serve as a powerful protection but also leave him trapped.
