@@ -7,6 +7,10 @@ slug: dream-lanterns
 summary: |
   The Silverstone Players investigate a new product that uses forbidden dream magic.
 characters:
+  - name: Brother Lucian
+    slug: brother-lucian
+    details: |
+      Brother Lucian mentioned that several well-to-do residents have visited his clinic looking for help with waking nightmares.
   - name: Ebard Skolnikos
     details: |
       A fellow student of Mo's at the Arcane Order. Ebard suggested that someone was trying to buy unrefined magicite under the table.
@@ -32,6 +36,7 @@ outcome: |
   To be determined...
 rewards: |
   - A *potion of treant strength* from the woodcutters.
+  - A carved wooden acorn, meant to be worn as a necklace.
 ---
 
 > Date: [10 Unicorn]({{site.baseurl}}/campaigns/wellspring/adventures#autumn-2258)
@@ -103,3 +108,27 @@ The Silverstone Players were served a dinner of watercress soup and fresh bread,
 The party prevaricated, making vague claims about fairy magic at work in Wellspring and their responsibility as members of the Delver's Guild to keep the city safe. When they gave a few details, Euphemia was deeply alarmed by the reference to dream magic at work. She warned that magic involving dreams can be insidiously dangerous, but any number of things can cause nightmares - curses, possession, even indigestion. The greenmage shared a story about a local who was possessed by an astral parasite that caused terrible nightmares; fortunately, a circle of druids was able to drive it out. Regarding the dream lanterns specifically, she asked an intriguing question: "Where are the dreams going?" However, magical artifacts were not her area of study, and perhaps more answers could be found in the city.
 
 Knowing that Verity had questions of her own, Py grabbed Mo and asked Roya to show them around the gardens. Now alone with the greenmage and apothecary, Verity asked her own questions about people disappearing into the fey realms and shared some of the story of her brother Honor and his journal. Euphemia warned that the Feywild had many dangers; if Honor had indeed made a bargain with some denizen, it could serve as a powerful protection but also leave him trapped.
+
+> Date: [18 Unicorn]({{site.baseurl}}/campaigns/wellspring/adventures#autumn-2258)
+
+The following morning, the Silverstone Players debating their next move. Verity asked about continuing on to visit the druids, but the party was advised that was a journey that could potentially take several tendays - they might be able to return before the carnival arrived, but they would have to abandon their task in Wellspring to escort a giant below the city. They resolved to return to Wellspring for the time being, and hopefully return in time for the Witchlight Carnival.
+
+Before departing, the party had a few more questions for Verna and Euphemia. There are no easier ways to travel back and forth between Shadepool or Wellspring - as Verna pointed out, if they wanted to be closer to the city, they'd live there. On the topic of practitioners of dream magic, they were told that no two dabblers were alike. That being said, dream magic had a corrosive effect on the mind. Those affected could sometimes act as if there were multiple people in their heads, lose time, or even start to fade from the memories of people around them. If they suspected the use of dream magic, Euphemia strongly suggested they write everything down.
+
+The Silverstone Players also inquired about the Witchlight Carnival, and were directed to a member of the Shadepool's town council, an undine named Pearl. She shared some charming details - apparently, the emissary from the carnival had arrived in town on the back of a giant swan carrying a howdah. She also mentioned offhand that space was cleared by Euphemia, who literally sang the trees out of the ground to create a large enough clearing.
+
+Getting back on the road, the party makes it back to the Old Saw Inn that evening. The innkeeps Mika and Michel have a mixed reaction to the coming carnival, with Mika indifferent but Michel excited at the chance. Also staying at the inn is a trade caravan making a stop in the Bronzewood on its way between Lothian (the capital) and Wellspring. Py strikes up a conversation with the caravan master, who tells her he is carrying fine woodwork and textiles from the Free Cities, and is looking to exchange some spices for fresh foods from the local communities. He also has a crate of religious icons he picked up from an eccentric contact in the capital, and invited Py to take a look the following morning.
+
+> Date: [19 Unicorn]({{site.baseurl}}/campaigns/wellspring/adventures#autumn-2258)
+
+As promised, Py looks over the caravan's goods. The woodwork and textiles are much too expensive for theater work, but the religious objects are of more interest. Most are either simple carvings or gaudy trinkets meant to look authentic, but Py picked out three items of interest. First was a stamped iron plate with a toothed wheel, which the merchant claimed had been forged by a high priest of the Mother of Machines in the Free City of Gerlon. Second was a simple silver pendant shaped like an open book, the symbol of the Librarian. Third was what the merchant claimed was a genuine holy relic, a small square of leather said to be part of a scabbord wielded by a famous paladin of the Knight-Errant. Mo quietly cast a spell to detect magic, and at her urging Py also added a simple-looking carved wooden acorn, which radiated a faint aura of transmutation magic.
+
+The caravan and Silverstone Players parted ways, and the journey back to Wellspring was tiring but un-eventful.
+
+> Date: [20 Unicorn]({{site.baseurl}}/campaigns/wellspring/adventures#autumn-2258)
+
+The following morning was a rest day in Wellspring, and the streets were busy with shoppers and revelers, including a parade of people flying kites shaped like crimson fish. Shortly before noon, a visitor arrived for Py - it was Brother Lucian, for whom she crafted and repaired simple prosthetics for those in need. While Py worked on repairing a damaged prosthetic he had brought, Brother Lucian mentioned that several of the city's well-to-do citizens had come by the clinic, seeking help for their waking nightmares.
+
+One of the patients was so afflicted that she was sheltering in the clinic's back room, unable to sleep and seeing things moving in the corner of her eyes. Brother Lucian found himself at something of a loss - she was not afflicted by any sort of disease or poison that he could identify, nor was she subject to a curse. Oddly enough, she kept asking him for a lantern, despite the fact that the room was brightly lit. Brother Lucian asked Py and her friends to let him know if they heard of any similar cases, or anything that could help the poor soul in his charge.
+
+The priest also took a look at the religious symbols Py had purchased, having something of an academic interest in the "false" deities of the pantheon despite his faith in the Sun Goddess. Before he left, Py asked if they could visit the patient at the clinic, to which Brother Lucian assented so long as the patient was willing to receive company.

@@ -126,6 +126,9 @@ After the events of [A Volatile Tail](./a-volatile-tail), the party takes a few 
 17 Unicorn
 : [The Dream Lanterns](./dream-lanterns): The party rescue a woodcutters' camp from giant-kin and arrive in Shadepool. The greenmage Euphemia delivers more dire warnings about dream magic.
 
+20 Unicorn
+: [The Dream Lanterns](./dream-lanterns): While visiting Py for prosthetic repairs, Brother Lucian mentions that several well-to-do residents have visited his clinic looking for help with waking nightmares.
+
 ---
 
 [Back to Home]({{site.baseurl}}/)

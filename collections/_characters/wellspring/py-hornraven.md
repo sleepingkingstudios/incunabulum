@@ -8,6 +8,10 @@ lineage: Female half-elf Artificer
 preview: |
   Half-elf artificer and dragon fancier
 characters:
+  - name: Brother Lucian
+    slug: brother-lucian
+    details: |
+      Brother Lucian relies on Py to provide prosthetics for some of his patients who cannot afford expensive magical solutions.
   - name: Lavinia Goldfound
     slug: lavinia-goldfound
     type: contact
