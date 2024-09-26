@@ -25,6 +25,10 @@ characters:
     slug: mialee-sylvaranth
     details: |
       Mialee suggested that the experts on fairy magic and the Wild arcanum would be the druidic circles in the Bronzewood.
+  - name: Morana Durthane
+    slug: morana-durthane
+    details: |
+      Morana was unable to identify the strange sign left by the nightmare-maddened woman.
   - name: Myria Quill
     slug: myria-quill
     details: |
@@ -32,6 +36,9 @@ characters:
   - name: Pierre
     details: |
       A woodcutter in the Bronzewood. The Silverstone Players helped rescue his camp from marauding giant-kin.
+  - name: Wim Spence
+    details: |
+      One of Mo's professors at the Arcane Order. Professor Spence mentioned that another student had asked questions about dream magic a few months prior.
 outcome: |
   To be determined...
 rewards: |
@@ -132,3 +139,43 @@ The following morning was a rest day in Wellspring, and the streets were busy wi
 One of the patients was so afflicted that she was sheltering in the clinic's back room, unable to sleep and seeing things moving in the corner of her eyes. Brother Lucian found himself at something of a loss - she was not afflicted by any sort of disease or poison that he could identify, nor was she subject to a curse. Oddly enough, she kept asking him for a lantern, despite the fact that the room was brightly lit. Brother Lucian asked Py and her friends to let him know if they heard of any similar cases, or anything that could help the poor soul in his charge.
 
 The priest also took a look at the religious symbols Py had purchased, having something of an academic interest in the "false" deities of the pantheon despite his faith in the Sun Goddess. Before he left, Py asked if they could visit the patient at the clinic, to which Brother Lucian assented so long as the patient was willing to receive company.
+
+After Brother Lucian departed, the Silverstone Players discussed their options and decided to split up and consult with their various contacts in the city. Py and Roya set out towards Brother Lucian's clinic, while Mo headed to the Arcane Order to investigate the magicite black market and Verity went to solicit a follow-up interview with Margritte Gramont.
+
+The clinic was a sturdy building of whitewashed stone, built in a run-down part of Wellspring's Old City district and festooned with bright golden symbols of the Sun Goddess. Py and Roya were quickly welcomed inside, and while Py started to set up her tools Brother Lucian went to check on his patient. He returned a minute later, and announced with alarm, "She's gone!" He lead Py and Roya to a storeroom at the back of the clinic; as they walked, Roya asked if the woman had left anything behind, to which Brother Lucian replied that she had left her clothes and cloak, and was wearing a set of borrowed acolyte robes.
+
+The storeroom was something of a mess; the window was broken out, with a battered chair on its side at the window's base. A strange symbol was crudely scribed on the wall in yellow paint, looking like an opened eye surrounded by a multi-tailed spiral. Some investigation revealed additional details: the window had clearly been broken out from the inside. There was a discarded can of yellow paint behind an overturned bench, and a discarded rag with a smear of yellow paint. Based on how dry the paint was, the symbol had been inscribed several hours before, likely shortly after Brother Lucian had left to visit the Silverstone Theater. Finally, outside the window was a narrow alley, with visible footprints in the discarded refuse. Unfortunately, the trail was lost once it rejoined the busy street beyond.
+
+Looking at the symbol itself, Brother Lucian was unable to identify its origins despite his extensive knowledge of religious iconography. Py and Roya decided to make a copy and take it to the Delver's Guild, in the hopes that someone could identify it.
+
+Meanwhile, Mo found his "buddy" Ebard celebrating his good fortune at the Pointed Cap, traditional apprentice's hangout near the Arcane Order. As he ordered Mo an Everburning Flask cocktail, the clearly intoxicated Ebard happily answered Mo's questions. He had made a sizeable amount of gold brokering the sale of magicite to the Harfoot Syndicate, with whom he had previously had a relationship selling stolen potion ingredients. Mo pretended to drink her own cocktail, earning a dirty look from Pierre the tiefling bartender, while Ebard knocked his back and ordered something green. Served a Lamia's Kiss, Ebard continued that his contact with the syndicate was named Portia, although the last name escaped him. It was something like "Dumbthistle", or "Downthistle"; something night-related and something plant-related.
+
+With that, Ebard blacked out. Mo dragged him to a booth and took the chance to search her fellow student's pockets, finding a small coin pouch along with an answer sheet for an upcoming quiz. On the back of the answer sheet was a cryptic note, including a date (the 22nd of Unicorn, two days hence), a time (two bells before midnight), and the word fragment "-under".
+
+As Py and Roya went to the clinic and Mo to the Arcane Order, Verity headed to Margritte's townhouse in the Garden District. She introduced herself to the footman, stating that she wanted to a follow up on her previous story; after a few minutes, she was invited inside to the salon, where she found Margritte artfully draped over one of the couches. The woman stated her appreciation for Verity's profile in the *Watchman*, and was happy to answer her follow up questions.
+
+Verity's keen eyes noticed that despite her apparent ease, Margritte had bags under her eyes that were incompletely covered over by cosmetic glamours. When pressed, Margritte admitted that she'd started to have nightmares again. However, the nightmares had changed - now she saw shapeless figures around the edges of her vision, or an impression of nameless things watching her through the walls. When she asked about a second lantern, she was told the enchantments would conflict.
+
+At this point, Margritte apologized for being a poor host, and offered Verity refreshments. She accepted, and also asked if she could see the lantern for herself. At Verity's request, the socialite brought the lantern down from her bedroom. The lantern was just short of a foot tall, composed of delicate bronze and frosted glass. One side of the lantern was hinged. Otherwise, the lantern seemed fairly mundane; pointedly so, and it tended to slip beneath notice unless actively concentrated upon.
+
+Verity asked a few follow up questions of Margritte. The socialite had purchased the lantern at a salon held by one of her friends, who had requested anonymity. She doesn't know who else from her social circle might have bought a lantern. She does recall, however, that she was told no less an august personage than Dame Savindar had purchased one of the artifacts.
+
+Meanwhile, Py and Roya continued on to the Delver's Guild. While their usual contact Mialee is out, they find the archivist Morana Durthane nursing an ale at a table half-covered with parchment; she was happy to answer a few questions as a distraction from dealing with old accounting records. When shown the symbol from the clinic, however, the archivist was unfamiliar with it, and suggested talking to the Arcane Order if the party suspected the symbol might be magical in origin. She also pointed out that the party could place a bounty on the guild board in search of more information.
+
+While still at the Delver's Guild, Roya also asked about maps to the everchanging terrain beneath the city, with her eye on the upcoming contract to escort a giant to the Gallery of Ruined Gates. Unfortunately, the recent upwelling had scrambled the local topography; Morana suggested trying again in a tenday, when more delving parties had reported back.
+
+The Silverstone Players reconvened that evening and shared their stories. Concerned that Dame Savindar might be affected by her lantern, Verity sent her a cryptic note via the Delver's Guild:
+
+> We urgently need to talk. You're in danger. Under no circumstances should you open the lantern.
+>
+> -- Verity of the Silverstone Players
+
+Meanwhile, Mo sent her familiar with a message to Cyrene at the Astral Observatory:
+
+> Update on the matter we discussed most recently. Is this symbol familiar? Let us know when we can meet.
+
+The Silverstone Players then departed together to the Arcane Order to consult with one of Mo's instructors, Professor Wim Spence. They found the professor having a nightcap "to warm his old bones", but he was happy to answer some questions for one of his favorite students.
+
+While the professor was unfamiliar with the symbol itself, he suggested that both the opened eye and the spiral are related to mind magic in traditional symbology. Given the context of a traumatized young woman, he suggested that the symbol could either be generated by the experience itself, or something that the person saw and associated with the trauma. Unfortunately, he suggested that the priest would be better able than he to identify a curse, a poisoning, or demonic possession. As for other types of possession, Professor Spence recalled that some creatures were known to influence the mind, such as illithids or so-called mind flayers.
+
+Finally, the party asked about dream magic. While a rare topic of study, the professor recalled that one of his collegues, one Professor Estelle, had studied dream magic perhaps a decade ago. She apparently left the academy some time thereafter. Oddly enough, another student came to him a few months ago, also asking questions about dream magic. The students name was Jasper something-Thistle.
