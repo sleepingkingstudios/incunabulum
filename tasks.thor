@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 require 'fileutils'
+require 'yaml'
 
 require 'sleeping_king_studios/tools'
 require 'thor'
@@ -57,10 +58,14 @@ module Incunabulum
       end
 
       def generate_markdown(text = nil, **data)
-        markdown = +'---' << "\n"
+        markdown = +''
 
-        data.each do |key, value|
-          markdown << key.to_s << ': ' << value.to_s << "\n"
+        if data.empty?
+          markdown << "---\n"
+        else
+          safe_data = tools.hash_tools.convert_keys_to_strings(data)
+
+          markdown << YAML.safe_dump(safe_data)
         end
 
         markdown << '---' << "\n"
@@ -215,16 +220,19 @@ module Incunabulum
       option 'campaign', required: !ENV.key?('CAMPAIGN')
       option 'dry_run',  type: :boolean
       option 'location'
+      option 'organization'
       def character(name)
-        campaign = options.fetch(:campaign, ENV['CAMPAIGN'])
-        location = options[:location]
-        slug     = generate_slug(name)
+        campaign     = options.fetch(:campaign, ENV['CAMPAIGN'])
+        location     = options[:location]
+        organization = options[:organization]
+        slug         = generate_slug(name)
 
         generate_item(
-          campaign: campaign,
-          location: location,
-          name:     name,
-          slug:     slug
+          campaign:     campaign,
+          location:     location,
+          organization: organization,
+          name:         name,
+          slug:         slug
         )
 
         generate_page(
@@ -236,22 +244,41 @@ module Incunabulum
 
       private
 
-      def item_data(campaign:, name:, slug:, location: nil, **)
+      def build_organizations(organization_name)
+        [
+          {
+            name:    organization_name,
+            slug:    generate_slug(organization_name),
+            details: ''
+          }
+        ]
+      end
+
+      def item_data(campaign:, name:, slug:, location: nil, organization:, **)
         data = {
           campaign: campaign,
           name:     name,
           slug:     slug
         }
 
-        return data if location.nil?
+        data = data.merge(location: location) unless location.nil?
 
-        data.merge(location: location)
+        unless organization.nil?
+          organizations = build_organizations(organization)
+          data          = data.merge(organizations: organizations)
+        end
+
+        data
       end
 
-      def item_dir(campaign:, slug:, location: nil, **)
-        return super if location.nil?
+      def item_dir(campaign:, slug:, location: nil, organization: nil, **)
+        return File.join(super, generate_slug(location)) unless location.nil?
 
-        File.join(super, generate_slug(location))
+        unless organization.nil?
+          return File.join(super, generate_slug(organization))
+        end
+
+        super
       end
 
       def type
