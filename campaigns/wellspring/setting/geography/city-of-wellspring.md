@@ -124,7 +124,7 @@ The Trades District is where the common folk of Wellspring live, work, and play.
 
 ## The Undercity
 
-The area beneath the city proper is known as the Undercity. Officially, this area lies beyond the city’s protection, and the City Guard are rarely seen here unless pursuing a fugitive. Those who live in the Undercity tend to be poor, desperate, or unwelcome in the “civilized” parts of the city.
+The area beneath the city proper is known as the Undercity. Officially, this area lies beyond the city’s protection, and the City Guard are rarely seen here unless pursuing a fugitive. Those who live in the Undercity tend to be poor, desperate, or unwelcome in the higher parts of the city. It houses a disproportionate number of the city's halfling population, as well as less "civilized" groups such as goblins.
 
 {% assign undercity_locations = site.locations | where: "campaign", page.campaign | where: "location", "wellspring-undercity" %}
 

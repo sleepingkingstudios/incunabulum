@@ -19,6 +19,14 @@ members:
     slug: mo-tristrich
     details: |
       Mo is a student at the Arcane Order.
+  - name: Parsival Lemoine
+    slug: parsival-lemoine
+    details: |
+      Parsival is the head librarian at the Arcane Order.
+  - name: Wim-Spence
+    slug: wim-spence
+    details: |
+      Wim Spence is a professor and researcher at the Arcane Order.
 adventures:
   - name: The Silverstone Theater Mystery
     slug: silverstone-theater-mystery
