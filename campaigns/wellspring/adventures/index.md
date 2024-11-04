@@ -127,7 +127,13 @@ After the events of [A Volatile Tail](./a-volatile-tail), the party takes a few 
 : [The Dream Lanterns](./dream-lanterns): The party rescue a woodcutters' camp from giant-kin and arrive in Shadepool. The greenmage Euphemia delivers more dire warnings about dream magic.
 
 20 Unicorn
-: [The Dream Lanterns](./dream-lanterns): While visiting Py for prosthetic repairs, Brother Lucian mentions that several well-to-do residents have visited his clinic looking for help with waking nightmares.
+: [The Dream Lanterns](./dream-lanterns): While visiting Py for prosthetic repairs, Brother Lucian mentions that several well-to-do residents have visited his clinic looking for help with waking nightmares. Verity follows up on her interview with Margritte, while Mo meets his "buddy" Ebard and learns of a possible rendezvous. Mo talks to one of her professors, and a message is sent to Dame Savindar.
+
+21 Unicorn
+: [The Dream Lanterns](./dream-lanterns): The party inquire at the Arcane Order's library, and meet Dame Savindar at a seedy Undercity fighting arena. Py meets with Marigold of House Greentea, giving their mysterious adversary a name at last: House Dreamthistle.
+
+22 Unicorn
+: [The Dream Lanterns](./dream-lanterns): The party receives an intact Dream Lantern from Dame Savindar's steward, and meet with Cyrene at the theater.
 
 ---
 

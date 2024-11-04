@@ -21,6 +21,10 @@ adventures:
     slug: silverstone-theater-mystery
     details:
       The party met Marigold when investigating the Harfoot Syndicate.
+  - name: The Dream Lanterns
+    slug: dream-lanterns
+    details: |
+      Marigold confirmed that House Dreamthistle was a part of the Harfoot Syndicate, and warned Py away from doing business with them.
 ---
 
 Marigold is the Silverstone Player's first (non-hostile) contact with the Harfoot Syndicate; specifically, with House Greentea.

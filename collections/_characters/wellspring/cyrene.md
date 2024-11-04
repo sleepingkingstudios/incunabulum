@@ -34,6 +34,10 @@ adventures:
     slug: devils-playthings
     details: |
       Cyrene accompanied the Silverstone Players to hunt down carrion crawlers beneath the market.
+  - name: The Dream Lanterns
+    slug: dream-lanterns
+    details: |
+      Cyrene was asked to help identify the strange eye-and-spiral symbol.
 ---
 
 Cyrene is an acolyte of the Watchers of the Stars with a rather sheltered upbringing, who feels rather out of her depth in the city, let alone in the wilderness or the caverns and catacombs beneath Wellspring. She refers to herself as an Astrologian, and uses a mixture of divine and arcane magic.
