@@ -133,7 +133,10 @@ After the events of [A Volatile Tail](./a-volatile-tail), the party takes a few 
 : [The Dream Lanterns](./dream-lanterns): The party inquire at the Arcane Order's library, and meet Dame Savindar at a seedy Undercity fighting arena. Py meets with Marigold of House Greentea, giving their mysterious adversary a name at last: House Dreamthistle.
 
 22 Unicorn
-: [The Dream Lanterns](./dream-lanterns): The party receives an intact Dream Lantern from Dame Savindar's steward, and meet with Cyrene at the theater.
+: [The Dream Lanterns](./dream-lanterns): The party receives an intact Dream Lantern from Dame Savindar's steward, and meet with Cyrene and her mentor at the theater. They follow Ebard to a hidden workshop in the Undercity where House Dreamthistle manufactures the Dream Lanterns, and launch an assault, battling guards, the twins Jasper and Jasmine Dreamthistle, and a hideous mind flayer. While they successfully destroy the workshop, both the Dreamthistle twins and the mind flayer escape, although badly wounded.
+
+23 Unicorn
+: [The Dream Lanterns](./dream-lanterns): The Silverstone Players are invited to the Rabbit's Foot Casino where they meet with the head of the Harfoot Syndicate, revealed to be Ulmo Appleblossom of the Four Immortals.
 
 ---
 

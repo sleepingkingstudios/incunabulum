@@ -338,5 +338,55 @@ module Incunabulum
         'location'
       end
     end
+
+    class GenerateOrganization < Task
+      include Generate
+
+      namespace 'generate'
+
+      desc 'organization NAME', 'Generates an organization for a campaign'
+      option 'campaign', required: !ENV.key?('CAMPAIGN')
+      option 'dry_run',  type: :boolean
+      def organization(name)
+        campaign = options.fetch(:campaign, ENV['CAMPAIGN'])
+        slug     = generate_slug(name)
+
+        generate_item(
+          campaign: campaign,
+          name:     name,
+          slug:     slug
+        )
+
+        generate_page(
+          campaign: campaign,
+          name:     name,
+          slug:     slug
+        )
+      end
+
+      private
+
+      def item_data(campaign:, name:, slug:, **)
+        {
+          campaign: campaign,
+          name:     name,
+          slug:     slug
+        }
+      end
+
+      def page_dir(campaign:, slug:, **)
+        [
+          'campaigns',
+          campaign,
+          'setting',
+          "#{tools.string_tools.pluralize(type)}"
+        ]
+          .then { |ary| File.join(*ary) }
+      end
+
+      def type
+        'organization'
+      end
+    end
   end
 end

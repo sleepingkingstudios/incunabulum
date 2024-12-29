@@ -5,7 +5,7 @@ omake: false
 name: The Dream Lanterns
 slug: dream-lanterns
 summary: |
-  The Silverstone Players investigate a new product that uses forbidden dream magic.
+  The Silverstone Players investigate a new product that uses forbidden dream magic, culminating in a daring raid on a hidden underground workshop, battling brainwashed Syndicate legbreakers and a sinister mind flayer.
 characters:
   - name: Brother Lucian
     slug: brother-lucian
@@ -22,6 +22,14 @@ characters:
     slug: euphemia-underbough
     details: |
       Euphemia advised the Silverstone Players on faery magic.
+  - name: Jasmine Dreamthistle
+    slug: jasmine-dreamthistle
+    details: |
+      Jasmine lead House Dreamthistle along with her twin brother Jasper. She fought the Silverstone Players but was defeated, escaping with her brother.
+  - name: Jasper Dreamthistle
+    slug: jasper-dreamthistle
+    details: |
+      Jasper lead House Dreamthistle along with his twin sister Jasmine. He fought the Silverstone Players but was defeated, using his magic to escape with his sister.
   - name: Margritte Gramont
     details: |
       Wife of a local shipping magnate. Verity interviewed Margritte about her new Dream Lantern.
@@ -48,6 +56,10 @@ characters:
   - name: Pierre
     details: |
       A woodcutter in the Bronzewood. The Silverstone Players helped rescue his camp from marauding giant-kin.
+  - name: Ulmo Appleblossom
+    slug: ulmo-appleblossom
+    details: |
+      One of the legendary Four Immortals, Ulmo revealed himself as the founder of the Harfoot Syndicate.
   - name: Vallentin
     details: |
       The steward at Dame Savindar's manor, Vallentin brought the party the gifted Dream Lantern.
@@ -55,11 +67,22 @@ characters:
     slug: wim-spence
     details: |
       One of Mo's professors at the Arcane Order. Professor Spence mentioned that another student had asked questions about dream magic a few months prior.
+organizations:
+  - name: The Harfoot Syndicate
+    slug: harfoot-syndicate
+    details: |
+      Although warned not to interfere in Syndicate business, the Silverstone Players investigated the Dream Lanterns and had little choice but to aid Cyrene in destroying the workshop of House Dreamthistle. Afterward, they met with the Syndicate's founder, Ulmo Appleblossom of the Four Immortals, to whom they now owe a future favor.
+  - name: House Dreamthistle
+    slug: house-dreamthistle
+    details: |
+      House Dreamthistle manufactured the Dream Lanterns in their hidden workshop and distributed them to the wealthy and powerful of Wellspring.
 outcome: |
-  To be determined...
+  The Silverstone Players destroyed the workshop where the Dream Lanterns were being crafted, and began the process of healing the victims. Unfortunately, both the Dreamthistle twins and the apparent mastermind (a mind flayer) escaped. The Silverstone Players also owe a favor to Ulmo Appleblossom, revealed as the head of the Harfoot Syndicate.
 rewards: |
   - A *potion of treant strength* from the woodcutters.
   - A carved wooden acorn, meant to be worn as a necklace.
+  - 600 gold pieces, taken from the House Dreamthistle workshop.
+  - 4 pieces of magicite apiece.
 ---
 
 > Date: [10 Unicorn]({{site.baseurl}}/campaigns/wellspring/adventures#autumn-2258)
@@ -259,3 +282,67 @@ A single halfling was waiting for Ebard there, although Roya spotted two more st
 Deciding that discretion was the better part of valor, Roya retreated back to the surface and shared what she had learned with the rest of the Silverstone Players. Accompanied by Cyrene, the party returned to the Undercity. Unfortunately, an ill-advised shortcut lead the group astray, finding themselves in a series of tunnels crudely carved from the stone; ahead, Roya and Verity spotted a hulking figure with mismatched ape and crab arms and a horrifying patchwork of fur and chitin, which roared a challenge to the intruders as it prepared to attack.
 
 The Silverstone Players responded with a barrage of bolts, arrows, and magic. The malformed beast charged forward and nearly flattened Roya with its overside claw, who stabbed it deeply with her rapier and then retreated behind Py and her steel construct. Py in turn infused a crossbow bolt with radiant magic and fired it at the beast, striking the creature in the chest. Mo scorched the crab-ape with a series of fiery rays; enraged, the creature responded by pulling a boulder out of the wall with its hideous strength and throwing it wildly at the party. Another fusillade of arrows and magic struck the beast before Py finally brought it down with a crossbow bolt through an oversized compound eye.
+
+Our heroes are thrilled at having overcome the chimeric horror, and slip back to the vicinity of the underground warehouse. As the structure comes into view, a problem comes into focus: the Silverstone Players have yet to decide how to accomplish their goal of shutting down the distribution of the lanterns. A direct assault seems likely to result in excessive noise and bloodshed, but sneaking the whole party in seems an unlikely prospect, and the guards are too closely packed to be picked off one by one. Ultimately, the group decides that Mo will scout ahead invisibly, while the rest will secure entrance through Verity’s magical charm.
+
+With a bit of luck, Verity’s enchantment takes hold on the outermost pair of guards before they notice her approach. The guards are all too ready to provide information for their new friend, and Verity has many questions. Under her probing, a picture emerges of a deeply toxic workplace: those workers who step out of line are brought to the back room for discipline. When they emerge, they are no longer themselves, but Taken: as though something sinister, something alien, were now wearing their faces. The Dreamthistles–Jasper with his uncanny magic and Jasmine with her fancy sword–clearly run a tight shop, but the unvoiced suspicion among the staff is that they may not really be running things any more. Still, while these methods aren’t the epitome of harmonious labor relations, they appear surprisingly effective: this workshop has been making lanterns at a breakneck pace, and hundreds are ready to be shipped out shortly. The staff who have not been changed don’t dare drawing attention, and these guards are too terrified to leave their post.
+
+Mo’s observations, meanwhile, complement this description perfectly: roughly a half-dozen anxious-looking guards are scattered near the warehouse door, while two thralls engage in steady mindless labor, moving boxes into position. Haphazard rows of components and boxed lanterns–along with the level of activity still being carried out at this late hour–suggest an operation whose considerable effectiveness arose less from efficiency than from the continuous application of increasingly frantic labor.
+
+Back outside the warehouse, Verity’s interrogation has reached a dead end, so she decides to go with the old-fashioned approach: violence. She throws a blast of magic at her former friend, who shakes off his surprise to respond with a narrowly misdirected spear thrust, while his partner tosses an explosive device to alert the rest of the guards. Sensing an opportunity, Roya rushes up in an attempt to quickly subdue the second guard with a knockout strike; unfortunately, her adversary remains standing. Py’s wrench joins Verity’s blasts, and the spear-carrying guard is well and truly engaged.
+
+Seeking a more dynamic battlefield, Roya works herself free of her opponent, charging toward the warehouse and then up its vertical walls, thanks to her climbing slippers. From her new elevated vantage point, she launches an arrow back toward the guard menacing Py and Verity, and brings him down, freeing Py up to charge two more of the guards responding to the alarm. Py’s wrench connects solidly with a guard who is then finished off by a barrage of Cyrene’s magic missiles.
+
+Hearing the commotion outside, and seeing an unusually well-equipped and authoritative-looking adversary about to join the fray, Mo slips back outside in the shadow of the doorway and waits for a moment to engage.
+
+Verity launches a series of eldritch blasts at the two guards engaged with Py, who goes on to have a rough few moments: Verity’s attack actually hits her, before she is sliced by a guard’s spear. Only a quick reflexive arcane shield keeps her from being further struck with the guard captain’s arrow: alas, Mo’s ambush came to naught when the guard captain shook off her attempted illusion. From up on the wall, Roya launches her own ambush, hitting the guard captain squarely with an arrow of her own. Py’s shield holds strong against the guards’ attacks, while Mo strikes the captain with arcane darts and Cyrene flings another barrage at the wounded guard. Feeling the heat too much, Roya retreats further up the roof, while Py’s steel defender deflects a guard’s spear, leaving him vulnerable to Mo’s precise bolt of fire. Py lands a wrench blow (while unfortunately singeing herself in the process). When Verity drops the final guard with another eldritch blast, the guard captain reads the room and yields.
+
+The Silverspring Players are happy to be merciful if it brings the conflict to a faster end, and promise the guard captain she can go in exchange for information. The captain is all too happy to oblige–she’d been looking for a way out of her frankly abusive workplace, and has enough of her wits about her to know it’s time for a new career. Before she goes, she informs the party of what remains in the warehouse: Jasper and Jasmine and hundreds of lanterns. Any other guards have either been Taken or eaten, a fate the guard captain is pleased to avoid.
+
+The party reflects on these sobering revelations, while Roya scouts around the roof. This proves to be uninformative: some covered-over skylights and boarded-up back windows are not likely to provide either egress or exit, so the party takes the captain at her word and moves in through the front door. The workers Mo saw earlier are huddled in the back with improvised clubs, but lack the initiative and spirit to represent any threat to the party. Indeed, they are too broken in spirit to do much of anything: despite a clearly quite effective raid, they are too afraid of their bosses to take the opportunity to escape.
+
+Moving further into the warehouse, the Players discover a corridor with four side doors and one door at the back. The sounds of weeping leak through one closed door; two other rooms contain empty sleeping quarters and a storage room. The final room is a workshop–a quick investigation reveals a cache of magicite, which Mo claims for the party, though she unfortunately triggers a magical trap in the process. The sting is palpable, but it seems no one remains in the warehouse to respond to the alarm.
+
+Resolved to press forward and complete their mission, the party opens the door at the end of the hallway.
+
+The Silverstone Players are perhaps uniquely positioned to appreciate what lies beyond: well-acquainted with cheap theatrics, they recognize a throne room set when they see one. Two high-backed chairs, on a dais, stand on either side of one final doorway. Two halflings lounge in the chairs, unexpectedly calm, even bemused. The conversation that follows is full of rage from the party: they demand that the workers be released and the operation shut down, to which Jasmine replies that "The workers cannot leave, for the Master's touch is upon them. The Master is always with us."
+
+Disgusted at this abuse of magic, Mo calls Jasper a cheap charlatan who should've stayed in school instead of using his power for evil. Jasper insults her studiousness, but then sighs, declaring that "You wouldn't understand. We didn't, until the Master showed us."
+
+At this point, the Dreamthistles clearly refuse to back down, and the Players have had enough pointless conversation. Roya lunges at Jasmine with her rapier, then disengages and retreats; Py magically marks Jasper as her prey, but manages only a glancing blow with her crossbow. Verity tries to enchant Jasper, but it is ineffective: did he resist? Or is his mind already in the possession of another?
+
+Perhaps out of a sense of honor between swashbucklers, Jasmine tries to duel Roya, while Jasper incants a word of madness that afflicts Roya, who responds by downing a potion of healing. Py's next crossbow bolt also goes wide. Mo manages to create a phantasmal cage in Jasmine's mind, trapping her; but Jasper responds by paralyzing Mo with a spell, and the invisible cage evaporates with Mo's lost concentration. Cyrene responds to Roya's injuries by healing her further; envigorated, Roya pierces Jasmine with her rapier, and Py's attack on Jasper strikes home. Under pressure, he gives up his enchantment of Mo to focus on making himself invisible. Verity, meanwhile, further controls the battlefield by filling Jasmine's mind with chaotic voices. Jasmine first flees to a corner of the office, before shaking it off and launching herself at Py; her attack is stopped by the valiant steel defender.
+
+Things are clearly looking bad for the Dreamthistles, who try to escape: Jasper materializes next to Jasmine and tries to escape through a dimension door, but Mo counters the spell before it can complete. Roya prepares to use more conventional physical means to disrupt the next spell, while Mo strikes Jasmine down with a firebolt. Jasper is infuriated to see his sister swoon, and attempts to summon dark tentacles from another dimension, though Mo interrupts this spell as well. The Players rush forward, trying to take Jasper down too before he can escape, but he manages to cast a final dimension door and flee with his sister.
+
+Exhausted by the fight, the Players nonetheless move quickly to study the operation. Verity searches the office and turns up a ledger listing all the existing customers of the dream lantern operation. Roya attempts to crack a safe, and discovers just in time that it is protected by a poisoned needle trap. She narrowly avoids the trap and the safe yields its secrets to her: coins and small gemstones worth 600 gold pieces, in various denominations. With nothing else of interest in the ersatz throne room, the party turn to remaining exit door; it is locked, but through the keyhole they spy dim lighting and a haze of foul-smelling mist.
+
+Cyrene is eager to breach this final challenge to ensure that the entire operation has been expunged. But before pressing on, the party decides to tie up a few loose ends, and returns to the room with the sobbing voice. They enter to find an improvised cell, previously occupied by many a worker who has since been Taken, and currently occupied by one Reed Fastfoot. She is clearly distraught, as she was expecting to lose her identity completely within the next few hours. The Players' unfamiliar faces fill her with mistrust--but the tiniest glimmer of hope.
+
+Reed asks the Players if they are from the Syndicate, finally attempting a rescue. The Players respond that while they aren't working under commission, rescue is at hand; Reed shakes like her namesake in relief. She tells the Players that she didn't see the final steps of the lanterns being made--whatever process infused them with their magical properties was not carried out in front of the workers--but she knew that something deeply wrong was being carried out here and finally reached a point where she could no longer be a part of it--"Making some gold is one thing, but whatever's going on here just isn't right"--only to discover that resigning from this operation is not actually an option. Reed, now freed, promises the party to use whatever authority she still has with the remaining workers to convince them to leave the premises, in the hope that they'll be more receptive to the message if it comes from a familiar face.
+
+While Reed attempts her negotiations, the Players take a breather to prepare for whatever lies ahead in the room in back.
+
+They open the door to discover a room which seems much larger than should be possible, given the external dimensions of the building, an effect only further enhanced by its far wall being hidden by a thick cloud of acrid, unnatural mist. The noxious fog fails to obscure the unsettling sight of what can only be described as a spawning pool of flesh, filled with squirming horrors. And before it all, staring down at the intruders, a creature with ink-black eyes and a face obscured by tentacles hovers expectantly: a mind flayer.
+
+With the arrogance prized by his kind, the mind flayer informs the party that insects such as themselves should not presume to interfere with this operation--and that he will show them exactly how his inferiors ought to be dealt with, unleashing a tangible wave of psychic force at our heroes. Roya is stunned, and nearly killed, by the wave of mental malevolence; the others are struck soundly but not incapacitated. Recovering first from the surprise, Mo launches a firebolt at the aberration and strikes home. The creature deflects Py's crossbow quarrel into the wall with a telepathic pulse. Verity, fighting fire with fire, attempts to land a mental attack on the extradimensional egotist; unimpressed, the mind flayer enthralls Roya and commands her to draw Verity's blood. Py sends her steel defender to interpose between the two Players, but not before the rogue's attack hits true; meanwhile, the bard launches a pari of eldritch blasts at the eldritch beast, which loses its grip on Roya's mind. In retaliation, it launches another psychic blast, stunning Roya again and downing Verity entirely. Incensed at the deteriorating situation, Mo releases a barrage of fiery magic, nearly killing the mind flayer outright; but she is too spent to prevent the mind flayer from retreating through a rift into the deep dreaming.
+
+The combat ended, the party tends to Verity and makes a quick examination of this alien space, finding nothing of interest (at least, not comprehensible to mortal minds). Cyrene meanwhile begins to assemble a spell circle with glowing magicite. Upon questioning, she says she will "cleanse the source of the corruption," and suggests that the others should clear the warehouse now, as they probably haven't been training their sprints as thoroughly as Cyrene has.
+
+Understanding urgency when they see it, the party hastily herd the warehouse workers out, shortly joined by Cyrene, moving at a surprisingly rapid clip. Adventurers and refugees round a corner right before a brilliant blast promptly evaporates everything in the cavern. Exhausted, the party drops the workers--including two now-unresponsive thralls--off at Brother Lucian's clinic, then split up, with Cyrene returning to the Astral Observatory, and the others returning home, to reconvene the next day after a rest.
+
+> Date: [23 Unicorn]({{site.baseurl}}/campaigns/wellspring/adventures#autumn-2258)
+
+As agreed, the Silverstone Players reconvene at the theater to discuss all that transpired the night before. Despite the rest, everyone is still rather shaken. But the Players have only begun to sort through their reactions when a carriage arrives, driven by a halfling in an uncommonly nice suit. Another, similarly-well-dressed, emerges and knocks on the door of the theater. Py answers (with her usual enthusiasm) but is merely handed an invitation addressed to The Silverstone Players, inviting them to dine with "a concerned citizen" at the Rabbit's Foot Casino that evening.
+
+The party collectively discusses their concerns--both with the lanterns and the anonymous, but clearly Harfoot-involved, invitation--until Py and Roya decide to head to the cafe where they meet Marigold. Py explains the situation since their last meeting. When Marigold hears the party has received an invitation, she goes pale, stating that had she known, she would not have agreed to speak with Py. Marigold warns Py that the dress code at the casino is formal and that arms and armor are forbidden, and advises her to be honest but above all, respectful--one of these being a greater challenge than the other for most of the Players. Not wanting to leave anything to casual assumption, Roya asks who the invitation is from, and Marigold responds that only one person issues such an invitation: the founder of all the Houses and the Syndicate itself.
+
+Py and Verity, less sartorially endowed by nature than Mo and Roya, find formal attire, then the party heads to the dinner.
+
+Upon arrival, they are led by silent foothalfings in livery through a series of lavishly decorated hallways, past the elegant patrons in the well-appointed public rooms, to a private dining hall with a long table, a large fire, and a diminutive but perfectly self-prepossessed halfling already seated at one end. He looks them over with a piercing glance, and gesturing to the table, invites them to "sit, eat." The Players thank him for the food--a delicious multi-course meal with exquisite wine pairings indulged in by three of the four.
+
+At the conclusion of the meal, the founder compliments the party on their refinement in not spoiling a meal with talk of business, then begins his own business discussion. Specifically, the Syndicate cannot tolerate anyone openly opposing any of its Houses without consequence. At the Players' urging, he does acknowledge that they have in fact done him a favor, in one sense: the business in which late House Dreamthistle had been engaged was certain to bring unwarranted attention from every power structure in the city--indeed, was already doing so--which would have led to outside involvement which even the Syndicate could not easily control. Nevertheless, Syndicate matters are to be handled within the Syndicate alone.
+
+The Players suggest a potential resolution: that it be made known that they were acting on his orders, with his prior knowledge, and thus not outsiders for this particular matter, while also not a rival House whose involvement could spark an ongoing internecine conflict. The Founder suggests that the Players in fact come to work for him in earnest, to keep an eye on his Houses and maintain their balance, while perhaps accomplishing the occasional additional task. He expresses also the temptation of "some personal pleasure in stealing away my old colleague's proteges." The Players state that regretfully a long-term association will not be possible, to which he instead says that they will owe him a debt for agreeing to the ruse--and that they will one day perform a service for him, whereupon they are gently escorted out of the casino. But not before asking one final question--the identity of their benefactor-patron, who reveals himself to be none other than Ulmo Appleblossom, Halfling Rogue of the Four Immortals.
+
+As they make their way back to the Theater, the Players have a tense discussion among themselves about the implications of their debt to the Syndicate and just what will happen next.
