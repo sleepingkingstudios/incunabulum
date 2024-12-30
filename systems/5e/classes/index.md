@@ -29,7 +29,7 @@ With the DM's permission, you can customize your class proficiencies to better s
 
 Rather than combining magic and technology, runethanes create their effects by inscribing or carving runes.
 
-A runethane is an heir to an ancient magical tradition that stretches back to the dawn of history - the first runethanes were the Giants, who used rune magic to build an empire and artifacts that still endure to this day. Most runethanes take either the Armorer or the Battle Smith specializations.
+A runethane is an heir to an ancient magical tradition that stretches back to the dawn of history - the first runethanes were the Giants, who used rune magic to build an empire, as well as many artifacts that still endure to this day. Most runethanes take either the Armorer or the Battle Smith specializations.
 
 ## Clerics
 

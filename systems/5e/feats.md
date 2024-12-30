@@ -35,12 +35,20 @@ Talents represent a particular gift the character has for an area of cunning, mi
 ## List of Feats
 
 | Name | Description |
+| [Arcane Resilience](#arcane-resilience) | You regain more spell slots using Arcane Recovery. |
 | [Extra Infusion](#extra-infusion) | You have deepened your studies as an artificer. |
+| [Extra Sorcery](#extra-sorcery) | You gain additional Sorcery Points. |
 | [Improved Spellcasting](#improved-spellcasting) | You have expanded your spellcasting ability. |
 | [Open The Third Eye](#open-the-third-eye) | You have a talent for divination magic. |
 | [Signature Spell](#signature-spell) | You have mastered a single spell. |
 | [Spell Artist](#spell-artist) | You can shape the manifestations of your spells at will. |
 | [Steel Defender: Cannon](#steel-defender-cannon) | You can upgrade your Steel Defender with a cannon attack. |
+
+### Arcane Resilience
+
+*Prerequisite: Arcane Recovery feature*
+
+Your studies have unlocked a greater understanding of your own magic. When you use the Arcane Recovery feature, you can choose expended spell slots equal to or less than half your wizard level + your Proficiency bonus.
 
 ### Bloodline of Air
 
@@ -114,6 +122,12 @@ Additionally, choose one of the following benefits:
 You have deepened your studies as an artificer. You learn one artificer infusion. Whenever you gain a level, you can replace the artificer infusion you learned with a new one.
 
 You can select this feat multiple times. Each time you do so, you learn one additional artificer infusion. In addition, every second time you take this feat, your maximum number of infused items increases by 1.
+
+### Extra Sorcery
+
+*Prerequisite: Sorcery Points feature*
+
+You have learned to tap deeper into your wellspring of magic. You gain a number of additional sorcery points equal to your proficiency bonus.
 
 ### Fey Bloodline
 
