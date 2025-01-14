@@ -6,7 +6,7 @@ title: D&D 5E \| Feats
 
 Bloodlines and Talents are special feats that provide additional bonuses compared to a regular feat. However, they come with certain restrictions:
 
-- Bloodlines and Talents can only be selected at 1st level, unles you have specific approval from the DM.
+- Bloodlines and Talents can only be selected at 1st level, unless you have specific approval from the DM.
 - Each character can have at most one Bloodline or Talent, even if they can select more than one feat at 1st level.
 
 ## Bloodlines
