@@ -118,7 +118,7 @@ After the events of [A Volatile Tail](./a-volatile-tail), the party takes a few 
 
 15 Unicorn
 : [The Dream Lanterns](./dream-lanterns): After Verity's article appears in the broadsheets, the Silverstone Players reach out to the Delver's Guild for more information on fairy magic, and are directed to the druidic circles in the Bronzewood.
-: ???: The Silverstone Players agree to escort a giant from a nearby community into the depths below Wellspring.
+: [The Gate Crashers](./gate-crashers): The Silverstone Players agree to escort a giant from a nearby community into the depths below Wellspring.
 
 16 Unicorn
 : [The Dream Lanterns](./dream-lanterns): The Silverstone Players depart for the Bronzewood.
@@ -137,6 +137,9 @@ After the events of [A Volatile Tail](./a-volatile-tail), the party takes a few 
 
 23 Unicorn
 : [The Dream Lanterns](./dream-lanterns): The Silverstone Players are invited to the Rabbit's Foot Casino where they meet with the head of the Harfoot Syndicate, revealed to be Ulmo Appleblossom of the Four Immortals.
+
+29 Unicorn
+: [The Gate Crashers](./gate-crashers): The party escort Dagmar Ragnasdottir through the deeps beneath Wellspring.
 
 ---
 
