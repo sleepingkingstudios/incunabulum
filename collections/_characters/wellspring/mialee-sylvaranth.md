@@ -14,8 +14,12 @@ organizations:
 adventures:
   - name: The Silverstone Theater Mystery
     slug: silverstone-theater-mystery
-    details:
+    details: |
       Mialee welcomed the Silverstone Players to the Delver's Guild, and provided an invitation to Dame Savindar's fundraiser.
+  - name: The Gate Crashers
+    slug: gate-crashers
+    details: |
+      Mialee briefed the party on behalf of the Delver's Guild.
 ---
 
 Mialee is an administrator at the Delver's Guild, and the Silverstone Players' primary point of contact with the same.

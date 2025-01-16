@@ -6,6 +6,7 @@ title: Character Boons
 
 - [Character Boons And Tiers](#character-boons-and-tiers)
 - [Minor Boons](#minor-boons)
+- [Runic Blessings](#runic-blessings)
 
 Character Boons are an option for non-class character progression. They are intended to be on the order of a feat in terms of balance; at the DM's discretion, a character may elect to take a Character Boon instead of an Ability Score Improvement or a Feat whenever their class would allow them to select one of the latter. Boons may also be awarded for particular achievements in-game.
 
@@ -22,9 +23,11 @@ D&D Fifth Edition divides characters into four tiers of play, corresponding to a
 
 [Back To Top](#)
 
+{% assign all_boons = site.dnd5e_boons %}
+
 ## Minor Boons
 
-{% assign minor_boons = site.dnd5e_boons %}
+{% assign minor_boons = all_boons | where: "tier", "minor" %}
 
 Minor boons are available to all characters, regardless of tier.
 
@@ -33,6 +36,33 @@ Minor boons are available to all characters, regardless of tier.
 
 {% for boon in minor_boons %}
 ### {{ boon.name }}
+
+{% if boon.prerequisite %}
+Prerequisite
+: {{ boon.prerequisite }}
+{% endif %}
+
+{% if boon.repeatable %}
+Repeatable
+: You can select this boon multiple times{% if boon.repeatable == "1/tier" %}, up to a total number of times equal to one less than your Proficiency Bonus.{% else %}.{% endif %}
+{% endif %}
+
+{{ boon.content }}
+
+[Back To Top](#)
+{% endfor %}
+
+## Runic Blessings
+
+{% assign runic_blessings = all_boons | where: "tier", "runic-blessing" %}
+
+Runic blessings are granted by the Giantish pantheon, known as the Ordnung. Giantish clerics and runethanes will sometimes offer to extend these blessings to outsiders in exchange for some service. A character cannot have more than one runic blessing; a character who already has a runic blessing and accepts a second will lose their original blessing, and likely earn the wrath of the deity who granted it.
+
+| **Name** | **Description** | **Prerequisite** |{% for boon in runic_blessings %}
+| [Blessing of {{ boon.name }}](#blessing-of-{{boon.slug}}) | {{ boon.description | default: boon.content | strip_html | strip }} | {{ boon.prerequisite | default: "—" }} |{% endfor %}
+
+{% for boon in runic_blessings %}
+### Blessing of {{ boon.name }}
 
 {% if boon.prerequisite %}
 Prerequisite

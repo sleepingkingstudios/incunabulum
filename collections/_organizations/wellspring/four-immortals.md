@@ -16,8 +16,9 @@ members:
     details: |
       A female dwarf wizard. Retired to the Free Cities.
   - name: Ulmo Appleblossom
+    slug: ulmo-appleblossom
     details: |
-      A male halfling rogue. Current whereabouts unknown.
+      A male halfling rogue. Now the head of the Harfoot Syndicate in Wellspring.
 ---
 
 A legendary party of adventurers, who are said to have delved deeper beneath Wellspring than any others. They disbanded shortly after the Sherem Wars for reasons unknown.

@@ -10,6 +10,7 @@ campaign: wellspring
   - [The Lower City](#the-lower-city)
   - [The Undercity](#the-undercity)
 - [The Great Chasm](#the-great-chasm)
+- [Beneath Wellspring](#beneath-wellspring)
 - [Around Wellspring](#around-wellspring)
   - [The Bronzewood](#the-bronzewood)
   - [Shadepool](#shadepool)
@@ -52,6 +53,12 @@ The area beneath the city proper is known as the Undercity. Officially, this are
 The Great Chasm is both the reason for the City of Wellspring’s existence and its single greatest threat. A vast rift in the earth of unknown depth, the Great Chasm is a powerful source of natural magic. As such, it draws creatures and monsters of all descriptions, some of which are drawn to the city above (or driven there by even more terrifying beasts from the depths).
 
 In particular, the mana from the Chasm ebbs and flows, and can rarely and unexpectedly surge, driving hostile creatures up into the city in great numbers. These events are referred to as Upwellings. At least twice in the city’s past, a Great Upwelling has seen fighting as far as in the Upper City, but even the “average” outbreak is dangerous and can cause significant damage to the lower districts.
+
+[Back To Top](#)
+
+## [Beneath Wellspring]({{site.baseurl}}/campaigns/wellspring/setting/geography/beneath-wellspring)
+
+Beneath the city of Wellspring lies a vast, mostly uncharted network of caves, caverns, and catacombs, home to creatures fair and foul and filled with lairs, traps, treasures, and ruins from lost and ancient civilizations. Collectively, they are known as the Deeps. Members of the Delvers' Guild risk their lives to explore the Deeps in search of fame, fortune, and the all-important magicite that crystallizes from raw mana from the Great Chasm.
 
 [Back To Top](#)
 
