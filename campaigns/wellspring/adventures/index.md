@@ -139,7 +139,13 @@ After the events of [A Volatile Tail](./a-volatile-tail), the party takes a few 
 : [The Dream Lanterns](./dream-lanterns): The Silverstone Players are invited to the Rabbit's Foot Casino where they meet with the head of the Harfoot Syndicate, revealed to be Ulmo Appleblossom of the Four Immortals.
 
 29 Unicorn
-: [The Gate Crashers](./gate-crashers): The party escort Dagmar Ragnasdottir through the deeps beneath Wellspring.
+: [The Gate Crashers](./gate-crashers): The Silverstone Players escort a giantish runethane through the deeps beneath Wellspring and defeat a powerful fire elemental to earn the favor of the myconids.
+
+30 Unicorn
+: [The Gate Crashers](./gate-crashers): The party continue their journey through the deeps, battling a pack of vicious hell hounds and meeting the enigmatic Herald of Akasha, an emissary from a city in the infernal realms.
+
+1 Sphinx
+: [The Gate Crashers](./gate-crashers): The party return triumphant to the surface, earning a runic blessing from the giantish runethane.
 
 ---
 

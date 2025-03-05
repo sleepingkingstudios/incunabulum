@@ -13,16 +13,22 @@ characters:
   - name: Fernscale
     details: |
       The leader of the kobold scouts the party encountered in the Weeping Shrine.
+  - name: Jacaranda
+    details: |
+      An excitable pixie who emerged from a gate to the Feywild. She witnessed Verity's brother vanish into the same gate.
   - name: Mialee Sylvaranth
     slug: mialee-sylvaranth
     details: |
       Mialee briefed the party on the route to reach the Gallery of Ruined Gates.
 outcome: |
-  To be determined.
+  The Silverstone Players escorted Dagmar to and from the Gallery of Ruined Gates, and made a startling discovery about the fate of Verity's brother Honor.
 discoveries: |
   - There are kobolds with mottled brown-green scales living somewhere deep beneath Wellspring; one of their scouts, Fernscale, declared the Silverstone Players "friends to dragonkin".
+  - Verity's brother Honor vanished into a gate to the Feywild, specifically the domain of Prismeer, ruled by the archfey Zyblina. However, that portal is now sealed from the other side.
+  - Another nearly-intact gate leads to the city of Demiurge in the infernal realms, ruled by the devil Akasha. Although damaged, the gate could be repaired with the right expertise and materials.
 rewards: |
   - An oversized spear of unknown bronze alloy, able to keep its strength even while glowing hot.
+  - A runic blessing from Dagmar, granting each party member a blessing from one of the Ordnung, the giantish pantheon.
 ---
 
 > Date: [29 Unicorn]({{site.baseurl}}/campaigns/wellspring/adventures#autumn-2258)
@@ -191,3 +197,37 @@ Two of the infernal creatures leapt at Py in retaliation, only foiled by a hasty
 The Silverstone Players took the opportunity to lick their proverbial wounds. To their alarm, the gate to Demiurge opened a second time before dramatically burning out; through the portal stepped a woman of unmistakable demonic heritage, with curved horns and black wings, and wearing a very stylish suit and spectacles. Eyebrow raised, she asked who in the group had been playing around with the portals, and introduced herself as the "Herald of Akasha, mistress of Demiurge." She stated that the ability to craft gates was of considerable interest to her mistress, and she had been empowered to offer the crafter responsible an opportunity to study under Akasha herself. With Dagmar showing uncharacteristic good sense and remaining silent, the Silverstone Players collectively declined her offer, at which the fiend created a free-standing planar portal of her own accord and stepped through.
 
 The excitement temporarily over, Dagmar took another look at the damaged infernal portal, and determined she could still repair it, but she would require some rare materials and assistance both from a modern arcane crafter as well as some stonesingers from her community.
+
+<!-- Session Break -->
+
+Verity belatedly remembered that her bardic talents granted a limited ability to speak with the pixie. Unfortunately, the excitable fey had little more to share with her regarding her brother's disappearance. The pixie did not know how long had elapsed since Honor entered the portal, only that Honor had been playing "hide and seek"; inferring from context, her brother had been searching for something.
+
+The pixie could share some information about the portal's destination - it lead to the realm of Prismeer, a domain ruled by the archfey Zyblina. Neither name was familiar to the Silverstone Players, but Mo recalled that other planes can have localized pockets or domains, often ruled by a powerful entity and with their own properties and rules. The library at the Arcane Order might have more information; Mo also remembers mention of a group of "amateurs" calling themselves the Society of Planar Cartographers, who have a clubhouse of sorts in the Upper City.
+
+Py takes a wild guess and asks the pixie about the Witchlight Carnival; surprisingly, the name is familiar to the pixie, who recalls the carnival visiting Prismeer and being gifted a boon by the mistress of that domain. Unfortunately, the pixie has no way to return to the fey realms on her own, let alone with the Silverstone Players in tow. She did agree to help them find Honor if they managed to make it to the Feywild, since she never did get to finish their game of hide and seek.
+
+<hr />
+
+<!--
+location: The Fungal Forest
+ -->
+
+Wounded and low on magic, the Silverstone Players felt too exposed in the gallery, especially with the surviving hell hounds on the loose somewhere in the tunnels. With Dagmar in tow and a pixie firmly settled atop Py's head, they returned to the shores of the Starlight Mirror. As promised, after waving the lantern a raft arrived to bear them back across to myconid territory, where they were invited to a "feast" in the mushroom folks' village.
+
+The village was built into the sides of a rift in the earth, crossed by rickety stone bridges and dotted with hanging lanterns of glowing fungus; deep below, water collected in a stagnant pool. Verity remained inwardly focused during the celebration, occasionally writing in her journal, while Mo snuck off to eat some rations in peace.
+
+Feeling more adventurous, Py wandered off and found a spiritual figure of some sort among the myconids, who offered her an edible shroom to "help her understand the fungal perspective". Consuming it before she could have second thoughts, Py was launched into a vivid vision of five colored orbs spinning around in a conceptual space, representing the world and the four moons. Strangely, one seemingly empty space in the vision was inexplicably terrifying to Py, as if her mind simply could not acknowledge whatever was there. Fortunately, Roya followed and ensured the pixie remained entertained while Py went on her spiritual journey.
+
+<hr />
+
+<!--
+---
+location: The Delver's Guild
+characters:
+- Dagmar Ragnasdottir
+---
+ -->
+
+The following morning, the Silverstone Players and escorted giant returned to the surface and the Delver's Guild. Dagmar bid the group return that evening to receive their rewards, a runic tattoo holding a blessing from one of the giantish deities.
+
+Py and Mo planned to visit the library of the Arcane Order together, and seek more information on the Feywild, the domain of Prismeer, and its mistress Zyblina. Verity and Roya would seek the same at the Society of Planar Cartographers. And, of course, in a tenday's time the party would need to depart Wellspring and head back to the Bronzewood to attend the Witchlight Carnival...
