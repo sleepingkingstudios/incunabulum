@@ -2,7 +2,7 @@
 
 source 'https://rubygems.org'
 
-gem 'jekyll', '~> 4.3'
+gem 'jekyll', '~> 4.4'
 
 # See https://github.com/pages-themes/primer
 gem 'jekyll-theme-primer',
@@ -21,4 +21,4 @@ gem 'thor'
 # Use Webrick as local content server.
 gem 'webrick', '~> 1.8', '>= 1.8.2'
 
-ruby '3.3.7'
+ruby '3.4.2'
