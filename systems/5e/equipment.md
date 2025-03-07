@@ -7,6 +7,7 @@ title: D&D 5E \| Equipment
 - [Armor And Shields](#armor-and-shields)
 - [Weapons](#weapons)
 - [Adventuring Gear](#adventuring-gear)
+- [Potions And Scrolls](#potions-and-scrolls)
 
 ## Armor And Shields
 
@@ -199,6 +200,8 @@ Mail armor is composed of interlocking metal rings, which provide decent protect
 #### Leather Coat
 
 A full-length coat or duster of alchemically treater leather. Undeniably stylish, but it does restrict movement for the most agile wearers.
+
+Even though a leather coat is light armor, characters with the Medium Armor Mastery feat can add 3, rather than 2, to their AC if they have a Dexterity of 16 or higher.
 
 [Back to Armor](#armor-and-shields) \| [Back to Top](#)
 
@@ -398,6 +401,37 @@ A small piece of alchemically treated quartz. In a dark room, it flickers faintl
 This thunderstone has been charged to dangerous levels. In addition to the initial damage, the target and all adjacent creatures must make a DC 13 Dexterity saving throw (or 10 + the alchemist's Intelligence modifier + the alchemist's proficiency bonus) or take 1d6 points of lightning damage, even if the initial attack is a miss.
 
 [Back to Adventuring Gear](#adventuring-gear) \| [Back to Top](#)
+
+## Potions And Scrolls
+
+Common consumable magic items such as potions and scrolls are readily available, as per the following:
+
+### Potions For Sale
+
+| **Potions** | **Cost** |
+| *Healing* | 50 gp |
+| *Greater Healing* | 100 gp |
+| Common potion | 75gp |
+| Uncommon potion† | 150gp |
+| Rare potion†† | 300gp |
+
+† Buying an uncommon potion other than a *potion of greater healing* requires a relevant contact, such as a potioneer, alchemist, or black market vendor.
+
+†† Buying a rare potion requires spending a favor from a relevant contact.
+
+### Spell Scrolls For Sale
+
+| **Spell Level** | **Cost** |
+| Cantrip | 25 gp |
+| 1st level | 75 gp |
+| 2nd level| 150 gp |
+| 3rd level† | 300 gp |
+| 4th level†† | 450 gp |
+| 5th level†† | 600 gp |
+
+† Buying a spell scroll of 3rd level requires a relevant contact, such as an arcane scribe or black market vendor.
+
+†† Buying a spell scroll of 4th or 5th level requires spending a favor from a relevant contact.
 
 ---
 
