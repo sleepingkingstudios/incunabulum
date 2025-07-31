@@ -16,9 +16,9 @@ gem 'kramdown-parser-gfm', '~> 1.1'
 gem 'sleeping_king_studios-tools', '~> 1.1'
 
 # Use Thor for command-line interface.
-gem 'thor'
+gem 'thor', '~> 1.4'
 
 # Use Webrick as local content server.
 gem 'webrick', '~> 1.8', '>= 1.8.2'
 
-ruby '3.4.2'
+ruby '3.4.5'
