@@ -19,6 +19,9 @@ collections:
   organizations:
     output: false
     sort_by: slug
+  scenes:
+    output: false
+    sort_by: slug
 defaults:
 - scope:
     path: ''

@@ -16,9 +16,24 @@ Omake
 
 ## Adventure Log
 
+{% assign content_length = adventure.content | strip | size %}
+{% if content_length > 0 %}
 {{ adventure.content }}
 
 [Back To Top](#)
+{% endif %}
+
+{% assign scenes = site.scenes | where: "campaign", page.campaign | where: "adventure", page.slug | sort: "adventure_index" %}
+
+{% for scene in scenes %}
+- [{{ scene.title }}](#{{ scene.slug }})
+
+  {{ scene.summary }}
+{% endfor %}
+
+{% for scene in scenes %}
+{% include pages/adventure/scene.md scene=scene %}
+{% endfor %}
 
 {% if adventure.characters %}
 ## Characters
