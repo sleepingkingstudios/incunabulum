@@ -19,6 +19,8 @@ characters:
     details: One of the three hags of the Hourglass Coven, ruler of Hither. She lives in the village of Downfall among the Bullywogs.
   - name: Hourglass Coven
     details: Three hag sisters who have seized Prismeer from its former ruler and divided the realm into three parts - Hither, Thither, and Yon. The three hags hate and avoid each other.
+  - name: Jingle Jangle
+    details: A goblin cursed by Bavlorna Blightstraw to covet keys. She stole the key to Sir Talavar's enchanted cage and fled to her cave atop Telemy Hill. She asked the Silverstone Players to aid her against the Harengon brigands.
   - name: Sir Talavar
     details: A faerie dragon knight, dispatched by Titania the Summer Queen to request the aid of Zybilna. He was trapped by Bavlorna Blightstraw in an enchanted cage, and nearly escaped in a stolen balloon.
   - name: Zybilna
