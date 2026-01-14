@@ -4,10 +4,23 @@ title: D&D 5E \| Equipment
 
 # Equipment
 
+- [Materials](#materials)
 - [Armor And Shields](#armor-and-shields)
 - [Weapons](#weapons)
 - [Adventuring Gear](#adventuring-gear)
 - [Potions And Scrolls](#potions-and-scrolls)
+
+## Materials
+
+Most adventuring gear is crafted from the same set of sturdy materials - wood and leather, iron and bronze. Forging weapons, armor, or tools from more exotic origins is rare, difficult, and expensive, but such items can provide superior performance over their mundane counterparts.
+
+### Bronzewood
+
+The great bronzewood trees are highly sought after by the [wild elves](http://localhost:4000/campaigns/wellspring/setting/peoples#wild-elves). The wood is highly sought by illegal loggers for its surpassing strength and beautiful veins resembling polished bronze. Cutting a living bronzewood is a mortal offense to the wild elves, who instead shape the discarded branches using both master craftsmanship and druidic magic, creating [weapons of superior quality](#bronzewood-weapons).
+
+### Elven Glass
+
+The glass-smiths of the reclusive high elves spend centuries honing their skills, and are capable of producing works that are as beautiful and delicate as a snowflake yet as strong and enduring as forged steel. Those few items of elven glass that leave their mountain fastnesses are highly prized, from heartbreakingly beautiful instruments of music to deceptively strong weapons. The legendary [mosaic armor](#mosaic-armor) worn by high elven soldiers uses both glass and mithril, along with many powerful enchantments.
 
 ## Armor And Shields
 
@@ -18,6 +31,7 @@ The following tables and descriptions replace the "Armor" table on page 145 of t
 - [Heavy Armor](#heavy-armor)
 - [Masterwork Armor](#masterwork-armor)
 - [Armor Variants](#armor-variants)
+- [Magical Armor](#magical-armor)
 
 <table>
   <thead>
@@ -106,21 +120,21 @@ The following tables and descriptions replace the "Armor" table on page 145 of t
       </td>
     </tr>
     <tr>
-      <td><a href="#scale-armor">Breastplate</a></td>
+      <td><a href="#breastplate">Breastplate</a></td>
       <td>400 gp</td>
       <td>16</td>
       <td>Str 13</td>
       <td>Disadvantage</td>
     </tr>
     <tr>
-      <td><a href="#scale-armor">Half Plate</a></td>
+      <td><a href="#half-plate">Half Plate</a></td>
       <td>750 gp</td>
       <td>17</td>
       <td>Str 13</td>
       <td>Disadvantage</td>
     </tr>
     <tr>
-      <td><a href="#scale-armor">Half Plate</a></td>
+      <td><a href="#plate-armor">Plate Armor</a></td>
       <td>1500 gp</td>
       <td>18</td>
       <td>Str 15</td>
@@ -253,7 +267,7 @@ A suit of shaped metal plates that interlock to cover the entire body, worn over
 
 ### Shields
 
-A character wielding a shield and with proficiency in shields can use the Attack action to bash an enemy with the shield. Treat the shield as a melee weapon with the specified damage and properties, if any. If the shield has the light property, you can use the shield as a light weapon for the purposes of two-weapon fighting.
+A character wielding a shield and with proficiency in shields increases your armor class by the specified amount. In addition, a proficient character can use the Attack action to bash an enemy with the shield. Treat the shield as a melee weapon with the specified damage and properties, if any. If the shield has the light property, you can use the shield as a light weapon for the purposes of two-weapon fighting.
 
 #### Small Shield
 
@@ -303,13 +317,333 @@ Certain materials may provide additional benefits, particularly those crafted fr
 
 [Back to Armor](#armor-and-shields) \| [Back to Top](#)
 
+### Magical Armor
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="5">Magical Armor</th>
+    </tr>
+    <tr>
+      <th>Armor</th>
+      <th>Rarity</th>
+      <th>Armor Class</th>
+      <th>Strength</th>
+      <th>Properties</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td colspan="5">
+        <a href="#light-armor"><em>Light Armor</em></a>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="#leaf-armor">Leaf Armor</a></td>
+      <td><em>Rare</em></td>
+      <td>13 + Dex modifier</td>
+      <td>--</td>
+      <td>Advantage to Stealth checks in wooded terrain</td>
+    </tr>
+    <tr>
+      <td colspan="5">
+        <a href="#medium-armor"><em>Medium Armor</em></a>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="#dragonscale-armor">Dragonscale</a></td>
+      <td><em>Very Rare</em></td>
+      <td>15 + Dex modifier (max 2)</td>
+      <td>--</td>
+      <td>Resistance to one damage type, Stealth disadvantage</td>
+    </tr>
+    <tr>
+      <td><a href="#fishscale-armor">Fishscale</a></td>
+      <td><em>Very Rare</em></td>
+      <td>13 + Dex modifier (max 2)</td>
+      <td>--</td>
+      <td>Swim speed equal half your land speed, Stealth disadvantage out of the water</td>
+    </tr>
+    <tr>
+      <td><a href="#bronzewood-lamellar-armor">Bronzewood Lamellar</a></td>
+      <td><em>Very Rare</em></td>
+      <td>16 + Dex modifier (max 2)</td>
+      <td>--</td>
+      <td>--</td>
+    </tr>
+    <tr>
+      <td colspan="5">
+        <a href="#heavy-armor"><em>Heavy Armor</em></a>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="#crab-carapace-armor">Crab Carapace</a></td>
+      <td><em>Very Rare</em></td>
+      <td>17</td>
+      <td>--</td>
+      <td>Swim speed equal half your land speed, Stealth disadvantage out of the water</td>
+    </tr>
+    <tr>
+      <td><a href="#mosaic-armor">Mosaic Armor</a></td>
+      <td><em>Legendary</em></td>
+      <td>18 + Dex modifier (max 2)</td>
+      <td>--</td>
+      <td>Incoming spell attacks have disadvantage, Stealth disadvantage</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="7">Shields</th>
+    </tr>
+    <tr>
+      <th>Shield</th>
+      <th>Rarity</th>
+      <th>Armor Class</th>
+      <th>Strength</th>
+      <th>Stealth</th>
+      <th>Damage</th>
+      <th>Properties</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td><a href="#dragonscale-shield">Dragonscale Shield (Small)</a></td>
+      <td><em>Rare</em></td>
+      <td>+2</td>
+      <td>--</td>
+      <td>--</td>
+      <td>1d4 bludgeoning + 1d4 elemental</td>
+      <td>Finesse, light</td>
+    </tr>
+    <tr>
+      <td><a href="#dragonscale-shield">Dragonscale Shield (Medium)</a></td>
+      <td><em>Very Rare</em></td>
+      <td>+3</td>
+      <td>Str 13</td>
+      <td>--</td>
+      <td>1d6 bludgeoning + 1d4 elemental</td>
+      <td>--</td>
+    </tr>
+    <tr>
+      <td><a href="#dragonscale-shield">Dragonscale Shield (Tower)</a></td>
+      <td><em>Legendary</em></td>
+      <td>+4</td>
+      <td>Str 15</td>
+      <td>Disadvantage</td>
+      <td>1d8 bludgeoning + 1d4 elemental</td>
+      <td>Heavy</td>
+    </tr>
+  </tbody>
+</table>
+
+#### Bronzewood Lamellar Armor
+
+*Armor (medium), very rare*
+
+This armor is worn by champions of the wild elves. Crafted from overlapping scales of bronzewood bark, it provides superior protection without sacrificing mobility. While wearing this armor, you have an armor class of 16 + Dex modifier (max 2).
+
+[Back to Armor](#armor-and-shields) \| [Back to Top](#)
+
+#### Crab Carapace Armor
+
+*Armor (heavy), very rare*
+
+This colorful armor is shaped from the carapace of the enormous crabs that live in the shallows of the Emerald Sea, and is a favorite for the captains of mercenary companies from the Free Cities. While wearing this armor, you have an armor class of 17, and gain a Swim speed equal to half your land movement speed. However, you take disadvantage on Stealth checks while out of the water.
+
+[Back to Armor](#armor-and-shields) \| [Back to Top](#)
+
+#### Dragonscale Armor
+
+*Armor (medium), very rare*
+
+This striking armor is constructed using the scales of a juvenile dragon, retaining some of the magical creature's resilience and elemental affinity. While wearing this armor, you have an armor class of 16 + Dex (max 2), and take disadvantage on Stealth checks. In addition, you gain resistance to one damage type, based on the color of the dragon scales:
+
+<table>
+  <thead>
+    <tr>
+      <th>Dragon Color</th>
+      <th>Damage Type</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td>Black</td>
+      <td>Acid</td>
+    </tr>
+    <tr>
+      <td>Blue</td>
+      <td>Lighting</td>
+    </tr>
+    <tr>
+      <td>Brass</td>
+      <td>Fire</td>
+    </tr>
+    <tr>
+      <td>Bronze</td>
+      <td>Lightning</td>
+    </tr>
+    <tr>
+      <td>Copper</td>
+      <td>Acid</td>
+    </tr>
+    <tr>
+      <td>Gold</td>
+      <td>Fire</td>
+    </tr>
+    <tr>
+      <td>Green</td>
+      <td>Poison</td>
+    </tr>
+    <tr>
+      <td>Red</td>
+      <td>Fire</td>
+    </tr>
+    <tr>
+      <td>Silver</td>
+      <td>Cold</td>
+    </tr>
+    <tr>
+      <td>White</td>
+      <td>Cold</td>
+    </tr>
+  </tbody>
+</table>
+
+[Back to Armor](#armor-and-shields) \| [Back to Top](#)
+
+#### Dragonscale Shield
+
+*Shield (small, medium, or tower), rare (small), very rare (medium), or legendary (tower)*
+
+This shield is carved from a single scale discarded or torn from an adult or larger dragon. A dragonscale shield increases your armor class by 1 more than a standard shield of that size. In addition, when making a shield bash attack, add +1d4 damage on a successful hit. The type of damage depends on the color of the dragon scale (see the table for [Dragonscale Armor](#dragonscale-armor), above).
+
+[Back to Armor](#armor-and-shields) \| [Back to Top](#)
+
+#### Fishscale Armor
+
+*Armor (medium), rare*
+
+This suit of armor is crafted in the Free Cities from the scales of the giant fish that lurk in the depths of the Emerald Sea. While wearing this armor, you have an armor class of 13 + Dex modifier (max 2), and gain a Swim speed equal to half your land movement speed. However, you take disadvantage on Stealth checks while out of the water.
+
+[Back to Armor](#armor-and-shields) \| [Back to Top](#)
+
+#### Leaf Armor
+
+*Armor (light), rare*
+
+This suit of armor is woven from fallen [bronzewood leaves](#bronzewood), strengthened by both herbalism and druidic magic. While wearing this armor, you have an armor class of 13 + Dex modifier, and you gain advantage on Stealth checks made to hide in wooded terrain.
+
+[Back to Armor](#armor-and-shields) \| [Back to Top](#)
+
+#### Mosaic Armor
+
+*Armor (heavy), legendary*
+
+These suits are crafted from mithril and a colorful mosaic of stained elven-glass. Each pattern is unique and proclaims the deeds and lineage of the elite warrior for which it was crafted. No examples of this armor are known to exist outside of the high elves' mountain fastnesses; nor would they permit such a thing save for their closest allies. While wearing this armor, you have an armor class of 18 + Dex modifier (max 2), and spell attacks made against you have disadvantage. However, you take disadvantage on Stealth checks.
+
+[Back to Armor](#armor-and-shields) \| [Back to Top](#)
+
 ## Weapons
+
+- [Masterwork Weapons](#masterwork-weapons)
+- [Bronzewood Weapons](#bronzewood-weapons)
+- [Elven Glass Weapons](#elven-glass-weapons)
 
 ### Masterwork Weapons
 
 Masterwork weapons are of surpassing quality, allowing for increased lethality in skilled hands. Masterwork weapons use a damage die one size larger than normal, or a die of 2d6 if the damage die is a d12. A masterwork dagger deals 1d6 piercing damage, a masterwork greataxe deals 1d12 slashing damage, and a masterwork maul deals 2d8 bludgeoning damage.
 
 A masterwork weapon costs ten times as much as the same weapon of average quality, with a minimum of 100 gold, and must be commissioned from a master artisan. Masterwork weapons can be adapted for another wielder, but this likewise requires work from a master artisan and costs 20% of the cost of commissioning a new item. For example, a masterwork longsword would cost 150 gold to commission, or 30 gold to adjust to fit a new wearer.
+
+[Back to Weapons](#weapons) \| [Back to Top](#)
+
+### Bronzewood Weapons
+
+[Bronzewood](#bronzewood) weapons are a rare sight, save for in the hands of the wild elves and their close friends. In addition to their gorgeous coloration, bronzewood weapons leverage the material's superior strength. Bows, clubs, and bronzewood staves are crafted by the wild elves, while in the Free Cities poached bronzewood is shaped into crossbows of surpassing quality. Drawing a bronzewood bow or crossbow requires greater than average physical strength, but allows for improved accuracy over medium distances.
+
+Bronzewood weapons are always [masterwork](#masterwork-weapons) quality, and cost ten times as much as their mundane counterparts. In addition, finding a bronzewood weapon for sale is rare, and requires spending a favor from a relevant contact. Otherwise, befriending or performing a great service for the wild elves is the only way to earn one.
+
+Beware that bearing any item crafted from stolen bronzewood will earn the immediate and eternal enmity of any wild elves.
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="7">Bronzewood Weapons</th>
+    </tr>
+    <tr>
+      <th>Name</th>
+      <th>Cost</th>
+      <th>Damage</th>
+      <th>Weight</th>
+      <th>Strength</th>
+      <th>Properties</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Club</td>
+      <td>1 gp</td>
+      <td>1d6 bludgeoning</td>
+      <td>3 lb</td>
+      <td>--</td>
+      <td>Light</td>
+    </tr>
+    <tr>
+      <td>Crossbow, hand</td>
+      <td>750 gp</td>
+      <td>1d8 piercing</td>
+      <td>5 lb</td>
+      <td>--</td>
+      <td>Ammunition (range 60/120), light, loading</td>
+    </tr>
+    <tr>
+      <td>Crossbow, heavy</td>
+      <td>500 gp</td>
+      <td>1d12 piercing</td>
+      <td>27 lb</td>
+      <td>Str 15</td>
+      <td>Ammunition (range 200/400), heavy, loading, two-handed</td>
+    </tr>
+    <tr>
+      <td>Crossbow, light</td>
+      <td>250 gp</td>
+      <td>1d10 piercing</td>
+      <td>7 lb</td>
+      <td>Str 13</td>
+      <td>Ammunition (range 160/320), loading, two-handed</td>
+    </tr>
+    <tr>
+      <td>Longbow</td>
+      <td>500 gp</td>
+      <td>1d10 piercing</td>
+      <td>3 lb</td>
+      <td>Str 13</td>
+      <td>Ammunition (range 300/600), heavy, two-handed</td>
+    </tr>
+    <tr>
+      <td>Quarterstaff</td>
+      <td>2 gp</td>
+      <td>1d8 bludgeoning</td>
+      <td>6 lb</td>
+      <td>--</td>
+      <td>Versatile (1d10)</td>
+    </tr>
+    <tr>
+      <td>Shortbow</td>
+      <td>250 gp</td>
+      <td>1d8 piercing</td>
+      <td>3 lb</td>
+      <td>Str 13</td>
+      <td>Ammunition (range 160/320), two-handed</td>
+    </tr>
+  </tbody>
+</table>
 
 [Back to Weapons](#weapons) \| [Back to Top](#)
 

@@ -1,6 +1,6 @@
 ---
 campaign: wellspring
-adventure: wild-beyond-the-witchlight
+adventure: wild-beyond-the-witchlight-part-i
 adventure_index: 1
 title: Bunnies And Brigands
 slug: bunnies-and-brigands
