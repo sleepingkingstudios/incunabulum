@@ -360,7 +360,7 @@ Certain materials may provide additional benefits, particularly those crafted fr
     </tr>
     <tr>
       <td><a href="#fishscale-armor">Fishscale</a></td>
-      <td><em>Very Rare</em></td>
+      <td><em>Rare</em></td>
       <td>13 + Dex modifier (max 2)</td>
       <td>--</td>
       <td>Swim speed equal half your land speed, Stealth disadvantage out of the water</td>
