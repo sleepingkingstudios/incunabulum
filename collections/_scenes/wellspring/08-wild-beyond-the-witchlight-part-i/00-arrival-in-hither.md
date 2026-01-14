@@ -1,6 +1,6 @@
 ---
 campaign: wellspring
-adventure: wild-beyond-the-witchlight
+adventure: wild-beyond-the-witchlight-part-i
 adventure_index: 0
 title: Arrival In Hither
 slug: arrival-in-hither

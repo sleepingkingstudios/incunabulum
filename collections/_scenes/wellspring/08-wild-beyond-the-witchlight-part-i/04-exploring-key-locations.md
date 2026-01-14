@@ -1,6 +1,6 @@
 ---
 campaign: wellspring
-adventure: wild-beyond-the-witchlight
+adventure: wild-beyond-the-witchlight-part-i
 adventure_index: 4
 title: Exploring Key Locations
 slug: exploring-key-locations
@@ -19,3 +19,5 @@ Inside Telemy Hill, the party found a round cave filled with dangling keys and a
 Her true grudge, however, was with the wicked hag Bavlorna Blightstraw, whom she had mistakenly asked for help in lifting a perceived curse. Instead, the hag enchanted the goblin to be compelled to collect keys, leading to her present sorry state. The hag makes her home in Downfall, ruling over the resentful bullywogs and using the harengon brigands to terrorize the rest of Hither on her behalf.
 
 At last, Jingle Jangle found the correct key, hanging on a line from the cave's ceiling, and unlocked Sir Talavar's golden cage. The faerie dragon knight was deeply grateful; while he could not promise the aid of his patron the Summer Queen in resolving the situtation in Prismeer, he assured the Silverstone Players that they had earned the favor of the Summer Court. On his own behalf, he bestowed upon his rescuers his magic sword.
+
+Jingle Jangle allowed the Silverstone Players to make camp in her cave in exchange for more trail rations. Before they departed in the morning, she gave them one more piece of advice: once they reach Downfall, seek out the firbolg Clapperclaw, who might be a useful ally against the hag.

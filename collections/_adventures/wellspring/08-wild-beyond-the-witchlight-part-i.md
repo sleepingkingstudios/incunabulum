@@ -2,8 +2,8 @@
 campaign: wellspring
 campaign_index: 8
 omake: false
-name: The Wild Beyond The Witchlight
-slug: wild-beyond-the-witchlight
+name: The Wild Beyond The Witchlight, Part I
+slug: wild-beyond-the-witchlight-part-i
 summary: |
   The Silverstone Players find themselves lost in the shattered Feywild domain of Prismeer, now ruled by the nefarious Hourglass Coven.
 outcome: |
@@ -16,7 +16,7 @@ characters:
   - name: Agdon Longscarf
     details: The "brigand prince" of the Harengon of Hither.
   - name: Bavlorna Blightstraw
-    details: One of the three hags of the Hourglass Coven, ruler of Hither. She lives in the village of Downfall among the Bullywogs.
+    details: One of the three hags of the Hourglass Coven, ruler of Hither. She lives in the village of Downfall among the Bullywogs, and travels about the realm of Hither on an enchanted lily pad. Referred to derisively by the harengon as "Slack-Jawed Lorna".
   - name: Hourglass Coven
     details: Three hag sisters who have seized Prismeer from its former ruler and divided the realm into three parts - Hither, Thither, and Yon. The three hags hate and avoid each other.
   - name: Jingle Jangle
