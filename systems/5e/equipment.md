@@ -708,7 +708,7 @@ This alchemist's fire has been mixed with a sticky naphtha and clings to whateve
 
 ### Alchemist's Frost
 
-A flask of alchemist's frost actually contains two substances, with one encased in a smaller vial inside the flask. WHen mixed, the two react by freezing their surroundings. As an action, you can throw a flask of alchemist's frost up to 20 feet, shattering it on impact. Make a ranged attack against a creature or object, treating the alchemist's frost as an improvised weapon. On a hit, the target takes 1d8 cold damage. If the target is a creature, its speed is reduced by 10 feet until the start of your next turn.
+A flask of alchemist's frost actually contains two substances, with one encased in a smaller vial inside the flask. When mixed, the two react by freezing their surroundings. As an action, you can throw a flask of alchemist's frost up to 20 feet, shattering it on impact. Make a ranged attack against a creature or object, treating the alchemist's frost as an improvised weapon. On a hit, the target takes 1d8 cold damage. If the target is a creature, its speed is reduced by 10 feet until the start of your next turn.
 
 [Back to Adventuring Gear](#adventuring-gear) \| [Back to Top](#)
 
