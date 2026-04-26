@@ -1,0 +1,24 @@
+name: Deploy Jekyll site to Pages
+
+on:
+  push: {}
+  pull_request: {}
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
+# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy-pages:
+    uses: sleepingkingstudios/github-workflows/.github/workflows/build-and-deploy-pages.yml@v1
+    with:
+      deploy-branch: 'main'
+      ruby-version: '3.4'
