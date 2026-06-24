@@ -2,7 +2,8 @@
 
 source 'https://rubygems.org'
 
-gem 'jekyll', '~> 4.4'
+gem 'jekyll', '~> 4.4', '>= 4.4.1'
+gem 'logger', '1.7'
 
 # See https://github.com/pages-themes/primer
 gem 'jekyll-theme-primer',
@@ -21,4 +22,4 @@ gem 'thor', '~> 1.4'
 # Use Webrick as local content server.
 gem 'webrick', '~> 1.8', '>= 1.8.2'
 
-ruby '3.4.9'
+ruby '4.0.5'
