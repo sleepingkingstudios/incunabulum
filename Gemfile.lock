@@ -130,7 +130,7 @@ DEPENDENCIES
   webrick (~> 1.8, >= 1.8.2)
 
 RUBY VERSION
-  ruby 4.0.9
+  ruby 4.0.10
 
 BUNDLED WITH
   4.1.0
